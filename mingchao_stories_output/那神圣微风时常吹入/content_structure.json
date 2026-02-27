@@ -1,0 +1,2323 @@
+{
+  "mediaList": [],
+  "title": "那神圣微风时常吹入",
+  "modules": [
+    {
+      "title": "传送至启明港的小型信标处",
+      "components": [
+        {
+          "idx": "fb5d3ac1-2bdb-4698-ade0-ddbf60d9d602",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "进入拉古那城",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往自由广场",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "离开自由广场",
+      "components": [
+        {
+          "idx": "ecf8abd3-11f0-40c7-8895-ea99ce2ae762",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "乘坐声骸船前往「埃弗拉德银行」",
+      "components": [
+        {
+          "idx": "6ab93cb1-b2e8-4838-8406-c79e52b7c01e",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往「埃弗拉德银行」",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往银行柜台",
+      "components": [
+        {
+          "idx": "f38fe0a8-1668-48f7-91b1-c39f6824c5c7",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往玛格烈特餐厅",
+      "components": [
+        {
+          "idx": "3012dcb4-8371-494b-92e3-72c8989ec9d2",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "寻找空位落座",
+      "components": [
+        {
+          "idx": "362f34b8-9779-4c68-8e02-73a15429b8e8",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "追踪失控的声骸",
+      "components": [
+        {
+          "idx": "61a7e4ef-152e-452a-88f7-47c227ed6ab0",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "制止失控的声骸",
+      "components": [
+        {
+          "idx": "89cc82a8-138c-48f4-8633-82547b4cfa27",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往先行公约调查",
+      "components": [
+        {
+          "idx": "3d4d50b7-938c-4415-bd35-c4d71bd4e421",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往莫塔里区调查（可选）",
+      "components": [
+        {
+          "idx": "62181374-c36d-4f66-ae05-1b5b26fe36f6",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往「梦中人」面具店",
+      "components": [
+        {
+          "idx": "ab76f94d-79b6-4f6a-a8c5-a5b6fe025c54",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "乘坐声骸船前往「水星天教堂」",
+      "components": [
+        {
+          "idx": "50c0ceca-fca7-474a-bf2a-b5cd49fdca1f",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "跟随吉尔贝进入教堂",
+      "components": [
+        {
+          "idx": "018e7e32-cc32-4211-9dc9-b095ed33562a",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "寻找吉尔贝",
+      "components": [
+        {
+          "idx": "fe308002-bf82-4de4-b27a-04e2f3163e1f",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "跟随踪迹前进",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "离开水星天教堂",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "跟随踪迹前进",
+      "components": [
+        {
+          "idx": "8b5f3ccd-1857-480e-bc29-80cb8f8074b0",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "使用感知追踪吉尔贝的踪迹",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "跟随踪迹前进",
+      "components": [
+        {
+          "idx": "b1933f3c-66b1-4d36-a1e0-b02715a0e6ce",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "进入「忏悔室」",
+      "components": [
+        {
+          "idx": "ea65f01d-3b3f-4814-8305-8ff98a3fe33d",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    }
+  ],
+  "story": {
+    "018e7e32-cc32-4211-9dc9-b095ed33562a": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：吉尔贝，进展还算顺利吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">吉尔贝：感谢您的支持，阿莱克斯司铎。&ldquo;花&rdquo;&hellip;&hellip;很好用。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿莱克斯司铎：但我还是要提醒你一句。事情不要做得太过火了，以免引来一些不必要的视线。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">吉尔贝：我自有分寸。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿莱克斯司铎：&hellip;&hellip;我们只能保护你们一时。但是现在已经有些力量和声音，无法再压制下去了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">吉尔贝：所以，我们双方的力量，才要寻求「团结」与「融合」。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">吉尔贝：我们的信仰早已整合，这是祂所期望的道路。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "3012dcb4-8371-494b-92e3-72c8989ec9d2": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2"
+            ],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">玛格烈特：欢迎来到玛格烈特家庭餐厅啾！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">玛格烈特：呀，赞妮小姐！欢迎光临，今天下班很早嘛啾。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：其实&hellip;&hellip;是在出外勤。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">玛格烈特：啾？不过你的心情看上去还不错，今天要&ldquo;班味消消乐套餐&rdquo;还是&ldquo;快乐休假日套餐&rdquo;？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：&hellip;&hellip;呃，后面那个吧。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">玛格烈特：唔？你旁边的&hellip;&hellip;难道是来拉古那旅游的异乡客人？欢迎啾！</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "我是她的客户。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "我是她刚认识的朋友。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1",
+              "4-2",
+              "4-3"
+            ],
+            "pid": [
+              "2-1",
+              "2-2"
+            ],
+            "group": "3",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">玛格烈特：原来如此啾，看上去就不简单。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">赞妮：来看看，喜欢吃什么？委托人交代过，你的开支都会记在莫塔里家族的账单上。</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "有推荐吗？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">玛格烈特：那当然是玛格烈特特制&mdash;&mdash;「玛格烈特牛排」和「云凝肉酱烩面」！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：老顾客认证，绝对好吃。</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-2",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "赞妮点的给我也来两份吧。",
+            "content": "<p>玛格烈特：没问题！赞妮小姐的美食品味可是没话说的啾。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-3",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "这不得特色菜全都尝一尝？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">玛格烈特：好的啾！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">赞妮：没问题是没问题&hellip;&hellip;能吃得完吗？</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-3"
+            ],
+            "group": "5",
+            "title": "这是最不需要考虑的问题。",
+            "content": "<p>赞妮：&hellip;&hellip;？</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-1",
+            "cid": [],
+            "pid": [
+              "5-1",
+              "4-1",
+              "4-2"
+            ],
+            "group": "6",
+            "title": "",
+            "content": "<p>玛格烈特：二位请找个位置就坐！美食随后就到啾！</p>",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "362f34b8-9779-4c68-8e02-73a15429b8e8": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1"
+            ],
+            "title": "",
+            "content": "<p>玛格烈特：久等了！这是您点的菜品！请慢用！</p>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1",
+              "3-2"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "（阿布？醒醒，起床吃饭了。）",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿布：嗅嗅&hellip;&hellip;是什么好吃的，闻起来好香&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：这位就是&hellip;&hellip;阿布，对吧？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿布：呼哧呼哧啊呜你好哇啊呜啊呜嗯嗯好吃&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：你好，我是赞妮。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">赞妮：不过，居然还有能睡在共鸣者身体里的声骸啊&hellip;&hellip;真神奇。</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1"
+            ],
+            "group": "3",
+            "title": "「声骸之国」的居民也会觉得新奇？",
+            "content": "<p>赞妮：话虽如此&hellip;&hellip;但毕竟来自拉古那之外的声骸，我们也很少见过。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-2",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1"
+            ],
+            "group": "3",
+            "title": "赞妮有见过和阿布类似的声骸吗？",
+            "content": "<p>赞妮：&hellip;&hellip;没有，你的语气怎么像是在给走失小孩找故乡&hellip;&hellip;</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1",
+              "5-2"
+            ],
+            "pid": [
+              "3-1",
+              "3-2"
+            ],
+            "group": "4",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿布：果然在黎那汐塔本布也是最特别的那个！哇这个也好吃&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：我们也开始吃饭吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：不知道这些合不合你的口味，拉古那人对美食可是很有讲究的。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：譬如新鲜的海鲜绝对不能重度烹饪，否则会影响食材本身的鲜美；淡水鱼一定要在海水鱼前享用，否则会被海水鱼掩盖风味&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：建议先从这道开胃菜开始品尝，清爽可口，还能够提升正餐的味道，最重要的是对胃的负担小，尤其适合熬夜工作之后食用。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：对了，还有餐前酒&hellip;&hellip;不知道你有没有听说过拉古那的一句老话&mdash;&mdash;不爱喝葡萄酒的人，神明也不会赐予水喝。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">赞妮：&mdash;&mdash;请尝尝吧，埃格拉小镇出品，槲生半岛小橡木桶发酵熟成，被誉为「丰收之心，神之水滴」的「蜜露果酒」。</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "原来这就是「神之水滴」。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-2",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "（举杯。）",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-1",
+            "cid": [],
+            "pid": [
+              "5-1",
+              "5-2"
+            ],
+            "group": "6",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：敬你，远道而来的客人。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：&hellip;&hellip;和我那遥远的美好假期。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿布：呼&hellip;&hellip;吃饱以后舒服多了&hellip;&hellip;唔，那边在做什么？好热闹哇。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：是「狂欢节」的预演吧？看样子&hellip;&hellip;大概是莫塔里家族为岁主敬献的声骸演出，从好几天前就在排演了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：很感兴趣吗？狂欢节的时候会更热闹哦。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：小心！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：控制&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：整合&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：进化&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：万众一体&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：御者，我已等候许久&hellip;&hellip;我名「英白拉多」。请帮助「我」，将迷途者&hellip;&hellip;带回尘世。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">修会人士：等等，还有一个刀伶也失控&hellip;&hellip;喂，它逃走了！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">修会人士：快追！！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">一瓣落在地上的彼岸花花瓣，隐约散发出不祥的气息。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">你似乎曾在过去，见到过类似的彼岸花&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">玛格烈特：真是吓坏我了啾。我还以为那只刀伶的失控，会让焙焙也产生相同的问题&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">玛格烈特：啾！客人！您初来拉古那，竟然遇到了这么不愉快的用餐体验！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">玛格烈特：这些餐品您收下吧，希望这件事不会影响到您一天的好心情啾！</p>\n</div>",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "3d4d50b7-938c-4415-bd35-c4d71bd4e421": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1"
+            ],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：愿世界在你眼前展开！欢迎来到先行公约！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：哟！是赞妮小姐，好久不见，终于考虑好要跳槽了吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：今天是为了别的事&hellip;&hellip;这是先行公约的斐林先生。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">斐林：哎呀，您带来了新朋友&hellip;&hellip;您好，我是拉古那城先行公约旗下&ldquo;潮汐影像工作室&rdquo;的主理人，斐林。该怎么称呼您？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1",
+              "3-2"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "你好，我是漂泊者。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斐林：&hellip;&hellip;好耳熟的名字&hellip;&hellip;不对！您、您难道就是那位传说中的漂泊者？！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">斐林：异国的拯救者，穿行世界的黑色闪电&hellip;&hellip;我一直想着什么时候才能和您见上一面！请务必允许我记录下这一瞬间！</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1"
+            ],
+            "group": "3",
+            "title": "区区虚名，不足挂齿。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：&hellip;&hellip;原来你名气这么大的啊？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斐林：啊哈哈&hellip;&hellip;可能因为这里是拉古那，消息没有外界那么灵通吧。如果您能在拉古那留下一番事迹，我一定会撰写一篇报道，让您的声名响彻四海的！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：总感觉我认识了什么不得了的人&hellip;&hellip;不过，还是先说回正事吧。</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-2",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1"
+            ],
+            "group": "3",
+            "title": "还是先说正事吧。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1",
+              "3-2"
+            ],
+            "group": "4",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：这次找你，是想请你帮个忙&hellip;&hellip;我们正在调查一个「刀伶声骸」的去向，不久前它在玛格烈特家庭餐馆附近引起了骚动。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：&mdash;&mdash;然后朝着这个方向逃走了，我们想看看当时的具体情况。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斐林：啊，我知道那个声骸，我刚看到它&ldquo;嗖&rdquo;地一下就跑出了城，身后还追着一大群修会的人。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斐林：至于具体情况&hellip;&hellip;西莫斯先生，我的好搭档，来活儿了！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">西莫斯：*哼。*</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斐林：让我找找&hellip;&hellip;和刀伶声骸有关的记忆&hellip;&hellip;噢噢噢噢！涌现出来了！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：斐林先生的共鸣能力是「胶片记录」，能够将事件直接转化为特殊的胶片，记录下一段时间内发生的所有事情。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：而将这些记忆展现出来，正好就是他的声骸搭档&mdash;&mdash;西莫斯先生「投影再现」的能力了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斐林：找到了！看看这个！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">赞妮：居然真的出城了&hellip;&hellip;这就难办了，城外范围太广，还有残象干扰，刀伶目标太小，我们根本无从找起。</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "（阿布能识骸味寻踪吗？）",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿布：（&hellip;&hellip;你当我是什么啦！当然不能！而且我好困，事情有进展的时候再叫我吧&hellip;&hellip;）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斐林：抱歉，我的能力只能记录我看到过的事情，只能帮上这么多了&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">赞妮：已经很了不起了，斐林先生，至少我们不用像无头呼咻咻那样漫无目的地乱撞，让我们再想想有没有什么别的线索&hellip;&hellip;</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-1",
+            "cid": [
+              "7-1"
+            ],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "请你再回想一下……",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "7-1",
+            "cid": [
+              "8-1",
+              "8-2"
+            ],
+            "pid": [
+              "6-1"
+            ],
+            "group": "7",
+            "title": "当时周围有没有什么异样的细节？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斐林：&hellip;&hellip;我想想&hellip;&hellip;啊，对了！您看看这个！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：怎么会是&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">斐林：看衣着，像是莫塔里家族的人？难道刚才声骸失控和他们有关&hellip;&hellip;</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "8-1",
+            "cid": [
+              "9-1"
+            ],
+            "pid": [
+              "7-1"
+            ],
+            "group": "8",
+            "title": "现在下定论还太早。",
+            "content": "<p>赞妮：的确&hellip;&hellip;明明狂欢节还没到却戴着面具，就好像在故意遮掩自己的身份一样。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "8-2",
+            "cid": [
+              "9-1"
+            ],
+            "pid": [
+              "7-1"
+            ],
+            "group": "8",
+            "title": "他戴的面具很特别。",
+            "content": "<p>赞妮：这么说来&hellip;&hellip;这个确实和莫塔里家族的风格不太一样，而且狂欢节还没到，就已经戴上了面具&hellip;&hellip;</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "9-1",
+            "cid": [
+              "10-1"
+            ],
+            "pid": [
+              "8-1",
+              "8-2"
+            ],
+            "group": "9",
+            "title": "",
+            "content": "<p>赞妮：莫塔里家族那么想推广「私人终端」，应该不希望产生任何负面事件，如果照片里这个人和声骸失控有关，那他&hellip;&hellip;</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "10-1",
+            "cid": [
+              "11-1",
+              "11-2"
+            ],
+            "pid": [
+              "9-1"
+            ],
+            "group": "10",
+            "title": "是内鬼，或者是在假扮身份。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斐林：既然如此，不如找奈亚拉小姐打听一下情况？几乎拉古那城里的所有面具都是出自她手，这副面具看上去精致考究，应该是定制款式。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">赞妮：有道理，不过贵族往往注重隐私，直接询问恐怕会令人生疑&hellip;&hellip;</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "11-1",
+            "cid": [
+              "12-1"
+            ],
+            "pid": [
+              "10-1"
+            ],
+            "group": "11",
+            "title": "交给我吧。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "11-2",
+            "cid": [
+              "12-1"
+            ],
+            "pid": [
+              "10-1"
+            ],
+            "group": "11",
+            "title": "看来……是时候“定制”一副面具了。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "12-1",
+            "cid": [
+              "13-1"
+            ],
+            "pid": [
+              "11-1",
+              "11-2"
+            ],
+            "group": "12",
+            "title": "",
+            "content": "<p>赞妮：你有办法了？好，我们去「梦中人」。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "13-1",
+            "cid": [
+              "14-1"
+            ],
+            "pid": [
+              "12-1"
+            ],
+            "group": "13",
+            "title": "多谢你，斐林先生。",
+            "content": "<p>斐林：祝顺利！</p>\n<p>不安的教士：岁主在上&hellip;&hellip;</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "14-1",
+            "cid": [
+              "15-1",
+              "15-2"
+            ],
+            "pid": [
+              "13-1"
+            ],
+            "group": "14",
+            "title": "请问关于那个失控的声骸……",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">不安的教士：&hellip;&hellip;这是岁主的愤怒，岁主的警示&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">不安的教士：我们不该忘记&hellip;&hellip;十年前，就是因为那毫无节制的享乐，才导致了神罚！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">不安的教士：我们本应该听从芬莱克大人的指示&hellip;&hellip;</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "15-1",
+            "cid": [
+              "16-1"
+            ],
+            "pid": [
+              "14-1"
+            ],
+            "group": "15",
+            "title": "什么意思？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "15-2",
+            "cid": [
+              "16-1"
+            ],
+            "pid": [
+              "14-1"
+            ],
+            "group": "15",
+            "title": "十年前发生了什么？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "16-1",
+            "cid": [
+              "17-1"
+            ],
+            "pid": [
+              "15-1",
+              "15-2"
+            ],
+            "group": "16",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">不安的教士：啊&hellip;&hellip;远道而来的客人，您有所不知，十年前的狂欢节触怒了岁主，祂便降下神罚，芬莱克大人知晓了那狂欢下的阴影与罪，阻止了它的蔓延！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：这个事我有印象。简单来说，就是那年狂欢节上发生了诸如声骸失控之类很多可怕的事情，从那以后，「主座」就下令停办了狂欢节。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：绝大多数拉古那人都对此讳莫如深，没有人和你提起过也很正常。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">不安的教士：声骸本是神的使者，它因沾染不洁之物而失控袭人，正是不敬神明的证据！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">不安的教士：今年修会应允了狂欢节的举办，我等本应回归那虔诚的传统&hellip;&hellip;客人啊，请与我们共同赞颂岁主的名吧，唯有这样我们才能获得救赎&hellip;&hellip;</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "17-1",
+            "cid": [
+              "18-1",
+              "18-2"
+            ],
+            "pid": [
+              "16-1"
+            ],
+            "group": "17",
+            "title": "那个失控的刀伶会怎么处置？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">不安的教士：虽说是神赐之物，但袭击人类仍是罪行，那不洁之物会在起源信标的光辉下被净化，至于逃跑的另一个，修会也会尽快寻回，避免它再次伤人。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：他的意思应该是，将它放回数据坞进行初始化，这也是拉古那处理故障声骸最常用的办法。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">不安的教士：关于那声骸惊扰了客人一事，我们也深感抱歉&hellip;&hellip;我还有事务在身，先告辞了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">教士喃喃自语着离开了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：没能问出什么关键情报&hellip;&hellip;不过她的话倒是提醒我了，今天这个刀伶和以前声骸失控的样子其实差别很大，它看上去意识清醒，目的明确，和那些嗷嗷叫着到处搞破坏的声骸完全不一样。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：拉古那的声骸之间存在「联结」，失控行为会因此蔓延，而现在并没有出现这种情况。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">赞妮：如果不是所谓的&ldquo;岁主神罚&rdquo;，那么或许&hellip;&hellip;</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "18-1",
+            "cid": [
+              "19-1"
+            ],
+            "pid": [
+              "17-1"
+            ],
+            "group": "18",
+            "title": "……是人为的原因。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "18-2",
+            "cid": [
+              "19-1"
+            ],
+            "pid": [
+              "17-1"
+            ],
+            "group": "18",
+            "title": "得快点找到那个逃跑的刀伶。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "19-1",
+            "cid": [],
+            "pid": [
+              "18-1",
+              "18-2"
+            ],
+            "group": "19",
+            "title": "",
+            "content": "<p>赞妮：你说得对，修会并不知道你获得了什么信息，如果那个刀伶被抓回去，我们就什么都问不出来了。</p>",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "50c0ceca-fca7-474a-bf2a-b5cd49fdca1f": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：您好，我们要去水星天教堂。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">船夫：好嘞，二位请登船吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：人们都说是岁主使狂风止息，波浪平静，在海上拯救了人们的性命。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：雕像的四周摆满了日夜燃烧的蜡烛，凡是路过的船只都要向其敬礼。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：虽说你可能不信这些，但过去的时候还是尽量表现得毕恭毕敬一些。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿布：这就是那尊岁主像吗？怎么感觉&hellip;&hellip;怪怪的&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：这里就是翡萨烈府邸区，我们先&hellip;&hellip;等等，那边那个人&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：和照片里的人很相似，难道是吉尔贝？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：走，跟上去看看。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "61a7e4ef-152e-452a-88f7-47c227ed6ab0": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：你还好吗？！奇怪，声骸怎么会突然失控&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：我没事&hellip;&hellip;那些声骸的状态有些奇怪，先让它们平静下来吧。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "62181374-c36d-4f66-ae05-1b5b26fe36f6": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1"
+            ],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">蒂莫西：安东尼奥，拉古那的市场向来如此，趋利附势，价高者得。有什么问题吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安东尼奥：蒂莫西，你们翡萨烈家族的契约精神呢？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">蒂莫西：哈&hellip;&hellip;莫塔里家族什么时候开始讲究这些无用的东西了？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">蒂莫西：有这时间不如想想&hellip;&hellip;怎么收拾你们那些声骸搞出来的烂摊子吧，哈哈哈。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">翡萨烈家族的男性笑着离去，留下一脸怒容的安东尼奥。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安东尼奥：你们是&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：安东尼奥先生，您好，我是「埃弗拉德银行」的赞妮。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：这位是漂泊者，想必您一定知晓这位贵客的名字，她在用餐时被失控的刀伶袭击，我们正在调查关于那个声骸的事情。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">安东尼奥：原来您就是&hellip;&hellip;实在抱歉！您没受伤真是太好了，只是声骸失控一事，我们也是一头雾水&hellip;&hellip;</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "无妨，我还有其他想了解的事情。",
+            "content": "<p>安东尼奥：您请说，珂莱塔小姐嘱咐过我，要对您知无不言。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1"
+            ],
+            "group": "3",
+            "title": "关于「私人终端」和「私人声骸」……",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安东尼奥：原来您想问的是这个&hellip;&hellip;我先和您讲讲拉古那的情况吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安东尼奥：在拉古那，调用声骸的终端由修会统一管理，所有声骸都会被统一吸纳到修会管辖的数据坞中，经由筛选后投放到城中使用。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安东尼奥：只有极少数共鸣者会被允许佩戴「私人终端」，因此大部分人都不会拥有「私人声骸」。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安东尼奥：更何况&hellip;&hellip;由于「起源信标」和「公共声骸」的存在，大部分拉古那人本就没有携带「私人终端」的需求。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安东尼奥：不过最近几年，随着拉古那对外航路的开放，越来越多的拉古那人开始好奇外面的世界，离开公共声骸的庇护之后，「私人终端」能为出航者提供更加强大的功能和安全保障。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安东尼奥：因此，越来越多人开始产生了对终端的个性化需求。莫塔里家族正是瞅准了这一商机，才开始了对「私人终端」的研究，毕竟「需求是发明之母」嘛。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安东尼奥：这本来是一件好事啊！但在我们推行「私人终端」之初，有很多人觉得这是对于修会的不信任，更有甚者说这是对岁主的不敬&hellip;&hellip;遇到了不少阻力。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安东尼奥：呵，要我说，这些言论大多都是翡萨烈家族传出来的！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">安东尼奥：我们推动今年的「狂欢节」重新举办，也是准备在庆典上大力推行「私人终端」，展示我们声骸的潜力，希望拉动一些需求和投资。</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "而翡萨烈家族一直在阻止你们？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安东尼奥：唉&hellip;&hellip;翡萨烈的人找上了我们的矿商，威逼他们撕毁先前的合作协议，就这样霸占了拉古那最大的一条矿脉，截断了我们制造终端的供应链。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安东尼奥：听说他们的人最近经常往水星天教堂跑，恐怕暗地里和修会早有勾结&hellip;&hellip;不然怎么敢这么明目张胆地抢我们的矿脉？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安东尼奥：唉，本来因为终端供应链被截断，我们就已经忙得焦头烂额了。现如今狂欢节临近，这批声骸又出了问题&hellip;&hellip;估计家族的「执行人」也要出动了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安东尼奥：搞不好这次狂欢节都没法顺利举办&hellip;&hellip;唉，虽然商业价值是一部分，但我们也是真心期待狂欢节啊！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">安东尼奥：所以我们一定要查出声骸失控的原因&hellip;&hellip;可不能再继续让翡萨烈家族泼脏水了！</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "我也正在调查刀伶失控的原因。",
+            "content": "<p>安东尼奥：这&hellip;&hellip;虽然我们求之不得，但让远道而来的贵客也为了我们的事情奔走，未免&hellip;&hellip;</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-1",
+            "cid": [
+              "7-1",
+              "7-2"
+            ],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "我是出于我自己的理由。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安东尼奥：那&hellip;&hellip;感谢您！我们现在实在无法抽调人手协助你们，但家族重视契约精神，我先付您一笔定金，事成之后，必有重谢！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：安心收下吧。对拉古那人来说，托人办事必须给予报酬。如果一方不愿收下，即使是出于善心，也会被当做是一种「严词拒绝」。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安东尼奥：是的，请收下吧&hellip;&hellip;没有别的问题的话，我就先告辞了，还有许多事务等着处理&hellip;&hellip;唉&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安东尼奥叹息着离开，背影似乎比方才更沉重了些。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：这样看来&hellip;&hellip;莫塔里家族的确没有动机制造声骸失控事件，他们是希望狂欢节举办的那一方。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">赞妮：反而是翡萨烈家族一直从中阻挠，甚至很可能声骸失控也与他们有关&hellip;&hellip;不过我不明白，在绝大多数拉古那人都盼望狂欢节的时候，破坏它对这群人来说有什么好处？</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "7-1",
+            "cid": [
+              "8-1"
+            ],
+            "pid": [
+              "6-1"
+            ],
+            "group": "7",
+            "title": "谜团越来越多了。",
+            "content": "<p>赞妮：总感觉被卷到了什么不得了的事情里&hellip;&hellip;</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "7-2",
+            "cid": [
+              "8-1"
+            ],
+            "pid": [
+              "6-1"
+            ],
+            "group": "7",
+            "title": "……难道和岁主有关？",
+            "content": "<p>赞妮：唔&hellip;&hellip;这是你的直觉吗？</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "8-1",
+            "cid": [],
+            "pid": [
+              "7-1",
+              "7-2"
+            ],
+            "group": "8",
+            "title": "也只有继续调查才能知道。",
+            "content": "<p>赞妮：嗯，走吧。</p>",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "6ab93cb1-b2e8-4838-8406-c79e52b7c01e": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：既然是最有名望的家族之一&hellip;&hellip;想必会是一笔可观的数目吧？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿布：哇，本布已经开始期待了！拿到钱，我们先找个餐厅大吃一顿好不好？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿布：我已经&hellip;&hellip;快饿扁了&hellip;&hellip;呼&hellip;&hellip;</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "89cc82a8-138c-48f4-8633-82547b4cfa27": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1"
+            ],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿布：你没事吧？！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">赞妮：那个刀伶失控得毫无征兆&hellip;&hellip;好在没有人受伤。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1",
+              "3-2"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "其实……",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">简单讲述了刚才看到的画面。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿布：唔，冷静下来想想，刚才那种频率的波动，倒是有点像「共感」&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：共感&hellip;&hellip;？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿布：就是&hellip;&hellip;心灵感应？我也形容不好&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：心灵感应&hellip;&hellip;听说狂欢节上岁主和荣膺桂冠之人对话时，祂的话语会直接在心中响起&hellip;&hellip;难道就是这种情况？</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">阿布：英白拉多是岁主的名字，迷途者又是谁？祂说需要你的帮助&hellip;&hellip;还有岁主做不到的事情吗？唔&hellip;&hellip;怎么都是谜语啊&hellip;&hellip;想着想着就容易犯困&hellip;&hellip;</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1"
+            ],
+            "group": "3",
+            "title": "关键在于传递信息的方式。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-2",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1"
+            ],
+            "group": "3",
+            "title": "那个刀伶，似乎还有想告诉我的事情…",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1",
+              "5-2"
+            ],
+            "pid": [
+              "3-1",
+              "3-2"
+            ],
+            "group": "4",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（传递信息的方式有很多种，为什么偏偏选择了那个声骸，那种方式？修会如此拥爱岁主，祂大可向修会降下&ldquo;神谕&rdquo;，寻求帮助&hellip;&hellip;）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（不对&hellip;&hellip;也有可能是因为别无选择，那么这其实是在&hellip;&hellip;&ldquo;求救&rdquo;？）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（联想到在泰缇斯中看到的留言&hellip;&hellip;难道这里的岁主和当时的角一样，陷入了某种被动的境地？）</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">漂泊者：（但和今州情况不同，这里的民众似乎从未见过岁主&hellip;&hellip;总觉得有哪里不对，一切疑问，只有刚才那个声骸能够解答。）</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "你刚才说，那是莫塔里家族的声骸演出？",
+            "content": "<p>赞妮：是的，据我所知，莫塔里家族一直在推动「私人终端」和「私人声骸」的普及。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-2",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "我想了解一下刚才那个声骸的事情。",
+            "content": "<p>赞妮：关于那个声骸&hellip;&hellip;据我所知，莫塔里家族一直在推动「私人终端」和「私人声骸」的普及。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-1",
+            "cid": [
+              "7-1"
+            ],
+            "pid": [
+              "5-1",
+              "5-2"
+            ],
+            "group": "6",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：拉古那人大多都依赖于公共声骸，对私人声骸知之甚少，莫塔里家族因此窥见商机，开始发展对「私人终端」的研究。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：他们推动「狂欢节」重新举办，恐怕也是想借此机会大力推行「私人终端」，展示他们声骸的潜力，拉动一些需求和投资&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：抱歉&hellip;&hellip;请稍等。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：阿尔伯特先生，是的，刚才&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮向通讯中的人说明了刚才发生的事情，片刻后。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：&hellip;&hellip;我明白了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：抱歉，久等了，刚才莫塔里家族的阿尔伯特先生&mdash;&mdash;也就是我的雇主。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：他说事发突然，他们也不明白声骸突然失控的原因，对你刚才遇到的事情，向你表达歉意。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">赞妮：莫塔里家族会持续调查这件事，还请你放心。</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "7-1",
+            "cid": [
+              "8-1"
+            ],
+            "pid": [
+              "6-1"
+            ],
+            "group": "7",
+            "title": "看来莫塔里家族对这场意外并不知情……",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：&hellip;&hellip;我想是的，而且声骸失控的消息会阻碍他们推动「私人终端」的计划，他们现在恐怕也在焦头烂额吧。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">赞妮：回想起来，那个声骸是在与你目光交汇之后开始行动的，就好像是&hellip;&hellip;专门在人群中找到了你。</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "8-1",
+            "cid": [
+              "9-1",
+              "9-2"
+            ],
+            "pid": [
+              "7-1"
+            ],
+            "group": "8",
+            "title": "你很敏锐。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：请放心，我不会多问，也不会窥探客户的隐私，除了完成工作所需的必要信息，其它不小心听到的内容都会从我大脑上光滑地溜走。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">赞妮：我只会遵照指示，作为你的护卫和向导完成应尽的工作，如果你想要调查这件事，我也会协助你。</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "9-1",
+            "cid": [
+              "10-1"
+            ],
+            "pid": [
+              "8-1"
+            ],
+            "group": "9",
+            "title": "多谢。",
+            "content": "<p>赞妮：还是谢谢给我发委托金的家族吧，他们慷慨得可怕。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "9-2",
+            "cid": [
+              "10-1"
+            ],
+            "pid": [
+              "8-1"
+            ],
+            "group": "9",
+            "title": "太专业了！",
+            "content": "<p>赞妮：多谢你对我工作能力的信任。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "10-1",
+            "cid": [
+              "11-1"
+            ],
+            "pid": [
+              "9-1",
+              "9-2"
+            ],
+            "group": "10",
+            "title": "",
+            "content": "<p>赞妮：&hellip;&hellip;所以，你的下一步打算是？</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "11-1",
+            "cid": [
+              "12-1",
+              "12-2"
+            ],
+            "pid": [
+              "10-1"
+            ],
+            "group": "11",
+            "title": "先找到那个逃走的刀伶。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：刚才太过混乱，只看到了它逃走的大概方向，如果想找到它&hellip;&hellip;我们可以去先行公约碰碰运气。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">赞妮：我在那儿有个熟人，他的共鸣能力或许可以帮上忙，说不定还能借此发现一些之前没注意到的细节。</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "12-1",
+            "cid": [
+              "13-1"
+            ],
+            "pid": [
+              "11-1"
+            ],
+            "group": "12",
+            "title": "好，我们去先行公约。",
+            "content": "<p>赞妮：好，我们走，先行公约就在那边。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "12-2",
+            "cid": [
+              "13-1"
+            ],
+            "pid": [
+              "11-1"
+            ],
+            "group": "12",
+            "title": "不妨先调查一下现场。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "13-1",
+            "cid": [],
+            "pid": [
+              "12-1",
+              "12-2"
+            ],
+            "group": "13",
+            "title": "",
+            "content": "<p>赞妮：没问题。</p>",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "8b5f3ccd-1857-480e-bc29-80cb8f8074b0": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：没想到&hellip;&hellip;修会竟然在这里藏了这么大一个后花园。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：但吉尔贝去了哪儿呢？我们在附近分头找找看吧，这样效率比较高。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "ab76f94d-79b6-4f6a-a8c5-a5b6fe025c54": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1"
+            ],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">年轻女性：「香水」，「粉底盒」，还有「珠宝套装」都到货了吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：都已准备妥当，您要现在带走，还是今晚前送去您的府上？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">年轻女性：今晚&hellip;&hellip;不，我有急用，现在就交给我吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：&hellip;&hellip;好的，您请稍候，我这就派人取来。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">？？？：欢迎光临戏服与面具行「梦中人」，不论是面具还是华服，抑或是舞台上最精美耀眼的道具，本店都能承接定制&mdash;&mdash;客人有什么需要？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "……谁在说话？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：真是失礼，我明明就站在这里呀。难道我这么没有存在感吗？还是说，你是故意在对我视而不见？或许，我现在正站在&hellip;&hellip;你、的、身、后&hellip;&hellip;？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：奈亚拉女士，我可看见你了哦？你的面具已经出卖了你。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奈亚拉：呵呵，难得有这么可爱的新顾客造访，不要这么快就揭发我呀。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奈亚拉：只有&ldquo;隐去&rdquo;自己的面目，才能真正展示出面具之美，不是么？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：但吓唬客人就纯粹是你的恶趣味了吧？</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">赞妮：请别在意&hellip;&hellip;隐身（匿踪魅影）是店主奈亚拉小姐的共鸣能力。这位是漂泊者，是莫塔里家族邀请而来的贵客，对拉古那的狂欢节面具很感兴趣。</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1",
+              "4-2"
+            ],
+            "pid": [
+              "2-1"
+            ],
+            "group": "3",
+            "title": "我想定制狂欢节面具。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">向奈亚拉详细描述了在斐林的回忆中看到的面具样式。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奈亚拉：&hellip;&hellip;哦？还真是具体的描述呢，具体到&hellip;&hellip;令人有些惊讶了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奈亚拉：因为本店在不久之前，刚刚定制过这样一副面具，与您的描述相差无几。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奈亚拉：如果说&hellip;&hellip;狂欢节是拉古那人的一场集体梦境，那么一副恰到好处的面具，则是这场梦的通行证。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奈亚拉：当人们的真实身份被隐去，便可以肆无忌惮地表露内心&mdash;&mdash;每个人都渴望从沉闷的现实中解放，这也正是我们钟爱舞会与戏剧，满心期待狂欢节到来的原因。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奈亚拉：您或许听过一句话，在拉古那，戴上&ldquo;假面&rdquo;，反而意味着灵魂的自由，我们很乐于帮助客户表露并彰显自己的特质&mdash;&mdash;面具之中，往往也暗含着一个人「理想中自我的模样」。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">奈亚拉：&mdash;&mdash;所以，您确认，想要定制的是「这款面具」吗？</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "其实……",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-2",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "（她在怀疑……要摊牌吗？）",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1",
+              "4-2"
+            ],
+            "group": "5",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">年轻女性：&hellip;&hellip;很不错的面具呢。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">年轻女性：不过我记得&hellip;&hellip;上周吉尔贝卿来取的面具，的确和它十分相似。如果是自己的第一副面具，还是选择一个独一无二的设计比较好吧？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奈亚拉：&hellip;&hellip;您真是好记性。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">年轻女性：货品已经取到，我先走了。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">赞妮：咳，我们的确是在街上看到一位男士，觉得他的面具很好看，想弄个同款&hellip;&hellip;没想到是翡萨烈家族的吉尔贝先生啊&hellip;&hellip;</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-1",
+            "cid": [
+              "7-1"
+            ],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "翡萨烈家族？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奈亚拉：翡萨烈家族是黎那汐塔最为古老的家族之一，传说他们的先祖曾在黎那汐塔引发了战争&hellip;&hellip;后来逐渐没落，离开了拉古那城。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：这个家族的成员大都我行我素，不注重家族名誉，既有欺世盗名的败类，但也不乏一些名副其实的伟人。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奈亚拉：原本他们深居简出，但近几年却十分高调，不少家族成员都将府邸迁回了城内，开始肆意发展矿石业务，就像是突然获得了什么有力的支持一样&hellip;&hellip;而且行事也愈发嚣张跋扈。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奈亚拉：唉&hellip;&hellip;我记得，吉尔贝先生的面具，前前后后改了快二十三版&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：&hellip;&hellip;难怪你印象深刻啊。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">奈亚拉：不过&hellip;&hellip;既然您是莫塔里家的贵客，我就更不推荐您定制这个款式的面具了。</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "7-1",
+            "cid": [
+              "8-1"
+            ],
+            "pid": [
+              "6-1"
+            ],
+            "group": "7",
+            "title": "为什么？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奈亚拉：听说莫塔里家族因为想在狂欢节上投放私人声骸，与翡萨烈家族有着不小的矛盾呢。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">奈亚拉：嗯&hellip;&hellip;刚才外面的骚动，似乎是因为莫塔里家族排演狂欢节的声骸失控？哎呀，真是可惜呀，这样一来，莫塔里家族想要推行私人声骸就更加困难了。</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "8-1",
+            "cid": [
+              "9-1"
+            ],
+            "pid": [
+              "7-1"
+            ],
+            "group": "8",
+            "title": "……原来还有这回事。",
+            "content": "<p>赞妮：看来现在线索又指向了翡萨烈家族。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "9-1",
+            "cid": [],
+            "pid": [
+              "8-1"
+            ],
+            "group": "9",
+            "title": "去翡萨烈那边调查一下吧。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：好，翡萨烈家族的府邸就在水星天教堂旁边，我们也可以顺路去修会了解一下情况。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：呃，关于面具的样式，我们也得再考虑考虑，谢谢你的时间，奈亚拉女士。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奈亚拉：呵呵&hellip;&hellip;赞妮小姐不必这么客气，您可是我的贵宾顾客呢。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奈亚拉：这样一个小小的装饰品，却兼具&ldquo;隐匿&rdquo;和&ldquo;盛放&rdquo;两种含义，令人着迷，不是吗？我也很好奇，您心中的&ldquo;假面&rdquo;，又会是何种面貌？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奈亚拉：&hellip;&hellip;期待您再次光顾本店，瑰丽狂热的梦境，永远为您敞开。</p>\n</div>",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "b1933f3c-66b1-4d36-a1e0-b02715a0e6ce": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">&hellip;&hellip;是那个方向？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">花园的尽头&hellip;&hellip;像是一个忏悔室？先过去看看吧。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "ea65f01d-3b3f-4814-8305-8ff98a3fe33d": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2"
+            ],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">弗洛洛：看来&hellip;&hellip;他们已经逐渐找到了方向。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">弗洛洛：不必心急，我也很好奇，在尽头等待着他们的，是怎样的答案。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">弗洛洛：距离那盛大欢宴的开幕&hellip;&hellip;越来越近了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：请上前来。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">？？？：你有什么要忏悔的？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-3"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "我没有什么好忏悔的。",
+            "content": "<p>？？？：你可坚定？</p>",
+            "delEdgeChildren": [
+              "5-1"
+            ]
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1",
+              "3-2"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "我忏悔——",
+            "content": "<p>？？？：你要忏悔什么？</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-2"
+            ],
+            "group": "3",
+            "title": "我平时睡觉太多，偷懒太多，吃得太多……",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-2",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-2"
+            ],
+            "group": "3",
+            "title": "我太帅了，我忏悔。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-3",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "2-1"
+            ],
+            "group": "3",
+            "title": "我没有什么好忏悔的。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1",
+              "3-2"
+            ],
+            "group": "4",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：&hellip;&hellip;汝已知罪，切莫再犯。</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-1",
+            "cid": [],
+            "pid": [
+              "4-1",
+              "2-1",
+              "3-3"
+            ],
+            "group": "5",
+            "title": "",
+            "content": "<p>？？？：既然如此，我会为你打开上升的道路。</p>",
+            "lastPid": "2-1",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "ecf8abd3-11f0-40c7-8895-ea99ce2ae762": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿布：接下来去哪？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：总之，先去取钱吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：邀请函上说，我们可以去「埃弗拉德银行」领取一笔&ldquo;启动资金&rdquo;。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "f38fe0a8-1668-48f7-91b1-c39f6824c5c7": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2"
+            ],
+            "title": "",
+            "content": "<p>？？？：欢迎您来到「埃弗拉德银行」，漂泊者女士。</p>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "你是？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "你怎么知道我的名字？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1",
+              "2-2"
+            ],
+            "group": "3",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：我是本行的工作人员，赞妮。受莫塔里家族指示，在此等候客人的到来，协助您提取资金。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">赞妮：请问，是否还有一位与您同行的&hellip;&hellip;</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1",
+              "5-2"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "……是的，它正在休息。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：&hellip;&hellip;我明白了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：您的&ldquo;启动资金&rdquo;已经准备妥当，请随我来。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：请出示您的终端。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">墨丘利：*嗡&mdash;&mdash;嗡&mdash;&mdash;*</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：您是第一次办理本行的业务，作为莫塔里的贵客，您的账户等级将会直升为「金币会员」。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">赞妮：注册流程需要一定时间，墨丘利会全程自主操作，请稍等。</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "墨丘利也是声骸？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-2",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "居然连提款机都是声骸……",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-1",
+            "cid": [
+              "7-1",
+              "7-2"
+            ],
+            "pid": [
+              "5-1",
+              "5-2"
+            ],
+            "group": "6",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：是的，本行的声骸都是莫塔里家族的资产，墨丘利是专门用于自助提款的型号。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：此外，家族委托我作为您造访拉古那期间的护卫和向导，在狂欢节开幕前，如果您需要，我也可以为您制订旅行计划，包括最近时兴的&ldquo;云闪之鳞式旅行&rdquo;。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：&mdash;&mdash;能确保您在最短的时间内高效率低风险地体验境内所有著名景点，虽然&hellip;&hellip;我个人并不推荐这样的旅行方式。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">赞妮：&hellip;&hellip;这项委托有些匆忙，我没有足够的时间获取您的行程安排和个人信息，如有不周之处，请随时告知于我。</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "7-1",
+            "cid": [
+              "8-1"
+            ],
+            "pid": [
+              "6-1"
+            ],
+            "group": "7",
+            "title": "也不必这么客气……",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "7-2",
+            "cid": [
+              "8-1"
+            ],
+            "pid": [
+              "6-1"
+            ],
+            "group": "7",
+            "title": "我比较喜欢自由行。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "8-1",
+            "cid": [
+              "9-1"
+            ],
+            "pid": [
+              "7-1",
+              "7-2"
+            ],
+            "group": "8",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：这是莫塔里家族的待客礼仪，我只是按照需求完成工作。墨丘利：*嗡&mdash;&mdash;嗡&mdash;&mdash;*</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">赞妮：好了，您的资金已经到账，请及时确认，接下来您的行程安排是？</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "9-1",
+            "cid": [
+              "10-1"
+            ],
+            "pid": [
+              "8-1"
+            ],
+            "group": "9",
+            "title": "这里有好吃的餐馆吗？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：当然，离这里最近的是「玛格烈特家庭餐馆」，我个人十分推荐那家店的「热海皇梨披萨」，我可以带您前往。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：抱歉，我先处理一下工作交接，请稍等。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：拍卖会最后一批拍品已经抵达，我安排了专门的声骸运输，记得及时接应。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：尤其是23号和56号，是从异国运来的珍品，隆巴迪先生为它们购买了高额保险，不能有任何差错。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：其他相关信息我已经写在了备忘录，就放在&hellip;&hellip;好，交给你了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：&hellip;&hellip;呼。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">赞妮：好了，客人，我们走吧。</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "10-1",
+            "cid": [
+              "11-1",
+              "11-2"
+            ],
+            "pid": [
+              "9-1"
+            ],
+            "group": "10",
+            "title": "感觉你好忙……没问题吗？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：&hellip;&hellip;多谢您的体恤，因为一些原因，银行最近调离了不少人手，导致人力出现缺口，所以我最近暂代了部分其他业务。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：会在这时接下招待您的委托，也是因为上司承诺工作完成之后会给我增加几天带薪年假，而且委托人也足够大方&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">赞妮：啊，抱歉，我说得太多了，不过招待工作我是不会懈怠的，还请放心。</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "11-1",
+            "cid": [
+              "12-1"
+            ],
+            "pid": [
+              "10-1"
+            ],
+            "group": "11",
+            "title": "其实你可以放松一些的。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "11-2",
+            "cid": [
+              "12-1"
+            ],
+            "pid": [
+              "10-1"
+            ],
+            "group": "11",
+            "title": "在我这不用那么紧绷。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "12-1",
+            "cid": [],
+            "pid": [
+              "11-1",
+              "11-2"
+            ],
+            "group": "12",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：放松一点吧，我有能力保护好自己，你的委托人那边我也不会多说什么&hellip;&hellip;而且你太客气，我也会觉得不自在。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：&hellip;&hellip;当然可以，如果这是您的需求。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：&hellip;&hellip;多谢。一直保持紧绷状态，我也确实会累就是了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：走吧，漂泊者，我带你去吃饭。</p>\n</div>",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "fb5d3ac1-2bdb-4698-ade0-ddbf60d9d602": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": ""
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "entryId": "1322876820824510464",
+        "linkType": 1
+      },
+      "nextLink": {
+        "entryId": "1322899908986294272",
+        "linkType": 1
+      },
+      "preLabel": "如一叶小舟穿行于茫茫海洋",
+      "nextLabel": "夜与昼，均请摘下面纱"
+    },
+    "fe308002-bf82-4de4-b27a-04e2f3163e1f": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1"
+            ],
+            "title": "",
+            "content": "<p>阿莱克斯司铎：尊敬的客人，不知您是因为何事前来修会？</p>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1",
+              "3-2"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "我们来拜访吉尔贝先生。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿莱克斯司铎：吉尔贝先生&hellip;&hellip;？啊，是翡萨烈家族的&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿莱克斯司铎：他是一个虔诚的人，经常前来祈祷&hellip;&hellip;不过今天我并没有看到他。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿莱克斯司铎：我听说过您的事情！您似乎向一位教士表达过渴望觐见岁主的意愿，想必是因为您有兴趣追随祂所行的道路。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">阿莱克斯司铎：但看上去您并未真正了解狂欢节对于我等的意义，我愿为您讲解一二。</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1"
+            ],
+            "group": "3",
+            "title": "洗耳恭听。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-2",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1"
+            ],
+            "group": "3",
+            "title": "但说无妨。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1",
+              "5-2"
+            ],
+            "pid": [
+              "3-1",
+              "3-2"
+            ],
+            "group": "4",
+            "title": "",
+            "content": "<p>阿莱克斯司铎：几位应当听说过狂欢节与岁主的联系，但几位可知，狂欢节为何多年未办？</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "大概了解。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-2",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "因为十年前的那场意外？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-1",
+            "cid": [
+              "7-1"
+            ],
+            "pid": [
+              "5-1",
+              "5-2"
+            ],
+            "group": "6",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿莱克斯司铎：在最后一次狂欢节上，漫天的海雾遮盖了整座城市，声骸们有如鬼魂在城中巡礼，巨龙发出恐怖的吼声在天空盘旋，海中的巨兽掀起滔天的巨浪&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿莱克斯司铎：这是一次「神罚」。是一次对于人们耽于享乐，各自为营的警示。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿莱克斯司铎：这位，便是我们的「神启者」，芬莱克主座。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿莱克斯司铎：他在那场狂欢节的最后站了出来，为民众平息了神罚。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿莱克斯司铎：拉古那的历史起源于与大海的抗争，它的伟大与不朽在于因共同目标而生的「联结」。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿莱克斯司铎：人们跟随指引，在风暴与浪潮中紧密相连，开垦土地，联合岛屿&mdash;&mdash;坚不可摧的堤坝，唯有&ldquo;集体&rdquo;才可建成。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿莱克斯司铎：人们应当节制自我，而不应沉溺于各自的欲望。巨大的凝聚力和社会纪律性，只能通过典礼仪式来加强。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿莱克斯司铎：所以，我们才会将那些偏离正道的异类进行驱逐，对那些损害共同利益的个体进行限制。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">阿莱克斯司铎：我们已经为此，付出了巨大的努力。</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "7-1",
+            "cid": [],
+            "pid": [
+              "6-1"
+            ],
+            "group": "7",
+            "title": "你像是在说，狂欢节不应举办。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿莱克斯司铎：呵呵&hellip;&hellip;我并未如此说过。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿莱克斯司铎：我想说明的是，修会的所有行为，都经过了深切的考量。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿莱克斯司铎：在岁主的旨意下，我们引导人民，将人民团结在一起。我们希望能建造一片天上的国，一片至福的乐土&hellip;&hellip;起初如何，今日亦然。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿莱克斯司铎：也请您相信修会的圣裁。凡我们知晓的事务，都会一一解决。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿莱克斯司铎：&hellip;&hellip;你说什么？！莫塔里家族的人怎么可能&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿莱克斯司铎：抱歉了二位，我需要去处理一下公共事务。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿莱克斯司铎：耳听为虚，眼见为实，几位大可在修会中寻找。我们不会拒斥一双渴求真相的眼睛，请自便吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿莱克斯司铎：另外，还请不要破坏了仪轨用的圣器，违反戒律。否则，我们只能将几位列为异端了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：发生什么事了，居然让他这么慌张&hellip;&hellip;竟然把我们留在了这里。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：这位司铎看起来可不太诚实啊。我们可是亲眼看到那个叫吉尔贝的家伙进了教堂&hellip;&hellip;他总不会凭空消失吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">赞妮：说不定教堂里有密室或者秘密通道之类的？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：既然那位司铎让我们&ldquo;自便&rdquo;，那我们就不辜负他的好意了，四处找找看吧。</p>\n</div>",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    }
+  }
+}

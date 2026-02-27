@@ -1,0 +1,2281 @@
+{
+  "mediaList": [],
+  "title": "奔策候残星",
+  "modules": [
+    {
+      "title": "前往祈池村",
+      "components": [
+        {
+          "idx": "43955336-bb64-4660-8b84-69b3330ab89f",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "清理无音区",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "净化无音区",
+      "components": [
+        {
+          "idx": "3aac707a-eb09-4c2d-94b0-6b0398c95ede",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "残破的木牌",
+      "components": [
+        {
+          "idx": "b0e4580d-a996-469d-8fa9-ea1a4f4fbd24",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "奇怪的残象",
+      "components": [
+        {
+          "idx": "3be9c6e4-1e6b-43c3-b48e-8890f16e2c8a",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "可疑的余烬",
+      "components": [
+        {
+          "idx": "eb141cfa-655a-47f1-a77b-e6c497bcf04a",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "调查异响发出的位置",
+      "components": [
+        {
+          "idx": "0f34633e-a996-4c4a-9499-c9370c16dce7",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "（可选）质问伤痕",
+      "components": [
+        {
+          "idx": "f6ac21dc-036e-4a4b-b278-3ff4cd3c167a",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "调查伤痕指向的线索",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "跟随残象寻找更多线索",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "调查残象停留的区域",
+      "components": [
+        {
+          "idx": "210c3ece-597a-43c2-a2fe-49a79c158d71",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "跟随残象寻找更多线索",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "调查残象停留的区域",
+      "components": [
+        {
+          "idx": "c656f70a-34ae-4064-96e3-4c3a383e56dd",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "跟随残象寻找更多线索",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "调查残象停留的区域",
+      "components": [
+        {
+          "idx": "9c9c2fbd-33a2-4255-9c9a-94f63ae1a0e9",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "向伤痕说明推测出的真相",
+      "components": [
+        {
+          "idx": "22de55d3-5248-4bbe-b13f-ad8d96914e6e",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "打破伤痕的幻境",
+      "components": [
+        {
+          "idx": "5793b157-484b-492b-8ca9-6e32f4d432c1",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "深入幻境",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "击败幻境中的敌人",
+      "components": [
+        {
+          "idx": "548e77f2-c046-41f7-bdd3-3ca0e37c59e0",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "继续前往幻境深处",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "击败幻境中的敌人",
+      "components": [
+        {
+          "idx": "a25ca208-dfc6-4905-bd77-d4a3f753592d",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "找到伤痕",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "击败伤痕",
+      "components": [
+        {
+          "idx": "6b63398c-e39e-4315-bd15-15844e980568",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "击败伤痕，突破幻境",
+      "components": [
+        {
+          "idx": "5139c69f-8967-4f4a-9f68-7cb7010c154b",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往秧秧感知的方向",
+      "components": [
+        {
+          "idx": "46b07b12-7358-4a97-81ab-ec18f26b66ed",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "放置完整的木牌以启动机关",
+      "components": [
+        {
+          "idx": "4b592138-b148-4496-8b6b-83983a57e16e",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "进入洞窟",
+      "components": [
+        {
+          "idx": "b4aababd-1d13-40e3-b0e8-8de5c8712ac5",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往洞窟深处",
+      "components": [
+        {
+          "idx": "55d907d7-442f-4e12-a7f1-91eefed35ed4",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "接触神秘的残象",
+      "components": [
+        {
+          "idx": "a2f9d1d4-e4b3-434b-bfd5-8bd0c552f6bf",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "调查树下的日记",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "与秧秧交谈",
+      "components": [
+        {
+          "idx": "8ae12f0f-46b2-4be1-baf6-c8d668a417f1",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    }
+  ],
+  "story": {
+    "0f34633e-a996-4c4a-9499-c9370c16dce7": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1"
+            ],
+            "title": "",
+            "content": "<p>？？：看来&hellip;&hellip;精心准备的自我介绍派不上用场了。</p>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "你是……伤痕？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：如果你需要我再自我介绍一遍&hellip;&hellip;是的，我是伤痕。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">伤痕：那个&ldquo;残忍、变态的疯子&rdquo;。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1",
+              "4-2"
+            ],
+            "pid": [
+              "2-1"
+            ],
+            "group": "3",
+            "title": "秧秧呢？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：难得的会面，不应该有强干扰项，不是吗？</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">伤痕：那个女孩会影响你的判断。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "你到底想做什么？",
+            "content": ""
+          },
+          {
+            "id": "4-2",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "把秧秧还给我！",
+            "content": "<p>伤痕：看来你很在意那个女孩。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1",
+              "6-2"
+            ],
+            "pid": [
+              "4-1",
+              "4-2"
+            ],
+            "group": "5",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：放心吧，我暂时还没有让你仇视我的打算&hellip;&hellip;所以，她现在很安全。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：让我们先好好享受当下的独处时光，把无关紧要的人抛之脑后吧，毕竟，我们还有许多话要说。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">伤痕：听说，你失去了自己的记忆？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "6-1",
+            "cid": [
+              "7-1"
+            ],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "你怎么知道？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：看来是真的喽？</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">伤痕：想来也是，否则你苏醒时那副弱不禁风的样子，真的会让我怀疑传闻的真实性。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "6-2",
+            "cid": [
+              "8-1"
+            ],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "你还没有回答我的问题。",
+            "content": "<p>伤痕：呵呵，你说得对，既然如此，那我来告诉你。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "7-1",
+            "cid": [
+              "8-1"
+            ],
+            "pid": [
+              "6-1"
+            ],
+            "group": "7",
+            "title": "你跟踪我。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：你察觉到了？这才像样嘛。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：别对我抱有这么大的敌意，既然有所感知，你就应该知道，我只是看客中的一位而已。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：但是，开诚布公走到你面前的，却只有我一个人。</p>\n</div>"
+          },
+          {
+            "id": "8-1",
+            "cid": [
+              "9-1",
+              "9-2"
+            ],
+            "pid": [
+              "7-1",
+              "6-2"
+            ],
+            "group": "8",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：在你还对这个世界一无所知的时候，你就已经是角逐战中的一个筹码了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：一个混沌不明的因素，刚一出现就引来了疯狂的抢夺。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：从睁开眼的那一瞬间开始，你所见到的每一个人，都明白你的作用，包括你在意的那个女孩。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：这个世界就是这样贪婪，残忍地将一个活生生的人变成了功能性的棋子。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：所以，我要站出来告诉你真相，因为，我真诚地将你视作朋友，对你即将面对的一切感到抱歉。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">伤痕：这是我对你的诚意。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "9-1",
+            "cid": [
+              "10-1"
+            ],
+            "pid": [
+              "8-1"
+            ],
+            "group": "9",
+            "title": "这就把自己摘出来了？",
+            "content": "<p>伤痕：呵呵，看来简单的语言无法撼动你呢。</p>"
+          },
+          {
+            "id": "9-2",
+            "cid": [
+              "10-1"
+            ],
+            "pid": [
+              "8-1"
+            ],
+            "group": "9",
+            "title": "你这样说不也是想让我加入你们？",
+            "content": "<p>伤痕：不如说，我是在期待你的选择。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "10-1",
+            "cid": [
+              "11-1"
+            ],
+            "pid": [
+              "9-1",
+              "9-2"
+            ],
+            "group": "10",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：我的目的很简单，只是想要让我们互相了解更深一些而已。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：看看这个村子吧，然后告诉我你所看到的真相。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：对这个世界多了解一分，人的倾向就会更加明显，我们的游戏才会变得&hellip;&hellip;更加有趣。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">伤痕：在这期间，我不希望我们之间难得的独处时间被打扰&hellip;&hellip;仅此而已。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "11-1",
+            "cid": [
+              "12-1",
+              "12-2",
+              "12-3"
+            ],
+            "pid": [
+              "10-1"
+            ],
+            "group": "11",
+            "title": "残星会对这个村子做了什么？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：不要理所当然的把我们想象成施暴者啊&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：你想问的应该是，这个村子曾经发生了什么？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：但是，直接告诉你太没意思了。我不是说了吗，由你来向我讲述你所看见的故事。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">伤痕：那么来说说吧，你看见了什么？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "12-1",
+            "cid": [
+              "13-1"
+            ],
+            "pid": [
+              "11-1"
+            ],
+            "group": "12",
+            "title": "大型仪式。",
+            "content": ""
+          },
+          {
+            "id": "12-2",
+            "cid": [
+              "13-1"
+            ],
+            "pid": [
+              "11-1"
+            ],
+            "group": "12",
+            "title": "伤人事件。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "12-3",
+            "cid": [
+              "13-1"
+            ],
+            "pid": [
+              "11-1"
+            ],
+            "group": "12",
+            "title": "奇怪的残象。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "13-1",
+            "cid": [
+              "14-1",
+              "14-2"
+            ],
+            "pid": [
+              "12-1",
+              "12-2",
+              "12-3"
+            ],
+            "group": "13",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：呵呵，已经注意到这么多了吗？</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">伤痕：那这些线索会让你觉得这里发生过什么？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "14-1",
+            "cid": [
+              "15-1"
+            ],
+            "pid": [
+              "13-1"
+            ],
+            "group": "14",
+            "title": "残星会蛊惑、伤害了村民。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：很经典的故事。无辜的羔羊，凶恶的狼群，界限分明的善与恶，满足着人们一成不变的想象，暗中规束着整个世界。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：但是，你真的相信，真实世界里的故事也是这样的吗？</p>\n</div>"
+          },
+          {
+            "id": "14-2",
+            "cid": [
+              "15-1"
+            ],
+            "pid": [
+              "13-1"
+            ],
+            "group": "14",
+            "title": "村民互相伤害。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：看来，你在内心深处也并不信任这里的人们。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：啊&hellip;&hellip;果然他们说的没错，你是个不可多得的家伙。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：我很高兴，你有着高度的敏锐和准确的判断，以及，对人类的绝对认知。</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "15-1",
+            "cid": [],
+            "pid": [
+              "14-1",
+              "14-2"
+            ],
+            "group": "15",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：让我为你提供一些不可或缺的关键信息吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：这个村子的故事远没有那么简单。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：首先，故事围绕着谁来展开？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：一名无辜的少女，一位德高望重的村长，一群淳朴的村民。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：那么，最重要的情节是什么？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：愚昧的崇拜，摇摆的善意，众人皆知的谎言，肆意予夺的生命，还有，那渺小而特殊的存在&hellip;&hellip;被众人推上死路。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：漂泊者，接下来，书写的笔就要交给你了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：我很期待在你深入了解这个村庄之后，你口中的故事将会变成什么样子。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "210c3ece-597a-43c2-a2fe-49a79c158d71": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1"
+            ],
+            "title": "",
+            "content": "<p>树枝上挂满了纸条，上面似乎记录着由不同人写下的愿望。大部分纸条上的字被浸湿过，已经无法阅读。</p>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "（阅读纸条上的愿望。）",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">另一张破碎的绘本残页，静静地躺在泥土中。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：一天，一名牧羊人来到了村庄里。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">伤痕：牧羊人为它们带来食物与庇护，满足小羊们的愿望，羊群从此过上了幸福而安稳的生活&hellip;&hellip;</p>\n</div>\n</div>"
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1"
+            ],
+            "group": "3",
+            "title": "这个故事……就这样结束了？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：恰恰相反，牧羊人到来，让这个故事才刚刚开始呢。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：他给这些小羊带来了能够实现愿望的力量。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：小羊只要低头向牧羊人摇尾乞怜，就能获得更多的青草、更安全的庇护。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：不用付出劳动就可以拥有无尽的资源、完美的生活。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">伤痕：就这样，牧羊人成为了羊群的&ldquo;神&rdquo;。它们向那高大的身姿祈拜，感恩他、崇敬他&hellip;&hellip;</p>\n</div>\n</div>"
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "……",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：怎么？看你的脸色，似乎对这些感到不适。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">伤痕：如果你也是那群羊羔中的一员，面对这样的诱惑和他者的裹挟，你不会甘愿低头、向上位者乞讨吗？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "5-1",
+            "cid": [],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "人与人是平等的，没有等级之分。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：哈哈&hellip;&hellip;没想到这么快我们就已经有所共识了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：你说得对，但现在的世界还远远不是你所说的样子，牧羊人依旧存在，羔羊们却习以为常。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：那个理想世界，需要我们去将它实现。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "22de55d3-5248-4bbe-b13f-ad8d96914e6e": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2",
+              "2-3"
+            ],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：很好，再小的细节也没能逃过你的眼睛。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：我很好奇现在你认为村子里的故事是什么。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：在此之后，我将告诉你这个村庄的真相。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">伤痕：在你看来，羊群日渐消失的罪魁祸首是谁？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "牧羊人。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：的确，造成小羊消失的直接凶手是牧羊人。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：牧羊人可以帮助它们实现愿望，但是要付出的代价小羊们并非全然不知。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：只可惜，在这样的诱惑面前，一切潜在的危机它们都闭口不谈，而这仅仅是因为，灾难没有降临到自己的头上。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：如果给它们重来的机会&hellip;&hellip;我相信，它们仍然不会改变自己的决定。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：既然如此，当屠刀落下，它们也只能接受自己的命运。</p>\n</div>"
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "其他白羊。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：你不仅明白了故事的指涉，还透过表象看到了本质。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：从更深的角度来看，造成羊群消减的真正凶手，是纵容牧羊人的其他白羊。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：牧羊人从来没有强制它们做任何事情，他只抛出了一个条件，引导了小羊们。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：对于羊群来说，只要没有愿望，就没有小羊消失。是它们内心的贪婪和对他者的冷漠造成了之后的一切。</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "2-3",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "黑羊。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：哦？原来你也和那些白羊一样，认为有罪者是那个破坏规则的家伙吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：哈哈，在其中一个版本的故事中，&ldquo;黑羊&rdquo;不负你所望，向羊群及牧羊人宣泄了&ldquo;复仇的怒火&rdquo;，成为了新规则的制定者。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：不知道，这个故事的结局，会不会让你满意？</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1",
+              "4-2",
+              "4-3"
+            ],
+            "pid": [
+              "2-1",
+              "2-2",
+              "2-3"
+            ],
+            "group": "3",
+            "title": "",
+            "content": "<p>伤痕：那么，第二个问题，实现愿望的代价是什么？</p>"
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "生命。",
+            "content": "<p>伤痕：一向如此，还有什么比生命更珍贵呢？</p>"
+          },
+          {
+            "id": "4-2",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "钱财。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：相反，许多人愿意为了钱财而付出自己的生命。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：毕竟对他们来说，没有金钱，生命毫无意义。</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-3",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "心诚则灵。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：我相信，小羊们在许下愿望时一定非常诚挚。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：但是，这几乎算不上什么真正的代价，不是吗？</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1",
+              "6-2",
+              "6-3"
+            ],
+            "pid": [
+              "4-1",
+              "4-2",
+              "4-3"
+            ],
+            "group": "5",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：我的最后一个问题，黑羊去哪了？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：别着急回答这个问题，漂泊者。这一次，告诉我你所看到的故事吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：你所拼凑起来的真相，究竟是什么？</p>\n</div>"
+          },
+          {
+            "id": "6-1",
+            "cid": [
+              "7-1"
+            ],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "白羊和牧羊人联手解决了黑羊。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：牧羊人以其他羊为代价实现愿望，羊群知道真相并成为帮凶，献祭了打破规则的黑羊。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：哈哈哈哈哈，你的猜测很准确。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：牧羊人以其他羊为代价实现愿望，羊群并不知情，被哄骗着献祭了被牧羊人推出来的黑羊。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：你猜对了一半。</p>\n</div>"
+          },
+          {
+            "id": "6-2",
+            "cid": [
+              "7-1"
+            ],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "白羊被牧羊人欺骗，误会了黑羊。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：牧羊人以其他羊为代价实现愿望，羊群并不知情，被哄骗着献祭了被牧羊人推出来的黑羊。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：你猜对了一半。</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-3",
+            "cid": [
+              "7-1"
+            ],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "羊群不知真相，最终全部获救。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "7-1",
+            "cid": [
+              "8-1"
+            ],
+            "pid": [
+              "6-1",
+              "6-2",
+              "6-3"
+            ],
+            "group": "7",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：牧羊人以其他羊为代价实现愿望，羊群并不知情，最终得到了拯救。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：呵呵&hellip;&hellip;你真的这样想吗？那你还真是只天真的小羊羔。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：竟然相信世界上会有突然降临的英雄能够带来救赎的戏码。</p>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：怎么样，是不是很不错的故事？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：故事结束了，村庄的真相想必你已经明白了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：反叛规则的黑羊，屈服于权力与贪欲、自私自利的白羊。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：被献祭的少女，贪婪冷漠、互相迫害、将同胞打成异端的村民&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：&hellip;&hellip;这一切都是他们咎由自取。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">伤痕：只需将反叛者推上刑架，便能震慑羊群，笼络人心，维持那无法被撼动的既有规则&hellip;&hellip;</p>\n</div>\n</div>\n</div>"
+          },
+          {
+            "id": "8-1",
+            "cid": [
+              "9-1"
+            ],
+            "pid": [
+              "7-1"
+            ],
+            "group": "8",
+            "title": "这就是你成为“牧羊人”的理由？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：错，大错特错。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">伤痕：我从来都不是&ldquo;牧羊人&rdquo;，我，我们，是&ldquo;黑羊&rdquo;，那只打破已有规则的黑羊。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "9-1",
+            "cid": [],
+            "pid": [
+              "8-1"
+            ],
+            "group": "9",
+            "title": "屠龙者终成恶龙。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：哈哈哈哈&hellip;&hellip;有意思，漂泊者，我真是越来越喜欢你了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：既然如此，不如看看，这只黑羊是否会如你所说，那么简单就被覆灭！</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "3aac707a-eb09-4c2d-94b0-6b0398c95ede": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<p>秧秧：这里好像有什么东西？</p>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "3be9c6e4-1e6b-43c3-b48e-8890f16e2c8a": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2"
+            ],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：啊，小心！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奇怪的残象：叽&hellip;&hellip;叽叽&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：奇怪，不攻击吗&hellip;&hellip;？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奇怪的残象：叽&hellip;&hellip;哥哥&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">奇怪的残象：&hellip;&hellip;救&hellip;&hellip;救救&hellip;&hellip;</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "（和它对话。）",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奇怪的残象：哥哥&hellip;&hellip;救救&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">奇怪的残象：叽&hellip;&hellip;</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-2"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "（攻击它。）",
+            "content": "<p>秧秧：等等，漂泊者，它似乎没有攻击我们的意思&hellip;&hellip;</p>"
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1"
+            ],
+            "group": "3",
+            "title": "哥哥是谁？",
+            "content": "<p>奇怪的残象：救&hellip;&hellip;</p>"
+          },
+          {
+            "id": "3-2",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-2"
+            ],
+            "group": "3",
+            "title": "残象也会有意识？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奇怪的残象：救救&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奇怪的残象：&hellip;&hellip;哥哥&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奇怪的残象：&hellip;&hellip;</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1",
+              "3-2"
+            ],
+            "group": "4",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：似乎只会重复这几句话&hellip;&hellip;这不是普通的残象。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：残象会进行攻击的本质是它们需要吞噬他人的频率，残象的诞生也是频率被打散又组合的结果。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：这只残象应该是吞噬了某些&hellip;&hellip;人类的频率。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：将他人残存的意识化为重复不断的呓语&hellip;&hellip;这是来自谁的将死之音，又或是出自谁血腥的创造呢&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧蹲下来将手放在残象头上，随着流息的感知，她露出悲伤的神情。</p>\n<p class=\"py-1 px-2 align-middle\">秧秧：对不起&hellip;&hellip;</p>\n</div>"
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "你在和它沟通吗？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：没有，我无法做到那样的事。我只是在它身上感知到一些复杂的情绪&hellip;&hellip;浓烈的悲伤，与一种异样的期许。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：&hellip;&hellip;我有一个猜想。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "6-1",
+            "cid": [
+              "7-1",
+              "7-2"
+            ],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "你说。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：它似乎在等待着解脱与救赎，但这种期许并不是指向它自身，我听见了它的悲鸣&hellip;&hellip;不，是来自这座村庄的悲鸣。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：这座村庄在悲鸣着，期望能够从深渊中被解救出来。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：这里发生了非常糟糕的事&hellip;&hellip;甚至还残留着受害者的回响。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：从此处的痕迹以及这里的废墟来看，发生的时间也许并不久远，风中的讯息也还未能消散。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：也许是因为无音区的影响，也许是有人从中作祟，这里的事并未暴露在阳光之下。但我认为&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：此时此刻，这里一定还有我们能做的事，也许受害者还留在此处，我能感知到，与之相关的人就在这里不远处&hellip;&hellip;这里，很危险。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：我会将这里的事态同步告知炽霞，但在正式调查人员来到之前，我们能先留在此处调查吗？</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：抱歉，我这么说似乎太主观了&hellip;&hellip;这只是一种没有依据的预感而已&hellip;&hellip;</p>\n</div>\n</div>"
+          },
+          {
+            "id": "7-1",
+            "cid": [
+              "8-1"
+            ],
+            "pid": [
+              "6-1"
+            ],
+            "group": "7",
+            "title": "不，我相信你。",
+            "content": ""
+          },
+          {
+            "id": "7-2",
+            "cid": [
+              "8-1"
+            ],
+            "pid": [
+              "6-1"
+            ],
+            "group": "7",
+            "title": "今汐给我的信物也指向这里，不是吗？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "8-1",
+            "cid": [],
+            "pid": [
+              "7-1",
+              "7-2"
+            ],
+            "group": "8",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：呼&hellip;&hellip;谢谢你，漂泊者。请一定要提高警惕。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：这个小东西&hellip;&hellip;让它留在这里吧。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "43955336-bb64-4660-8b84-69b3330ab89f": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：是这里&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：之前我在树叶上感知到一些若有似无的不祥气息，因为太过微弱，所以我也不能完全确定。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：但现在，这种充斥空中，痛苦、憎恨的情绪，甚至不需要我去特意感知&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：漂泊者，这里一定发生过一些很糟糕的事情。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：小心，这里是无音区，我们先把残象清理干净吧。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "entryId": "1318681287772200960",
+        "linkType": 1
+      },
+      "nextLink": {
+        "entryId": "1319417602112999424",
+        "linkType": 1
+      },
+      "preLabel": "撞金止行阵",
+      "nextLabel": "庭际刀刃鸣"
+    },
+    "46b07b12-7358-4a97-81ab-ec18f26b66ed": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<p>漂泊者：是木牌的另一半&hellip;&hellip;应该能组合起来。</p>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "4b592138-b148-4496-8b6b-83983a57e16e": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<p>秧秧：快看，洞口的水位正在下降！</p>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "5139c69f-8967-4f4a-9f68-7cb7010c154b": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1"
+            ],
+            "title": "",
+            "content": "<p>秧秧：漂泊者&hellip;&hellip;漂泊者！</p>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1",
+              "3-2"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "……秧秧。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：我打破了他的幻境，他应该也受伤了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：呵呵&hellip;&hellip;我该谢谢你的手下留情吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：离漂泊者远一点！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：唉，来之前不是说好的，把时间留给我和漂泊者吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">神秘红衣女子：希望你没有忘记这个条件的前提。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">神秘红衣女子：不要即兴发挥，给别人带来困扰。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：呵呵，别这么急着出来维护你那脆弱的&ldquo;完美乐章&rdquo;。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：我有分寸。什么该做，什么不该做，不需要你来提醒我。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：看来这次的约会&hellip;&hellip;只能到此为止了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：不过，希望你记得我提醒你的。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：我想知道，你最终会选择从天而降的馈赠，还是开诚布公的交易，或是一掷千金的豪赌&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：你是个聪明人，我相信你不会轻易做出决断。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：很快，我们会再见面的。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：他们要跑了&hellip;&hellip;要追吗？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1"
+            ],
+            "group": "3",
+            "title": "……算了，实力不明。",
+            "content": "<p>秧秧：&hellip;&hellip;</p>"
+          },
+          {
+            "id": "3-2",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1"
+            ],
+            "group": "3",
+            "title": "别管他们了，你怎么样？",
+            "content": "<p>秧秧：啊&hellip;&hellip;不用担心我，我没事的。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1",
+              "5-2"
+            ],
+            "pid": [
+              "3-1",
+              "3-2"
+            ],
+            "group": "4",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：伤痕的共鸣能力似乎是空间传送和制造异空间，我被他关在一个封闭的空间里，只能感知到距离这里并不远&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：我花了一些时间才打破幻境，抱歉，我来晚了&hellip;&hellip;</p>\n</div>\n</div>"
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "你没事就好。",
+            "content": ""
+          },
+          {
+            "id": "5-2",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "正因为你来了，才能打破幻境。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-1",
+            "cid": [
+              "7-1"
+            ],
+            "pid": [
+              "5-1",
+              "5-2"
+            ],
+            "group": "6",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奇怪的残象：唧唧，唧唧&hellip;&hellip;哥&hellip;&hellip;哥&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：咦，这个小家伙怎么跑到这里来了？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "7-1",
+            "cid": [
+              "8-1"
+            ],
+            "pid": [
+              "6-1"
+            ],
+            "group": "7",
+            "title": "可能是刚才因为害怕躲起来了吧。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：我还从来没见过有残象会表现出这么生动的情绪&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：不过，它叫的哥哥&hellip;&hellip;不会是&hellip;&hellip;？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "8-1",
+            "cid": [
+              "9-1"
+            ],
+            "pid": [
+              "7-1"
+            ],
+            "group": "8",
+            "title": "伤痕……哥哥？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：有可能，毕竟伤痕曾经也来过这里&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：比起这些&hellip;&hellip;漂泊者，刚才我不在的时候都发生了什么？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">将此前发生的事与调查到的线索告诉秧秧。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：看来祈池村的真相，与那场&ldquo;仪式&rdquo;密切相关。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "9-1",
+            "cid": [
+              "10-1"
+            ],
+            "pid": [
+              "8-1"
+            ],
+            "group": "9",
+            "title": "也藏在伤痕的“寓言”中。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：用&ldquo;寓言故事&rdquo;粉饰自己的理念与立场，这的确也很符合他那随心所欲、难以捉摸的个性&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：只有找到&rdquo;仪式&ldquo;真正发生的地点，才能佐证这是否是伤痕的一面之词。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "10-1",
+            "cid": [
+              "11-1"
+            ],
+            "pid": [
+              "9-1"
+            ],
+            "group": "10",
+            "title": "嗯，去看看吧。",
+            "content": "<p>秧秧：咦，怎么了？</p>"
+          },
+          {
+            "id": "11-1",
+            "cid": [],
+            "pid": [
+              "10-1"
+            ],
+            "group": "11",
+            "title": "……没什么。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：双重的残象频率波动痕迹&hellip;&hellip;原来如此。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：风中传来的讯息在那边，跟我来。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（&hellip;&hellip;南边。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">散华：他们没有大碍，无须担心。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">散华：和您推断的一样，伤痕并没有伤害到他们&hellip;&hellip;嗯，依照您的意思，我没有出手。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">散华：您那边还好吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">散华：&hellip;&hellip;请您一定要保护好自己，令尹大人。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：对了&hellip;&hellip;漂泊者，能把我们先前找到的那半块木牌拿出来吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：果然没错&hellip;&hellip;我在这边感知到了相同的气息，跟我来。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "548e77f2-c046-41f7-bdd3-3ca0e37c59e0": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：头摇摇眼眨眨，变出一群羊娃娃。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：羊娃娃真可爱，有黑有红又有花。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：倒在你脚下的，是勇于走向清醒的先行者啊。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：和他们一样在这条正确的道路上笃定地前进吧，我将为你在前方准备更热烈的欢迎！</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "55d907d7-442f-4e12-a7f1-91eefed35ed4": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：那棵树&hellip;&hellip;好美丽。甚至美丽到有些&hellip;&hellip;说不出的妖异。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奇怪的残象：&hellip;&hellip;救救&hellip;&hellip;大家。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：你是想告诉我们&hellip;&hellip;这里有什么特别的东西吗？</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "5793b157-484b-492b-8ca9-6e32f4d432c1": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：无穷无尽，身处混沌&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：趁现在想想清楚吧，到底什么才是正确的方向。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "6b63398c-e39e-4315-bd15-15844e980568": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：你想成为创造规则的牧羊人，还是成为打破规则的黑羊？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：如果一个清醒的人在疯子之中独活，你又该称其为清醒者，还是唯一的异端疯子？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：想想看吧，牧羊人并不是既定真理的化身，只要他彻底消失，黑羊获得信任&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：世上就不会再有加害者与受害者这样的分类！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：&hellip;&hellip;漂泊者&hellip;&hellip;！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：啧，她还真是难缠呢。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "8ae12f0f-46b2-4be1-baf6-c8d668a417f1": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2"
+            ],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：直到最后&hellip;&hellip;那个女孩所祈愿的都是，村庄中的人能够得到救赎。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：但牺牲是不会换来救赎的&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：那只残象，就是为了传达女孩的愿望而留在这里的吧&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：&hellip;&hellip;对不起。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：我感觉这里有些太冷了&hellip;&hellip;我们可以先回去吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：抱歉，在那下面让我觉得不是很舒服&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：那下面的风几乎是静止的，但我仍然感知到了很多情感和讯息，来自多年前的悲鸣围绕着我。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：大家许下愿望时的期冀，愤恨，绝望&hellip;&hellip;和那本日记上所带着的，深深的悲伤和思念。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：日记的主人在思念什么呢？是之前平和的生活，还是思念一手促成这一切的骨肉至亲&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：&hellip;&hellip;抱歉，我又沉浸在自己的世界里了。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "没关系。",
+            "content": ""
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "我理解你的心情。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1",
+              "4-2"
+            ],
+            "pid": [
+              "2-1",
+              "2-2"
+            ],
+            "group": "3",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：我真的希望，从此今州不会再发生这样的事。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：但我还没有这样的勇气和信心&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：这也是我成为踏白的原因，我希望自己能有勇气和信心，去阻止这种悲剧发生。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：我无法阻止这个世界的悲鸣，但至少，我要尽可能阻止身边的悲鸣。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "我相信你。",
+            "content": ""
+          },
+          {
+            "id": "4-2",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "我会和你一起。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-1",
+            "cid": [],
+            "pid": [
+              "4-1",
+              "4-2"
+            ],
+            "group": "5",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：你也是这样想的吗？谢谢你&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：事情已经发生，怨天尤人或是沉浸于此都是无用的。回去后，我会将发生在这里的事件和得到的线索整理好上报。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：嗯，我们回去吧，一起。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "9c9c2fbd-33a2-4255-9c9a-94f63ae1a0e9": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">墙上有一些污渍。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">仔细观察，隐约可见模糊的字迹。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">再凑近一些，墙上密密麻麻写着&rdquo;异类&ldquo;、&rdquo;驱逐她&ldquo;、&rdquo;怪物&ldquo;、&ldquo;都是因为她&rdquo;之类的词语。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">破碎的绘本残页静静地躺在泥土中。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：后来，牧羊人告诉小羊们，造成羊群数量减少的罪魁祸首是它们之中那唯一的黑羊。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：最终，可爱的小羊们迎来了照常升起的太阳，黑羊却再也不见踪影。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：牧羊人为村庄带来了新的规则，可那只黑羊却打破了规则。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：隐秘的真相被揭露，牧羊人不再为小羊们实现愿望，牺牲也不再发生。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：看到黑羊的所作所为，听到牧羊人权威性的话语&hellip;&hellip;你觉得羊羔们会对那只黑羊做出什么样的行为呢？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：这些可怜又愚蠢的羔羊，不知道最可怕的恶魔其实一直都在它们身边。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "a25ca208-dfc6-4905-bd77-d4a3f753592d": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：干脆利落、毫不留情，你瞧&hellip;&hellip;我们有这么多的共同点&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：别急着否认，既然来到了我的面前，我倒是很想知道你的答案&hellip;&hellip;</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "a2f9d1d4-e4b3-434b-bfd5-8bd0c552f6bf": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：它怎么消失了&hellip;&hellip;！？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：这里有一本日记。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "b0e4580d-a996-469d-8fa9-ea1a4f4fbd24": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：看起来似乎是一些特殊仪式才会使用的木牌&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：为什么会出现在这里？这种物件一般摆在自家宗祠才是&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：况且这看起来&hellip;&hellip;有点不太符合这个时代呢&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：&hellip;&hellip;在过去的历史记载中也有过类似的事件，人们出于某种信仰，为了祈愿，会在村落中定期举办大型的古老仪式。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：嗯&hellip;&hellip;再看看其他地方吧。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "b4aababd-1d13-40e3-b0e8-8de5c8712ac5": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：这底下&hellip;&hellip;竟然还有这样的空间&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：奇怪，明明是在水下，走进来却十分干燥，一点水渍也没有，甚至植被都生长得很好&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：难道这是伤痕的手笔？联系到他的共鸣能力，做到此事倒也不稀奇。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "c656f70a-34ae-4064-96e3-4c3a383e56dd": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1"
+            ],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">破碎的绘本残页静静地躺在泥土中。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：羊群日日夜夜举办篝火派对，狂欢着牧羊人的到来，除了&hellip;&hellip;羊群之中的那只黑羊。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：夜幕之下，只有黑羊发现小羊的数量正在逐渐减少。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">伤痕：漂泊者，你相信这世上有不付出任何代价就能够实现的愿望吗？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "我更相信等价交换。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：呵呵&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：曾经我也认为只要付出足够的代价，就能换取平等的报酬。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：然而，真正的等价交换是这世间难以企求的。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：世界本就不公平，不是吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：想要获取相等的回报，你必须付出更多、更多&hellip;&hellip;更多。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：如果实现愿望意味着沉重的代价，那么许下愿望的人就会再三考量，权衡利弊。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：但如果这样的代价，能够让他人替自己背负&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：想必大家只会争先恐后许下更多的愿望，从而忽视掉，自己也可能成为他人实现愿望的代价。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：多有趣啊&hellip;&hellip;</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "eb141cfa-655a-47f1-a77b-e6c497bcf04a": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：痕迹面积不大却凌乱，看起来不像是战争留下的，更像是，伤者被拖拽而留下的&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：快看，这里有许多脚印，这些是打斗的痕迹&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：这里曾发生过伤人事件&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：这是&hellip;&hellip;原来如此&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：这很可能是残星会的手笔。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：残星会？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：嗯，我对他们的了解不算太深入，只是由于身为踏白，曾接触过与残星会有关的案件。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：他们是一群热衷于将人类与残象融合的极端疯子，组织庞大，曾在各国界内都引发过多起大小不一的恐怖袭击事件。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：将人类与残象融合&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：在今州境内也有残星会活动的痕迹，但都是些比较边缘的成员，在他们组织内部被称作造匠。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：而在造匠之上，则是作为领导者存在的会监。会监往往都拥有各自不同的手段与影响力，造成的危害也是造匠无法比拟的&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：我不知道他们实际上的目的是什么，有其成员自称是要灭世，也有自称是为了追求永恒的力量。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：而其中有一名格外疯狂的会监，即便是在一群疯子中也疯得足够醒目。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：视一切秩序为无物，破坏行恶并以此为乐，是混乱狂欢的代言人&hellip;&hellip;这几张卡牌，我在残星会相关的档案中见过。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：正是出自残星会会监之一，伤痕。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：如果是他，那么他对村庄中的人做出了怎样残忍变态的事&hellip;&hellip;</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "f6ac21dc-036e-4a4b-b278-3ff4cd3c167a": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2"
+            ],
+            "title": "",
+            "content": "<p>伤痕：怎么，还想和我聊点什么吗？</p>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "再给我一点提示。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：你想从我这里舍远求近？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：很聪明，不拘于已有规则，我喜欢。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：但我还不希望你的想法现在就被我影响，让我们的第一次相见变成一场无趣的学舌。</p>\n</div>"
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "直接告诉我村子的真相。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：哈哈哈哈&hellip;&hellip;我不想。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：不要企图威胁我哦，认清现实，现在我才是拥有筹码的人。</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1",
+              "4-2"
+            ],
+            "pid": [
+              "2-1",
+              "2-2"
+            ],
+            "group": "3",
+            "title": "",
+            "content": "<p>伤痕：不要让我这么快就对你感到失望。</p>"
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "……行。我去找线索。",
+            "content": ""
+          },
+          {
+            "id": "4-2",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "（攻击他。）",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1",
+              "6-2"
+            ],
+            "pid": [
+              "4-1",
+              "4-2"
+            ],
+            "group": "5",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：冷静点，别这么激动。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：虽然我也很想和你较量一番，但还不是现在。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：现在出手的话，我可不会保证之后你还能从地上爬起来，那样你会错过这里的线索哦。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">伤痕：千辛万苦来到这里，你想要的就是和真相失之交臂吗？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "6-1",
+            "cid": [
+              "7-1"
+            ],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "……行。我去找线索。",
+            "content": ""
+          },
+          {
+            "id": "6-2",
+            "cid": [
+              "7-1"
+            ],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "（攻击他。）",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "7-1",
+            "cid": [
+              "8-1",
+              "8-2"
+            ],
+            "pid": [
+              "6-1",
+              "6-2"
+            ],
+            "group": "7",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：不查真相、不明事实，仅凭传闻就对我妄下判断吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：果然&hellip;&hellip;温顺的羔羊总是会被冷酷对待，甚至连辩解的机会都没有。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：那么，我只能对你无情一些了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：如果你能乖乖听话，理清村子里的一切，我会考虑&ldquo;更加礼貌&rdquo;地回报那个女孩。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：否则，我手指一动，就会让她脑袋搬家。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">伤痕：要再试试看吗？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "8-1",
+            "cid": [
+              "9-1"
+            ],
+            "pid": [
+              "7-1"
+            ],
+            "group": "8",
+            "title": "……行。我去找线索。",
+            "content": ""
+          },
+          {
+            "id": "8-2",
+            "cid": [
+              "9-1"
+            ],
+            "pid": [
+              "7-1"
+            ],
+            "group": "8",
+            "title": "来好好单挑一局吧！",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "9-1",
+            "cid": [
+              "10-1"
+            ],
+            "pid": [
+              "8-1",
+              "8-2"
+            ],
+            "group": "9",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：哈哈哈哈哈哈！真是出人意料的选择&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：如此执着的战意，我怎么好忍心再次拒绝。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：就让我，如你所愿。</p>\n<p class=\"py-1 px-2 align-middle\">破碎的绘本残页，夹在一张撕下来的日记纸中，纸张上字迹稚嫩。</p>\n</div>"
+          },
+          {
+            "id": "10-1",
+            "cid": [
+              "11-1"
+            ],
+            "pid": [
+              "9-1"
+            ],
+            "group": "10",
+            "title": "（阅读日记内容。）",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：瞧，故事就是从这里开始的&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：村庄里有一群自由而快乐的小羊，它们每日靠着自己的辛勤劳动寻找食物&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">伤痕：每到傍晚，它们便回到聚集地躲起来，互相保护，躲避野狼的猎捕。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "11-1",
+            "cid": [],
+            "pid": [
+              "10-1"
+            ],
+            "group": "11",
+            "title": "你好像很喜欢讲故事。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：人们从古至今都喜欢从寓言中吸取教训、领悟真理。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：而这些故事的灵感却往往或多或少汲取自他人的人生。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：同样的故事，在不同人的口中传递出全然不同的样貌。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：身处其中的人最终所理解的也不过是其中一个版本而已。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：就像我们现在，正处于一个巧妙的情节之中，而造成这一切的却不是我。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：这个村庄是我与今州渊源的开始&hellip;&hellip;呵呵&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：今令尹引你来到这里与我相遇，才是真正的好算计。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    }
+  }
+}

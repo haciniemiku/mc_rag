@@ -1,0 +1,529 @@
+{
+  "mediaList": [],
+  "title": "星光流转于眼眸之间",
+  "modules": [
+    {
+      "title": "",
+      "components": [
+        {
+          "idx": "9c1e33d3-246e-48eb-965b-f19a46dc3a45",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "等待千咲结束封闭治疗",
+      "components": [
+        {
+          "idx": "58c77ed0-03cf-4e9c-97c7-7ea25d1dd7a8",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往穗波市",
+      "components": [
+        {
+          "idx": "15052a3d-7be3-4fbf-b6bf-e55c5f0ca453",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往列车长咖啡厅",
+      "components": [
+        {
+          "idx": "2c7496d4-aa34-42d8-8337-67257e0fefe6",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    }
+  ],
+  "story": {
+    "15052a3d-7be3-4fbf-b6bf-e55c5f0ca453": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "pid": [],
+            "title": "",
+            "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\"><span class=\"\">洄游鱼向你展示了此处曾经的景象&mdash;&mdash;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\"><span class=\"\">少女倚靠着围栏眺望远方，目光深陷在湛蓝的天空。她究竟在思考什么呢&hellip;&hellip;</span></p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "2c7496d4-aa34-42d8-8337-67257e0fefe6": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2"
+            ],
+            "pid": [],
+            "title": "",
+            "content": "<p>千咲：怎么了，漂泊者？为什么突然回头？</p>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "刚才，收音机里传出来了一个声音。",
+            "content": "<p>千咲：一个声音？收音机不是已经坏掉了吗？</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "好像有人在叫我的名字。",
+            "content": "<p>千咲：有吗？我就在你边上，但&hellip;&hellip;我没听见？</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1",
+              "4-2"
+            ],
+            "pid": [
+              "2-1",
+              "2-2"
+            ],
+            "group": "3",
+            "title": "所以……你没听到奇怪的声音？",
+            "content": "<p>千咲：&hellip;&hellip;嗯。你是不是有点累了？我们先回咖啡厅休息？</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "好，确实该歇一歇了。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-2",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "别担心，我没事。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-1",
+            "cid": [],
+            "pid": [
+              "4-1",
+              "4-2"
+            ],
+            "group": "5",
+            "title": "",
+            "content": "<p>漂泊者：（但是，刚才听到的那些话&hellip;&hellip;不像是简单的幻听。）</p>",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "58c77ed0-03cf-4e9c-97c7-7ea25d1dd7a8": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2"
+            ],
+            "pid": [],
+            "title": "丽露：啊，漂泊者，你回来了！是来确认千咲的情况吗？",
+            "content": ""
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "千咲怎么样？",
+            "content": "<p>丽露：千咲现在已经转入黑海岸的封闭式房间，正在接受监测和分阶段的治疗干预。</p>\n<p>丽露：因为身体长时间处在一种接近超频的高负荷状态，她的几项生命体征数据确实不太理想，简单来说就是&hellip;&hellip;身体还在撑着，但已经很疲惫了。</p>\n<p>丽露：不过！好消息是，我们已经找到了一些方法，从初步反应来看，还是有效果的。虽然没法立刻将她调整到最佳状态，但只要给我们一点时间，后续问题应该不会太大。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "只是随便转转。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1",
+              "2-2"
+            ],
+            "group": "3",
+            "title": "",
+            "content": "<p>丽露：那我先继续去分析千咲的身体状况了！啊不过&hellip;&hellip;情况大致是顺利的，只要再多给点时间，后续问题应该不会太大！</p>\n<p>在千咲的封闭治疗结束后，你再度回到了黑海岸群岛&hellip;&hellip;</p>\n<p>瓦莲京娜：漂泊者，来得正好，有些情况需要和你同步。</p>\n<p>瓦莲京娜：这段时间，黑海岸接管了穗波市所在的索诺拉，发现内部起了一些新的变化&mdash;&mdash;</p>\n<p>瓦莲京娜：穗波市和现实的连接变得稳定，内部的时间流速也已经和现实趋同。</p>\n<p>瓦莲京娜：但泰缇斯系统监测到，它近期和外界的频率交换，其实有相当一部分没有经过这道裂隙。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "这意味着什么？",
+            "content": "<p>瓦莲京娜：或许这只是叠加的数据误差所导致的误报，或许&hellip;&hellip;这表示着穗波市的索诺拉和外界还存在别的出入口。</p>\n<p>瓦莲京娜：此外，穗波市仍有许多原理不明的现象，仍未探明的危险区域。黑海岸会继续保持研究和监测。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "说起来，千咲的情况怎么样了？",
+            "content": "<p>瓦莲京娜：她刚在黑海岸完成了封闭治疗，情况还算乐观，她的拉贝尔曲线落在了正常区间，身上没留下显著的超频后遗症。</p>\n<p>瓦莲京娜：但不建议她今后再像在穗波市里那样激进地&hellip;&hellip;运用共鸣能力了。</p>\n<p>瓦莲京娜：请稍等。</p>\n<p>瓦莲京娜：&hellip;&hellip;嗯，嗯。我知道了。他正好在我这。</p>\n<p>瓦莲京娜：我接到消息，千咲在不久前向黑海岸报备行程后，独自前往了穗波市。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-1",
+            "cid": [
+              "7-1",
+              "7-2",
+              "7-3",
+              "7-4"
+            ],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "为什么要回穗波市？",
+            "content": "<p>瓦莲京娜：她没在外出申请里写具体的理由，只提到&ldquo;想回去看看&rdquo;。</p>\n<p>瓦莲京娜：这些天负责指引千咲的泰缇斯终端就留在新枝地，它应该知道一些情况。</p>\n<p>漂泊者：我先过去看看，以千咲的性格&hellip;&hellip;她很少会这么随性地行动。</p>\n<p>瓦莲京娜：还有什么想了解的吗？只要在我的信息权限范围内，我都可以解答。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "7-1",
+            "cid": [
+              "8-1"
+            ],
+            "pid": [
+              "6-1"
+            ],
+            "group": "7",
+            "title": "关于穗波市的时间流速……",
+            "content": "<p>瓦莲京娜：穗波市毁灭时被悲鸣的力量封存在特殊的索诺拉里，如同凝固的琥珀，内部的时间流速远远低于外界。</p>\n<p>瓦莲京娜：和乘霄山当时的情况有点像，在里面待上一天，外界可能已经过去了上百天。</p>\n<p>瓦莲京娜：但这样的状态并非一成不变。随着穗波市和现实的连接增强，它的时间流速也在恢复正常。</p>\n<p>瓦莲京娜：&hellip;&hellip;在你被那道裂隙吸入穗波市后，守岸人很担心你的安危，一直在密切观测穗波市的动向。</p>\n<p>瓦莲京娜：幸好，当时穗波市的时间流速已经和外界差别不大。对我们来说，你没离开太久。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "7-2",
+            "cid": [
+              "8-1"
+            ],
+            "pid": [
+              "6-1"
+            ],
+            "group": "7",
+            "title": "关于千咲在黑海岸的生活……",
+            "content": "<p>瓦莲京娜：休养期间，千咲申请了部分黑海岸数据库的查阅权限，主要是一些通识性的知识和流行资讯。</p>\n<p>瓦莲京娜：偶尔还能看到她在黑海岸的生活区域散步，观察着周围的设施，就像许多新枝刚来的时候。</p>\n<p>瓦莲京娜：更具体的情况，负责照顾千咲的泰缇斯终端应该知道。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "7-3",
+            "cid": [
+              "8-1"
+            ],
+            "pid": [
+              "6-1"
+            ],
+            "group": "7",
+            "title": "关于执花澄夏……",
+            "content": "<p>瓦莲京娜：澄夏确实是在多年前失踪的黑海岸成员，当年我们曾派出人力搜寻她的下落，但一直没有结果。</p>\n<p>瓦莲京娜：&hellip;&hellip;千咲在向我们提交的事件回顾中，详细地说明了澄夏在穗波市的行动和遭遇。</p>\n<p>瓦莲京娜：她是谬误收容所最为优秀的研究员之一，也是让黑海岸感到骄傲的精英执花。</p>\n<p>瓦莲京娜：星图会永远铭记她求索真相的崇高。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "7-4",
+            "cid": [
+              "8-1"
+            ],
+            "pid": [
+              "6-1"
+            ],
+            "group": "7",
+            "title": "我没有别的问题了。",
+            "content": "<p>瓦莲京娜：穗波市毁灭时被悲鸣的力量封存在特殊的索诺拉里，如同凝固的琥珀，内部的时间流速远远低于外界。</p>\n<p>瓦莲京娜：和乘霄山当时的情况有点像，在里面待上一天，外界可能已经过去了上百天。</p>\n<p>瓦莲京娜：但这样的状态并非一成不变。随着穗波市和现实的连接增强，它的时间流速也在恢复正常。</p>\n<p>瓦莲京娜：&hellip;&hellip;在你被那道裂隙吸入穗波市后，守岸人很担心你的安危，一直在密切观测穗波市的动向。</p>\n<p>瓦莲京娜：幸好，当时穗波市的时间流速已经和外界差别不大。对我们来说，你没离开太久。</p>\n<p>瓦莲京娜：休养期间，千咲申请了部分黑海岸数据库的查阅权限，主要是一些通识性的知识和流行资讯。</p>\n<p>瓦莲京娜：偶尔还能看到她在黑海岸的生活区域散步，观察着周围的设施，就像许多新枝刚来的时候。</p>\n<p>瓦莲京娜：更具体的情况，负责照顾千咲的泰缇斯终端应该知道。</p>\n<p>瓦莲京娜：澄夏确实是在多年前失踪的黑海岸成员，当年我们曾派出人力搜寻她的下落，但一直没有结果。</p>\n<p>瓦莲京娜：&hellip;&hellip;千咲在向我们提交的事件回顾中，详细地说明了澄夏在穗波市的行动和遭遇。</p>\n<p>瓦莲京娜：她是谬误收容所最为优秀的研究员之一，也是让黑海岸感到骄傲的精英执花。</p>\n<p>瓦莲京娜：星图会永远铭记她求索真相的崇高。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "8-1",
+            "cid": [
+              "9-1"
+            ],
+            "pid": [
+              "7-1",
+              "7-2",
+              "7-3",
+              "7-4"
+            ],
+            "group": "8",
+            "title": "",
+            "content": "<p>库休休：库库&hellip;&hellip;怎么走得这么急？该不该清理掉呢？</p>\n<p>库休休：啊，执花，你来了，千咲小姐已经走了有一段时间了。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "9-1",
+            "cid": [
+              "10-1"
+            ],
+            "pid": [
+              "8-1"
+            ],
+            "group": "9",
+            "title": "她离开前有什么特殊情况吗？",
+            "content": "<p>库休休：她就和往常一样在附近区域休息，但最近这段时间，她的心情指数不太高。</p>\n<p>库休休：之前她还在兴致勃勃地查阅各种资料，但这几天她经常会看着某个方向发呆，或者拿随身的小剪刀剪纸。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "10-1",
+            "cid": [
+              "11-1",
+              "11-2"
+            ],
+            "pid": [
+              "9-1"
+            ],
+            "group": "10",
+            "title": "剪纸……？",
+            "content": "<p>库休休：是的，剪纸手工品。你看，这边的桌上就留着一些。每次她都会收拾干净，但这次&hellip;&hellip;</p>\n<p>漂泊者：（看起来是剪纸时留下的边角料，还有这座剪到一半的高塔&hellip;&hellip;看起来很眼熟。）</p>\n<p>库休休：帮千咲小姐递交申请后，我还特意询问过她，要不要让人陪同。但她都拒绝了。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "11-1",
+            "cid": [
+              "12-1"
+            ],
+            "pid": [
+              "10-1"
+            ],
+            "group": "11",
+            "title": "情况我了解了。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "11-2",
+            "cid": [
+              "12-1"
+            ],
+            "pid": [
+              "10-1"
+            ],
+            "group": "11",
+            "title": "我会去找到千咲的。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "12-1",
+            "cid": [],
+            "pid": [
+              "11-1",
+              "11-2"
+            ],
+            "group": "12",
+            "title": "",
+            "content": "<p>库休休：好，千咲小姐就拜托了。</p>",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "9c1e33d3-246e-48eb-965b-f19a46dc3a45": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": ""
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "entryId": "1439221762898063360",
+        "linkType": 1
+      },
+      "nextLink": {
+        "entryId": "1452385119459971072",
+        "linkType": 1
+      },
+      "preLabel": "曙光停摆于荒地之上",
+      "nextLabel": "未知的既感"
+    }
+  }
+}

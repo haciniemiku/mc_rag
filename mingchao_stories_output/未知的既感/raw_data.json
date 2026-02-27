@@ -1,0 +1,542 @@
+{
+  "code": 200,
+  "msg": "操作成功",
+  "data": {
+    "id": "1452385119459971072",
+    "name": "未知的既感",
+    "orgFullName": "剧情任务组 > 剧情线",
+    "orgTree": {
+      "id": 3,
+      "key": null,
+      "name": "全部",
+      "parentId": null,
+      "level": 0,
+      "sort": null,
+      "children": [
+        {
+          "id": 332,
+          "key": null,
+          "name": "剧情任务组",
+          "parentId": null,
+          "level": 1,
+          "sort": null,
+          "children": [
+            {
+              "id": 316,
+              "key": null,
+              "name": "剧情线",
+              "parentId": null,
+              "level": 2,
+              "sort": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    },
+    "orgId": 316,
+    "orgIdList": [
+      316,
+      332,
+      3
+    ],
+    "content": {
+      "mediaList": [],
+      "title": "未知的既感",
+      "modules": [
+        {
+          "title": "",
+          "components": [
+            {
+              "idx": "7966c164-10fe-493d-a68c-ecebf5242962",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "离开穗波市，等待守岸人的回复",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "前往黑海岸的裂隙，进入穗波市",
+          "components": [
+            {
+              "idx": "adc505cc-d183-4372-8ff0-326c7a6355d3",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "与守岸人对话",
+          "components": [
+            {
+              "idx": "a0e35e30-57bb-4733-877b-4f53602350df",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "跟随守岸人前往空间隧道",
+          "components": [
+            {
+              "idx": "87b63585-3dca-4af3-a738-751ebfbd31fe",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "前往拉海洛",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "摆脱虚诞虫的追击",
+          "components": [
+            {
+              "idx": "e27a551e-e087-4c0d-8df9-2a69092fbe4f",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "前往拉海洛",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "离开穗波市，等待守岸人的回复",
+          "components": [],
+          "titleDisabled": true
+        }
+      ],
+      "story": {
+        "7966c164-10fe-493d-a68c-ecebf5242962": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": ""
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "entryId": "1439949994134757376",
+            "linkType": 1
+          },
+          "nextLink": {
+            "entryId": "1452394891366207488",
+            "linkType": 1
+          },
+          "preLabel": "星光流转于眼眸之间",
+          "nextLabel": "冰原下的星炬"
+        },
+        "87b63585-3dca-4af3-a738-751ebfbd31fe": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p class=\"MsoNormal\">波仔：哎呀呀&hellip;&hellip;还是来到这一天了啊。</p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;</span>波仔：坐标已经校准完毕了哦，保证让你们安安全全地落地。</p>\n<p class=\"MsoNormal\">守岸人：空间隧道已经准备完毕，只是&hellip;&hellip;现在宽度是一次能够容纳一个人通过的状态。</p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;</span>千咲：那&hellip;&hellip;请让我先过去吧。</p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;</span>千咲：波仔，守岸人&hellip;&hellip;谢谢你们这段时间的照顾。</p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;</span>波仔：哎呀&hellip;&hellip;不要这么严肃，放假的时候还是可以回来看看我的。</p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;</span>千咲：&hellip;&hellip;嗯，我会常回来看看的。</p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;</span>千咲：那么&hellip;&hellip;漂泊者，我们学院见。</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "学院见",
+                "content": "<p class=\"MsoNormal\">守岸人：空间隧道状态稳定&hellip;&hellip;她会平安抵达的。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "我也准备好了。",
+                "content": "<p class=\"MsoNormal\">守岸人：&hellip;&hellip;准备好了吗？我明白了。</p>\n<p class=\"MsoNormal\">守岸人：漂泊者&hellip;&hellip;一路平安。</p>\n<p class=\"MsoNormal\">漂泊者：嗯，我出发了。</p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "a0e35e30-57bb-4733-877b-4f53602350df": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>守岸人：漂泊者，你来了。</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1",
+                  "3-2"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "已经可以前往拉海洛了？",
+                "content": "<p>守岸人：嗯，在波仔的努力下，黑海岸已经成功确立了拉海洛与穗波市的相对坐标，搭建起了一条足够稳定的单行隧道。</p>\n<p>守岸人：&hellip;&hellip;如果你准备好了的话，随时都可以出发。</p>\n<p>漂泊者：&hellip;&hellip;怎么啦？</p>\n<p>守岸人：这个吗？千咲教给我制作这种饮品的方法，在尝试过程中，我发现将牛奶和糖的比例增加，味道也会更好&hellip;&hellip;</p>\n<p>守岸人：我刚刚做了一杯，你想&hellip;&hellip;尝试一下吗？</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "……当然",
+                "content": "<p>守岸人：嗯&hellip;&hellip;好。</p>\n<p>（醇香在口中蔓延，只是&hellip;&hellip;基本没有咖啡的味道了。）</p>\n<p>漂泊者：你刚才是在担心些什么吗？</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-2",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "我是说……你看上去有心事。",
+                "content": "<p>守岸人：&hellip;&hellip;嗯。</p>\n<p>守岸人：你的频率在我看来，仍然有着细微的波动。虽然并不明显，但我还是&hellip;&hellip;很担心。</p>\n<p>&nbsp;</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1",
+                  "3-2"
+                ],
+                "group": "4",
+                "title": "",
+                "content": "<p>守岸人：关于你即将前往的拉海....这次 「虚质磁暴 」的持续时间， 与以往的周期相比更长。</p>\n<p>守岸人：这是一个相对反常的状态，但目前黑海岸无法通过裂隙探测到更多那边的情况。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-1",
+                "cid": [
+                  "6-1"
+                ],
+                "pid": [
+                  "4-1"
+                ],
+                "group": "5",
+                "title": "你认为拉海洛可能出现了意外状况？",
+                "content": "<p>守岸人：与索拉里斯的其他地区不同，拉海洛并不存在引导文明的随著，在国际性科研组织「深空联合」抵达前，它一直被认为只是一片人迹罕至的冰原。</p>\n<p>守岸人：但鸣式始终盘踞于这片冰原之下，「虚质磁暴 」就是因为鸣式而产生的海蚀现象之一。</p>\n<p>守岸人：人类一旦接触到「虚质磁暴 」，自身频率会开始衰减，直至消逝&hellip;&hellip;这只是我的推测，但你的频率流失，或许也与异常的虚质磁暴周期有关。</p>\n<p>守岸人：不过&hellip;&hellip;「深空联合」对稳定频率的研究也处于世界前列，到了那里，你应该能够得到更细致的检查和处理。</p>\n<p>漂泊者：看来，不论是问题的源头还是解决的方法&hellip;&hellip;都只有在那里才能找到了。</p>\n<p>守岸人：嗯，现在前往拉海洛的道路已经敞开，也到了该回去的时候了。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "6-1",
+                "cid": [
+                  "7-1"
+                ],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "这些是……",
+                "content": "<p class=\"MsoNormal\">守岸人：前往星炬学院所必须的一些文书资料。进入拉海洛需要通过严格的审批程序，黑海岸为你准备的方式&hellip;&hellip;是作为&ldquo;学生&rdquo;直接入学。</p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;</span>守岸人：这封录取通知书，是你曾经留下的，如今仍然有效，它是你这次通行拉海洛的证明，请务必保管好。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "7-1",
+                "cid": [
+                  "8-1",
+                  "8-2"
+                ],
+                "pid": [
+                  "6-1"
+                ],
+                "group": "7",
+                "title": "谢谢你为我准备这些。",
+                "content": "<p class=\"MsoNormal\">漂泊者：看来这次出远门，是要&ldquo;重返校园&rdquo;了。</p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;</span>守岸人：进入拉海洛之后，我会暂时无法通过通讯联系到你，但我仍然会在这里守望你，等你把新的故事带回来，讲给我听。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "8-1",
+                "cid": [
+                  "9-1"
+                ],
+                "pid": [
+                  "7-1"
+                ],
+                "group": "8",
+                "title": "别担心，会顺利的。",
+                "content": "<p class=\"MsoNormal\">守岸人：嗯&hellip;&hellip;请务必小心。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "8-2",
+                "cid": [
+                  "9-1"
+                ],
+                "pid": [
+                  "7-1"
+                ],
+                "group": "8",
+                "title": "说不定我会想办法瞬移回来看你。",
+                "content": "<p>守岸人：嗯&hellip;&hellip;？如果是这样就好了。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "9-1",
+                "cid": [],
+                "pid": [
+                  "8-1",
+                  "8-2"
+                ],
+                "group": "9",
+                "title": "",
+                "content": "<p>千咲：抱歉，我来晚了&hellip;&hellip;</p>\n<p>守岸人：&hellip;&hellip;嗯，是时候出发了。</p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "adc505cc-d183-4372-8ff0-326c7a6355d3": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>守岸人（通讯中）：漂泊者&hellip;&hellip;你还好吗？</p>\n<p>守岸人（通讯中）：通往拉海洛的空间隧道趋于稳定，现在已经是随时能够启程的状态。</p>\n<p>守岸人（通讯中）：如果你准备好了，我在列车长咖啡厅这里等你。</p>\n<p>守岸人（通讯中）：&hellip;&hellip;随时都可以。</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "e27a551e-e087-4c0d-8df9-2a69092fbe4f": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p class=\"MsoNormal\">？？？：需要一个能利用地形把它挡住的地方&hellip;&hellip;</p>\n<p class=\"MsoNormal\">漂泊者：那边如何？</p>\n<p class=\"MsoNormal\">？？？：哈&hellip;&hellip;没问题！交给我。</p>\n<p class=\"MsoNormal\">？？？：好机会，就是现在！</p>\n<p class=\"MsoNormal\">？？？：哈，安全搞定！</p>\n<p class=\"MsoNormal\">漂泊者：那边的建筑是&hellip;&hellip;</p>\n<p class=\"MsoNormal\">？？？：嗯？那个啊&hellip;&hellip;就是我们的目的地，星炬学院，怎么样，很壮观吧？</p>\n<p class=\"MsoNormal\">漂泊者：的确&hellip;&hellip;有些超乎想象。</p>\n<p class=\"MsoNormal\">琳奈：刚才太匆忙，没来得及自我介绍，我叫琳奈！</p>\n<p class=\"MsoNormal\">琳奈：我刚才看到了你的录取通知书&hellip;&hellip;你是新入学的学生？可以告诉我你的名字吗？</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "漂泊者。",
+                "content": "<p class=\"MsoNormal\">琳奈：嗯，我记住了，漂泊者。</p>\n<p class=\"MsoNormal\">琳奈：这里还不是完全安全，我们边走边说。</p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        }
+      }
+    },
+    "currentVersion": "5.0",
+    "onlineVersion": "5.0",
+    "browseCount": 6527,
+    "lastUpdateTime": "2025-12-29",
+    "lastEditUserName": "Kimim",
+    "userScoreList": [
+      {
+        "userId": 10267154,
+        "userName": "Kimim",
+        "headCode": "97",
+        "userHeadUrl": "https://prod-alicdn-community.kurobbs.com/headCode/XXl2.png",
+        "status": 0,
+        "score": 70,
+        "userCenterUrl": "https://www.kurobbs.com/person-center?id=10267154",
+        "lastOperator": true
+      }
+    ],
+    "status": 2,
+    "checkStatus": 0
+  },
+  "traceId": "83dfe2be-ec18-4912-ab64-6688add45516",
+  "success": true
+}

@@ -1,0 +1,640 @@
+{
+  "code": 200,
+  "msg": "操作成功",
+  "data": {
+    "id": "1316542410030260224",
+    "name": "万象新声·下",
+    "orgFullName": "剧情任务组 > 剧情线",
+    "orgTree": {
+      "id": 3,
+      "key": null,
+      "name": "全部",
+      "parentId": null,
+      "level": 0,
+      "sort": null,
+      "children": [
+        {
+          "id": 332,
+          "key": null,
+          "name": "剧情任务组",
+          "parentId": null,
+          "level": 1,
+          "sort": null,
+          "children": [
+            {
+              "id": 316,
+              "key": null,
+              "name": "剧情线",
+              "parentId": null,
+              "level": 2,
+              "sort": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    },
+    "orgId": 316,
+    "orgIdList": [
+      316,
+      332,
+      3
+    ],
+    "content": {
+      "mediaList": [],
+      "title": "万象新声·下",
+      "modules": [
+        {
+          "title": "寻找合适的残象",
+          "components": [
+            {
+              "idx": "ccd65d88-33e8-46cf-afc9-67f023de95ac",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "击败坚岩斗士",
+          "components": [
+            {
+              "idx": "f6bbc83e-7bf5-4eca-8c6c-56308e6fc5d7",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "吸收残响，获得声骸",
+          "components": [
+            {
+              "idx": "e08a8fb5-5d3a-4445-8ed2-d59c9344da8f",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "装配声骸",
+          "components": [
+            {
+              "idx": "20944610-113b-4804-a8da-c8c11288b016",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "前往今州城",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "（可选）激活小型信标",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "前往今州城",
+          "components": [
+            {
+              "idx": "9b94d321-9b10-45e8-96be-c26bdab87b2b",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "",
+          "components": [],
+          "titleDisabled": true
+        }
+      ],
+      "story": {
+        "20944610-113b-4804-a8da-c8c11288b016": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<p>炽霞：唔&hellip;&hellip;看来终端虽然样式不同，但和我们的终端功能基本上差不多嘛。</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "9b94d321-9b10-45e8-96be-c26bdab87b2b": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1",
+                  "2-2",
+                  "2-3",
+                  "2-4"
+                ],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：啊，今州城，就在前面了！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：&hellip;&hellip;漂泊者？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：啊，找到你了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：&hellip;&hellip;我亲爱的。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：&hellip;&hellip;命&middot;定&middot;之&middot;种。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：好叻，接下来怎么安排？</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">炽霞：先带漂泊者去撮一顿，怎么样？</p>\n</div>\n</div>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "好主意。",
+                "content": ""
+              },
+              {
+                "id": "2-2",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "先去边庭。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "2-3",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "先去检查。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "2-4",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "正事要紧。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1",
+                  "4-2",
+                  "4-3",
+                  "4-4"
+                ],
+                "pid": [
+                  "2-1",
+                  "2-2",
+                  "2-3",
+                  "2-4"
+                ],
+                "group": "3",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷：我需要先返回研究院一趟。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷：云陵谷异变，无音区复苏，海蚀现象频发，这些异常情况信息，也需要有人及时同步上报。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：那我先前往边庭上报，也将漂泊者的会面手续一并办理了。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "还有手续？",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：作为今州的政治中心和类书（数据库）的所在地。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：边庭毕竟还是官署，也是要地，面见令尹虽不是什么难事，但总归还是有必要的规范流程要走。</p>\n</div>"
+              },
+              {
+                "id": "4-2",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "这么麻烦？",
+                "content": "<p>秧秧：虽然需要一些时间，但其实手续并不繁琐。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-3",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "那我？",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-4",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "好。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-1",
+                "cid": [
+                  "6-1",
+                  "6-2",
+                  "6-3"
+                ],
+                "pid": [
+                  "4-1",
+                  "4-2",
+                  "4-3",
+                  "4-4"
+                ],
+                "group": "5",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：虽然需要一些时间，但其实手续并不繁琐。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：那我先带漂泊者去中枢信标登记？然后到处逛逛？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：总不能漂泊者刚来到今州，就让她杵在边庭那块干等着吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：但凡等一刻钟，都不符合我大今州热情好客、温柔体贴的城市人民风貌！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：那待我将会面手续办妥，就麻烦炽霞领漂泊者到边庭了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：放心放心，包在我身上！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷：研究院那，我会和共鸣医疗科打好招呼，你身上的异常，最好做一个整体的检查。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷：会面之后，倘若没有其他安排，来研究院一趟吧。</p>\n</div>"
+              },
+              {
+                "id": "6-1",
+                "cid": [
+                  "7-1"
+                ],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "身体检查？",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷：以身体检查为主，会优先排查排除病变可能。倘若并无明显异常，则会需要监测并记录你的体征信息和身体数据，用以分析研究，获取结论。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷：当然，监测和记录是在征得你同意的前提下。</p>\n</div>"
+              },
+              {
+                "id": "6-2",
+                "cid": [
+                  "7-1"
+                ],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "研究院？",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷：今州平常的医馆药铺，应当处理不了你的情况。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷：而你的身体必然会引起很多人的兴趣。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷：也包括我。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：白芷，这话有点令人误解了&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷：嗯，的确表述还不够严谨准确，我重新斟酌措辞。</p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "6-3",
+                "cid": [
+                  "7-1"
+                ],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "可以。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "7-1",
+                "cid": [
+                  "8-1",
+                  "8-2",
+                  "8-3"
+                ],
+                "pid": [
+                  "6-1",
+                  "6-2",
+                  "6-3"
+                ],
+                "group": "7",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：话不多说！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：还耽搁什么，要是行动够快，我还能带漂泊者到处逛逛！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">炽霞：今州城里有许多有趣的，太平乐、英雄戏、折子书、拳道赛&hellip;&hellip;还有各式各样好吃的，只有你想不到，没有城内找不着的。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "8-1",
+                "cid": [],
+                "pid": [
+                  "7-1"
+                ],
+                "group": "8",
+                "title": "那走吧。",
+                "content": ""
+              },
+              {
+                "id": "8-2",
+                "cid": [],
+                "pid": [
+                  "7-1"
+                ],
+                "group": "8",
+                "title": "分头行动。",
+                "content": ""
+              },
+              {
+                "id": "8-3",
+                "cid": [],
+                "pid": [
+                  "7-1"
+                ],
+                "group": "8",
+                "title": "晚点见。",
+                "content": ""
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "ccd65d88-33e8-46cf-afc9-67f023de95ac": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<p>炽霞：刚好这一路，说过给漂泊者整个能吸收的，炽霞我说到做到，这就开始地毯式搜捕！</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "entryId": "1304475756600438784",
+            "linkType": 1
+          },
+          "nextLink": {
+            "entryId": "1317978599912316928",
+            "linkType": 1
+          },
+          "preLabel": "万象新声·上",
+          "nextLabel": "嘤鸣初相召"
+        },
+        "e08a8fb5-5d3a-4445-8ed2-d59c9344da8f": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：大成功！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：虽然看不出漂泊者的终端是哪里的样式，但看来一样好用啊~</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "f6bbc83e-7bf5-4eca-8c6c-56308e6fc5d7": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1",
+                  "2-2",
+                  "2-3"
+                ],
+                "title": "",
+                "content": "<p>白芷：无法复现吗？</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "（摇头。）",
+                "content": ""
+              },
+              {
+                "id": "2-2",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "没有感觉。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "2-3",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "没有之前被牵引的感受。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [],
+                "pid": [
+                  "2-1",
+                  "2-2",
+                  "2-3"
+                ],
+                "group": "3",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：难道只有厉害的残象漂泊者才能肉身吸收吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：或者需要是特定种类？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：还是&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：要不然用终端试试？</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        }
+      }
+    },
+    "currentVersion": "2.0",
+    "onlineVersion": "2.0",
+    "browseCount": 5497,
+    "lastUpdateTime": "2025-02-25",
+    "lastEditUserName": "Sanma",
+    "userScoreList": [
+      {
+        "userId": 10020855,
+        "userName": "Sanma",
+        "headCode": "122",
+        "userHeadUrl": "https://prod-alicdn-community.kurobbs.com/newHead/aki/taoqi.png",
+        "status": 0,
+        "score": 32,
+        "userCenterUrl": "https://www.kurobbs.com/person-center?id=10020855",
+        "lastOperator": true
+      }
+    ],
+    "status": 2,
+    "checkStatus": 0
+  },
+  "traceId": "0dc8a44a-ec6a-480e-9b40-b8fe0955d419",
+  "success": true
+}

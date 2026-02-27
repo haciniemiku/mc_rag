@@ -1,0 +1,3066 @@
+{
+  "code": 200,
+  "msg": "操作成功",
+  "data": {
+    "id": "1319417602112999424",
+    "name": "庭际刀刃鸣",
+    "orgFullName": "剧情任务组 > 剧情线",
+    "orgTree": {
+      "id": 3,
+      "key": null,
+      "name": "全部",
+      "parentId": null,
+      "level": 0,
+      "sort": null,
+      "children": [
+        {
+          "id": 332,
+          "key": null,
+          "name": "剧情任务组",
+          "parentId": null,
+          "level": 1,
+          "sort": null,
+          "children": [
+            {
+              "id": 316,
+              "key": null,
+              "name": "剧情线",
+              "parentId": null,
+              "level": 2,
+              "sort": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    },
+    "orgId": 316,
+    "orgIdList": [
+      316,
+      332,
+      3
+    ],
+    "content": {
+      "mediaList": [],
+      "title": "庭际刀刃鸣",
+      "modules": [
+        {
+          "title": "回到今州城，与炽霞会合",
+          "components": [
+            {
+              "idx": "ec54f9e2-7ac7-41c4-90ba-f863fc61519e",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "解开日晷的机关谜题",
+          "components": [
+            {
+              "idx": "bb1067ac-f095-4775-b1ce-e72543be1cf4",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "进入边庭，寻找瑝览类书的入口",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "查看「瑝览类书」路线图",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "挪动正确方位的花瓶",
+          "components": [
+            {
+              "idx": "17649cfa-af5b-4c32-97dc-b7ef15ff8489",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "通过暗门，进入「瑝览类书」",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "在「瑝览类书」内调查等待",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "打开大门",
+          "components": [
+            {
+              "idx": "8e14065b-48ca-43ff-a2ec-dfd076ed7372",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "前往中庭",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "查看宫音台",
+          "components": [
+            {
+              "idx": "9bc59194-8484-46d8-85f7-014bf5cc4c60",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "收集音斛·南宫",
+          "components": [
+            {
+              "idx": "4d911b67-7f6e-4c27-834b-e0bdbc754933",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "放置音斛·南宫",
+          "components": [
+            {
+              "idx": "cb315415-8256-4db2-b0ea-396f978e7911",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "启动龙鼓",
+          "components": [
+            {
+              "idx": "9a8c8c92-a649-424b-bc78-c0f318a6a432",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "击打龙钟，将其调整至正确方位",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "到达新的房间",
+          "components": [
+            {
+              "idx": "e60525a4-304b-422d-9067-67d2e0fb7a05",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "清理残像",
+          "components": [
+            {
+              "idx": "bd435e4c-f365-476a-bdc3-07fe8d3e7ec7",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "查看关于下一个音斛的线索",
+          "components": [
+            {
+              "idx": "3b054f26-e260-4d41-9696-283e6bc52435",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "拾取音斛·太蔟",
+          "components": [
+            {
+              "idx": "7f65f48c-2960-41a3-a3ca-61403226b91c",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "接入音斛·太蔟",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "查看下方的龙鼓",
+          "components": [
+            {
+              "idx": "4a69dcf1-0cda-471a-b58f-b2eda76bf48e",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "击打龙钟，将其调整至正确方位",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "乘坐电梯前往上层",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "前往乐声传来的房间",
+          "components": [
+            {
+              "idx": "0d161942-839e-46f9-8bd5-d33180f40d98",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "清理守卫",
+          "components": [
+            {
+              "idx": "ff047c0b-385a-449a-aac2-c877c9be7593",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "拾取音斛·姑洗",
+          "components": [
+            {
+              "idx": "7b4c2177-ea2b-485c-bb34-10a44477fc1f",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "开启机关门",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "启动龙鼓",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "接入音斛·姑洗",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "击打龙钟，将其调整至正确方位",
+          "components": [
+            {
+              "idx": "629d0349-6785-4ff8-80f1-ed67c9323f2c",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "调查开启的房间",
+          "components": [
+            {
+              "idx": "b072f8fe-a728-418b-ab32-1d6f7fdc29f4",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "拾取音斛·林钟",
+          "components": [
+            {
+              "idx": "7444c10c-7eb4-4711-92f9-c271b53c9e37",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "接入音斛·林钟",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "调查底层平台",
+          "components": [
+            {
+              "idx": "37406138-53cd-4077-8c4b-d633152d6a7d",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "清理守卫",
+          "components": [
+            {
+              "idx": "39a1c803-e6e7-4190-9e42-33c8a3d2adab",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "拾取音斛·黄钟",
+          "components": [
+            {
+              "idx": "5ca6425c-a166-4d8b-9636-885c8b1ef076",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "启动龙鼓",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "乘坐电梯前往上层",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "接入音斛·黄钟",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "前往数据库",
+          "components": [
+            {
+              "idx": "01173bc3-8faf-4695-a533-e6fe064c0d38",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "接入数据库，寻找信息",
+          "components": [
+            {
+              "idx": "9e63d8f7-190e-463e-a043-81426560d983",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "击败伤痕",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "击败狂妄的红衣男子",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "击败伤痕・异生梦魇",
+          "components": [
+            {
+              "idx": "71d95bdf-509a-4783-b6fd-01a6f905e1a1",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "进入「瑝览类书」数据库",
+          "components": [
+            {
+              "idx": "1012918c-9912-46d0-8c10-ba3611ef3867",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        }
+      ],
+      "story": {
+        "01173bc3-8faf-4695-a533-e6fe064c0d38": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<p>漂泊者：（这样一来，通往数据库的大门就能打开了。）</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "0d161942-839e-46f9-8bd5-d33180f40d98": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<p>漂泊者：（那边传来的乐声&hellip;&hellip;是音斛？）</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "1012918c-9912-46d0-8c10-ba3611ef3867": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1",
+                  "2-2",
+                  "2-3",
+                  "2-4",
+                  "2-5"
+                ],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：伤痕，你已在瑝珑境内犯下数十起重罪，我现在以今令尹的身份将你逮捕，你有什么想说的吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：呵，我想说的？我倒是很想再给你们讲一个故事&hellip;&hellip;但我相信，这并不是你们想要的回答。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：尊敬的令尹大人，无聊的开场白就免了吧，有什么想问的，直接问吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：既然如此，接下来的时间里，你只能回答我们的问题。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">伤痕：&hellip;&hellip;那么，你们想要知道些什么？</p>\n</div>\n</div>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "你们为什么要囚禁「角」？",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：「角」，是能够预知并修正未来的 岁主。祂的存在，是我们实现崇高愿景的绊脚石。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：而我们想要做的，不过是撕碎那既定的、虚假的未来，将未来掌握在我们自己手中罢了。</p>\n</div>"
+              },
+              {
+                "id": "2-2",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "你们为什么执着于唤醒鸣式？",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "2-3",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "悲鸣究竟是什么？",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "2-4",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "你们跟踪我的目的是什么？",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "2-5",
+                "cid": [
+                  "8-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "我没什么想问的了。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "group": "3",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：鸣式&hellip;&hellip;是打开新世界的钥匙。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：祂们的齐聚，将为这个世界带来&ldquo;真正的悲鸣&rdquo;，将我们带入一个&hellip;&hellip;崭新的世界。</p>\n</div>"
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1",
+                  "2-3"
+                ],
+                "group": "4",
+                "title": "",
+                "content": "<p>伤痕：灾难？诅咒？天罚？这是人们对悲鸣再肤浅不过的认知&hellip;&hellip;</p>\n<p>伤痕：悲鸣带来死亡，带来毁灭，带来万千残响。</p>\n<p>伤痕：它们在悲鸣之中不断地反射、交织、重叠。新的生命，新的文明&hellip;&hellip;只有在悲鸣之中才能诞生。</p>"
+              },
+              {
+                "id": "5-1",
+                "cid": [
+                  "6-1",
+                  "6-2"
+                ],
+                "pid": [
+                  "4-1",
+                  "2-4"
+                ],
+                "group": "5",
+                "title": "",
+                "content": "<p>伤痕：我们寻找你的目的，自始至终只有一个&hellip;&hellip;那便是希望你能够加入我们。</p>"
+              },
+              {
+                "id": "6-1",
+                "cid": [
+                  "7-1"
+                ],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "和我有什么关系？",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：明明已经身处风暴中心，却对自己的价值一无所知&hellip;&hellip;该说你是天真，还是迟钝呢？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：不过怎样都好，我们对你的兴趣，并不会因为这些无谓的细节而磨灭。</p>\n</div>"
+              },
+              {
+                "id": "6-2",
+                "cid": [
+                  "7-1"
+                ],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "如果我拒绝呢？",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "7-1",
+                "cid": [
+                  "8-1"
+                ],
+                "pid": [
+                  "6-1",
+                  "6-2"
+                ],
+                "group": "7",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：那么，我们只好用尽一切办法，将你置之死地了&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：但我相信，你不会拒绝我们的&hellip;&hellip;一切只是时机未到。</p>\n</div>"
+              },
+              {
+                "id": "8-1",
+                "cid": [
+                  "9-1"
+                ],
+                "pid": [
+                  "7-1",
+                  "2-5"
+                ],
+                "group": "8",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：囚禁「角」，唤醒鸣式，加速悲鸣&hellip;&hellip;仅凭这些目的，也足以令你们成为今州，乃至全人类的敌人。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：也劝你们收起招揽漂泊者的这份心思，漂泊者是今州的客人，我不会让你们伤害她。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：好一份冠冕堂皇的说辞！鸣式的复苏近在眼前，今州早已内外交困，无暇自保，你们，又能强撑多久？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：既然我们能够粉碎你们的计划一次，那我们同样也能够做到无数次。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：最后一个问题。牵制「角」，跟踪漂泊者，并在祈池村设下埋伏，仅凭你一人，不可能同时做到这么多事情。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：除非&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：除非，如今位于今州境内的残星会会监，并不只有我一位，对吗？哈哈哈哈哈&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：对于你们的问题，我已经拿出了我全部的诚意。你们知晓与否，对我而言都无所谓。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：你们大可试着来用尽全力阻止我们&hellip;&hellip;但历史的滚滚车轮，绝不会因此更辙易道。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：现在，我倒是想反问你们一个问题&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：你们始终认为，「角」的失踪是由我们的行动促成。令尹大人，难道你就不好奇&hellip;&hellip;这背后的真实原因吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：关于「角」&hellip;&hellip;你知道多少？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：想知道吗？来，令尹大人，这个秘密，我只告诉你一个人&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">散华：放肆！令尹大人&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：不可能&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：意外吗？惊讶吗？更加出人意料的，还在后面&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：如果我说，这是「角」早已做出的预言&hellip;&hellip;你会怎么想？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：能够洞悉未来的 岁主，却在此刻抛弃了你们，难道还不足以说明一切吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：我们所做的一切&hellip;&hellip;不过是在即将燃起的熊熊大火之上，添加一些小小的柴薪罢了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：我们来打个赌吧，漂泊者。我知道你一直在寻找有关自己身份与过去的线索，至于我所能告诉你的，则是&mdash;&mdash;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">散华：小心！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：你是能与我们并肩的&ldquo;黑羊&rdquo;，拥有与我们一同走入这个新世界，乃至改变这个世界的权利&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：等到你发现关于你自己真相的那一天，你会义无反顾地加入我们。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：残星会，永远会为你留出一席之地。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：而我，真诚期待着那一天的到来&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：呵呵呵呵呵呵呵&hellip;&hellip;哈哈哈哈哈哈！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕被关入了监牢&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">今汐：&hellip;&hellip;</p>\n</div>\n</div>"
+              },
+              {
+                "id": "9-1",
+                "cid": [
+                  "10-1"
+                ],
+                "pid": [
+                  "8-1"
+                ],
+                "group": "9",
+                "title": "伤痕对你说了什么？",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：抱歉，漂泊者，伤痕所说的，关于「角」的事情，恐怕会关系到今州命脉，我暂时还不能透露给你。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">今汐：究竟是他离间人心的障眼法，还是&hellip;&hellip;一切，我必须要先找到「角」亲自确认才行。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "10-1",
+                "cid": [
+                  "11-1",
+                  "11-2"
+                ],
+                "pid": [
+                  "9-1"
+                ],
+                "group": "10",
+                "title": "「角」对于今州来说有多重要？",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：「角」是今州的守护岁主，承担着辅佐令尹理政的责任。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">今汐：虽然最终的决策权仍在令尹手中，但如果没有「角」，仅由我一人独断的话，我并不敢保证自己的决策一定合理。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "11-1",
+                "cid": [
+                  "12-1"
+                ],
+                "pid": [
+                  "10-1"
+                ],
+                "group": "11",
+                "title": "在没有「角」的这段时间里，你做的也很好。",
+                "content": "<p>今汐：谢&hellip;&hellip;谢谢你的肯定。</p>"
+              },
+              {
+                "id": "11-2",
+                "cid": [
+                  "12-1"
+                ],
+                "pid": [
+                  "10-1"
+                ],
+                "group": "11",
+                "title": "「角」的想法就一定是正确的吗？",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "12-1",
+                "cid": [
+                  "13-1",
+                  "13-2"
+                ],
+                "pid": [
+                  "11-1",
+                  "11-2"
+                ],
+                "group": "12",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：「角」有着预知未来的能力，就目前来看，一切都在按照祂所预知的轨迹发展。</p>\n<p class=\"py-1 px-2 align-middle\">今汐：祂的决策可能不一定&ldquo;正确&rdquo;，但一定是最有益于瑝珑的决策。</p>\n</div>"
+              },
+              {
+                "id": "13-1",
+                "cid": [
+                  "14-1"
+                ],
+                "pid": [
+                  "12-1"
+                ],
+                "group": "13",
+                "title": "或许祂的离开也是为了让未来步入正轨。",
+                "content": ""
+              },
+              {
+                "id": "13-2",
+                "cid": [
+                  "14-1"
+                ],
+                "pid": [
+                  "12-1"
+                ],
+                "group": "13",
+                "title": "或许「角」是在指引你“反驳”祂。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "14-1",
+                "cid": [
+                  "15-1",
+                  "15-2"
+                ],
+                "pid": [
+                  "13-1",
+                  "13-2"
+                ],
+                "group": "14",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：&hellip;&hellip;「角」的用意，或许只有找到祂才能揭晓。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：另外，漂泊者，「角」曾嘱托过我，要我将这一信息传达给你&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">今汐：&ldquo;瀑雨逆流之时，苏醒之人，请前往北落野，寻找夜归的将军，忌炎。&rdquo;</p>\n</div>\n</div>"
+              },
+              {
+                "id": "15-1",
+                "cid": [
+                  "16-1"
+                ],
+                "pid": [
+                  "14-1"
+                ],
+                "group": "15",
+                "title": "要我找到忌炎？",
+                "content": ""
+              },
+              {
+                "id": "15-2",
+                "cid": [
+                  "16-1"
+                ],
+                "pid": [
+                  "14-1"
+                ],
+                "group": "15",
+                "title": "要我前往北落野？",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "16-1",
+                "cid": [
+                  "17-1",
+                  "17-2",
+                  "17-3"
+                ],
+                "pid": [
+                  "15-1",
+                  "15-2"
+                ],
+                "group": "16",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：是的。忌炎将军，正在北落野率军抗击残象潮，那里也是我们对抗鸣式的最前线。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：但也正是因此，北落野实在是太过危险了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：「角」既然明确提到了&ldquo;瀑雨逆流之时&rdquo;&hellip;&hellip;那么前往北落野的时机，至少不会是现在。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：我明白，寻找与你身份有关的线索是你此行最大的目的，我也不希望你这一趟空手而归&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：不知你是否听说过一个名为「黑海岸」的组织？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：他们是当今世界最神秘的组织之一，对于成员的选拔也有着极为独特的筛选机制，一般不会轻易向他人吐露身份。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：在你苏醒的那一天，黑海岸的成员曾经暗中联系过我，向我询问过与你有关的信息。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：但你可以放心，黑海岸有着一套能够预测悲鸣规律的系统，与各国都建立了重要的合作关系。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：他们虽然神秘，但却并非是残星会那种极端组织。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：黑海岸的成员现在应该尚在今州境内，对你持续保持着关注。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：之前也是因为有他们在暗中牵线，我们才能够顺利会面。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">今汐：这朵黑花，便是他们的信物。黑海岸的成员都会把它戴在身上。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "17-1",
+                "cid": [
+                  "18-1"
+                ],
+                "pid": [
+                  "16-1"
+                ],
+                "group": "17",
+                "title": "他们在今州做什么？",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：黑海岸曾帮助我们分析过月相与鸣式的关系，给予了我们非常多的帮助。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：如今他们到来，也是为了将&ldquo;鸣式即将复苏&rdquo;的信息传达给我们。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：但至于他们具体的，更深层的目的，我也并不了解。</p>\n</div>"
+              },
+              {
+                "id": "17-2",
+                "cid": [
+                  "18-1"
+                ],
+                "pid": [
+                  "16-1"
+                ],
+                "group": "17",
+                "title": "怎么会有这么多人在关注我？",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：漂泊者，经历了先前一系列的事件，你对自己的经历与身份，应该也有了一个大致的了解了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：你在沉睡之前，一定参与过诸多历史事件，对这个世界的走向或多或少产生了影响。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：只是&hellip;&hellip;最终的谜底，还是要依靠你自己来揭开。</p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "17-3",
+                "cid": [
+                  "18-1"
+                ],
+                "pid": [
+                  "16-1"
+                ],
+                "group": "17",
+                "title": "把信物戴在身上一点也不神秘吧？",
+                "content": "<p>今汐：能在如此张扬的行为之下隐藏住自己的身份，也侧面证明了他们的手段非同一般吧。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "18-1",
+                "cid": [
+                  "19-1"
+                ],
+                "pid": [
+                  "17-1",
+                  "17-2",
+                  "17-3"
+                ],
+                "group": "18",
+                "title": "",
+                "content": "<p>今汐：这张照片你可以留下。在「角」回归之前，我想你不妨试着从黑海岸入手。</p>\n<p>今汐：漂泊者！你怎么了？</p>"
+              },
+              {
+                "id": "19-1",
+                "cid": [
+                  "20-1"
+                ],
+                "pid": [
+                  "18-1"
+                ],
+                "group": "19",
+                "title": "我看见了……自己戴着黑花的画面……",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：果然，你的过去，一定与这个组织有着千丝万缕的联系。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：如今你的一举一动，都可能在被残星会的会监密切监视。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：若能找到黑海岸的成员，也能为自己多添一份助力。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：我也一定会尽快将「角」寻回，并将我们所知的一切都告知于你。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">今汐：这是我与你的约定。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "20-1",
+                "cid": [],
+                "pid": [
+                  "19-1"
+                ],
+                "group": "20",
+                "title": "一言为定。",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：嗯，一言为定。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：散华。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">散华：令尹大人，我在。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：我需要离开今州一段时间，这期间，边庭的事务就交给你了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">散华：我明白了，那我是否还需要和往常一样，保护那位漂泊者？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：不必了，此番离开，我与长离都将不在今州，会有更多琐事需要你周旋处理，维持局面。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">散华：长离大人要准备启程了吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">散华：可之前中曲台地遇袭一事毫无征兆，恐怕&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：先前中曲台地一事，我们虽早已提醒过漂泊者残星会的存在，但残星会手段的诡谲程度还是超出了我们的预料。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：如果再次遇到伤痕这般难缠的敌人，她终究需要依靠自己的力量解决。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：相信我，也相信那位漂泊者吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">散华：我明白了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">散华：令尹大人&hellip;&hellip;不论你做出怎样的决定，只要你需要，我随时都在。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：审讯和会面都已经结束了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：伤痕需要的听众只是今州的令尹与那位重要的客人，既已知晓他的目的，那随他心意便是。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：那位漂泊者读懂了你我寄托在信物上的全部意图，你作为策士，出于礼数，也应与她相见。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：那么繁琐隐晦的方式&hellip;&hellip;恐怕也只有那位漂泊者有耐心了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：莫见乎隐，莫显乎微，那位漂泊者明白。况且&hellip;&hellip;对手未知的手谈才更有趣些。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：只要她按照「角」所言前行，我们总会相见的。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：所以&hellip;&hellip;关于「角」，伤痕对你说了些什么？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：&hellip;&hellip;「角」预言，祂与我之间，必有一战。这一战，将直接关系到今州未来的走向。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：还真是&hellip;&hellip;出人意料，但你看上去似乎并不怎么惊讶？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：与「角」交谈时的种种细节，还有祂留下的讯息&hellip;&hellip;我心中早有征兆，只是一直对此怀有疑问。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：是吗&hellip;&hellip;你最后一次感应到的，「角」所在的方位是哪里？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：是&hellip;&hellip;乘霄山。不同于如今的今州，那座山仍然在宁静之中&ldquo;停滞&rdquo;。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：「角」第一次出现的地方，亦是最初今州人的居所&hellip;&hellip;原来如此。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：我会尽快将「角」寻回。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：此为连环劫，举棋不定乃是大忌，今令尹，眼下恐怕还有更重要的事情吧？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：&hellip;&hellip;我明白，事关今州命脉，我绝不会允许事情有半点闪失。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：从伤痕口中听到此事，会令你的打算有所动摇吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：并无影响。伤痕的话于我而言或许并非挑衅与离间，仅仅是令埋下的种子发芽罢了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：我是「角」亲自选定的令尹。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：或许祂想要令我明白的，并不在于我与祂终会兵戎相见，而是此战承载着今州城的未来。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：既然如此，我要做的事情没有变化，依旧是以自己的本心行事，履行令尹的责任。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：&hellip;&hellip;是吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：经起秋毫之末，挥之于太山之本，长离老师，这是你曾对今汐的教诲，不是吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：此行，我必须独自前往。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">长离：&hellip;&hellip;甚好。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">长离：既已行至中盘，这一子，是该交由你落下了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">长离：这次，我便作你的棋子，今汐。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">长离：不论这次危机是否跟以往都不同，我一直都会在你身边。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：&hellip;&hellip;执棋者，又或是一枚棋子，又有谁能分的清明？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：无论如何，我都要去完成我必须做的事情。</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "17649cfa-af5b-4c32-97dc-b7ef15ff8489": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<p>好像听到一阵轰隆隆的声音&hellip;&hellip;</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "37406138-53cd-4077-8c4b-d633152d6a7d": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（水位完全退下去了。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（剩下的&hellip;&hellip;是最后一个。）</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "39a1c803-e6e7-4190-9e42-33c8a3d2adab": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<p>漂泊者：（最后一个，还真是盛大的&ldquo;欢迎&rdquo;。）</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "3b054f26-e260-4d41-9696-283e6bc52435": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">&ldquo;&hellip;&hellip;不无有三分而去其乘，适足，以是生商。主金以西，黄钟逆隐。&rdquo;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（这是关于下一个音斛的情报？像是指明了所在方位&hellip;&hellip;但最后一句指的又是什么？）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（似乎在西边听到了乐声。）</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "4a69dcf1-0cda-471a-b58f-b2eda76bf48e": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（水位下降了，东西方各出现两个龙鼓。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（其他音斛的线索应该在那边，下去看看吧。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（看来这边才是正确的通路。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（精准但点到即止的指引&hellip;&hellip;果然，是那位令尹的风格。）</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "4d911b67-7f6e-4c27-834b-e0bdbc754933": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<p>漂泊者：（这个音斛中的数据应该是缺失的音律之一，把它接入宫音台试试。）</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "5ca6425c-a166-4d8b-9636-885c8b1ef076": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<p>（所有音律已经集齐，回到宫音台吧。）</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "629d0349-6785-4ff8-80f1-ed67c9323f2c": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（有新的平台升起来了。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（&ldquo;鸣钟寻途&rdquo;，去接通道路吧。）</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "71d95bdf-509a-4783-b6fd-01a6f905e1a1": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：送上门来的猎物，呵呵呵&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：现在&hellip;&hellip;这里只有我们两个人。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：收起你那毫无道理的怒气吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：我只是想好心提醒你&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：眼见不一定为实，不要轻易相信别人的话，不要那么快对一切下定论。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：为什么要这么执着？为什么不选择也相信我呢？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：还是说&hellip;&hellip;你一定要被我打败，才能俯首听话！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：看来，你一直知道我跟在你的身后了，漂泊者。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：我的幻境需要里外联合才能打破，你身边总有摘也摘不干净、心有灵犀的帮手呢。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：你和今令尹提前联手，我可是有些伤心了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：真是&hellip;&hellip;受人欢迎呢。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">今汐：漂泊者，你没事吧？</p>\n</div>\n</div>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "我没事。",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：当然没事了，我哪里忍心真的伤到她 。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：漂泊者，这次的失败是我对你的献礼，表达我的诚意，希望你不要忘记我们刚才的对话。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">伤痕：&mdash;&mdash;而你选择我，我将知无不言。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1",
+                  "4-2",
+                  "4-3",
+                  "4-4"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "我已经知道一切了。",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：呵，原来如此&hellip;&hellip;看来令尹大人还是快人一步，把所有事情都告诉你了啊。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伤痕：那，作为你们的成果，我很想知道，这一切谋划是什么时候完成的？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：三日为期。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：看来你我都未失约。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">今汐：请容我正式自我介绍一次，我是今汐，很高兴见到你，漂泊者。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "你好。",
+                "content": ""
+              },
+              {
+                "id": "4-2",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "为什么这么晚才和我相见。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-3",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "之前是出了什么事吗？",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-4",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "这该不会现在也是影像。",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：再使用影像，就过于失礼了。虽瑝珑的终端科技领先，但如此生动真实的通讯影像，我亦未曾见过。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：还是，客人需要亲自确认一下？</p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-1",
+                "cid": [
+                  "6-1"
+                ],
+                "pid": [
+                  "4-1",
+                  "4-2",
+                  "4-3",
+                  "4-4"
+                ],
+                "group": "5",
+                "title": "",
+                "content": "<p>少女令尹向你大方地伸出手，标准的握手姿势，她的神情平和且真诚。</p>"
+              },
+              {
+                "id": "6-1",
+                "cid": [
+                  "7-1"
+                ],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "（回握。）",
+                "content": ""
+              },
+              {
+                "id": "7-1",
+                "cid": [
+                  "8-1"
+                ],
+                "pid": [
+                  "6-1"
+                ],
+                "group": "7",
+                "title": "你受伤了？",
+                "content": ""
+              },
+              {
+                "id": "8-1",
+                "cid": [
+                  "9-1",
+                  "9-2"
+                ],
+                "pid": [
+                  "7-1"
+                ],
+                "group": "8",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：&hellip;&hellip;不，没什么。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">今汐：之前确实意外缠身，匆忙之间只得留下信物，怠慢贵客，实在抱歉。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "9-1",
+                "cid": [
+                  "10-1"
+                ],
+                "pid": [
+                  "8-1"
+                ],
+                "group": "9",
+                "title": "这个意外，和残星会有关？",
+                "content": ""
+              },
+              {
+                "id": "9-2",
+                "cid": [
+                  "10-1"
+                ],
+                "pid": [
+                  "8-1"
+                ],
+                "group": "9",
+                "title": "这个意外，跟岁主有关？",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "10-1",
+                "cid": [
+                  "11-1"
+                ],
+                "pid": [
+                  "9-1",
+                  "9-2"
+                ],
+                "group": "10",
+                "title": "",
+                "content": "<p>今汐：&hellip;&hellip;今州的岁主现在不在今州。</p>"
+              },
+              {
+                "id": "11-1",
+                "cid": [
+                  "12-1"
+                ],
+                "pid": [
+                  "10-1"
+                ],
+                "group": "11",
+                "title": "不是说，岁主是不能离开属地的吗？",
+                "content": ""
+              },
+              {
+                "id": "12-1",
+                "cid": [
+                  "13-1"
+                ],
+                "pid": [
+                  "11-1"
+                ],
+                "group": "12",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：是的。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：岁主是文明的引导者和守护者，亦代表了文明本身。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：岁主不在位，则必有动乱，此事，牵扯重大，还望漂泊者能够保密。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">今汐：残星会困住了今州的岁主，「角」，而此前我正在全力调查寻找，这也是我无法与您提前会面的原因。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "13-1",
+                "cid": [
+                  "14-1"
+                ],
+                "pid": [
+                  "12-1"
+                ],
+                "group": "13",
+                "title": "听说你与岁主共鸣？",
+                "content": "<p>今汐：是的，因此我与「角」会存在一定程度的共感，祂的记忆、感受及处境会反映在我身上，虽然并不会那么清晰。</p>"
+              },
+              {
+                "id": "14-1",
+                "cid": [
+                  "15-1"
+                ],
+                "pid": [
+                  "13-1"
+                ],
+                "group": "14",
+                "title": "那现在找到祂了吗？",
+                "content": "<p>今汐：并没有，我能感受到，角的处境危险，且通过这几日的调查，我已知晓是谁主导了这一切。</p>"
+              },
+              {
+                "id": "15-1",
+                "cid": [
+                  "16-1"
+                ],
+                "pid": [
+                  "14-1"
+                ],
+                "group": "15",
+                "title": "伤痕？",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：是。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：残星会想要提前悲鸣、引发灾难。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：而残星会的会监伤痕踏入今州这片土地，有三个目的。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">今汐：跟随并测试、招徕你加入他们，带走岁主「角」和引导鸣式苏醒。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "16-1",
+                "cid": [
+                  "17-1"
+                ],
+                "pid": [
+                  "15-1"
+                ],
+                "group": "16",
+                "title": "他们为什么要招揽我？",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：我想，他们也已经通过某种方式知晓你的特别之处吧，极有可能是通过角。而你的加入无疑会壮大他们的力量。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">今汐：如果你拒绝加入残星会，那他们可能不会允许你这样的变数影响他们的计划，你的安危会受到威胁。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "17-1",
+                "cid": [
+                  "18-1",
+                  "18-2"
+                ],
+                "pid": [
+                  "16-1"
+                ],
+                "group": "17",
+                "title": "……",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：我现在倒是有个办法可以捉住伤痕。只要他在我们的掌控之中，残星会短时间内应该就不会再干扰你。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">今汐：如果你愿意协助，我会在行动中确保你的安全。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "18-1",
+                "cid": [
+                  "19-1"
+                ],
+                "pid": [
+                  "17-1"
+                ],
+                "group": "18",
+                "title": "可以，我加入。",
+                "content": "<p>今汐：感谢你的信任，漂泊者。</p>"
+              },
+              {
+                "id": "18-2",
+                "cid": [
+                  "19-1"
+                ],
+                "pid": [
+                  "17-1"
+                ],
+                "group": "18",
+                "title": "我考虑考虑。",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：我尊重您的选择，漂泊者。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">今汐：不过，看来这段时间，你已经通过信物，知晓了很多的信息。</p>\n</div>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "19-1",
+                "cid": [
+                  "20-1",
+                  "20-2",
+                  "20-3",
+                  "20-4"
+                ],
+                "pid": [
+                  "18-1",
+                  "18-2"
+                ],
+                "group": "19",
+                "title": "",
+                "content": ""
+              },
+              {
+                "id": "20-1",
+                "cid": [
+                  "21-1"
+                ],
+                "pid": [
+                  "19-1"
+                ],
+                "group": "20",
+                "title": "莽吉柿指向今州战事与人民。",
+                "content": ""
+              },
+              {
+                "id": "20-2",
+                "cid": [
+                  "21-1"
+                ],
+                "pid": [
+                  "19-1"
+                ],
+                "group": "20",
+                "title": "糖丸指向瘟疫与历史上的灾难。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "20-3",
+                "cid": [
+                  "21-1"
+                ],
+                "pid": [
+                  "19-1"
+                ],
+                "group": "20",
+                "title": "树叶指向残星会。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "20-4",
+                "cid": [
+                  "21-1"
+                ],
+                "pid": [
+                  "19-1"
+                ],
+                "group": "20",
+                "title": "日晷是约定你我的相见。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "21-1",
+                "cid": [
+                  "22-1"
+                ],
+                "pid": [
+                  "20-1",
+                  "20-2",
+                  "20-3",
+                  "20-4"
+                ],
+                "group": "21",
+                "title": "",
+                "content": "<p>今汐：不愧是漂泊者。</p>"
+              },
+              {
+                "id": "22-1",
+                "cid": [
+                  "23-1"
+                ],
+                "pid": [
+                  "21-1"
+                ],
+                "group": "22",
+                "title": "而关于我的信息，则在寻找的路程之中。",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：现今今州的情况远比人们所看到的更加严重。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">今汐：鸣式即将再次复苏&hellip;&hellip;</p>\n</div>\n</div>"
+              },
+              {
+                "id": "23-1",
+                "cid": [
+                  "24-1"
+                ],
+                "pid": [
+                  "22-1"
+                ],
+                "group": "23",
+                "title": "鸣式是什么？",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：它们是文明的敌人，是集体意志的隐忧与心魔，是必须要打败的劲敌。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">今汐：我们尽力阻止这场灾难的发生，但残星会从中作梗，企图尽快唤醒鸣式。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "24-1",
+                "cid": [
+                  "25-1"
+                ],
+                "pid": [
+                  "23-1"
+                ],
+                "group": "24",
+                "title": "我和鸣式有关，对吗？",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：是的。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：漂泊者之前打败且吸收的残象，无冠者，是具现化了战争行为本身的残象。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：&mdash;&mdash;战死者的怨恨，偷生者的恐惧，构成了无冠者的全部。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：无冠者是拥有鸣式力量的残象。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：如若说今州作为瑝珑的关口，文明的脊梁在于不败的意志及抗争精神，那今州的心魔则是无休止的战争及恐惧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：而你不仅可以肉身吸收鸣式残象，还能与残象产生共感。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：在历史记载中，有一位能够肉身吸收残象的英雄曾在鸣式战争中拯救了瑝珑。在今州建州的文献里，也有关于&ldquo;她&rdquo;的记载。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">今汐：这个人，或许和你有着千丝万缕的联系。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "25-1",
+                "cid": [
+                  "26-1"
+                ],
+                "pid": [
+                  "24-1"
+                ],
+                "group": "25",
+                "title": "你觉得那个人和我有关？",
+                "content": "<p>今汐：没错。但是，这不仅仅是我个人的判断，也是角对我的指引。</p>"
+              },
+              {
+                "id": "26-1",
+                "cid": [
+                  "27-1",
+                  "27-2"
+                ],
+                "pid": [
+                  "25-1"
+                ],
+                "group": "26",
+                "title": "角……云陵谷里的……",
+                "content": "<p>今汐：云陵谷里那座没修完的雕像吗？那个雕刻的就是角。</p>"
+              },
+              {
+                "id": "27-1",
+                "cid": [
+                  "28-1"
+                ],
+                "pid": [
+                  "26-1"
+                ],
+                "group": "27",
+                "title": "我在那里回想起了一些碎片……",
+                "content": ""
+              },
+              {
+                "id": "27-2",
+                "cid": [
+                  "28-1"
+                ],
+                "pid": [
+                  "26-1"
+                ],
+                "group": "27",
+                "title": "但我不知道那些记忆是否真实。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "28-1",
+                "cid": [
+                  "29-1"
+                ],
+                "pid": [
+                  "27-1",
+                  "27-2"
+                ],
+                "group": "28",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：这样吗？那可以和我说说吗？如果是和角有关的话，我应该会有所了解。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">将脑海里破碎的记忆尽数讲述给今汐。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">今汐：你所说的这些&hellip;&hellip;</p>\n</div>\n</div>"
+              },
+              {
+                "id": "29-1",
+                "cid": [
+                  "30-1"
+                ],
+                "pid": [
+                  "28-1"
+                ],
+                "group": "29",
+                "title": "怎么了？是有什么问题吗？",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：我之前应该有和你说到过，我和角可以产生共鸣。你所说这些事情，是真实发生过的，但&hellip;&hellip;是角经历过的。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">今汐：我曾在共鸣中见过类似的影像，也就是说，这段记忆碎片极有可能是真实的。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "30-1",
+                "cid": [
+                  "31-1"
+                ],
+                "pid": [
+                  "29-1"
+                ],
+                "group": "30",
+                "title": "也就是说……",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：也就是说&hellip;&hellip;你有可能就是过去&ldquo;那个人&rdquo;，曾在文献中出现的那个人。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">今汐：你曾与角并肩而立，亲密无间。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "31-1",
+                "cid": [
+                  "32-1",
+                  "32-2"
+                ],
+                "pid": [
+                  "30-1"
+                ],
+                "group": "31",
+                "title": "共鸣者也活不了这么久吧？",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：相比普通人，共鸣者虽然长寿，但确实没有近百年的时间容貌丝毫没有变化的先例。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">今汐：但是，你身上的谜点还有许多，时间尺度倒不是最令我惊讶的。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "32-1",
+                "cid": [
+                  "33-1"
+                ],
+                "pid": [
+                  "31-1"
+                ],
+                "group": "32",
+                "title": "曾经的我又是谁呢？",
+                "content": ""
+              },
+              {
+                "id": "32-2",
+                "cid": [
+                  "33-1"
+                ],
+                "pid": [
+                  "31-1"
+                ],
+                "group": "32",
+                "title": "我怎么会失忆呢？",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "33-1",
+                "cid": [
+                  "34-1"
+                ],
+                "pid": [
+                  "32-1",
+                  "32-2"
+                ],
+                "group": "33",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：这个可能需要你自己去寻找了。角向你传达的最后一条信息就是前往北落野，找到鸣式。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：或许，你在那里能获得自己想要的答案。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">今汐：鸣式苏醒，内忧外患，一切都与曾经瑝珑古老历史中的那次危机如此相似。也许，这就是你到来的原因？</p>\n</div>\n</div>"
+              },
+              {
+                "id": "34-1",
+                "cid": [],
+                "pid": [
+                  "33-1"
+                ],
+                "group": "34",
+                "title": "你希望我帮助今州挺过难关？",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：不，我从来没有寄希望于有从天而降的英雄来替我拯救今州。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：我只想让你了解自己的过去。毕竟，这应该是你现在最苦恼的事情吧，我希望我能帮到你，仅此而已。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：如果你愿意为今州出力，我会很感激。但我不想通过让你了解自己的过去，以此为理由去做出要求。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：今州的人民是我的子民，自然也应该由我来亲自守护。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：这不仅是我的自信，更多的是我对今州的将士、今州所有恪尽职守的人民有信心。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：弄清自己身份后，我相信你也会做出自己的选择的。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：我很感激你为我们做出的一切，不论，&ldquo;曾经&rdquo;，还是现在。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：在这一切尘埃落定后，如果你想要离开今州、离开瑝珑，我都不会阻拦。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：如果你需要帮助，也可以随时告知我。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：这是只属于你我之间的秘密，如何？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（现在已经打开了机关盒，拿到了令尹传递的会面信息。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（只有路线，没有时间&hellip;&hellip;总觉得没那么简单。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：(日晷晷面上的方位、时间信息因为旋转轮盘重新组合了。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（在固定的光源下，指针形成阴影的投向&hellip;&hellip;）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（以边庭作为方位的中心，玄武方向，北侧。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（丑时，凌晨，天将明未明之时。）</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "7444c10c-7eb4-4711-92f9-c271b53c9e37": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（这是第四段缺失的音律。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（快要接近尾声了。）</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "7b4c2177-ea2b-485c-bb34-10a44477fc1f": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<p>漂泊者：（第三个音斛也到手了，回到宫音台吧。）</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "7f65f48c-2960-41a3-a3ca-61403226b91c": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<p>漂泊者：（第二个音斛也找到了，把它放回去吧。）</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "8e14065b-48ca-43ff-a2ec-dfd076ed7372": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（大厅内的隐藏通道&hellip;&hellip;毫不意外。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（看来那边就是数据库的入口了。）</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "9a8c8c92-a649-424b-bc78-c0f318a6a432": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<p>漂泊者：（从水下升起的龙钟&hellip;&hellip;&ldquo;鸣钟寻途&rdquo;，原来如此。）</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "9bc59194-8484-46d8-85f7-014bf5cc4c60": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（有一部分建筑被隐藏在水下&hellip;&hellip;是以水位升降隐藏路径的机关。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（看来谜题还在继续，先去中间那个设施看看吧。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">&ldquo;&hellip;&hellip;将其五音凡首，谐诸音律，叩鼓传声，鸣钟寻途。&rdquo;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">&ldquo;&hellip;&hellip;夫以斛定音，罄均乐，瑝览终启。&rdquo;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（原来如此&hellip;&hellip;这个控制台的确是类似乐器的构造，但看上去缺少了五个关键的音律，不能成曲。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（也就是说，补上缺失的五个&ldquo;音斛&rdquo;中的数据奏响乐曲，才能开启通往数据库的大门吗&hellip;&hellip;）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（宫音台后面似乎有什么声音？）</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "9e63d8f7-190e-463e-a043-81426560d983": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（这里就是&ldquo;瑝览类书&rdquo;，传说&ldquo;能够解答一切&rdquo;的数据库&hellip;&hellip;）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（空无一人，令尹似乎不在这里。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（在等她赴约这段时间里，先看看有没有能够调查的数据吧。）</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "b072f8fe-a728-418b-ab32-1d6f7fdc29f4": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（这种感觉&hellip;&hellip;是视线。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（是音斛的声音。）</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "bb1067ac-f095-4775-b1ce-e72543be1cf4": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：那漂泊者现在试试？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：晷轮外圈代表的是<span class=\"mc-ingame-Highlight\">时间</span>，我们要将正确时间对准曲型指针指向之处，也就是十二地支中的&hellip;&hellip;</p>\n</div>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "酉时。",
+                "content": "<p>秧秧：好像这并不是正确的时间信息，我们从研究院获得的时间信息是&hellip;&hellip;</p>"
+              },
+              {
+                "id": "2-2",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "未时。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1",
+                  "4-2"
+                ],
+                "pid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "group": "3",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：看来未时是正确的信息，那接下来&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：晷盘中央四角代表的是<span class=\"mc-ingame-Highlight\">方位</span>，我们要将正确方位对准曲型指针指向之处。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：<span class=\"mc-ingame-Highlight\">东为青龙，西为白虎，南为朱雀，北为玄武</span>，我们得到的提示，多次强调的方位是&hellip;&hellip;</p>\n</div>"
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "西方，白虎。",
+                "content": "<p>秧秧：白虎似乎不是正确的信息&hellip;&hellip;</p>"
+              },
+              {
+                "id": "4-2",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "南方，朱雀。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-1",
+                "cid": [
+                  "6-1",
+                  "6-2",
+                  "6-3"
+                ],
+                "pid": [
+                  "4-1",
+                  "4-2"
+                ],
+                "group": "5",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：哇，真的解开了，厉害！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">（令尹传递的最终信息，这是&hellip;&hellip;瑝珑类书的所在位置。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：啊，是不是我们不能看的。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">炽霞：快，秧秧我们背过去背过去！</p>\n</div>\n</div>"
+              },
+              {
+                "id": "6-1",
+                "cid": [
+                  "7-1"
+                ],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "为什么？",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：令尹传递的消息一定是大消息，还整得这么复杂，一定是机密中的机密！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：身为公职人员&mdash;&mdash;虽然说都是预备役，但我们都是懂规矩的！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：炽霞说得有道理。</p>\n</div>"
+              },
+              {
+                "id": "6-2",
+                "cid": [
+                  "7-1"
+                ],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "没什么不能看的。",
+                "content": "<p>秧秧：先看看上面写的是什么？</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "6-3",
+                "cid": [
+                  "7-1"
+                ],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "这是我们一起解开的。",
+                "content": "<p>炽霞：没事没事，你先看，你先看。快看看上面说的是什么！</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "7-1",
+                "cid": [
+                  "8-1"
+                ],
+                "pid": [
+                  "6-1",
+                  "6-2",
+                  "6-3"
+                ],
+                "group": "7",
+                "title": "瑝览类书是什么？",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：是瑝珑特有的数据库名称，他的所在之处，是个秘密。听说类书包含了所在区域所有重要的数据资料，说是可以解答一切难题。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：可以说是瑝珑的数据资料命脉，自有史起，由岁主掌管，由当地令尹掌握开放权限，但几乎不对外开放。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：听起来像是边庭的保险库，数据资料层面上的！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：嗯，在那里获得的信息是最全面、最准确的。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：漂泊者如果能从瑝览类书中了解自己的身份，我想，可以证明两件事。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：漂泊者的过去，一定是跟今州有关联的。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：那漂泊者的身份，恐怕不简单。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：对今州乃至瑝珑来说，重要的客人&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：总感觉我们是不是误打误撞结识了什么了不起的超级大人物了啊！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：怎么了，漂泊者，是日晷还有什么奇怪的地方吗？</p>\n</div>\n</div>"
+              },
+              {
+                "id": "8-1",
+                "cid": [
+                  "9-1",
+                  "9-2",
+                  "9-3"
+                ],
+                "pid": [
+                  "7-1"
+                ],
+                "group": "8",
+                "title": "边庭是今州区域的中心吗？",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：是今州的政治中心，在地理上，它确实也是中心。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：建州时，边庭是最早建立的，它是一切方位的起点。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：漂泊者为什么这么问？</p>\n</div>\n</div>"
+              },
+              {
+                "id": "9-1",
+                "cid": [
+                  "10-1"
+                ],
+                "pid": [
+                  "8-1"
+                ],
+                "group": "9",
+                "title": "没什么。",
+                "content": ""
+              },
+              {
+                "id": "9-2",
+                "cid": [
+                  "10-1"
+                ],
+                "pid": [
+                  "8-1"
+                ],
+                "group": "9",
+                "title": "令尹约我单独见面。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "9-3",
+                "cid": [
+                  "10-1"
+                ],
+                "pid": [
+                  "8-1"
+                ],
+                "group": "9",
+                "title": "我需要单独前往。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "10-1",
+                "cid": [
+                  "11-1",
+                  "11-2"
+                ],
+                "pid": [
+                  "9-1",
+                  "9-2",
+                  "9-3"
+                ],
+                "group": "10",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：明白明白！你看，我就说吧，秘密行动，机密中的机密！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：哎，不用担心，秧秧，跟令尹会面，总不会有什么危险的吧。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">炽霞：放心放心！</p>\n</div>\n</div>"
+              },
+              {
+                "id": "11-1",
+                "cid": [
+                  "12-1"
+                ],
+                "pid": [
+                  "10-1"
+                ],
+                "group": "11",
+                "title": "那可说不定。",
+                "content": "<p>炽霞：哎哎，你是存心要让秧秧不安心的是吧！</p>"
+              },
+              {
+                "id": "11-2",
+                "cid": [
+                  "12-1"
+                ],
+                "pid": [
+                  "10-1"
+                ],
+                "group": "11",
+                "title": "确实。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "12-1",
+                "cid": [],
+                "pid": [
+                  "11-1",
+                  "11-2"
+                ],
+                "group": "12",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：好，漂泊者，请一切小心。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：我们等你回来。</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "bd435e4c-f365-476a-bdc3-07fe8d3e7ec7": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（边庭之中出现了残象&hellip;&hellip;？）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（并非实体&hellip;&hellip;是数据投影的守卫，但即使被破坏，也没有启动完全警戒模式。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（&hellip;&hellip;只是除去守卫，这里也有些太过安静了。）</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "cb315415-8256-4db2-b0ea-396f978e7911": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（果然，谱台中的一段音律被点亮了。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（那边的龙鼓似乎能够敲响了。）</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "e60525a4-304b-422d-9067-67d2e0fb7a05": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（新的通路出现了，这代表第一个&ldquo;谜题&rdquo;已经解决了。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（接下来是那边吗&hellip;&hellip;去找找其他的音斛吧。）</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "ec54f9e2-7ac7-41c4-90ba-f863fc61519e": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：怎么样怎么样，你们还顺利吗？没受什么伤吧，快让我瞧瞧！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">炽霞：嗯嗯，看起来没有缺胳膊少腿的。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "那也太夸张了。",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：那些信物的线索你们查得怎么样？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">将在荒石高地与祈池村调查到的线索告知炽霞。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">炽霞：残星会居然都跑来今州耀武扬威了，看来这次动荡比我想得还要严重呢。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1",
+                  "4-2"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "残星会到底想做什么？",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：不知道，虽然听说过他们，但我最多也只是接触过残星会的一些边缘小喽啰。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：他们一直在研究如何人工诱导产生共鸣，说什么力量无分好坏，人人都应该获得共鸣的力量。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：他们会将残象通过机械改造的方式与人类身体进行耦合，以获取共鸣的能力，他们将改造后的人称为造匠，并为残星会所用。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：以这种极端的方式获取力量&hellip;&hellip;恕我无法认同。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：那个伤痕，听起来和那些人完全不是一个等级的，他是不是强得可怕？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：他......并没有伤害我和漂泊者的意思，从头至尾都没有动过真格。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：我也不知道他的真实目的是什么，但也许，这也是令尹想要传达给你的信息之一。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：没想到那个村子里居然发生过这种事情&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：你们把消息同步给我之后，我去查了治安署的案件卷宗，这是一宗早前的案件了，早在现任令尹就任之前，就已经进行过后续处理且归档了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：后来怎么样了？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：放心吧，犯罪者已经伏法，大部分村民也都被迁移安置到了新的地方。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：不过，你们提到的那个小女孩，治安署里并没有她的信息。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：看来，确实是伤痕把那个女孩带走了&hellip;&hellip;</p>\n</div>\n</div>"
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "伤痕似乎没有想要伤害她的意思。",
+                "content": "<p>秧秧：嗯&hellip;&hellip;</p>"
+              },
+              {
+                "id": "4-2",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "残星会也许打算利用她做什么。",
+                "content": "<p>秧秧：&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-1",
+                "cid": [
+                  "6-1"
+                ],
+                "pid": [
+                  "4-1",
+                  "4-2"
+                ],
+                "group": "5",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：如果我们能抓到伤痕&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：啊啊，我实在搞不明白，令尹把漂泊者引向祈池村是为了什么？</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：伤痕甚至在那儿散布了一些误导的信息&hellip;&hellip;</p>\n</div>\n</div>"
+              },
+              {
+                "id": "6-1",
+                "cid": [
+                  "7-1",
+                  "7-2",
+                  "7-3"
+                ],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "或许，我们弄错了顺序。",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：漂泊者的意思是&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：残星会想把漂泊者引向祈池村，通过事件向漂泊者传递一些信息，令尹反而为后，是在提醒？</p>\n</div>\n</div>"
+              },
+              {
+                "id": "7-1",
+                "cid": [
+                  "8-1"
+                ],
+                "pid": [
+                  "6-1"
+                ],
+                "group": "7",
+                "title": "那些信息，更像是伤痕的“布道”。",
+                "content": ""
+              },
+              {
+                "id": "7-2",
+                "cid": [
+                  "8-1"
+                ],
+                "pid": [
+                  "6-1"
+                ],
+                "group": "7",
+                "title": "这算是一种“顺水推舟”？",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "7-3",
+                "cid": [
+                  "8-1"
+                ],
+                "pid": [
+                  "6-1"
+                ],
+                "group": "7",
+                "title": "她应该是事先知道的。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "8-1",
+                "cid": [
+                  "9-1",
+                  "9-2"
+                ],
+                "pid": [
+                  "7-1",
+                  "7-2",
+                  "7-3"
+                ],
+                "group": "8",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：令尹事先知道&hellip;&hellip;残星会一定会把你引到那里，且残星会的人并不会真的伤害你。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：此举是在提醒你，残星会恐怕早就盯上你了。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "9-1",
+                "cid": [
+                  "10-1"
+                ],
+                "pid": [
+                  "8-1"
+                ],
+                "group": "9",
+                "title": "而且，就算伤痕出了真招……",
+                "content": ""
+              },
+              {
+                "id": "9-2",
+                "cid": [
+                  "10-1"
+                ],
+                "pid": [
+                  "8-1"
+                ],
+                "group": "9",
+                "title": "我们也不会有危险。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "10-1",
+                "cid": [
+                  "11-1",
+                  "11-2"
+                ],
+                "pid": [
+                  "9-1",
+                  "9-2"
+                ],
+                "group": "10",
+                "title": "",
+                "content": "<p>炽霞：这又是为什么？</p>"
+              },
+              {
+                "id": "11-1",
+                "cid": [
+                  "12-1"
+                ],
+                "pid": [
+                  "10-1"
+                ],
+                "group": "11",
+                "title": "这不是今州的待客之道，不是吗？",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：啊，是说令尹早就在暗中安排了人保护漂泊者吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：也许不是这种保护方式，但应该是有所安排的。</p>\n</div>"
+              },
+              {
+                "id": "11-2",
+                "cid": [
+                  "12-1"
+                ],
+                "pid": [
+                  "10-1"
+                ],
+                "group": "11",
+                "title": "黑子落，白子必将举棋。",
+                "content": "<p>秧秧：是，令尹如果事先知道，必定有所行动。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "12-1",
+                "cid": [
+                  "13-1",
+                  "13-2"
+                ],
+                "pid": [
+                  "11-1",
+                  "11-2"
+                ],
+                "group": "12",
+                "title": "",
+                "content": ""
+              },
+              {
+                "id": "13-1",
+                "cid": [
+                  "15-1"
+                ],
+                "pid": [
+                  "12-1"
+                ],
+                "group": "13",
+                "title": "……",
+                "content": "<p>秧秧：怎么了？</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "13-2",
+                "cid": [
+                  "14-1"
+                ],
+                "pid": [
+                  "12-1"
+                ],
+                "group": "13",
+                "title": "同理，白子落定，黑子必跟。",
+                "content": "<p>炽霞：我咋没大听懂漂泊者说的话啊。</p>"
+              },
+              {
+                "id": "14-1",
+                "cid": [
+                  "15-1"
+                ],
+                "pid": [
+                  "13-2"
+                ],
+                "group": "14",
+                "title": "没什么。",
+                "content": ""
+              },
+              {
+                "id": "15-1",
+                "cid": [
+                  "16-1",
+                  "16-2"
+                ],
+                "pid": [
+                  "14-1",
+                  "13-1"
+                ],
+                "group": "15",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：曾改变过今州历史的人、即将要复苏的鸣式引发的战争、暗流涌动的残星会......</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：如果这些线索指向的都是你的身份，那么你，究竟是谁呢？</p>\n</div>"
+              },
+              {
+                "id": "16-1",
+                "cid": [
+                  "17-1"
+                ],
+                "pid": [
+                  "15-1"
+                ],
+                "group": "16",
+                "title": "这个只能向令尹提问了。",
+                "content": ""
+              },
+              {
+                "id": "16-2",
+                "cid": [
+                  "17-1"
+                ],
+                "pid": [
+                  "15-1"
+                ],
+                "group": "16",
+                "title": "我是漂泊者。",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：嗯，不管你的身份是什么，你依旧是漂泊者，我们认识的漂泊者。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：还是那个能生吞残象、碳烤声骸的漂泊者！</p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "17-1",
+                "cid": [
+                  "18-1",
+                  "18-2"
+                ],
+                "pid": [
+                  "16-1",
+                  "16-2"
+                ],
+                "group": "17",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：这么看，信物的线索咱们已经调查得差不多了，只剩下那个日晷了吧。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：莫特斐先生说过，那个日晷实际上是个榫卯机关盒，里面或许有令尹真正想要告诉漂泊者的信息。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "18-1",
+                "cid": [
+                  "19-1"
+                ],
+                "pid": [
+                  "17-1"
+                ],
+                "group": "18",
+                "title": "我们在研究院获得了时间的信息。",
+                "content": "<p>秧秧：十二时辰，<span class=\"mc-ingame-Highlight\">未时</span>。</p>"
+              },
+              {
+                "id": "18-2",
+                "cid": [
+                  "19-1"
+                ],
+                "pid": [
+                  "17-1"
+                ],
+                "group": "18",
+                "title": "我们在祈池村获得了方位的信息。",
+                "content": "<p>秧秧：南方，<span class=\"mc-ingame-Highlight\">朱雀</span> 。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "19-1",
+                "cid": [],
+                "pid": [
+                  "18-1",
+                  "18-2"
+                ],
+                "group": "19",
+                "title": "",
+                "content": "<p>秧秧：<span class=\"mc-ingame-Highlight\">未时，朱雀</span>，它们合起来所指向的，或许就是这个机关打开的关键吧。</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "entryId": "1319052342580748288",
+            "linkType": 1
+          },
+          "nextLink": {
+            "entryId": "1321227794152878080",
+            "linkType": 1
+          },
+          "preLabel": "奔策候残星",
+          "nextLabel": "欲知天将雨"
+        },
+        "ff047c0b-385a-449a-aac2-c877c9be7593": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（果然在这里，先解决守卫。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（边庭重地，况且是瑝珑的数据命脉，居然只靠残象投影守卫值守&hellip;&hellip;如果我的推论正确，那么令尹真正想让我做的&hellip;&hellip;）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（&hellip;&hellip;也罢，先前进吧。）</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        }
+      }
+    },
+    "currentVersion": "2.0",
+    "onlineVersion": "2.0",
+    "browseCount": 6021,
+    "lastUpdateTime": "2025-02-25",
+    "lastEditUserName": "Sanma",
+    "userScoreList": [
+      {
+        "userId": 10020855,
+        "userName": "Sanma",
+        "headCode": "122",
+        "userHeadUrl": "https://prod-alicdn-community.kurobbs.com/newHead/aki/taoqi.png",
+        "status": 0,
+        "score": 32,
+        "userCenterUrl": "https://www.kurobbs.com/person-center?id=10020855",
+        "lastOperator": true
+      }
+    ],
+    "status": 2,
+    "checkStatus": 0
+  },
+  "traceId": "ea4e2776-b1dc-45c0-abd0-1a55478053d6",
+  "success": true
+}

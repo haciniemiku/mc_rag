@@ -1,0 +1,2895 @@
+{
+  "mediaList": [],
+  "title": "欲知天将雨",
+  "modules": [
+    {
+      "title": "与秧秧，炽霞汇合",
+      "components": [
+        {
+          "idx": "593340ed-1041-4eb4-ab27-f71d53bfd6de",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "寻找盆景店店主",
+      "components": [
+        {
+          "idx": "eac0096a-a69a-4c4f-9d94-1890f7059a04",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往今州城广场后的瀑布",
+      "components": [
+        {
+          "idx": "6ac36716-6192-42ab-81ea-da508f46ad15",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "穿过瀑布",
+      "components": [
+        {
+          "idx": "b7b53318-c364-4a3d-8667-e3486121b37c",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "跟随花朵的指引",
+      "components": [
+        {
+          "idx": "ab06b5a2-b831-43e5-afe3-282da4dcdc02",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "与秧秧对话",
+      "components": [
+        {
+          "idx": "d4ef8e4b-0c40-4ea7-ac54-778d7e77e884",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "寻找音源",
+      "components": [
+        {
+          "idx": "1f284622-cdf9-48ad-aeae-2abd5458bf9d",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "寻找合适的位置，引出跟踪者",
+      "components": [
+        {
+          "idx": "48ced2eb-d78d-46bd-b788-eb2406a93834",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往商业区与秧秧汇合",
+      "components": [
+        {
+          "idx": "f7896739-7dbd-4ab9-85db-85613da507f2",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "在商业区内寻找秋水",
+      "components": [
+        {
+          "idx": "3362e31a-659f-498d-a7a1-a894c7122404",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "追上秋水",
+      "components": [
+        {
+          "idx": "c5408848-1a5e-4eb8-be9c-52f26ac2738e",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "与秋水，安可二人交谈",
+      "components": [
+        {
+          "idx": "baaf10a3-2061-4501-a7ee-49e0ee50ff07",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往稷廷遗址",
+      "components": [
+        {
+          "idx": "bb046d92-bfa0-4556-924e-d1a1ec6cf0ec",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "进入稷廷实验室",
+      "components": [
+        {
+          "idx": "c4692a79-6e8c-4f01-8fa8-ec4738186ca6",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "寻找能为实验室通电的方法",
+      "components": [
+        {
+          "idx": "619a074d-47ba-4bb8-805a-29f03b4447bd",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "激活墙壁上的装置",
+      "components": [
+        {
+          "idx": "ee69f9c3-d5ba-4e92-96c9-ddb506ac4cd5",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "乘坐电梯前往地下一层",
+      "components": [
+        {
+          "idx": "13492a1a-9658-48c0-9e61-d15f7879b8e4",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "击败敌人",
+      "components": [
+        {
+          "idx": "323928b9-43d8-464a-af20-2ba9c74c981a",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往实验室门口与秋水汇合",
+      "components": [
+        {
+          "idx": "3055a2b9-5aac-4f56-acef-49787eb04b61",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    }
+  ],
+  "story": {
+    "13492a1a-9658-48c0-9e61-d15f7879b8e4": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安可：哇啊&mdash;&mdash;好大的铁皮怪兽！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：稷廷这帮人，总是能给我们整出些新花样。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：数据信标的信号源显示就在它的身上，难不成是被它给吞掉了？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：唉，看起来不像是一个好说话的家伙。这场战斗，果然还是不打不行了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安可：安可和秋水，还是像往常一样分工吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：当然。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安可：嘻嘻，那么，这个家伙&mdash;&mdash;就交给安可啦！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安可：黑咩白咩，出击！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：让我来看看，这家伙的弱点在哪里&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：有了！这家伙的身体是由这些金属部件拼凑起来的！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：身上的关节就是它的弱点，我们可以利用这些掉落的部件反制它，摧毁它的不稳定结构！</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "1f284622-cdf9-48ad-aeae-2abd5458bf9d": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（残星会？他们怎么会出现在这种地方？）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">残星会成员：可恶，那女人竟敢妨碍我们的计划&hellip;&hellip;现在又来一个碍事的！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（&hellip;&hellip;只能先打倒他们了。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（奇怪的声响还在，应该是冲我来的。）</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "3055a2b9-5aac-4f56-acef-49787eb04b61": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2"
+            ],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安可：打雷了打雷了！打雷要下雨&hellip;&hellip;下雨要打伞&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安可：不对不对，秋水教过，遇到这种大雨必须要赶快躲起来才行！</p>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "只是普通的雨水吧？",
+            "content": ""
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "稷廷的实验成功了？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [],
+            "pid": [
+              "2-1",
+              "2-2"
+            ],
+            "group": "3",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：不&hellip;&hellip;这场雨&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：&hellip;&hellip;是真正的溯洄雨。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧（通讯中）：漂泊者，今州&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧（通讯中）：今州遭到残象潮攻击了！</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "323928b9-43d8-464a-af20-2ba9c74c981a": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2",
+              "2-3",
+              "2-4",
+              "2-5"
+            ],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：搞定，收工！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安可：嘿嘿，安可可是很强的喔！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安可：不过这个大家伙，为什么会出现在这里呀。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：结合我们先前的调查来看，怨鸟泽稷廷的成员，只是真正稷廷组织中的一小部分。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：他们很可能是在对某种被他们视作&ldquo;神明&rdquo;的古代文明进行研究，并因为过于激进的手段而被放逐了出来。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：而他们不知从何处获得了这一文明曾抵达过怨鸟泽的线索，于是便希望利用溯洄雨的特性来复现&ldquo;神迹&rdquo;。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：在人造溯洄雨的实验停滞之后，他们又仿照这种文明形式，创造了一个&ldquo;仿制品&rdquo;。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：而为了尽快地拿出成果，他们开始粗暴地给这个&ldquo;仿制品&rdquo;投喂频率，数据乃至机骸&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：结果就是，&ldquo;饥饿&rdquo;的频率成为了它的主导，令它成为了一具只会不断吞噬的怪物。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：稷廷人神秘消失的罪魁祸首，恐怕，就是这个家伙了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：它的诞生，恐怕和研究员日记中提到的那位残星会会监，也脱不了干系。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：这帮家伙&hellip;&hellip;他们太执着于证明自己经历过的神迹，最终被这头怪物的频率所诱导，主动走入了它的&ldquo;怀抱&rdquo;&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：与其说，稷廷人是被这家伙&ldquo;吃掉了&rdquo;，不如说&hellip;&hellip;他们是被自己的疯狂与偏执所吞噬了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：真是一群疯子啊&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：好了，漂泊者，现在是我们履行承诺的时候了。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秋水：关于黑海岸，你想要知道些什么？。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "你们是做什么的？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：我们黑海岸，是一个针对悲鸣的研究和观测机构，黑海岸与各国信标都进行了链接，这些应该是你已经知晓的情报了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：黑海岸本身是一块蕴含巨大能量的黑石，黑石中的能量成为了支持黑海岸巨大能耗的核心。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：这朵黑花，也正是黑海岸散溢的能量的产物。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：因其位置的特殊性，黑海岸才成为了观测悲鸣、预测悲鸣最精准的位置。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：但悲鸣发生的规律始终处于动态变化的状态中，有关它的真相，我们也在研究。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：我们能做的，也只有观测悲鸣的潮汐时间，总结已有悲鸣的发生规律，并对此提供预警，帮助各国提前预知悲鸣。</p>\n</div>"
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "你们之前是在跟踪我吗？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "2-3",
+            "cid": [
+              "5-1",
+              "5-2"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "你们认识椿吗？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：你说那位啊？当然认识了！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：虽然她看起来是疯了一点，但的确也是我们组织的成员。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秋水：她可是因为你才接受了这次任务呢，没想到你魅力还挺大的。</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "2-4",
+            "cid": [
+              "7-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "你们在今州做什么？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "2-5",
+            "cid": [
+              "10-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "我和黑海岸有什么关系？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1",
+              "2-2"
+            ],
+            "group": "3",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：好吧，我承认，漂泊者，我们的确一直都在关注你。但请你相信，我们并无恶意。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：我们只是希望能够确定，你是否是值得我们信任的伙伴。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：黑海岸成员都在以对抗悲鸣，拯救世界为共识而行动，个个都是人才&hellip;&hellip;顶级黑客、爆破专家、风水大师、应有尽有。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：我看你的行事风格，确实还挺适合我们的。怎么样，考虑一下，加入我们吧？</p>\n</div>"
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1",
+              "5-2"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：你说那位啊？当然认识了！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：虽然她看起来是疯了一点，但的确也是我们组织的成员。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秋水：她可是因为你才接受了这次任务呢，没想到你魅力还挺大的。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1",
+              "2-3"
+            ],
+            "group": "5",
+            "title": "原来真的是自己人。",
+            "content": "<p>秋水：看起来你们是事先见过了，那倒是省去了我介绍的功夫。</p>"
+          },
+          {
+            "id": "5-2",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1",
+              "2-3"
+            ],
+            "group": "5",
+            "title": "她差点要了我的命啊！",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-1",
+            "cid": [
+              "7-1"
+            ],
+            "pid": [
+              "5-1",
+              "5-2"
+            ],
+            "group": "6",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：可能她表达情感的方式比较&hellip;&hellip;直白？不过安心啦，她不会真对你怎么样的。</p>\n</div>"
+          },
+          {
+            "id": "7-1",
+            "cid": [
+              "8-1",
+              "8-2"
+            ],
+            "pid": [
+              "6-1",
+              "2-4"
+            ],
+            "group": "7",
+            "title": "",
+            "content": "<div class=\"\">&nbsp;</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：从悲鸣监测系统对我们发出的预警中显示，下一个鸣式复苏的地点，就在今州。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秋水：我们此行的目的，就是这一信息传达给今州。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "8-1",
+            "cid": [
+              "9-1"
+            ],
+            "pid": [
+              "7-1"
+            ],
+            "group": "8",
+            "title": "下一个？",
+            "content": "<p>秋水：此前，已经有地区因为鸣式复苏而毁灭了&hellip;&hellip;我们，不想看到同样的事情再度发生了。</p>"
+          },
+          {
+            "id": "8-2",
+            "cid": [
+              "9-1"
+            ],
+            "pid": [
+              "7-1"
+            ],
+            "group": "8",
+            "title": "此前有鸣式复苏过吗？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "9-1",
+            "cid": [
+              "10-1"
+            ],
+            "pid": [
+              "8-1",
+              "8-2"
+            ],
+            "group": "9",
+            "title": "",
+            "content": "<p>秋水：没错，已经有地区因为鸣式复苏而毁灭了&hellip;&hellip;我们，不想看到同样的事情再度发生了。</p>"
+          },
+          {
+            "id": "10-1",
+            "cid": [],
+            "pid": [
+              "9-1",
+              "2-5"
+            ],
+            "group": "10",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：我呢，只是黑海岸里一位小小的「客卿」，对于黑海岸的秘密，也只是略知一二。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：但我相信，我告诉你的这份情报，完全能够抵得起你此行的价值&mdash;&mdash;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：这并不是你第一次苏醒，而你此前苏醒的地点&hellip;&hellip;正是黑海岸。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：漂泊者，我们的目的，和你们是一致的。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：我们都是在为了对抗鸣式与悲鸣而行动。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安可：没错！安可可以证明！鸣式是大坏蛋，安可和秋水是正义的伙伴！正义的伙伴要打倒大坏蛋！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：当然，我也不奢求你这么快就相信并加入我们。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：记得我先前给你的黑花吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：它既是我们成员的信物，也是通往黑海岸的密钥。迟早有一天，你会用到它的。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：呼，总之，这次的任务算是圆满完成了，既回收了数据信标，又得到了关于稷廷的大秘密。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：果然，和你做交易，绝不是一笔亏本买卖。希望我们之后还有机会能继续合作。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：差点忘了，我还是得先检查一下数据信标，以免出什么岔子&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：等等&hellip;&hellip;不对&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：不对不对&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安可：喂，秋水，等等安可呀！</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "3362e31a-659f-498d-a7a1-a894c7122404": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水模仿自己的样子，用雾气制成的&ldquo;雾人&rdquo;。面前的&ldquo;雾人&rdquo;摆出了一个&ldquo;展翅飞翔&rdquo;的奇怪造型。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">&hellip;&hellip;是他故意留下来，用来挑衅我们的吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">&ldquo;雾人&rdquo;面前似乎还有一行用雾气留下的小字：&ldquo;童叟无欺雾雾屋，新客惠顾享八折！&rdquo;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：好生气！这是在挑衅我们吗&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：我往巡宁尉的方向去追，这条路我最熟悉了！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水模仿自己的样子，用雾气制成的&ldquo;雾人&rdquo;。面前的&ldquo;雾人&rdquo;摆出了一个&ldquo;开怀相迎&rdquo;的奇怪造型。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">&hellip;&hellip;是他故意留下来，用来吸引我们注意力的吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">&ldquo;雾人&rdquo;面前似乎还有一行用雾气留下的小字：&ldquo;相遇是缘，愿我们的友谊长长久久！&rdquo;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：又是一条岔路&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：广场这块就交给我吧，另一边就拜托你了！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水模仿自己的样子，用雾气制成的&ldquo;雾人&rdquo;。面前的&ldquo;雾人&rdquo;摆出了一个&ldquo;比心&rdquo;的奇怪造型。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">&hellip;&hellip;会是他故意留下来，用来混淆我们视线的吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">&ldquo;雾人&rdquo;面前似乎还有一行用雾气留下的小字：&ldquo;不要心急，答案近在眼前！&rdquo;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">&ldquo;雾人&rdquo;位置的间距变短了&hellip;&hellip;有了，在巷子尽头那边！</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "48ced2eb-d78d-46bd-b788-eb2406a93834": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2"
+            ],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（从这里上去，应该就能绕到那人的身后了。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（就在这里，先隐蔽起来吧。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">椿：去哪里了呢？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：是在找我吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">椿：找、到、你、了。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">？？：你真是充满惊喜。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "你是谁？",
+            "content": ""
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "为什么跟着我？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1",
+              "2-2"
+            ],
+            "group": "3",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？：这是什么被捉住就要乖乖回答问题的游戏吗&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？：呵呵&hellip;&hellip;你生气了吗？激怒你，似乎会让我不由自主地兴奋起来。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">？？：你是第一个让我产生这样兴趣的人。你，很有潜力&hellip;&hellip;</p>\n</div>\n</div>"
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "回答我的问题。",
+            "content": "<p>？？：好嘛，我会收敛一些的~毕竟，你是黑海岸交给我的任务目标。</p>"
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "你是黑海岸的人？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？：是呀，我是黑海岸的「执花」。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？：这朵黑花就是「执花」的标识，也象征着「执花」救世的职责与使命。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">？？：黑海岸的规矩就是这样咯。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "6-1",
+            "cid": [
+              "7-1"
+            ],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "黑海岸有什么目的？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？：黑海岸的目的，是什么来着&hellip;&hellip;尽可能招募更多的贤能，拯救危在旦夕的世界。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">？？：怎么样，你有兴趣吗？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "7-1",
+            "cid": [
+              "8-1"
+            ],
+            "pid": [
+              "6-1"
+            ],
+            "group": "7",
+            "title": "你听起来并不像想拯救世界的样子。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？：我对这个确实没什么兴趣啦。如果世界明天就爆炸，那为何不趁着今日尽兴？</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">？？：无拘无束地追求强大，肆意地追踪、猎杀猎物，顺从欲望，找点乐子&hellip;&hellip;</p>\n</div>\n</div>"
+          },
+          {
+            "id": "8-1",
+            "cid": [
+              "9-1",
+              "9-2"
+            ],
+            "pid": [
+              "7-1"
+            ],
+            "group": "8",
+            "title": "这跟残星会有什么差别……",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？：虽然我是很想这么做啦，但人家也有不得不背负的使命呀~</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？：<ruby>「花园」（黑海岸）</ruby>中孕育着无数青涩的果实，你将会是这座「花园」中最为特殊的「种子」&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？：而我的使命，就是保护、培育这样的种子，让其蓬勃生长。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">？？：这样，待到果实成熟，才能够亲自采撷，品尝到果实的甜美。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "9-1",
+            "cid": [
+              "10-1"
+            ],
+            "pid": [
+              "8-1"
+            ],
+            "group": "9",
+            "title": "果实？",
+            "content": "<p>？？：和<ruby>泰缇斯（文明推演沙盘）</ruby>所说的一样，我能感受到你身体内蓄势待发的爆发力，未来的某天，你必定会结出丰饶美丽的果实。</p>"
+          },
+          {
+            "id": "9-2",
+            "cid": [
+              "10-1"
+            ],
+            "pid": [
+              "8-1"
+            ],
+            "group": "9",
+            "title": "那关我什么事。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？：呵呵&hellip;&hellip;我喜欢你冷漠的语气，这样让我又想要激怒你了&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？：好了好了，我不会乱来的。</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "10-1",
+            "cid": [
+              "11-1",
+              "11-2"
+            ],
+            "pid": [
+              "9-1",
+              "9-2"
+            ],
+            "group": "10",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？：总之，你不用担心我对你做些什么，嗯&hellip;&hellip;出格的事？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？：相反，这段时间我可是有好好保护你，替你清除各种暗中的障碍哦！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？：可别把我跟残星会相提并论。我并不在乎他们的立场，但如果他们妄图把手伸到你身上&hellip;&hellip;哼，你可是我看中的人。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">？？：只是用了点&ldquo;小伎俩&rdquo;就把他们的人绊得团团转，真没劲。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "11-1",
+            "cid": [
+              "12-1"
+            ],
+            "pid": [
+              "10-1"
+            ],
+            "group": "11",
+            "title": "小伎俩？",
+            "content": ""
+          },
+          {
+            "id": "11-2",
+            "cid": [
+              "12-1"
+            ],
+            "pid": [
+              "10-1"
+            ],
+            "group": "11",
+            "title": "他们的人？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "12-1",
+            "cid": [
+              "13-1",
+              "13-2"
+            ],
+            "pid": [
+              "11-1",
+              "11-2"
+            ],
+            "group": "12",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？：哎呀，难道你没发现？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？：你和那个龙女的深夜会面能顺利进行，是我帮忙拖住了残星会的家伙哦。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">？？：回答了你这么多&hellip;&hellip;该轮到我了吧？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "13-1",
+            "cid": [
+              "15-1"
+            ],
+            "pid": [
+              "12-1"
+            ],
+            "group": "13",
+            "title": "你想知道什么？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？：呵呵，我并没有什么想知道的。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？：只是你用这种眼神看着我&hellip;&hellip;不，没什么。</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "13-2",
+            "cid": [
+              "14-1"
+            ],
+            "pid": [
+              "12-1"
+            ],
+            "group": "13",
+            "title": "你就是这样对待准备招揽的“贤能”？",
+            "content": "<p>？？：&hellip;&hellip;</p>"
+          },
+          {
+            "id": "14-1",
+            "cid": [
+              "15-1"
+            ],
+            "pid": [
+              "13-2"
+            ],
+            "group": "14",
+            "title": "维持这个姿势也差不多够了吧。",
+            "content": "<p>？？：&hellip;&hellip;咳，如果不是被牵制住，你认为我会回答&hellip;&hellip;你的&hellip;&hellip;问题吗。</p>"
+          },
+          {
+            "id": "15-1",
+            "cid": [
+              "16-1",
+              "16-2"
+            ],
+            "pid": [
+              "14-1",
+              "13-1"
+            ],
+            "group": "15",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？：总之，我并不是想从你这得知什么&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？：我会继续关注着你哦，你是与众不同的种子，我很确信这一点。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？：你身上，有一种熟悉的气息&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">椿：我是椿。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">椿：下次，别那么快再被我抓住哦&hellip;&hellip;！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：跑得真快&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧（通讯中）：发生什么事了吗，怎么这么久才接起来&hellip;&hellip;</p>\n</div>\n</div>"
+          },
+          {
+            "id": "16-1",
+            "cid": [
+              "17-1"
+            ],
+            "pid": [
+              "15-1"
+            ],
+            "group": "16",
+            "title": "跟踪者现形了。",
+            "content": ""
+          },
+          {
+            "id": "16-2",
+            "cid": [
+              "17-1"
+            ],
+            "pid": [
+              "15-1"
+            ],
+            "group": "16",
+            "title": "遇到了一个奇怪的女人。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "17-1",
+            "cid": [
+              "18-1",
+              "18-2"
+            ],
+            "pid": [
+              "16-1",
+              "16-2"
+            ],
+            "group": "17",
+            "title": "",
+            "content": "<p>秧（通讯中）：是敌是友？你有受伤吗？</p>"
+          },
+          {
+            "id": "18-1",
+            "cid": [
+              "19-1"
+            ],
+            "pid": [
+              "17-1"
+            ],
+            "group": "18",
+            "title": "是黑海岸的人。",
+            "content": "<p>秧秧（通讯中）：是黑海岸的人？有得到什么情报吗？</p>"
+          },
+          {
+            "id": "18-2",
+            "cid": [
+              "19-2"
+            ],
+            "pid": [
+              "17-1"
+            ],
+            "group": "18",
+            "title": "我没事，谢谢你关心我。",
+            "content": "<p>秧秧（通讯中）：呼&hellip;&hellip;你没受伤就好。</p>"
+          },
+          {
+            "id": "19-1",
+            "cid": [
+              "20-1"
+            ],
+            "pid": [
+              "18-1"
+            ],
+            "group": "19",
+            "title": "可惜，让她逃了。",
+            "content": "<p>秧秧（通讯中）：呼&hellip;&hellip;你没受伤就好。</p>"
+          },
+          {
+            "id": "19-2",
+            "cid": [
+              "20-1"
+            ],
+            "pid": [
+              "18-2"
+            ],
+            "group": "19",
+            "title": "你们那边如何？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "20-1",
+            "cid": [
+              "21-1"
+            ],
+            "pid": [
+              "19-1",
+              "19-2"
+            ],
+            "group": "20",
+            "title": "",
+            "content": "<p>秧秧（通讯中）：炽霞发现了一位鬼鬼祟祟的可疑人士，现在正在暗中盯梢。</p>"
+          },
+          {
+            "id": "21-1",
+            "cid": [],
+            "pid": [
+              "20-1"
+            ],
+            "group": "21",
+            "title": "我马上过去。",
+            "content": "<p>秧秧（通讯中）：好，我们在商业街这里。</p>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "593340ed-1041-4eb4-ab27-f71d53bfd6de": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2"
+            ],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：&hellip;&hellip;我知道了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：我也能感受到&hellip;&hellip;风中的流息潜藏着不安的躁动。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：今州&hellip;&hellip;恐怕是要变天了。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">炽霞：漂泊者！你来啦！</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "久等了。",
+            "content": ""
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "出什么事了吗？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1",
+              "4-2"
+            ],
+            "pid": [
+              "2-1",
+              "2-2"
+            ],
+            "group": "3",
+            "title": "",
+            "content": "<p>白芷：研究院最近频繁侦测到无音区异动，各位最近如果要出城的话，一定要小心。</p>"
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "谢谢提醒。",
+            "content": ""
+          },
+          {
+            "id": "4-2",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "最近研究顺利吗？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1",
+              "6-2"
+            ],
+            "pid": [
+              "4-1",
+              "4-2"
+            ],
+            "group": "5",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷：终端通讯一定要保持畅通，研究院给予的防护装置也一定要按标准佩戴。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">白芷：日常记得多喝热水，我先继续实验了，各位保重。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "6-1",
+            "cid": [
+              "7-1"
+            ],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "该不会是自动回复……",
+            "content": ""
+          },
+          {
+            "id": "6-2",
+            "cid": [
+              "7-1"
+            ],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "该不会是群发的吧……",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "7-1",
+            "cid": [
+              "8-1"
+            ],
+            "pid": [
+              "6-1",
+              "6-2"
+            ],
+            "group": "7",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：嗨，她这人就这样，表达关心的方式比较别扭，但我觉得她这样还挺可爱的？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：哎呀，漂泊者，现在就别在意这些了！赶紧说说你之前都听到了什么吧？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">你稍加思索，将角失踪的信息隐去，简单讲述了之前与今汐的对话内容&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">炽霞：&hellip;&hellip;残星会这群人，真是太可恶了！</p>\n</div>\n</div>"
+          },
+          {
+            "id": "8-1",
+            "cid": [
+              "9-1"
+            ],
+            "pid": [
+              "7-1"
+            ],
+            "group": "8",
+            "title": "关于忌炎……",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：忌炎与今汐，角之间有什么特殊联系吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：特殊联系？这个我就不知道了&hellip;&hellip;不过我听说，忌炎将军曾经还是一名军医呢。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：嗯&hellip;&hellip;其实，如果要提到他们之间的特殊联系，就不得不提到一段今州的历史了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：我曾经在剧院附近的一位说书人口中如此听说&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">炽霞：原来还有这样的故事&hellip;&hellip;</p>\n</div>\n</div>"
+          },
+          {
+            "id": "9-1",
+            "cid": [
+              "10-1"
+            ],
+            "pid": [
+              "8-1"
+            ],
+            "group": "9",
+            "title": "为什么角会选择今汐作为令尹？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：可能&hellip;&hellip; 岁主有祂自己的选任标准吧？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：又或许，神和人的区别，正是在于这种&ldquo;不可知性&rdquo;呢？祂们的标准总是常人难以捉摸的。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">炽霞：是啊，所以就算角某天选中了本姑娘做令尹，我也不会觉得意外！</p>\n</div>\n</div>"
+          },
+          {
+            "id": "10-1",
+            "cid": [
+              "11-1",
+              "11-2",
+              "11-3"
+            ],
+            "pid": [
+              "9-1"
+            ],
+            "group": "10",
+            "title": "角会过问人们自己的意愿吗？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：我明白你的意思。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：在豆蔻之年被毫无预兆地选为令尹，很难想象今汐当时是一种什么样的心情&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：我记得今汐刚刚就任的那段时间里，坊间有很多针对今汐的质疑之声。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：很多人都认为那时的今汐资历尚浅，即使有实绩，也并不能完全服众。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：人们愿意尊重今汐的根本原因，还是因为相信角&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：但是角选人还是很有眼光的，今州历史上的令尹们个个本领高强，谋略了得。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：今汐能在这么短的时间里把今州治理得井井有条，已经完全证明了自己啦！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：换做是我，估计光是处理那些文书工作，脑袋就要&ldquo;超频&rdquo;了吧&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：那句话怎么说的来着？对！假以时日，必成大器！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：你会好奇这些&hellip;&hellip;是今汐给你留下什么关于自己身份的线索了吗？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "11-1",
+            "cid": [
+              "12-1"
+            ],
+            "pid": [
+              "10-1"
+            ],
+            "group": "11",
+            "title": "角要我在某一时刻前往北落野寻找忌炎。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：北落野？！那可是一片古战场啊&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：北落野太过凶险，是今州抵御鸣式的最前线。我建议我们还是谨慎为好。</p>\n</div>"
+          },
+          {
+            "id": "11-2",
+            "cid": [
+              "12-1"
+            ],
+            "pid": [
+              "10-1"
+            ],
+            "group": "11",
+            "title": "残星会还有会监蛰伏在今州境内。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "11-3",
+            "cid": [
+              "13-1"
+            ],
+            "pid": [
+              "10-1"
+            ],
+            "group": "11",
+            "title": "有个名为黑海岸的组织一直在关注我。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "12-1",
+            "cid": [
+              "13-1"
+            ],
+            "pid": [
+              "11-1",
+              "11-2"
+            ],
+            "group": "12",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：竟然出动了不止一位会监&hellip;&hellip;看来残星会的阴谋远比我们想象中还要庞大。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：残星会虽然掌握着很多与你有关的情报，但他们的手段和理念都太过激进危险。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：当下我们在明，敌人在暗，就这样贸然寻找，无异于自投罗网&hellip;&hellip;</p>\n</div>"
+          },
+          {
+            "id": "13-1",
+            "cid": [
+              "14-1",
+              "14-2"
+            ],
+            "pid": [
+              "12-1",
+              "11-3"
+            ],
+            "group": "13",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：黑海岸？没听说过呢&hellip;&hellip;在瑝珑的地理图志上也没有见过这样一个地方。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：这朵黑花&hellip;&hellip;如果只是一张照片的话，我也没办法用能力感知它的归属。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "14-1",
+            "cid": [
+              "15-1"
+            ],
+            "pid": [
+              "13-1"
+            ],
+            "group": "14",
+            "title": "黑海岸是一个研究悲鸣的组织。",
+            "content": ""
+          },
+          {
+            "id": "14-2",
+            "cid": [
+              "15-1"
+            ],
+            "pid": [
+              "13-1"
+            ],
+            "group": "14",
+            "title": "黑海岸的成员都会佩戴这样一朵黑花。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "15-1",
+            "cid": [
+              "16-1"
+            ],
+            "pid": [
+              "14-1",
+              "14-2"
+            ],
+            "group": "15",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：嗯&hellip;&hellip;残星会的底牌不明，北落野又太过凶险。那黑海岸，就是我们目前唯一的线索了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：可是，仅凭一张照片找人的话，又像是在大海捞针&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：如果要从这朵黑花入手&hellip;&hellip;不如我们去找林奶奶问问吧！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：林奶奶在商业街经营一家盆景店。她对各类花卉颇有见地，见多识广，一定能为我们提供一些线索。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：嘿嘿，突然被这么夸还是挺不好意思的。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：林奶奶也很喜欢听书。刚才听书的时候，我好像还看见过她&hellip;&hellip;我们就在附近找找吧。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">说书人：距离下场说书还有一段时间，小友若是等得无聊，不妨先来几本书看看？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "16-1",
+            "cid": [],
+            "pid": [
+              "15-1"
+            ],
+            "group": "16",
+            "title": "关于“弯刀之役”……",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">说书人：小友原来是好奇这&ldquo;弯刀之役&rdquo;啊。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">说书人：都说这说书呢，难免带点主观色彩，得为了故事的跌宕起伏服务。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">说书人：唯独这&ldquo;弯刀之役&rdquo;，咱是不敢妄加评价，只能主打一个还原历史，原汁原味。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">说书人：但仅是复原这段历史，就足以让人觉得气势磅礴，惊心动魄了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">说书人：那哥舒将军真就是那十恶不赦的罪人？忌炎将军又真岂是那般完美无缺？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">说书人：突如其来的天雨，角的所为和行动的时机&hellip;&hellip;其中深意&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">说书人：全待后世人自行评说了，哈哈哈&hellip;&hellip;</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "entryId": "1319417602112999424",
+        "linkType": 1
+      },
+      "nextLink": {
+        "entryId": "1321236014615425024",
+        "linkType": 1
+      },
+      "preLabel": "庭际刀刃鸣",
+      "nextLabel": "千里卷戎旌·上"
+    },
+    "619a074d-47ba-4bb8-805a-29f03b4447bd": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">神秘男性研究员的影像：那位残星会会监出手还真是阔绰啊&hellip;&hellip;如果没有他的资金支持，这座实验室还真不知道什么时候才能够建起来。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">神秘男性研究员的影像：虽然他总是爱对我们的实验指手画脚，但没办法，谁让他是我们的资助人呢。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">神秘男性研究员的影像：实验室的选址虽然也偏僻了点，但是只要能够供我们继续开展实验，对我们而言就足够了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">神秘女性研究员的影像：是啊，不然我们这些&ldquo;疯子&rdquo;还能去哪呢？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">神秘男性研究员的影像：总部把我们像丧家之犬一样撵了出来&hellip;&hellip;他们根本不会明白&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">神秘男性研究员的影像：就像海森教授演讲时说过的那样，我们所做的事业，是能够改变人类未来的伟大事业。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">神秘男性研究员的影像：这次，我们一定会让我们曾经目睹过的&ldquo;神迹&rdquo;，再次复现在人类眼前！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">神秘男性研究员的影像：实验的进展明明很顺利，但为什么一直没法取得我们想要的结果？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">神秘男性研究员的影像：&ldquo;人工溯洄雨&rdquo;已经成功进入到第二阶段了&hellip;&hellip; 我们手头已知的种种证据都表明，这一文明的确曾来到过怨鸟泽。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">神秘男性研究员的影像：利用&ldquo;溯洄雨&rdquo;的复现特性，将过往的&ldquo;神迹&rdquo;复现出来&hellip;&hellip;难道我们的思路出错了吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">神秘男性研究员的影像：已经没有时间了。&ldquo;人工可控无音区&rdquo;应该已经搭建完成了，我们必须要开启&ldquo;第二计划了&rdquo;&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：只剩下最后一个房间了&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安可：秋水，大姐姐快过来看！安可发现了不得了的东西！</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "6ac36716-6192-42ab-81ea-da508f46ad15": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<p>秧秧：这里是通往后山的捷径，从瀑布后面穿过去，就能到达今州城的后山&mdash;&mdash;屏庭山了。</p>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "ab06b5a2-b831-43e5-afe3-282da4dcdc02": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2"
+            ],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：由鲜花构成的桥梁&hellip;&hellip;好神奇&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">维里奈：请问&hellip;&hellip;几位是迷路了吗？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "你是维里奈吗？",
+            "content": ""
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "你是星星花吗？",
+            "content": "<p>维里奈：星星花？一般只有林奶奶才会这么称呼我&hellip;&hellip;</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1",
+              "4-2",
+              "4-3"
+            ],
+            "pid": [
+              "2-1",
+              "2-2"
+            ],
+            "group": "3",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">维里奈：啊，不好意思，差点忘记了！我应该先自我介绍一下的，这是瑝珑这边的礼节&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">维里奈：那个，久仰大名，在下维里奈，今日得见几位，幸好幸好&hellip;&hellip;诶，是这么说的吧？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "是“幸会”啦。",
+            "content": "<p>维里奈：不好意思，我之前一直在新联邦生活，对瑝珑这边的语言了解的不是很多&hellip;&hellip;</p>"
+          },
+          {
+            "id": "4-2",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "不用这么拘谨的。",
+            "content": "<p>维里奈：不好意思，我之前一直在新联邦生活，对瑝珑这边的礼节了解的不是很多&hellip;&hellip;</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-3",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "你不担心我们是坏人吗？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">维里奈：诶？是吗？可是你身边的那束小花在说很喜欢你呢&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">维里奈：植物的语言安静但真诚，我相信它们，所以，我也相信你们不是坏人。</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1",
+              "4-2",
+              "4-3"
+            ],
+            "group": "5",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：你好，维里奈！我是炽霞，她是秧秧，还有这位是漂泊者！我们是林奶奶介绍过来的！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">维里奈：我听林奶奶提到过你们，这朵小花，就是我留下给林奶奶指引路线的。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">维里奈：几位现在是遇到什么困难了吗？有什么我可以帮助的？</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：是这样的，我们正在寻找一种特殊的花朵&hellip;&hellip;</p>\n</div>\n</div>"
+          },
+          {
+            "id": "6-1",
+            "cid": [],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "（出示照片。）",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">维里奈：这种花卉的确很奇特。自然界中很少会存在纯黑色的花朵，但也不能排除人工染色的可能。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">维里奈：我想想，与这朵花的形态结构相似的花卉应该有这几种&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">维里奈：首先是鸢尾花，它的花瓣虽然和这朵黑花一样，也是近椭圆形，但却是一种复瓣类花朵。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">维里奈：地丁堇的花瓣尖端上有着明显的花缺，也可以排除掉。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">维里奈：而和崖仙子相比，这朵黑花的花蕊明显长了一截，它的花瓣也比崖仙子多出一瓣。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">维里奈：还有一种近似的植物是香柠草，这种植物原产于新联邦，所以瑝珑本地人可能不太了解。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">维里奈：它的花蕊长度倒是符合，但它的花序总状却是圆锥状的，花冠也像个小喇叭一样&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">维里奈：对了，还有金阳凤！它也是一种五瓣单瓣类花朵，花蕊的长度也很符合！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">维里奈：也不对&hellip;&hellip;金阳凤有着明显的花梗，这朵黑花明显没有这种结构&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：原来还有这么多门道，真是长了不少知识呢&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">维里奈：总而言之！这朵黑花的性状非常奇特，在自然界中几乎找不到相似的植物。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">维里奈：我姑且判断，它可能是一种人工培育的新品种。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">维里奈：而且，它的花脉竟然是十字形&hellip;&hellip;仔细观察的话，还能看到一些细小的频率波动痕迹，这是回音能量外溢的表现。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">维里奈：那么，答案就只有一个了&mdash;&mdash;这是一种非常特别的回音植物，它的形成可能与共鸣力有关。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">维里奈：但至于它会在何种土质下形成，又是与哪种共鸣能力有关&hellip;&hellip;拟态或是创生，我也无法根据一张照片轻易判定。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：唔&hellip;&hellip;我们的线索似乎又中断了？既不知道是什么花，也没见到有人把这种花戴在身上&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：话又说回来，难道我把这朵花戴在身上，就能被当做那个组织的成员了不成？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：炽霞，你能再说一遍吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：啊？我刚刚说错什么了吗？我说难道我把这朵黑花戴在身上，就会被认作是他们的成员什么的&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：假设这朵黑花是黑海岸成员的信物，那么他们一定会注意到这朵黑花。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：而对于普通人而言，它只是一朵性状比较奇特的花朵而已。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：再进一步假设，如果黑海岸的成员就在今州城里，那我们或许，只需要戴上这朵黑花，就能够&ldquo;引蛇出洞&rdquo;&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：我好像明白一点了&hellip;&hellip;可是，要怎么才能做出一朵黑花呢？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">维里奈：那、那个&hellip;&hellip;如果只是仿制一个外形的话，我的共鸣力或许可以&hellip;&hellip;不知道能不能帮到你们&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">维里奈：加油维里奈&hellip;&hellip;你可以的&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：真的假的？这也太神奇了！简直和照片上的黑花一模一样！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">维里奈：能帮上大家就好。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：好厉害！还能再变一个出来吗？我还想看！</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "b7b53318-c364-4a3d-8667-e3486121b37c": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<p>秧秧：这朵小花，像是在为我们指引方向呢，我们跟上去吧。</p>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "baaf10a3-2061-4501-a7ee-49e0ee50ff07": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2"
+            ],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：哟，来啦！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：稷廷详细的位置我已经发到你的数据终端上了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：既然我们现在是一条船上的合作伙伴了，行动开始前，我还是有必要和你共享一下情报。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：稷廷是一个非常非常神秘的科研组织，虽然稷廷人是以「机关术」为主修&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：但实际上，真正让他们出名的还是他们那些奇奇怪怪的实验。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：怨鸟泽中为何会发出五彩斑斓的黑色光芒，湖中的诡异圆圈究竟是否是神秘水怪所为？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：月黑风高之夜，年轻的研究员一飞冲天，自此杳无音讯&hellip;&hellip;遮云蔽雾之间，始作俑者竟另有其人&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">安可：现在不是睡觉的时间啊？秋水怎么开始讲起睡前故事了？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "然后呢然后呢？",
+            "content": ""
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "你睡前听的都是些什么故事啊？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1",
+              "4-2"
+            ],
+            "pid": [
+              "2-1",
+              "2-2"
+            ],
+            "group": "3",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：咳，不好意思，风格一下子没变过来&hellip;&hellip;但是！重头戏还在后面！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：就在某天，稷廷的成员，几乎是在一夜之间，突然消失了！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：那位稷廷的神秘教授对外留下的最后信息是这样说道&mdash;&mdash;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：想要我的实验成果吗?想要的话，就去稷廷遗址吧&hellip;&hellip;去寻找吧，我把我当途所有的财富都放了在那里&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秋水：怎么样，漂泊者，难道你对这些传闻不感到好奇吗？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "怎么还不出发？",
+            "content": "<p>秋水：哈！我就知道，漂泊者肯定和我一样，是一位同道中人！不过我们此行确实是有重要任务在身！</p>"
+          },
+          {
+            "id": "4-2",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "我回去了……",
+            "content": "<p>秋水：哎哎哎，先别走啊，我们此行的确是有重要任务在身！</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-1",
+            "cid": [],
+            "pid": [
+              "4-1",
+              "4-2"
+            ],
+            "group": "5",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：想必那位令尹已经和你讲过了黑海岸的职能。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：我们在世界各地都布设了监测悲鸣的&ldquo;数据信标&rdquo;，也正是通过这一手段来实现对悲鸣的数据收集与预测。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：瑝珑有句古话说的好&mdash;&mdash;&ldquo;差之毫厘，谬以千里&rdquo;，每一个&ldquo;数据信标&rdquo;对我们来说都是至关重要的样本。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：稷廷人失踪之后，我们曾经布置在稷廷的&ldquo;数据信标&rdquo;也出现了不同程度的损坏。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：不久之前，我们发现黑海岸的悲鸣监测系统出现了异常，怀疑这与之前布设在稷廷的&ldquo;数据信标&rdquo;遭到了损坏有关。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：所以黑海岸就派出了我们，让我们来稷廷实际调查一下。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：这次我们的任务是以回收数据信标为主，但说不定，还能在稷廷里淘到一些稀奇的宝贝呢？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安可：秋水，你心里的小算盘打得安可都能听到了&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：这叫&ldquo;顺水推舟&rdquo;，你一个小孩子懂什么&hellip;&hellip;走了走了！</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "bb046d92-bfa0-4556-924e-d1a1ec6cf0ec": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：嗯？难道是我的残象探测器坏掉了？这么多残象竟然一点反应都没有。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安可：安可觉得，这些残象像是突然之间一下子冒出来的！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：真是奇怪&hellip;&hellip;先把他们打倒再说吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：就是这儿了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：唉，这帮人总是爱搞这种稀奇古怪的谜题。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：难怪这么多年都没人能进入稷廷，这安保系统还真是严格啊。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安可：秋水，这明明是你之前不小心触发了安保装置，才让大门重新关上了吧&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：咳咳&hellip;&hellip;嗯&hellip;&hellip;总之，我们得先想办法把这扇门打开了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：这个机关的造型，看起来像是一个&ldquo;日晷&rdquo;呢？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：试试转动转盘，让转盘内外圈的指针都指向同一个方向吧。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "c4692a79-6e8c-4f01-8fa8-ec4738186ca6": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1"
+            ],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：这是&hellip;&hellip;难怪&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：稷廷的这帮家伙，竟然在研究如何制造溯洄雨&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秋水：竟然能做到这一地步&hellip;&hellip;不可思议啊&hellip;&hellip;</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "溯洄雨究竟是什么？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：溯洄雨来自天空海，其本质是是来自天空海的高密度回音能量。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：回音能量记录着不同时空的事件，沾染溯洄雨的人能够看到昔日在雨中发生的一切事物的幻影。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：我们先前在外围看到的雨幕，估计就是稷廷这一研究的成果。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：一般来说，溯洄雨的形成一共需要三个阶段。在第一阶段时，溯洄雨与我们平时常见的细雨并无区别。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：而我们现在所看到的一奇景，正是溯洄雨的第二阶段&mdash;&mdash;悬停。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：我曾经也听说过不少以个人名义对溯洄雨展开的研究。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：他们大都是有所执念之人，想要再现自己人生的某一段经历，或是再见想见之人一面&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：但&hellip;&hellip;稷廷的这个规模和阵仗，未免太大了一些。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：真让人好奇啊，他们想要复现的，会是什么呢？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：不知建筑内的电力系统还能不能运转&hellip;&hellip;我们分头找找吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安可：好耶！羊咩出击！</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "c5408848-1a5e-4eb8-be9c-52f26ac2738e": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2"
+            ],
+            "title": "",
+            "content": "<p>秋水：&hellip;&hellip;嘿，终于来了。</p>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "你无处可逃了！",
+            "content": ""
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "得罪了巡尉还想走？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1",
+              "4-2",
+              "4-3"
+            ],
+            "pid": [
+              "2-1",
+              "2-2"
+            ],
+            "group": "3",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：这哪能算得上逃跑呢？我们的目标，从一开始就是你啊。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安可：大姐姐，别跑啦！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">安可：铛铛！安可和秋水叔叔不会把你怎么样的&hellip;&hellip;</p>\n</div>\n</div>"
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "你们想干什么！",
+            "content": ""
+          },
+          {
+            "id": "4-2",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "她又喊你叔叔！",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-3",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "今州飞羽侠——！",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1",
+              "6-2",
+              "6-3"
+            ],
+            "pid": [
+              "4-1",
+              "4-2",
+              "4-3"
+            ],
+            "group": "5",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：好了，安可，你看你把客人都吓成什么样子了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安可：明明是秋水让安可这么做的，安可平时才不这样呢。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：别怕，漂泊者，我们只是有些问题想要问问你&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：就是你出的主意，让那两位姑娘戴上假黑花，想以此来引起黑海岸成员的关注吧？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：不得不说，那朵黑花，倒是足够以假乱真，若非懂行的人，还真看不出来它和真品的差别。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：植物系共鸣者&hellip;&hellip;有点意思&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安可：植物系共鸣者？我们好像也认识一位耶？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：也是，的确没必要大惊小怪。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秋水：那么说说吧，你&hellip;&hellip;为什么要找黑海岸？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "6-1",
+            "cid": [
+              "7-1"
+            ],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "和你们有什么关系？",
+            "content": "<p>秋水：和我们有什么关系？如果我说，我们手上，掌握着你最想要知道的情报呢&hellip;&hellip;？</p>"
+          },
+          {
+            "id": "6-2",
+            "cid": [
+              "7-1"
+            ],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "我的身世与黑海岸有所关联。",
+            "content": "<p>秋水：哦？是吗？那看来，我的情报果然没有出错&hellip;&hellip;</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-3",
+            "cid": [
+              "7-1"
+            ],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "鱼还是上钩了。",
+            "content": "<p>秋水：哈哈，不错嘛，这么快就能发现端倪&hellip;&hellip;</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "7-1",
+            "cid": [
+              "8-1",
+              "8-2"
+            ],
+            "pid": [
+              "6-1",
+              "6-2",
+              "6-3"
+            ],
+            "group": "7",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：瑝珑有句古话，叫做&ldquo;愿者上钩&rdquo;。你的手段，还是成功地引起了我们的注意。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：你想要找的人&hellip;&hellip;看似远在天边，实则近在眼前！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秋水：如何？这个情报，够份量吧！</p>\n</div>\n</div>"
+          },
+          {
+            "id": "8-1",
+            "cid": [
+              "9-1"
+            ],
+            "pid": [
+              "7-1"
+            ],
+            "group": "8",
+            "title": "你们是黑海岸的人？",
+            "content": "<p>秋水：别露出这么失望的表情嘛，我们和你想象中的样子差距很大吗？</p>"
+          },
+          {
+            "id": "8-2",
+            "cid": [
+              "9-1"
+            ],
+            "pid": [
+              "7-1"
+            ],
+            "group": "8",
+            "title": "早就看出来了……",
+            "content": "<p>秋水：别露出这么失望的表情嘛，人生在世，还是得学会给自己营造点惊喜感&hellip;&hellip;</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "9-1",
+            "cid": [
+              "10-1",
+              "10-2"
+            ],
+            "pid": [
+              "8-1",
+              "8-2"
+            ],
+            "group": "9",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：我知道，关于黑海岸，你一定有很多想问的事&hellip;&hellip;不过你先别急。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：我呢，如你先前所见，是一位&ldquo;情报商人&rdquo;。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：再怎么说，我也是个生意人，不是什么慈善家，情报这种事，还是得讲求一个&ldquo;公平交换&rdquo;。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：我们找你，其实也只是想要和你做一笔交易。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：我希望你能和我们一同去一趟稷廷遗址，协助我们回收一个&ldquo;数据信标&rdquo;。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秋水：这次的任务结束后，作为报酬，我会将我们所知道的情报尽数分享给你。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "10-1",
+            "cid": [
+              "11-1"
+            ],
+            "pid": [
+              "9-1"
+            ],
+            "group": "10",
+            "title": "我为什么要相信你们？",
+            "content": "<p>秋水：顾客至上，诚信为本！我们的信用可是全大陆有目共睹，不然我们也不会有资格成为黑海岸的「客卿」。</p>"
+          },
+          {
+            "id": "10-2",
+            "cid": [
+              "11-1"
+            ],
+            "pid": [
+              "9-1"
+            ],
+            "group": "10",
+            "title": "如果我拒绝呢？",
+            "content": "<p>秋水：我想，如果你错过了我们，应该也没有什么其他打听黑海岸消息的渠道了吧？</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "11-1",
+            "cid": [
+              "12-1",
+              "12-2"
+            ],
+            "pid": [
+              "10-1",
+              "10-2"
+            ],
+            "group": "11",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：唉，念在你是我们新客户的份上，就额外赠送你一份见面礼吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：你应该已经知道这朵黑花对于黑海岸来说代表着什么，这份诚意，应该足够了吧？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：而我们的身份是真是假，只需将这朵黑花交给那位通晓植物的女士一看便知。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：实在不行&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秋水：安可，快，给她扮个可爱点的表情&hellip;&hellip;</p>\n</div>\n</div>"
+          },
+          {
+            "id": "12-1",
+            "cid": [
+              "13-1"
+            ],
+            "pid": [
+              "11-1"
+            ],
+            "group": "12",
+            "title": "你太卑鄙了！",
+            "content": ""
+          },
+          {
+            "id": "12-2",
+            "cid": [
+              "13-1"
+            ],
+            "pid": [
+              "11-1"
+            ],
+            "group": "12",
+            "title": "我不吃这套！",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "13-1",
+            "cid": [
+              "14-1"
+            ],
+            "pid": [
+              "12-1",
+              "12-2"
+            ],
+            "group": "13",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安可：呜，大姐姐&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：你看看，安可都这样求你了，你也不忍心让她伤心吧？那就这么愉快的决定了！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：我们会在怨鸟泽信标的附近等你！记得自己一个人来哦！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">炽霞：你这边怎么样？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "14-1",
+            "cid": [
+              "15-1"
+            ],
+            "pid": [
+              "13-1"
+            ],
+            "group": "14",
+            "title": "是黑海岸的人。",
+            "content": "<p>炽霞：啊？他们？完全看不出来啊&hellip;&hellip;</p>"
+          },
+          {
+            "id": "15-1",
+            "cid": [
+              "16-1"
+            ],
+            "pid": [
+              "14-1"
+            ],
+            "group": "15",
+            "title": "他们交给了我一朵黑花。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">维里奈：果然，这朵黑花和我之前的判断是一致的，它确确实实是一种回音植物。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">维里奈：而且这朵黑花上蕴藏的回音能量十分独特，含量也不是一般的回音植物能够比拟的。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：难道他们真的是黑海岸的人？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：嘁，我还以为这帮人能有多神秘呢&hellip;&hellip;别的不说，逃跑的手段倒是挺高超的&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：刚刚他们和你说了什么？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "16-1",
+            "cid": [],
+            "pid": [
+              "15-1"
+            ],
+            "group": "16",
+            "title": "我和他们做了一笔交易。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">将刚才发生的事情告诉三人&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：稷廷遗址&hellip;&hellip;我只知道那是一个已经荒废多年的科研机构，几乎没有什么特别的地方。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：而由于怨鸟泽的异常气象，已经很久没有人踏足过那里了&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：秧秧，你别太担心啦，漂泊者的实力我们都见识过啦。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：好吧&hellip;&hellip;漂泊者，我会联系研究院，将你的数据从中枢信标传输过去，帮你解锁怨鸟泽附近的信标。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：最近城外无音区异动频繁，你一个人赴约的话，路上小心。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：有需要的话随时告诉我们，我们会第一时间赶过去的！</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "d4ef8e4b-0c40-4ea7-ac54-778d7e77e884": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2"
+            ],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：漂泊者，你注意到了吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：从刚才开始，周围就一直散落着一些黑色的花瓣&hellip;&hellip;它们并不属于维里奈小姐。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：风中的流息也被扰乱了&hellip;&hellip;有人在跟踪我们。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "让我去会会他。",
+            "content": ""
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "你们先回城里吧。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1",
+              "2-2"
+            ],
+            "group": "3",
+            "title": "",
+            "content": "<p>秧秧：你想和我们分开行动？会不会太危险了？</p>"
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1",
+              "5-2"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "相信我。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：&hellip;&hellip;那我去知会一下炽霞，我们会按照刚才的提议，戴上黑花尝试找出黑海岸的成员。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：你独自留在野外的话，千万要小心，有事情我们随时终端联络。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：漂泊者，你看到了吗！这么精巧的一朵黑花，维里奈小姐凭空就把它变出来了！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：而且，这朵黑花，看起来和照片上简直一模一样！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">维里奈：也没有你说的那么厉害啦，只是我的共鸣力恰好能让我做到这一点而已&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：还能再变出来一朵吗！正好我和秧秧两个人一人一朵&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">维里奈：我、我再试一下&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：喔&hellip;&hellip;原来是这样。我刚才又请维里奈小姐帮我们做了一朵黑花，正好派上用场！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：不就是&ldquo;引蛇出洞&rdquo;嘛，这点小事，就交给我吧！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：维里奈小姐，你也早些回去吧。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "最近野外不太安全。",
+            "content": ""
+          },
+          {
+            "id": "5-2",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "林奶奶喊你回家吃饭。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-1",
+            "cid": [],
+            "pid": [
+              "5-1",
+              "5-2"
+            ],
+            "group": "6",
+            "title": "",
+            "content": "<p>维里奈：诶？好的，我去收拾一下园艺工具&hellip;&hellip;</p>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "eac0096a-a69a-4c4f-9d94-1890f7059a04": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2",
+              "2-3"
+            ],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">林素：哎呀，是炽霞和秧秧呀，你们怎么也来听书啦？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：嘿嘿，林奶奶，今天我们是陪一位朋友来听书的！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">炽霞：当当！能够手撕残象，碳烤声骸，脚踢燎照之骑，拳打飞廉之猩的&hellip;&hellip;大名鼎鼎的漂泊者！</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "正是在下。",
+            "content": "<p>林素：哈哈，原来你就是那位漂泊者，还真是后生可畏啊。</p>"
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "我没有……别听她乱说……",
+            "content": "<p>林素：哈哈，炽霞这孩子从小就这样，你别见怪。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "2-3",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "这么年轻，不该叫奶奶吧？",
+            "content": "<p>林素：哎哟，这孩子嘴还怪甜的！</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1",
+              "2-2",
+              "2-3"
+            ],
+            "group": "3",
+            "title": "",
+            "content": "<p>炽霞：林奶奶，您见多识广，我们有个东西想请您看看&hellip;&hellip;</p>"
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1",
+              "5-2",
+              "5-3"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "（出示黑花图像。）",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：就是这朵黑花了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">林素：嗯&hellip;&hellip;如果是今州这边生长的植物，我都会有印象，这可不像是今州这边的花朵。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">林素：即使是在今州的植物志里，我也没有见到过类似的品种&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：啊，如果连您都不知道的话&hellip;&hellip;今州还有谁能知道呢？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">林素：炽霞，别抬举我啦。今州可是有一位通晓植物的植物系共鸣者呢。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：您说的，是那位远道而来的姑娘吧？经常能看到她在您的店里做帮工呢。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">林素：是呀，那孩子手脚勤快，又熟知各类植物的习性，帮了我不少忙呢。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">林素：小小的，白白的，嫩嫩的&hellip;&hellip;笑起来也很可爱，一双大眼睛忽闪忽闪的&hellip;&hellip;像一束星星花一样。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">林素：有时我喊她&ldquo;小星星花，来吃饭啦&rdquo;，她都会答应，多可爱啊。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "在哪里可以找到她呢？",
+            "content": ""
+          },
+          {
+            "id": "5-2",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "您有她的通讯方式吗？",
+            "content": "<p>林素：唉，这事儿赖我，年纪大了，搞不懂那些终端什么的通讯装置&hellip;&hellip;</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-3",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "好奇妙的比喻……",
+            "content": "<p>林素：唉，如果她是我的外孙女就好了&hellip;&hellip;</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-1",
+            "cid": [],
+            "pid": [
+              "5-1",
+              "5-2",
+              "5-3"
+            ],
+            "group": "6",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">林素：她现在应该是在后山那边做生态调研吧。</p>\n</div>\n<div class=\"\">林素：之前我随口提了一下，想在后山开垦一片花田，这孩子马不停蹄地就去帮我实地考察了。</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">林素：从广场那边出去，就能看到一片瀑布，从这里穿过去就可以到后山了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：我们知道了，谢谢你，林奶奶。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">林素：不用谢，没事记得常来我的盆景店玩啊！</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "ee69f9c3-d5ba-4e92-96c9-ddb506ac4cd5": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2"
+            ],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">苍老的男性声音：&hellip;&hellip;越来越近了啊，看来我已经到了最后一刻了，稍微地有些不甘心啊。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">苍老的男性声音：我一直以为，我的敌人是那些世人的误解，是日渐消退的激情，是迷茫时的懈怠停滞&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">苍老的男性声音：到最后才发现，原来&hellip;&hellip;岁月才是我最大的敌人。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">苍老的男性声音：逐步逼近的大限与解明的渴求让我变得偏执，最终致使我们的方向彻底脱离了轨道&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">苍老的男性声音：可待我等醒悟之时，早已为时过晚&hellip;&hellip;我们&hellip;&hellip;已经步入了那扇虚假的门扉&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">苍老的男性声音：我在这里，留下我最后的证悟&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">苍老的男性声音：他们既是我们的&ldquo;过去&rdquo;&hellip;&hellip;也是我们的&ldquo;未来&rdquo;&hellip;&hellip;若是能提早知晓这一点，一切尚有改变的机会&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">苍老的男性声音：来自过去的未来之人&hellip;&hellip;请再一次&hellip;&hellip;拯救我们&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">苍老的男性声音：请继续前进吧&hellip;&hellip;直到跨过那道&hellip;&hellip;能够改变世界的&hellip;&hellip;真正的门扉&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">模糊的女子影像：&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安可：好漂亮的姐姐呀&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秋水：漂泊者，关于这个人&hellip;&hellip;你有印象吗？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "我很熟悉……",
+            "content": ""
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "可我记不起来……",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [],
+            "pid": [
+              "2-1",
+              "2-2"
+            ],
+            "group": "3",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：果然&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：电力恢复之后，中央电梯应该也可以使用了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：数据信标的信号源就在我们下方，我们下去看看。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "f7896739-7dbd-4ab9-85db-85613da507f2": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2"
+            ],
+            "title": "",
+            "content": "<p>秧秧：你来了！</p>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "情况怎么样？",
+            "content": ""
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "鱼上钩了吗？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1",
+              "4-2"
+            ],
+            "pid": [
+              "2-1",
+              "2-2"
+            ],
+            "group": "3",
+            "title": "",
+            "content": "<p>秧秧：方才我和炽霞按你说的，分别戴着黑花在大街上游走，可惜我没打听到什么有用的情报&hellip;&hellip;</p>"
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1",
+              "5-2"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "具体都听到了什么？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：没什么，都是一些寒暄之类的&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">和蔼的叔叔：呀，这不是刚才那位水灵灵的大姑娘吗？</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">热情的女孩：是呀是呀，这位姐姐真的好漂亮呀！我可以再和你合一张影吗？刚才那张照片的角度没调好&hellip;&hellip;</p>\n</div>\n</div>"
+          },
+          {
+            "id": "4-2",
+            "cid": [
+              "7-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "炽霞呢？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "我已经听到了……",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：啊&hellip;&hellip;不要再说了！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：至于炽霞，她倒是觉得自己碰到了一位可疑人士&hellip;&hellip;就是他了。</p>\n</div>"
+          },
+          {
+            "id": "5-2",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "也没说错。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-1",
+            "cid": [
+              "7-1"
+            ],
+            "pid": [
+              "5-1",
+              "5-2"
+            ],
+            "group": "6",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：啊&hellip;&hellip;不要再说了！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：至于炽霞，她倒是觉得自己碰到了一位可疑人士&hellip;&hellip;就是他了。</p>\n</div>"
+          },
+          {
+            "id": "7-1",
+            "cid": [
+              "8-1",
+              "8-2"
+            ],
+            "pid": [
+              "6-1",
+              "4-2"
+            ],
+            "group": "7",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：至于炽霞，她倒是觉得自己碰到了一位可疑人士&hellip;&hellip;就是他了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：漂泊者，你来得正好！这家伙一直在商业街里探头探脑，没事就往老人小孩那里打听，我见他可疑，一直在观察他。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：之前他身边还跟着一个小女孩，看起来年龄不大，一直在东张西望，但现在却不见了&hellip;&hellip;实在是太可疑了！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：我是今巡尉炽霞，这位先生，请你配合，出示一下你的执业许可。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：执&hellip;&hellip;执业许可？噢！在下秋水，是一名情报商人，漂游四海，排忧解难&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：无证经营。听你这么说，你们也没有固定的经营场所咯？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：&hellip;&hellip;经营场所？情报商人需要什么经营场所？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：现在请你再出示一下组织机构认证。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：小店诚信经营，明码标价，报酬给够，万事可谈！本店已连续多年获得大陆最佳情报商人证书&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：没有明确规范的业务内容&hellip;&hellip;那就是非法经营&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：那你们组织的相关负责人是谁？他的身份认证码总该有吧？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：负&hellip;&hellip;负责人？哦！我们的负责人来头可大了！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秋水：她是与我们这颗星球一同诞生的存在，是星球意志的化身，世间万物的回音&hellip;&hellip;</p>\n</div>\n</div>"
+          },
+          {
+            "id": "8-1",
+            "cid": [
+              "9-1"
+            ],
+            "pid": [
+              "7-1"
+            ],
+            "group": "8",
+            "title": "真的吗？",
+            "content": ""
+          },
+          {
+            "id": "8-2",
+            "cid": [
+              "9-1"
+            ],
+            "pid": [
+              "7-1"
+            ],
+            "group": "8",
+            "title": "我不信。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "9-1",
+            "cid": [
+              "10-1",
+              "10-2",
+              "10-3"
+            ],
+            "pid": [
+              "8-1",
+              "8-2"
+            ],
+            "group": "9",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：所以你们到底有没有相关的组织负责人？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：不是，我都把我们老大的老底给透了，你们怎么就是不信呢？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：嗯嗯，我信我信！情况我已经完全了解了！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：那就请你跟我走一趟吧！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：长官！我真的没干坏事啊，我是在找人啊！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：就是一个长成这样这样的小姑娘&hellip;&hellip;那种呆在人群里最显眼的！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：这谁能看出来啊？</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秋水：哎呀，就是先前你看见过的那个！</p>\n</div>\n</div>"
+          },
+          {
+            "id": "10-1",
+            "cid": [
+              "11-1"
+            ],
+            "pid": [
+              "9-1"
+            ],
+            "group": "10",
+            "title": "小小的个子？",
+            "content": ""
+          },
+          {
+            "id": "10-2",
+            "cid": [
+              "11-1"
+            ],
+            "pid": [
+              "9-1"
+            ],
+            "group": "10",
+            "title": "粉粉的头发？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "10-3",
+            "cid": [
+              "11-1"
+            ],
+            "pid": [
+              "9-1"
+            ],
+            "group": "10",
+            "title": "走路一蹦一跳？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "11-1",
+            "cid": [
+              "12-1",
+              "12-2",
+              "12-3"
+            ],
+            "pid": [
+              "10-1",
+              "10-2",
+              "10-3"
+            ],
+            "group": "11",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：啊对对对，就是这样！你是怎么知道的？</p>\n</div>\n<div class=\"\">\n<div class=\"flex items-center align-center text-center w-full flex-row my-4 px-16\">\n<div class=\"flex border-gray-200 dark:border-gray-800 w-full border-t border-solid\">&nbsp;</div>\n</div>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">维里奈：小心一点&hellip;&hellip;这么走路很危险的&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安可：找到你啦！</p>\n</div>\n<div class=\"\">\n<div class=\"flex items-center align-center text-center w-full flex-row my-4 px-16\">\n<div class=\"flex border-gray-200 dark:border-gray-800 w-full border-t border-solid\">&nbsp;</div>\n</div>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：安可小祖宗啊！你可让我好找啊！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：哎！你想做什么？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：长官，我一直都在找的人&hellip;&hellip;就是她啊！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：小妹妹，你是叫安可吗？你认识这个人吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安可：嗯！安可认识！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安可：虽然他无证经营、喜欢当中间商赚差价、擅长窃听商业机密、又爱捉弄小孩&hellip;&hellip;但是秋水叔叔不是坏人！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：安可！我上次怎么教你的！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秋水：都说了在外面不要喊我叔叔！我没那么老！</p>\n</div>\n</div>"
+          },
+          {
+            "id": "12-1",
+            "cid": [
+              "13-1"
+            ],
+            "pid": [
+              "11-1"
+            ],
+            "group": "12",
+            "title": "这跟你的口供完全对不上啊。",
+            "content": ""
+          },
+          {
+            "id": "12-2",
+            "cid": [
+              "13-1"
+            ],
+            "pid": [
+              "11-1"
+            ],
+            "group": "12",
+            "title": "怎么听都不像个好人吧。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "12-3",
+            "cid": [
+              "13-1"
+            ],
+            "pid": [
+              "11-1"
+            ],
+            "group": "12",
+            "title": "重点原来是这个吗！",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "13-1",
+            "cid": [],
+            "pid": [
+              "12-1",
+              "12-2",
+              "12-3"
+            ],
+            "group": "13",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：维里奈，你们是怎么遇见的？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">维里奈：我从后山准备回来的时候，在悬崖边上碰到了她，当时她正在生吃一株毒蘑菇&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">维里奈：还好我及时给她熬了药汤，不然后果不堪设想&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安可：不用担心安可，这种蘑菇安可已经吃过很多啦！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：可是，小安可，你怎么一个人跑到那么危险的地方去啦？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：小安可别怕，有什么说什么！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安可：因为&hellip;&hellip;安可要盯梢这位大姐姐啊！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：啊哈哈哈哈，小孩子平时奇怪的东西看多了，不要在意，不要在意&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安可：喂，秋水&hellip;&hellip;不是你让安可这么做的吗？他们的眼神&hellip;&hellip;怎么看起来不太对劲啊？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：安可&hellip;&hellip;这种话可不能随随便便就说出去&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：唉，既然事态已经发展到了这一地步，那我只好告诉你们了&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：我们来到这里，的确是有些重要的事情要做，那就是&mdash;&mdash;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：安可！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安可：喂，秋水，等等安可呀&mdash;&mdash;！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：再见了您嘞！我们还要忙着拯救世界呢！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：咳咳&hellip;&hellip;站住！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：咳&hellip;&hellip;决不能让他跑了&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">维里奈：我、我去居民区的方向看看&hellip;&hellip;</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    }
+  }
+}

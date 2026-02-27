@@ -1,0 +1,4328 @@
+{
+  "code": 200,
+  "msg": "操作成功",
+  "data": {
+    "id": "1408753175363067904",
+    "name": "灼我以烈阳",
+    "orgFullName": "剧情任务组 > 剧情线",
+    "orgTree": {
+      "id": 3,
+      "key": null,
+      "name": "全部",
+      "parentId": null,
+      "level": 0,
+      "sort": null,
+      "children": [
+        {
+          "id": 332,
+          "key": null,
+          "name": "剧情任务组",
+          "parentId": null,
+          "level": 1,
+          "sort": null,
+          "children": [
+            {
+              "id": 316,
+              "key": null,
+              "name": "剧情线",
+              "parentId": null,
+              "level": 2,
+              "sort": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    },
+    "orgId": 316,
+    "orgIdList": [
+      316,
+      332,
+      3
+    ],
+    "content": {
+      "mediaList": [],
+      "title": "灼我以烈阳",
+      "modules": [
+        {
+          "title": "",
+          "components": [
+            {
+              "idx": "fac8ab2e-8b3a-42b4-9581-1e0d6077e1a7",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "返回列奥尼达酒店",
+          "components": [
+            {
+              "idx": "3fb09f06-a601-426b-87f6-392fe0f54bda",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "前往总督宫",
+          "components": [
+            {
+              "idx": "cfccd455-954a-4ecc-be50-03379b9a9fa7",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "寻找奥古斯塔的身影",
+          "components": [
+            {
+              "idx": "792644e1-7777-4a9d-91d6-c509762a185f",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "离开总督宫，静待狩猎",
+          "components": [
+            {
+              "idx": "450acb76-5dd7-4567-908a-22550bf96a7b",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "前往风潮崖",
+          "components": [
+            {
+              "idx": "99b7519f-0918-4c4a-8180-ace210a795b5",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "跟随阿维狄亚，前往风潮崖",
+          "components": [
+            {
+              "idx": "dcf2e385-2716-4aff-a89c-ad85dc7917ca",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "击败蚀脊龙",
+          "components": [
+            {
+              "idx": "5c655f0e-5f69-4721-90fa-0e4676a4982f",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "跟随奥古斯塔与尤诺，前往狩猎者营地",
+          "components": [
+            {
+              "idx": "c9e3e61f-ce2a-4d6e-aabe-3af5d221162c",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "聆听角斗士们的交谈",
+          "components": [
+            {
+              "idx": "dfdfbb30-cb09-43fd-8dea-969c06ec753a",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "搭乘高天讯使",
+          "components": [
+            {
+              "idx": "4ae68d39-2320-448e-bd28-202e00a515d5",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "进入四方殿",
+          "components": [
+            {
+              "idx": "433a751a-cf9d-483d-a4c3-e79135d8a1c3",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "查看大型壁画",
+          "components": [
+            {
+              "idx": "717df819-1af0-4225-a0e0-7de0fa4f606e",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "与手持金枝烛台的长辈交谈",
+          "components": [
+            {
+              "idx": "a8625e5b-b943-4967-8836-5b3b5cb97848",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "与奥古斯塔会合",
+          "components": [
+            {
+              "idx": "8a567fac-f4ea-460f-aa82-909d052aa904",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "穿越锈岩脊",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "追猎蚀脊龙·「暴君」",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "前往往事花平野",
+          "components": [
+            {
+              "idx": "3cf1ac51-71af-425a-a2d0-e5564742a0fc",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "击败蚀脊龙·「暴君」",
+          "components": [
+            {
+              "idx": "edfb110f-c5f7-467b-b1c9-1771a1652bc2",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "追击蚀脊龙·「暴君」",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "使用终端的「感知」模块，搜寻并追踪「暴君」",
+          "components": [
+            {
+              "idx": "f47ab578-b0a5-4e66-8732-dadd31af7bdb",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "跟随「暴君」遗留的黑潮痕迹前进",
+          "components": [
+            {
+              "idx": "0c9c08f4-a7fc-4413-be86-a8bb64750089",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "寻找嗥叫声的源头",
+          "components": [
+            {
+              "idx": "0ae91f87-3149-4b44-9f90-624a8c46cdef",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "前往临时营地",
+          "components": [
+            {
+              "idx": "30777c97-a97e-43c2-ae10-553b5cebc31b",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "前往主营帐寻找奥古斯塔",
+          "components": [
+            {
+              "idx": "d6bc036b-32bb-4a7b-8eb1-ba97288b7230",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "搭乘高天讯使，前往呓语镇",
+          "components": [
+            {
+              "idx": "3d42b3be-836f-43d9-a1d3-5ab415d5433b",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "探索呓语镇",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "自路标刻像处进入「索诺拉」",
+          "components": [
+            {
+              "idx": "6dc6eaba-a172-4820-b958-7b9207873877",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "跟随“光点”前进，探索「索诺拉」",
+          "components": [
+            {
+              "idx": "490239b9-ef0f-4299-a920-6b0468ae56bd",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "自路标刻像处进入「索诺拉」",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "跟随“光点”前进，探索「索诺拉」",
+          "components": [
+            {
+              "idx": "cecb5408-ea47-406f-b0f3-84e13ae9d966",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "自路标刻像处离开「索诺拉」",
+          "components": [
+            {
+              "idx": "a09980ae-0440-41b7-afb9-8f2bf753782a",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "调查异常区域",
+          "components": [
+            {
+              "idx": "cdc13a00-7174-409b-87f0-d7b29f8a1f56",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "自路标刻像处离开「索诺拉」",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "击碎被黑潮控制的蚀像，解放“光点”",
+          "components": [
+            {
+              "idx": "e251c7cf-eeff-4f7e-bae5-671b6e37ffc5",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "自路标刻像处进入「索诺拉」",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "再次调查虚影",
+          "components": [
+            {
+              "idx": "aed2f13c-846f-460d-a1a9-4457542b310f",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "自路标刻像处进入「索诺拉」",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "再次调查虚影",
+          "components": [
+            {
+              "idx": "6e698888-53a7-4b5b-9ad2-1e8df0d59418",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "跟随“光点”前进，探索「索诺拉」",
+          "components": [
+            {
+              "idx": "7c1360ae-b433-412d-bc36-389e1e0a0a2b",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "自路标刻像处进入「索诺拉」",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "跟随“光点”前进，探索「索诺拉」",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "调查异常声响的源头",
+          "components": [
+            {
+              "idx": "1bced229-021b-4b0f-8b3c-b7a46ade4c6f",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "自路标刻像处离开「索诺拉」",
+          "components": [
+            {
+              "idx": "0ae5c70f-479d-4ae5-b5d1-bb58c5587403",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "击败残象",
+          "components": [
+            {
+              "idx": "8ce8f215-f876-49f9-b937-eb1796bbaae6",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "自路标刻像处进入「索诺拉」",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "再次调查虚影",
+          "components": [
+            {
+              "idx": "d6ddfa6f-5f49-4017-843f-5d85fa1e69c1",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "跟随虚影前进",
+          "components": [
+            {
+              "idx": "012e6093-7fc0-440a-9276-7b8d95dcfe1d",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "进入橡树洞",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "调查橡树洞中的虚影",
+          "components": [
+            {
+              "idx": "ddc89b19-a4a5-4638-a439-5eea3aedbe5c",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "获取纯净的黑潮频率",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "自路标刻像处离开「索诺拉」",
+          "components": [
+            {
+              "idx": "11f96431-15fc-4aa6-885e-894ba86ba4bd",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "根据黑海岸提供的坐标，追踪伪作的神王",
+          "components": [
+            {
+              "idx": "c66f4e07-b118-40e1-84b6-9dfa6203bca7",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "击败伪作的神王",
+          "components": [
+            {
+              "idx": "1aae12f7-80cc-41f7-b102-01293d5c8fb8",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "准备周全后，拿取定向锚，前往彻地之楔",
+          "components": [
+            {
+              "idx": "dd8ceb18-67ad-4874-85a3-47290497e014",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "击败拦路的残象，穿越呓语镇",
+          "components": [
+            {
+              "idx": "c21dc2dd-2bdc-4dee-82ef-a229ca793b5c",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "前往彻地之楔",
+          "components": [
+            {
+              "idx": "f9becdea-1d18-44ca-a2b7-4725ebdcee73",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "与奥古斯塔交手",
+          "components": [
+            {
+              "idx": "1e46936e-64df-42c9-8c19-ae88b426af8e",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "击败伪作的神王",
+          "components": [
+            {
+              "idx": "3e0cf8b8-2f28-4250-ba58-5ab4894a1688",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "与奥古斯塔交谈",
+          "components": [
+            {
+              "idx": "ee03ac36-bc91-47b6-8bf8-4417d19ba052",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "前往彻地之楔前，取回英白拉多的旧物",
+          "components": [
+            {
+              "idx": "029094b9-9f8d-4e25-ae13-42befbc39b72",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "与奥古斯塔交谈",
+          "components": [
+            {
+              "idx": "c6b0dc72-fc96-4d7a-b8fb-e9b2059740b2",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        }
+      ],
+      "story": {
+        "012e6093-7fc0-440a-9276-7b8d95dcfe1d": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>安吉尔：奥古斯塔&hellip;&hellip;你&hellip;&hellip;</p>\n<p>安吉尔：你要留在这里吗&hellip;&hellip;</p>\n<p>安吉尔：不行，不行！我们一起好不好&hellip;&hellip;</p>\n<p>年少的奥古斯塔：我答应过你，要带你逃出去的。</p>\n<p>安吉尔：奥古斯塔！奥古斯塔&hellip;&hellip;</p>\n<p>年少的奥古斯塔：你、你这个坏蛋！</p>\n<p>年少的奥古斯塔：&hellip;&hellip;我们来角斗一场怎么样！</p>\n<p>年少的奥古斯塔：&hellip;&hellip;</p>\n<p>年少的奥古斯塔：我&hellip;&hellip;我才不怕，我准备好了。</p>\n<p>年少的奥古斯塔：&hellip;&hellip;</p>\n<p>年少的奥古斯塔：喂，专心一点！别小看我，我可是很厉害的！</p>\n<p>年少的奥古斯塔：不要&hellip;&hellip;</p>\n<p>年少的奥古斯塔：不要去那里！你看着我，听到没有！</p>\n<p>年少的奥古斯塔：安吉尔&hellip;&hellip;安吉尔！</p>\n<p>&ldquo;低语&rdquo;：黑潮钟情于强者，而弱者注定被遗忘&hellip;&hellip;</p>\n<p>&ldquo;低语&rdquo;：奥古斯塔啊，我勇敢却脆弱的孩子&hellip;&hellip;你的力量太过微不足道，甚至不曾拥有成为黑潮食粮的资格&hellip;&hellip;</p>\n<p>&ldquo;低语&rdquo;：你渴望踏足英雄之列，梦想着加冕为王&hellip;&hellip;可是&hellip;&hellip;辉煌的王座真的能容忍一个身负弱点的常人吗？</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1",
+                  "3-2"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "到底……发生了什么？",
+                "content": "<p>奥古斯塔：黑潮绕开了我，它的目标自始至终都是安吉尔。</p>\n<p>奥古斯塔：至于低语&hellip;&hellip;我确实听到了。可惜和传言中的不同，我听见的是刺耳的拒绝。</p>\n<p>奥古斯塔：不过眼下这些都不重要了，过去的事&hellip;&hellip;</p>\n<p>奥古斯塔：而且说实在的，那会儿的我的确是个只会拿着剑乱砍的小鬼。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "好在自那之后，你逐渐变得强大。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-2",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "好在如今的你，很强。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1",
+                  "3-2"
+                ],
+                "group": "4",
+                "title": "",
+                "content": "<p>奥古斯塔：呵&hellip;&hellip;对于一个孩子来说，除了变得更强，能选的路不多。</p>\n<p>奥古斯塔：毕竟在某种程度上，七丘是个现实又残酷的地方。</p>\n<p>奥古斯塔：曾经的我或许可以不那么在乎力量，但是在七丘城，只有握在手中的力量才能破开出身的枷锁，驯服建立在名望和财富之上的傲慢。</p>\n<p>奥古斯塔：现在，我的实力无需再向任何人证明，我的剑也足以平息那些流言蜚语。</p>\n<p>奥古斯塔：然而人心的成见，却不是锋刃所能斩断的。</p>\n<p>奥古斯塔：没错，我很清楚元老院那些藏污纳垢之辈在想什么。他们正借着民众的心思，冒用四方殿的名号，企图篡夺卡庇托山上的位置。</p>\n<p>奥古斯塔：可这些荒唐的手段，倒也恰恰暴露了他们那点见不得光的恐惧&mdash;&mdash;</p>\n<p>奥古斯塔：正因为忌惮我的力量，才不敢光明正大地迎战，反而躲在阴影里，借什么预言之类的虚伪说辞，妄图编织出一个胜过我的可能。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-1",
+                "cid": [
+                  "6-1"
+                ],
+                "pid": [
+                  "4-1"
+                ],
+                "group": "5",
+                "title": "所以，你不相信预言？",
+                "content": "<p>奥古斯塔：不，与其说是不信，不如说是不怕。</p>\n<p>奥古斯塔：黑潮始终是七丘挥之不去的梦魇，人们害怕再次被推入流亡的深渊，于是憧憬着英雄王的拯救。</p>\n<p>奥古斯塔：而我，身为七丘的总督，我必须冲破迷惘，回应臣民的期待。</p>\n<p>奥古斯塔：领袖是无权畏惧的。</p>\n<p>奥古斯塔：假如我的臣民因共鸣力而质疑我为王的资格，那就让当之无愧的英雄王站到我的面前。</p>\n<p>奥古斯塔：如果没有&hellip;&hellip;那就该轮到这个头衔来向我证明，它是否够格配得上&ldquo;王&rdquo;的荣耀。</p>\n<p>奥古斯塔：说真的，要是按照英雄王预言的说法&mdash;&mdash;&ldquo;手握非凡力量、自黑色的浪潮中崛起&rdquo;&mdash;&mdash;你，漂泊者，或许也可以是那个预言中的救世主。</p>\n<p>奥古斯塔：若我的对手是你&hellip;&hellip;我愿意接受挑战。</p>\n<p>奥古斯塔：对我来说，你这种强得不讲道理的家伙，要么是宿敌，要么是挚友。但无论你我是何种关系，我和我的剑都期待并且渴望着。</p>\n<p>漂泊者：我吗？英雄王的事，我从没这样想过。</p>\n<p>漂泊者：况且说到这个，我反倒认为，无论是共鸣力也好，生而为人的力量也罢，所谓的&ldquo;王&rdquo;并不一定是武力上的绝对强者。</p>\n<p>漂泊者：从瑝珑到黎那汐塔，一路上，我见过许许多多崇高的人，他们的能力和际遇各有不同，甚至&hellip;&hellip;也会有自己的弱点。</p>\n<p>漂泊者：可是能让这些人真正成就自身的，却从不是那些外物，而是他们与生俱来、无可动摇也无法被掠夺的纯粹本质。</p>\n<p>漂泊者：奥古斯塔，我很确信，你也拥有这样的特质。</p>\n<p>奥古斯塔：是嘛&hellip;&hellip;</p>\n<p>奥古斯塔：尤诺倒是也说过类似的话。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "6-1",
+                "cid": [],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "……安吉尔，最后怎么样了？",
+                "content": "<p>奥古斯塔：&hellip;&hellip;我不清楚橡树洞里究竟发生了什么，等我找到安吉尔时，她的共鸣力似乎比以前更强，连黑潮都奈何不了她。</p>\n<p>奥古斯塔：只不过最后，她没能完全掌控那股力量，我眼睁睁看着她在我面前&hellip;&hellip;变成了可怕的怪物。后来，我再也没见到过她。</p>\n<p>漂泊者：我在想&hellip;&hellip;十六年前的黑潮&hellip;&hellip;那时的黑潮频率，应该会比现在更加稳定吧。</p>\n<p>漂泊者：说不定，那位&ldquo;英灵&rdquo;想要传达的真相，就藏在我们眼前&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "029094b9-9f8d-4e25-ae13-42befbc39b72": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>漂泊者：&hellip;&hellip;是个匣子。</p>\n<p>漂泊者：这种温暖的感觉&hellip;&hellip;英白拉多，我感受到了&hellip;&hellip;</p>\n<p>漂泊者：先回去吧。</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "0ae5c70f-479d-4ae5-b5d1-bb58c5587403": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>阿布：我看到残象了，就在那边！</p>\n<p>奥古斯塔：先扫清这些障碍吧。</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "0ae91f87-3149-4b44-9f90-624a8c46cdef": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>错愕的角斗士：这、这是什么声音&hellip;&hellip;</p>\n<p>阿维狄亚：&hellip;&hellip;</p>\n<p>尤诺：就是&hellip;&hellip;现在&hellip;&hellip;</p>\n<p>阿布：到底发生什么事了，刚才那种黑色的雾&hellip;&hellip;黏糊糊的&hellip;&hellip;怎么吃都吃不完&hellip;&hellip;</p>\n<p>阿布：嗝&hellip;&hellip;不行了不行了，一下子吃掉太多，脑袋晕晕的。</p>\n<p>阿布：漂泊者，唔&hellip;&hellip;我先去缓缓&hellip;&hellip;</p>\n<p>奥古斯塔：&hellip;&hellip;还撑得住吗？</p>\n<p>？？？：奥古斯塔&hellip;&hellip;</p>\n<p>&ldquo;低语&rdquo;：奥古斯塔&hellip;&hellip;</p>\n<p>&ldquo;低语&rdquo;：&hellip;&hellip;看吧，她的一只小小声骸，就能轻易平息汹涌的黑潮&hellip;&hellip;这就是强大的、堪称完美的共鸣力。</p>\n<p>&ldquo;低语&rdquo;：以人类弱小的能力，你几乎什么都做不了。</p>\n<p>&ldquo;低语&rdquo;：你差点又失去了一切&hellip;&hellip;就和曾经一样。</p>\n<p>&ldquo;低语&rdquo;：奥古斯塔&hellip;&hellip;这次，请不要再拒绝&ldquo;神的恩赐&rdquo;，跟随我们的指引回到呓语镇吧&hellip;&hellip;</p>\n<p>&ldquo;低语&rdquo;：回到&hellip;&hellip;你的故乡&hellip;&hellip;</p>\n<p>尤诺：奥古斯塔&hellip;&hellip;</p>\n<p>尤诺：奥古斯塔&hellip;&hellip;咳咳&hellip;&hellip;</p>\n<p>尤诺：如果，我是说如果&hellip;&hellip;七丘的命运早就已经是注定的&hellip;&hellip;</p>\n<p>尤诺：你还要&hellip;&hellip;继续战斗下去吗&hellip;&hellip;</p>\n<p>奥古斯塔：&hellip;&hellip;</p>\n<p>奥古斯塔：王之所以为王，就是要为臣民&hellip;&hellip;完成不可能完成的事。</p>\n<p>奥古斯塔：这里不安全，我会带队把大家送到附近的临时营地，但在此之前，我得确保没有人落下。</p>\n<p>奥古斯塔：漂泊者，你们先走，尤诺就拜托你了。</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "嗯，放心吧。",
+                "content": "",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "0c9c08f4-a7fc-4413-be86-a8bb64750089": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>「暴君」：*凄厉而痛苦的嗥叫声*</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "11f96431-15fc-4aa6-885e-894ba86ba4bd": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>你们离开「索诺拉」返回到了呓语镇，并将收集到的纯净黑潮频率回传给了卜灵。</p>\n<p>卜灵：好了好了老板！数据交给泰缇斯系统过滤了几趟，最后整个狩原就只剩一个异常点，神王的位置八九不离十了。</p>\n<p>卜灵：我这就把坐标发过去。</p>\n<p>奥古斯塔：&hellip;&hellip;也就是说，我们提供的频率确确实实来自黑潮。</p>\n<p>卜灵：对的呀，这肯定没问题啊。</p>\n<p>卜灵：不过有个小地方确实有些古怪，老板们传过来的频率该怎么说呢&hellip;&hellip;气息沉稳，仿若无风静水，说白了，就跟是睡着似的，没被外力惊扰过。</p>\n<p>卜灵：再讲得细点的话，它的特性&hellip;&hellip;很类似黑潮与某个人的共鸣能力碰撞后留下来的残响。</p>\n<p>卜灵：虽然和黑潮比起来没啥威胁，可要是再碰上别的共鸣力，误打误撞给它&ldquo;摇醒&rdquo;了&hellip;&hellip;那能爆发出什么样的能量，倒也不好说&hellip;&hellip;</p>\n<p>奥古斯塔：安吉尔&hellip;&hellip;和黑潮&hellip;&hellip;</p>\n<p>奥古斯塔：&hellip;&hellip;我知道了。</p>\n<p>奥古斯塔：漂泊者，走吧，是时候见一见我们的猎物了。</p>\n<p>奥古斯塔：路上我会联系其他人，我们到目标地点汇合。</p>\n<p>阿维狄亚：各位，还请加快脚步。在追猎神王的指令正式下达前，我们务必确保定向锚安设无误。</p>\n<p>精明的元老：如此尽心&hellip;&hellip;阿维狄亚，恕我直言，你可能还不了解自己的处境。</p>\n<p>阿维狄亚：哦？阁下不妨把话说得更明白些。</p>\n<p>精明的元老：哼，此前狩猎「暴君」，你的表现实在令人遗憾。</p>\n<p>精明的元老：元老院的耐心，可远没有你想象得那般慷慨，若你再无法拿出堪比四度穿越玛涅斯之底的卓越表现，我们&hellip;&hellip;或许会重新审视准王的人选。</p>\n<p>精明的元老：清醒一些吧阿维狄亚，呓语镇难道不正是玛涅斯之底的所在、你大放异彩的竞技场吗？</p>\n<p>精明的元老：你理应站在更耀眼的位置，行使更具分量的权力，而不是为了她奥古斯塔，处理一些无关紧要的琐事。</p>\n<p>阿维狄亚：别犯傻了，法尔科阁下。</p>\n<p>阿维狄亚：想要一个比我更为乖顺，却又有着足够资质胜任准王这一位置的人，恐怕不会比在大海中寻找一枚金针容易。</p>\n<p>阿维狄亚：假如我是你，在眼前这种局势下，我会选择闭嘴。别忘了，七丘不存，你的一切野心都终究只能是梦幻泡影。</p>\n<p>阿维狄亚：容我略为提醒，我四度穿越玛涅斯之底，一是受当时情势所迫，二是为履行我身为角斗士的职责。</p>\n<p>阿维狄亚：如果你将我以铁与血践行的忠诚，当做竞技台上供贵族老爷们取乐的丑戏，那么我们的合作关系，的确需要审慎考虑一下&hellip;&hellip;</p>\n<p>精明的元老：你&hellip;&hellip;</p>\n<p>年长的角斗士：呵呵，年轻人还算是有些骨气，没被野心冲昏了头。</p>\n<p>年长的角斗士：法尔科，你怎么&hellip;&hellip;</p>\n<p>精明的元老：*痛苦的呻吟声*</p>\n<p>年长的角斗士：小心！</p>\n<p>阿维狄亚：&hellip;&hellip;应该是之前行动时无意接触了蚀像，看他刚才的举止，他的意识很可能已经被黑潮腐化。</p>\n<p>阿维狄亚：&hellip;&hellip;定向锚差不多架设妥当了。赫尔库斯阁下，麻烦您先找个地方安置法尔科。</p>\n<p>阿维狄亚：这里距离玛涅斯之底的入口不远，我记得生长在玛涅斯之底的醒真草，曾在当年帮助我和我的同袍们从黑潮的侵蚀中脱身。</p>\n<p>阿维狄亚：&hellip;&hellip;法尔科为他的傲慢付出了代价，但他确实曾是一位勇武的英雄。他应该死在猎场上，而不是死在黑潮的屈辱下。</p>\n<p>阿维狄亚：出于道义，我会尽力帮他。所以&hellip;&hellip;</p>\n<p>阿维狄亚：赫尔库斯阁下，这边暂且交给你处理，我会带着醒真草回来。</p>\n<p>阿维狄亚：请一定放心，我随时听令，不会离开队伍太久。</p>\n<p>年长的角斗士：好吧，年轻人，去做你认为该做的事。</p>\n<p>阿维狄亚：&hellip;&hellip;</p>\n<p>阿维狄亚：&hellip;&hellip;</p>\n<p>阿维狄亚：&hellip;&hellip;怎么&hellip;&hellip;会&hellip;&hellip;</p>\n<p>阿维狄亚：不&hellip;&hellip;这一定是黑潮的幻境&hellip;&hellip;</p>\n<p>阿维狄亚：这堵墙&hellip;&hellip;不、不对&hellip;&hellip;</p>\n<p>奥古斯塔（通讯中）：诸位，我们已经抓住了猎物的尾巴。按照坐标位置集合，准备迎战。</p>\n<p>阿维狄亚：&hellip;&hellip;</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "1aae12f7-80cc-41f7-b102-01293d5c8fb8": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>漂泊者：阿布！</p>\n<p>阿布：唔&hellip;&hellip;吞、吞不下啦！</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "还好吗？阿布。",
+                "content": "<p>阿布：问、问题不大&hellip;&hellip;</p>\n<p>阿布：不过我的肚子&hellip;&hellip;唔&hellip;&hellip;不能再吃了&hellip;&hellip;</p>\n<p>阿布：好&hellip;&hellip;好累&hellip;&hellip;</p>\n<p>&ldquo;低语&rdquo;：无信者啊&hellip;&hellip;那些被你弃之不顾的力量，终将成为敌人手中的利刃&hellip;&hellip;</p>\n<p>&ldquo;低语&rdquo;：你将神的恩赐拒之门外，而神的宽恕，亦唯有一次&hellip;&hellip;</p>\n<p>尤诺：奥古斯塔&hellip;&hellip;</p>\n<p>尤诺：奥古斯塔。</p>\n<p>奥古斯塔：尤诺，我&hellip;&hellip;</p>\n<p>奥古斯塔：不，还不能结束&hellip;&hellip;</p>\n<p>奥古斯塔：所有还能行动的，立刻分成两队！一队负责护送伤员返回营地，另一队马上整理装备、保持警戒！</p>\n<p>卜灵：老板，怎么回事啊！从刚才开始我就觉得浑身不对劲，泰缇斯系统的警报也播个没完。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "（将现状告知卜灵。）",
+                "content": "<p>卜灵：唉呦，我算是盘清楚了，本来嘛，你们那地界折过那么多厉害角色，神王到那儿，老鼠掉到米缸里了。</p>\n<p>卜灵：结果也不知道怎么着，一个抬头的工夫，那厮一口气把频率吞了个干净，终于把自己催成了个大祸害。</p>\n<p>卜灵：嗯&hellip;&hellip;不过&hellip;&hellip;</p>\n<p>卜灵：眼下局势虽说凶险得很，但也不是死路一条&hellip;&hellip;黑潮蔓延得没那么快，趁这当口，赶紧想办法拿捏神王的软肋，黎那汐塔兴许还能撑出条生路。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "你有什么建议吗？",
+                "content": "<p>卜灵：我看看啊&hellip;&hellip;嘶&hellip;&hellip;地火明夷&hellip;&hellip;这个就对了，泰缇斯那边也说什么&ldquo;内部频率繁杂、结构不稳定&rdquo;，瞧上去像是神王吞吃了这么些频率，肚皮里没个稳当章法。</p>\n<p>卜灵：要是能找个法子从肚皮里头把神王的频率搅散，哪怕用的是平常瞧上去不起眼的力道，咱们没准能把彻地之楔夺回来，让它重新镇压&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-1",
+                "cid": [
+                  "6-1"
+                ],
+                "pid": [
+                  "4-1"
+                ],
+                "group": "5",
+                "title": "通讯中断了。",
+                "content": "<p>尤诺：怎么偏偏是这种时候出问题。还能联系上吗？</p>\n<p>奥古斯塔：是黑潮&hellip;&hellip;</p>\n<p>奥古斯塔：黑潮的频率估计已经覆盖了这里的所有频段，现在的狩原，是一座名副其实的孤岛。</p>\n<p>尤诺：啧，真让人火大。</p>\n<p>尤诺：黑潮的&hellip;&hellip;内部&hellip;&hellip;</p>\n<p>尤诺：要是能让那家伙，吃下什么的话&hellip;&hellip;</p>\n<p>尤诺：对了，定向锚！</p>\n<p>漂泊者：难道&hellip;&hellip;你是打算让神王吞掉定向锚吗？这样定向锚就可以在它的身体里发挥抑制作用了。</p>\n<p>尤诺：没错，很敏锐嘛。但是在进行到这一步之前，还有两件麻烦事&hellip;&hellip;</p>\n<p>尤诺：一个是怎么骗神王乖乖听话，吃掉定向锚&mdash;&mdash;这个难题我准备交给奥古斯塔，还有你，漂泊者。</p>\n<p>尤诺：另一个嘛，就是稳定黑潮的形态，让神王老老实实地显化给我们当靶子&mdash;&mdash;这种事，除了我应该也没有第二个人选了。</p>\n<p>奥古斯塔：不行！</p>\n<p>奥古斯塔：神王如今的力量比以前强势太多，你的身体才刚刚恢复，根本不可能承受这么大的共鸣力消耗。</p>\n<p>尤诺：可别小瞧了我哦，奥古斯塔。</p>\n<p>尤诺：我，尤诺，七丘有史以来最厉害的谕女，也是唯一一个有能力对抗黑潮的谕女，不会因为这么点事情就轻易死掉的。</p>\n<p>尤诺：而且我在焰光中窥见过，我会在人们温柔的注视下，死在一片洁白小花的怀抱中，那会是一个温暖的春天，现在怎么看也不像是我的死期吧。</p>\n<p>尤诺：大不了&hellip;&hellip;就是比以往睡得久一些嘛。我向你保证不会有事的，放一万个心好了。</p>\n<p>奥古斯塔：嗯&hellip;&hellip;</p>\n<p>尤诺：那就这么说定了，等你们准备好，到了彻地之楔附近，记得给我发信号。</p>\n<p>尤诺：显化维持不了太久，我们得抓住这次机会，最大限度地利用它。</p>\n<p>尤诺：漂泊者，你是不是忘了什么？</p>\n<p>漂泊者：&hellip;&hellip;我&hellip;&hellip;</p>\n<p>尤诺：很好用对吧？那就继续好好带上它吧。见到它，不论你跑多远都要想起我，明白吗？</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "6-1",
+                "cid": [
+                  "7-1",
+                  "7-2"
+                ],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "我知道了……",
+                "content": "<p>尤诺：那&mdash;&mdash;看在手镯的面子上，你不介意我再提一个小小的要求吧。</p>\n<p>尤诺：答应我，和奥古斯塔一起站到命运面前，这不是建议，更不是命令，而是我个人的&hellip;&hellip;请求。</p>\n<p>尤诺：因为，这是只有你能做到的事。</p>\n<p>奥古斯塔：尤诺&hellip;&hellip;</p>\n<p>尤诺：我想我大概有些想明白了，&ldquo;不可知的空白&rdquo;&hellip;&hellip;</p>\n<p>尤诺：漂泊者，你命运中的空白或许并不是彻底的虚无，它一直在试图告诉我们，空白意味着无法被定义的未来。</p>\n<p>尤诺：只要那片空白还在，你便拥有定义自我的权力，你的存在，就是意义本身。</p>\n<p>尤诺：所以请好好地站在奥古斯塔身边吧，我能感受到，她在全心全意地信任着你。</p>\n<p>尤诺：无论发生什么事，我绝不允许你对她有一丝一毫的怀疑。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "7-1",
+                "cid": [
+                  "8-1"
+                ],
+                "pid": [
+                  "6-1"
+                ],
+                "group": "7",
+                "title": "我答应你。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "7-2",
+                "cid": [
+                  "8-1"
+                ],
+                "pid": [
+                  "6-1"
+                ],
+                "group": "7",
+                "title": "奥古斯塔和我约定过，要一起走到此行的终点。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "8-1",
+                "cid": [],
+                "pid": [
+                  "7-1",
+                  "7-2"
+                ],
+                "group": "8",
+                "title": "",
+                "content": "<p>尤诺：这还差不多。</p>\n<p>尤诺：好了，你们两个别磨磨唧唧了，快点出发吧。</p>\n<p>尤诺：早点摆平这些乱七八糟的事，我就能早点离开这个无聊的地方。</p>\n<p>奥古斯塔：尤诺，我想最后问你一个问题。</p>\n<p>奥古斯塔：那些没有空白命运的人呢？是不是这些人不管如何拼命地挣扎，都没办法逃出命运设下的牢笼。</p>\n<p>尤诺：我&hellip;&hellip;我不知道&hellip;&hellip;</p>\n<p>奥古斯塔：没关系的。</p>\n<p>奥古斯塔：漂泊者，我们该启程了。</p>\n<p>尤诺：奥古斯塔，等等！</p>\n<p>尤诺：我想&hellip;&hellip;命运的终点也许是绝对的，但通向命运的路绝对不止一条，人之所以是万物的灵长，是因为我们可以去决定、去选择！</p>\n<p>尤诺：如果我们改写不了命运，那就去追逐命运好了！追上它、超越它，最后再回过头，狠狠给它一拳！</p>\n<p>尤诺：别忘了，&ldquo;王之所以为王，就是要为臣民，完成不可能完成的事&rdquo;，这是你说过的！</p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "1bced229-021b-4b0f-8b3c-b7a46ade4c6f": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>年少的奥古斯塔：大家&hellip;&hellip;</p>\n<p>年少的奥古斯塔：安吉尔，我们&hellip;&hellip;</p>\n<p>年少的奥古斯塔：你怎么了，怎么会流这么多的血&hellip;&hellip;</p>\n<p>安吉尔：我&hellip;&hellip;咳咳咳咳咳&hellip;&hellip;</p>\n<p>年少的奥古斯塔：&hellip;&hellip;振作一点，我带你逃出去。</p>\n<p>安吉尔：不行&hellip;&hellip;外面、外面到处是怪物&hellip;&hellip;你带着我&hellip;&hellip;逃不掉的&hellip;&hellip;</p>\n<p>安吉尔：咳咳，你自己&hellip;&hellip;咳咳咳&hellip;&hellip;</p>\n<p>阿布：咦？它又停下来不动了&hellip;&hellip;屋子里没动静，是结束了吗？</p>\n<p>奥古斯塔：我记得当时我和安吉尔被困在房间的角落，门外尽是残象。</p>\n<p>奥古斯塔：若不是一位英勇的前辈与那群怪物拼死战斗到最后一刻，不肯退后一步，我们或许根本没有逃出去的机会。</p>\n<p>奥古斯塔：&hellip;&hellip;有一种可能&hellip;&hellip;我们需要复现当年前辈的行为将残象清理干净，回响才能够继续。</p>\n<p>阿布：可是这些残象只是&ldquo;虚影&rdquo;诶&hellip;&hellip;要怎么做才能打败它们呢？</p>\n<p>漂泊者：也许解法和之前一样，我们需要去到「索诺拉」之外。</p>\n<p>阿布：对哦，有路标刻像！</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "1e46936e-64df-42c9-8c19-ae88b426af8e": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>漂泊者：怎么&hellip;&hellip;</p>\n<p>漂泊者：（你到底想要做什么，奥古斯塔&hellip;&hellip;）</p>\n<p>奥古斯塔：放手一搏吧，漂泊者，这是我的觉悟，我绝不可辱没的使命。</p>\n<p>奥古斯塔：呵，就像这样，拿出你的全力。</p>\n<p>奥古斯塔：能与我并肩站在王座之前的只有你，也只能是你。</p>\n<p>&ldquo;低语&rdquo;：狂妄的无信者！</p>\n<p>&ldquo;低语&rdquo;：领受高天的审判吧</p>\n<p>&ldquo;低语&rdquo;：神的熔炉将重铸你的灵魂</p>\n<p>奥古斯塔：蠢货，都说了拉古那的&ldquo;神&rdquo;可没买上船票</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "30777c97-a97e-43c2-ae10-553b5cebc31b": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>尤诺：&hellip;&hellip;</p>\n<p>漂泊者：怎么样？要不要中途休息一下？</p>\n<p>尤诺：关心的话我收下了，不过这点路&hellip;&hellip;我还没脆弱到那种程度&hellip;&hellip;</p>\n<p>尤诺：&hellip;&hellip;放我在这里就好。</p>\n<p>尤诺：真是的&hellip;&hellip;别在我面前露出那种一脸担忧的表情，又不是什么大不了的事。</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1",
+                  "3-2",
+                  "3-3"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "……嗯，你先好好休息吧。",
+                "content": "<p>尤诺：&hellip;&hellip;</p>\n<p>尤诺：等等，你有话想要问我，对吧。</p>\n<p>尤诺：有什么就说什么，一点点小伤，我还能应付得过来。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "我刚才看到了你坠入黑潮之中。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-2",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "我刚才看到了奥古斯塔的死。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-3",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "我刚才看到了七丘的毁灭。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1",
+                  "3-2",
+                  "3-3"
+                ],
+                "group": "4",
+                "title": "",
+                "content": "<p>尤诺：&hellip;&hellip;</p>\n<p>尤诺：已经&ldquo;窥见&rdquo;到了这种程度吗？还是说，不止是这些&hellip;&hellip;</p>\n<p>尤诺：呵，你这家伙到底还要让我惊讶多少次&hellip;&hellip;不过也对，这种事情，也只有你能办得到吧。</p>\n<p>尤诺：莉莉贝婆婆&hellip;&hellip;就是你在四方殿见过的那位谕女之首&mdash;&mdash;和我提起过，命运在你身上是一片&ldquo;不可知的空白&rdquo;。</p>\n<p>尤诺：虽然我还没有完全搞懂婆婆所说的&ldquo;空白&rdquo;的意思，但至少说明，你是最特别的那一个。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-1",
+                "cid": [
+                  "6-1"
+                ],
+                "pid": [
+                  "4-1"
+                ],
+                "group": "5",
+                "title": "那些画面是什么？",
+                "content": "<p>尤诺：那是&hellip;&hellip;我曾经在圣火的焰光中，窥见的&hellip;&hellip;七丘的命运&hellip;&hellip;</p>\n<p>尤诺：就像你看到的那样，黑潮会带来七丘的毁灭，以及&hellip;&hellip;奥古斯塔的死。</p>\n<p>尤诺：我不知道拉古那人的预言到底是不是真的，可命运却没有回应我除了悲哀之外的结局。</p>\n<p>尤诺：&hellip;&hellip;事到如今，哪怕再不甘心也得承认，黑潮的确是种可怕的东西。</p>\n<p>尤诺：它的可怕之处不在于向我展示幻境、编造谎言，而在于&hellip;&hellip;它总是能敏锐地找到被我们隐藏起来的，心中最不愿面对的那一部分。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "6-1",
+                "cid": [
+                  "7-1"
+                ],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "假如你窥见的命运并非真相呢？",
+                "content": "<p>尤诺：不会的，我的预言从不出错。</p>\n<p>尤诺：所以&hellip;&hellip;我恨透了这种无能为力的感觉，明明知道一切，却什么都做不了&hellip;&hellip;</p>\n<p>尤诺：&hellip;&hellip;既然都说到这里了，姑且告诉你一个秘密好了。</p>\n<p>尤诺：&hellip;&hellip;现在的我，早就看不见命运的流迹了。</p>\n<p>尤诺：我用窥视命运的能力，&ldquo;换&rdquo;来了对抗黑潮的共鸣力。不为别的，只是不想再做命运的喉舌，听凭那种高高在上的东西摆布。</p>\n<p>尤诺：可是到头来&hellip;&hellip;就算拼尽全力，我们却还是没能逃得过命运的操控&hellip;&hellip;</p>\n<p>尤诺：之前我们在往世花平野遭遇的黑色人形，事实上是黑潮化生的实体，我们叫它&ldquo;伪作的神王&rdquo;。</p>\n<p>尤诺：那家伙和其他的黑潮造物不一样，它会吞噬、重塑黑潮散逸的力量。</p>\n<p>尤诺：我不清楚这样发展下去究竟会怎么样，可我很确定，它就是预言里覆灭七丘的罪源。</p>\n<p>尤诺：在这次狩猎开始前，我和奥古斯塔提前调查了桑古伊斯狩原，确认了这次涨潮的不寻常。</p>\n<p>尤诺：于是我们打算利用神王的特质，将蚀脊龙当做诱饵，引出它还未完全成型的实体。</p>\n<p>尤诺：也许这样，七丘的悲剧就能在它诞生之前被改写。</p>\n<p>尤诺：当然，结果你也看到了，我们失败了&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "7-1",
+                "cid": [
+                  "8-1"
+                ],
+                "pid": [
+                  "6-1"
+                ],
+                "group": "7",
+                "title": "预言和命运，真的不能被改写吗？",
+                "content": "<p>尤诺：&hellip;&hellip;我不知道&hellip;&hellip;</p>\n<p>尤诺：命运很诚实，或许在死亡面前，我们真的没得选。</p>\n<p>尤诺：但如果是奥古斯塔的话&hellip;&hellip;那个笨蛋绝对会一如既往地战斗到底。</p>\n<p>尤诺：不过&hellip;&hellip;有件事我不太确定，不知道为什么，我总感觉之前黑潮向我展示的命运，和我在记忆中看到的有些不太一样。</p>\n<p>尤诺：&hellip;&hellip;是哪里不一样呢&hellip;&hellip;唔&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "8-1",
+                "cid": [
+                  "9-1"
+                ],
+                "pid": [
+                  "7-1"
+                ],
+                "group": "8",
+                "title": "你的身体……",
+                "content": "<p>尤诺：共鸣力的副作用罢了。</p>\n<p>尤诺：很多时候黑潮不会以稳定的形态出现，而我的共鸣能力恰好能够以我的&ldquo;存在&rdquo;，换取黑潮造物显化，大概就是&hellip;&hellip;等价交换之类的。</p>\n<p>尤诺：呃&hellip;&hellip;听起来是有些复杂，你的话，只需要知道这些副作用可以通过睡眠来缓解就足够了。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "9-1",
+                "cid": [
+                  "10-1"
+                ],
+                "pid": [
+                  "8-1"
+                ],
+                "group": "9",
+                "title": "厘清问题需要时间。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "10-1",
+                "cid": [
+                  "11-1"
+                ],
+                "pid": [
+                  "9-1"
+                ],
+                "group": "10",
+                "title": "在此之前，重要的是恢复好身体。",
+                "content": "<p>尤诺：说得也对。等我之后有力气了，搞明白这些疑点，还不是动动手指的事？</p>\n<p>尤诺：对了，这个，你拿着。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "11-1",
+                "cid": [
+                  "12-1"
+                ],
+                "pid": [
+                  "10-1"
+                ],
+                "group": "11",
+                "title": "这是……",
+                "content": "<p>尤诺：能够封存一小部分共鸣力的月石手镯，是我成为谕女时，从前辈手中继承的。</p>\n<p>尤诺：这枚手镯可是很珍贵的哦，你要好好保管，弄丢了别指望再有第二个。</p>\n<p>尤诺：我不在的这段时间，好好地拜托它吧，说不定它能勉强代替我，帮到你和奥古斯塔呢。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "12-1",
+                "cid": [
+                  "13-1",
+                  "13-2"
+                ],
+                "pid": [
+                  "11-1"
+                ],
+                "group": "12",
+                "title": "谢谢你，尤诺。",
+                "content": "<p>尤诺：&hellip;&hellip;干嘛突然说这种话&hellip;&hellip;</p>\n<p>尤诺：那什么&hellip;&hellip;我不会睡得太久的！你，还有奥古斯塔，你们两个谁也别想抛下我，明白了吗？</p>\n<p>托马斯：看现在的形势，恐怕这次狩猎凶多吉少&hellip;&hellip;</p>\n<p>托马斯：唉&hellip;&hellip;好想再喝一杯「饮心」啊，不知道还有没有机会回去&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "13-1",
+                "cid": [
+                  "14-1"
+                ],
+                "pid": [
+                  "12-1"
+                ],
+                "group": "13",
+                "title": "（交付一瓶「饮心」）",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "13-2",
+                "cid": [
+                  "14-1"
+                ],
+                "pid": [
+                  "12-1"
+                ],
+                "group": "13",
+                "title": "（不交付）",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "14-1",
+                "cid": [
+                  "15-1"
+                ],
+                "pid": [
+                  "13-1",
+                  "13-2"
+                ],
+                "group": "14",
+                "title": "",
+                "content": "<p>托马斯：什么！你居然随身带着吗？太好了，没想到在这种时候还能喝到&hellip;&hellip;</p>\n<p>托马斯：没错&hellip;&hellip;就是这个味道！</p>\n<p>托马斯：谢谢你，如果我们都能活着回去，下次换我请你喝吧。</p>\n<p>安娜丽莎：尤诺&hellip;&hellip;虽然之前听过她狩猎时的事迹，但亲眼见到还是第一次&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "15-1",
+                "cid": [],
+                "pid": [
+                  "14-1"
+                ],
+                "group": "15",
+                "title": "尤诺的伤势怎么样了？",
+                "content": "<p>安娜丽莎：暂时没有什么大碍&hellip;&hellip;</p>\n<p>安娜丽莎：只不过，她的共鸣能力有些使用过度&hellip;&hellip;</p>\n<p>安娜丽莎：现在就让她好好休息吧。</p>\n<p>安娜丽莎：我想，在目睹了她今天的表现后，很多人都会对她改观的。</p>\n<p>漂泊者：去看看奥古斯塔那边的情况吧。</p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "3cf1ac51-71af-425a-a2d0-e5564742a0fc": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "这里……",
+                "content": "<p>尤诺：尸横遍野，很可怕的场面是吧。</p>\n<p>尤诺：其实这片原野，原本就是「暴君」的诞生地，也是它引以为傲的残酷王国。</p>\n<p>尤诺：过去的每一次狩猎，我们都会在这里迎来最终的死战。</p>\n<p>尤诺：角斗士们千方百计将黑潮造物驱逐到往世花平野，同样，黑潮造物也会不择手段地把追猎者引到这儿来。</p>\n<p>尤诺：这注定会是一场势均力敌的生死游戏，猎人与猎物？呵，谁是猎人，谁是猎物，只有活到最后的人说了算。</p>\n<p>奥古斯塔：英雄王阿提留斯的后裔，因四度穿越玛涅斯之底而授勋的阿维狄亚。</p>\n<p>奥古斯塔：我在你身上看到了渴望，对权力的渴望。</p>\n<p>奥古斯塔：不过想要做我的对手，这点觉悟还远远不够。</p>\n<p>奥古斯塔：来吧，站到我的身边来，放手追逐你的欲望吧。</p>\n<p>奥古斯塔：让野心之火烧得更旺一些。</p>\n<p>阿维狄亚：如您所愿，总督阁下。</p>\n<p>尤诺：总算有点不无聊的了。</p>\n<p>尤诺：漂泊者，你就老老实实待在旁边陪我休息吧。</p>\n<p>尤诺：奥古斯塔和角斗士之间的事，暂时还不需要我们插手。</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "3d42b3be-836f-43d9-a1d3-5ab415d5433b": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>阿维狄亚：受蚀地&hellip;&hellip;</p>\n<p>阿维狄亚：想不到四年之后，竟是在这种情势下再度踏足此地&hellip;&hellip;</p>\n<p>心怀胆怯的角斗士：这里&hellip;&hellip;怎么会是这副样子&hellip;&hellip;</p>\n<p>年长的角斗士：这地方十六年前遭了黑潮的正面冲击，能留下眼前这具空壳子，已经算是走运了。</p>\n<p>心怀胆怯的角斗士：也就是说&hellip;&hellip;要是我们没能阻止黑潮，七丘城也会变成&hellip;&hellip;</p>\n<p>众角斗士：&hellip;&hellip;</p>\n<p>奥古斯塔：战士们，别让恐惧束缚了前进的步伐。我们的身后，是七丘不容亵渎的荣耀。</p>\n<p>奥古斯塔：十六年前呓语镇的惨剧&hellip;&hellip;绝不会重演。</p>\n<p>奥古斯塔：因为此刻，我们正站在此处。</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "接下来打算怎么做。",
+                "content": "<p>奥古斯塔：神王不会让我们轻易得手的，在没有完全确认它的位置与状态前，贸然行动不是聪明的做法。</p>\n<p>阿维狄亚：总督阁下，我会遵照您的愿望&mdash;&mdash;这当然也是我的愿望&mdash;&mdash;带人在呓语镇周围布设定向锚。至少，我会确保呓语镇以外的区域，暂时安然无恙。</p>\n<p>奥古斯塔：嗯，这样神王的行动也会被限死在呓语镇里。</p>\n<p>奥古斯塔：很好，尽管去做吧，阿维狄亚。</p>\n<p>奥古斯塔：那么漂泊者，追踪神王的事就交由你我来完成吧。由于时间紧迫，之后我们需要分开行动。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "明白了。",
+                "content": "<p>奥古斯塔：另外，大家要时刻警惕蚀像，不要被它们和雕像相似的外形迷惑了，尤其要小心它们腐化人心的歌声。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-1",
+                "cid": [],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "那些蚀像是？",
+                "content": "<p>奥古斯塔：他们原本也是我们的一员&mdash;&mdash;英勇的角斗士，或是驯良的七丘子民。</p>\n<p>奥古斯塔：黑潮不仅侵蚀了这些无辜者的意志，还让亡者的残躯堕落为自己的爪牙。呵，就连死亡都没办法还他们一个自由吗？</p>\n<p>奥古斯塔：我保证，那恶意的源头，定会付出代价。</p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "3e0cf8b8-2f28-4250-ba58-5ab4894a1688": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>漂泊者：奥古斯塔。</p>\n<p>奥古斯塔：又见面了，我的挚友。</p>\n<p>奥古斯塔：看来我的意志，不容许我错过任何一个和你并肩作战的机会。</p>\n<p>奥古斯塔：来吧，漂泊者。这一刻，我期待已久。</p>\n<p>奥古斯塔：呵，要来真的了吗？很好，这才是这场纷争该有的样子。</p>\n<p>奥古斯塔：漂泊者，请与我比肩。</p>\n<p>奥古斯塔：这一次，胜利的猎刃，必将刺入伪王的心脏。</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "3fb09f06-a601-426b-87f6-392fe0f54bda": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">阿布：哎哟，天气真不错呀。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">阿布：漂泊者，今天总督那边有消息了吗？还是说咱们和前几天一样，一起到处逛逛？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">总督宫侍从：日安，漂泊者阁下。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">总督宫侍从：在下总督宫侍从，德米安，今日特奉总督之命为阁下呈上这封亲笔信。</span></p>\n</div>\n<div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">总督宫侍从：事关要务，还望阁下过目。</span></p>\n</div>\n</div>"
+              },
+              {
+                "id": "2-1",
+                "cid": [],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "（接过信件。）",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">阿布：还真是说啥来啥&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">阿布：上面写的什么来着？给我也看看。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：大概是说&mdash;&mdash;奥古斯塔那边的情况已经处理好了，按照之前的约定，她邀请我到总督宫见面。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：&hellip;&hellip;应该是为了狩猎有关的事吧。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：事不宜迟&hellip;&hellip;阿布，我们走吧。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">阿布：诶，现在就要出发吗？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">阿布：说正事的话，嘿嘿，我就不跟着凑热闹了。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">阿布：待会儿你们慢慢聊，有什么事叫我就行。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：前面就是总督宫了。</span></p>\n</div>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "433a751a-cf9d-483d-a4c3-e79135d8a1c3": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>泽拉：关于这次狩猎&hellip;&hellip;</p>\n<p>泽拉：我看不到更加明确的未来&hellip;&hellip;</p>\n<p>泽拉：一片阴影&hellip;&hellip;我只能从焰光中窥见阴影，令人不安的阴影&hellip;&hellip;</p>\n<p>梅丽娜：抛开关切和畏惧，静下心来吧。</p>\n<p>梅丽娜：遮蔽命运真容的，是你纷杂的情感。</p>\n<p>塞拉芙：我听见角斗士们在谈论英雄王。</p>\n<p>塞拉芙：哪怕没有焰光的指引，我也能预见未来在王座前，会有一场在所难免的纷争。</p>\n<p>内莉娅：可我们明明没能窥见英雄王的面目。王位的归属，现在谁也说不清。</p>\n<p>塞拉芙：正是因为含混不明，原本指引人心的预言才会为人所用。</p>\n<p>塞拉芙：有时我也在想，预言究竟是照亮前路的辉光，还是将人们囚困在欲望中的枷锁。</p>\n<p>漂泊者：没想到在狩原这种远离城区的地方，还能有这么气派的建筑&hellip;&hellip;</p>\n<p>漂泊者：好像&hellip;&hellip;没看到尤诺。</p>\n<p>漂泊者：墙上那些是&hellip;&hellip;壁画吗？</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "450acb76-5dd7-4567-908a-22550bf96a7b": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>阿布：哎呀，又吃得饱饱的&hellip;&hellip;嘻，今天填饱肚子的任务完成啦。</p>\n<p>阿布：诶？漂泊者，快看！那边的天空！</p>\n<p>漂泊者：那是&hellip;&hellip;风暴&hellip;&hellip;</p>\n<p>漂泊者：&hellip;&hellip;差不多是和奥古斯塔约定的时间了。</p>\n<p>漂泊者：风潮崖，我记得这是我们见面的地点。</p>\n<p>阿布：那那那&hellip;&hellip;你快点去吧！</p>\n<p>阿布：还是老样子哦，有事喊我，我肯定第一个冲出来！</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "490239b9-ef0f-4299-a920-6b0468ae56bd": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>？？？：今天没有在橡树洞看到你诶&hellip;&hellip;</p>\n<p>？？？：说好了一起去玛涅斯之底探险的，不要又是被别的人喊走帮忙了吧。</p>\n<p>声音熟悉的女孩：唔&hellip;&hellip;对不起&hellip;&hellip;</p>\n<p>声音熟悉的女孩：奥索受伤了，费罗大叔身边少个帮手，所以&hellip;&hellip;我去帮了点忙&hellip;&hellip;不小心错过时间了&hellip;&hellip;</p>\n<p>？？？：好吧好吧&hellip;&hellip;</p>\n<p>？？？：不过真奇怪，为什么大家有事情总是喜欢拜托你啊，明明我们都还是小孩子呢。</p>\n<p>声音熟悉的女孩：&hellip;&hellip;我也&hellip;&hellip;不太清楚。</p>\n<p>？？？：嗯&hellip;&hellip;想不通&hellip;&hellip;</p>\n<p>？？？：&hellip;&hellip;也是，涨潮期快到了，老爸老妈都忙着准备狩猎呢，费罗大叔的铁匠铺肯定是最忙的。</p>\n<p>？？？：唉，要是我们真能在橡树洞里找到去玛涅斯之底的路，就能像罗莎婆婆的故事里那样，听到英雄王的低语，得到超厉害的共鸣力量了。</p>\n<p>？？？：只要我也能去猎场，老爸老妈就不会这么累了。</p>\n<p>声音熟悉的女孩：但我觉得安吉尔已经很强了。</p>\n<p>声音熟悉的女孩：有时候我也会想，我要是安吉尔就好了。</p>\n<p>声音熟悉的女孩：我的话&hellip;&hellip;好像一直没什么共鸣天赋。以前爸爸也说过，&ldquo;剑挥得不错，可惜共鸣力平平，算不上是角斗士的好苗子&rdquo;。</p>\n<p>安吉尔：共鸣力平平？我不信，手伸出来我看看。</p>\n<p>安吉尔：我记得你的声痕在手上来着。</p>\n<p>安吉尔：干嘛&hellip;&hellip;伸手哇，怎么突然别别扭扭的。</p>\n<p>安吉尔：&hellip;&hellip;</p>\n<p>安吉尔：你的手&hellip;&hellip;</p>\n<p>安吉尔：不行，我要去找费罗大叔，这样子一看就知道是铁匠炉烫伤的！</p>\n<p>声音熟悉的女孩：是我自己没注意，不怪他啦&hellip;&hellip;</p>\n<p>声音熟悉的女孩：&hellip;&hellip;是我和费罗大叔说，如果我能做得快点，也许&hellip;&hellip;他可以借我一些用不上的锈剑&hellip;&hellip;</p>\n<p>声音熟悉的女孩：罗莎婆婆不是说，要带上&ldquo;两条命&rdquo;才能去到玛涅斯之底嘛&hellip;&hellip;我们都还没佩剑，少了&ldquo;一条命&rdquo;，然后我就想&hellip;&hellip;</p>\n<p>安吉尔：又来&hellip;&hellip;真拿你没办法&hellip;&hellip;</p>\n<p>奥古斯塔：&hellip;&hellip;</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "是来自过去的回响。",
+                "content": "<p>奥古斯塔：嗯，是十六年前黑潮来临前夕发生的事。</p>\n<p>阿布：漂泊者，是那个飞来飞去的家伙诶！它又出现了！</p>\n<p>漂泊者：我想这一次，它应该是想为我们领路。</p>\n<p>漂泊者：跟上它吧。</p>\n<p>漂泊者：&hellip;&hellip;停在那边的虚影上了。</p>\n<p>哭泣的孩子：呜呜呜&hellip;&hellip;呜呜&hellip;&hellip;</p>\n<p>声音熟悉的女孩：原来在这里啊，找了你好久。</p>\n<p>声音熟悉的女孩：很甜的糖果，罗莎婆婆送给我们的，多拿几个吧。</p>\n<p>哭泣的孩子：唔&hellip;&hellip;</p>\n<p>哭泣的孩子：你说&hellip;&hellip;罗莎婆婆讲的那个玛涅斯之底的故事，到底是不是真的啊&hellip;&hellip;</p>\n<p>哭泣的孩子：&hellip;&hellip;要是能听得见英雄王的低语，我能拜托树洞里的力量治好哥哥的腿吗？</p>\n<p>哭泣的孩子：是很强的共鸣能量的话，哥哥应该就能像以前一样厉害了吧&hellip;&hellip;</p>\n<p>哭泣的孩子：&hellip;&hellip;大人们都说&hellip;&hellip;这次的黑潮太凶了&hellip;&hellip;</p>\n<p>哭泣的孩子：哥哥受伤的腿再也治不好了，他以后再也不能当角斗士了&hellip;&hellip;</p>\n<p>声音熟悉的女孩：那&hellip;&hellip;去橡树洞试一试吧。</p>\n<p>声音熟悉的女孩：喏，这把剑你拿着，不过要记得之后还给费罗大叔哦。</p>\n<p>哭泣的孩子：你&hellip;&hellip;不和我们一起吗？我记得没有多余的剑了&hellip;&hellip;</p>\n<p>哭泣的孩子：没剑的话，根本到不了玛涅斯之底的&hellip;&hellip;</p>\n<p>声音熟悉的女孩：没关系啦，还有下次嘛。</p>\n<p>声音熟悉的女孩：等到下次，我会想办法找更多的剑过来，这样大家都有份。</p>\n<p>阿布：咦？漂泊者，刚才那个女孩子的声音，我总感觉有点熟悉来着。</p>\n<p>阿布：是在哪里听到过呢？</p>\n<p>奥古斯塔：&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "在建筑后面，似乎……那里有个庭院。",
+                "content": "<p>奥古斯塔：既然暂时没有其他的突破口，去看看吧。</p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "4ae68d39-2320-448e-bd28-202e00a515d5": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>漂泊者：尤诺之前提起可以去四方殿找她&hellip;&hellip;既然是空闲时间的话，去看看吧。</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "5c655f0e-5f69-4721-90fa-0e4676a4982f": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>奥古斯塔：呵，就这么急不可待吗？</p>\n<p>阿维狄亚：那是蚀脊龙，黑潮的造物&hellip;&hellip;</p>\n<p>阿维狄亚：漂泊者，请多加小心。</p>\n<p>奥古斯塔：还不是时候</p>\n<p>奥古斯塔：让它逃吧，这条路&hellip;&hellip;只会将它引向猎网的更深处</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "6dc6eaba-a172-4820-b958-7b9207873877": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>漂泊者：这里是呓语镇？</p>\n<p>漂泊者：不对&hellip;&hellip;好像不太一样。</p>\n<p>奥古斯塔：是曾经的呓语镇&hellip;&hellip;</p>\n<p>奥古斯塔：确切地说，是被黑潮的阴影纠缠的角斗士小镇，英雄王法比乌昔日的造访地&hellip;&hellip;七丘永恒的伤口&mdash;&mdash;法比亚纳。</p>\n<p>漂泊者：奥古斯塔，看那边。</p>\n<p>漂泊者：那是&hellip;&hellip;来自过去的频率吗？</p>\n<p>奥古斯塔：走吧，也许它们能帮我们找到线索。</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "6e698888-53a7-4b5b-9ad2-1e8df0d59418": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>漂泊者：奥古斯塔&hellip;&hellip;</p>\n<p>奥古斯塔：那是我。</p>\n<p>奥古斯塔：呵，这下想不承认都不行了。小时候做的那些蠢事，还想着能糊弄过去呢。</p>\n<p>漂泊者：所以呓语镇&hellip;&hellip;我是说法比亚纳，是你的故乡？</p>\n<p>奥古斯塔：是啊&hellip;&hellip;没想到过去了这么久，竟然会以这种方式和自己的曾经见面。</p>\n<p>阿布：唔&hellip;&hellip;有点好奇&hellip;&hellip;</p>\n<p>奥古斯塔：是关于玛涅斯之底和橡树洞的事吧。</p>\n<p>阿布：嗯嗯！</p>\n<p>奥古斯塔：&hellip;&hellip;在以前，法比亚纳这个名字几乎代表了荣誉。</p>\n<p>奥古斯塔：毕竟那个时候，它是抵抗黑潮的最前沿，据说英雄王法比乌、阿提留斯还有薇利芮尔都曾为七丘踏足过这里。</p>\n<p>奥古斯塔：大概就是因为这样，那些英雄王的故事总是在镇上传个不停。其中我最常听到的，正是英雄王们穿越古老的前代文明遗迹&mdash;&mdash;玛涅斯之底的壮举。</p>\n<p>奥古斯塔：传说只要带上&ldquo;两条命&rdquo;&mdash;&mdash;你和你的佩剑&mdash;&mdash;玛涅斯之底的大门就会为你敞开。至今，英雄王的低语仍在那片隐秘的地下世界徘徊。</p>\n<p>奥古斯塔：是的，低语&hellip;&hellip;有些人相信，那声音能引领人们获得比肩英雄王的共鸣力。</p>\n<p>奥古斯塔：至于大橡树下那所谓的能通往玛涅斯之底的洞口&hellip;&hellip;孩子们口口相传的轶闻罢了，到底是真是假，没人能搞得清&hellip;&hellip;</p>\n<p>奥古斯塔：可惜我的故乡没有盼来英雄王&hellip;&hellip;在那之后不久，法比亚纳就成了七丘人羞于启齿的呓语镇&hellip;&hellip;</p>\n<p>奥古斯塔：当年的法比亚纳人甚至没来得及等到七丘城的支援。</p>\n<p>奥古斯塔：后来，我听城里的角斗士前辈说起，法比亚纳陷入绝境的那个早晨，不少元老院的老爷们还躲在府邸里酣睡&hellip;&hellip;</p>\n<p>奥古斯塔：呵&hellip;&hellip;毁了法比亚纳的恐怕从来不是黑潮，而是那些身居高位却贪婪短视、无所作为的人。</p>\n<p>奥古斯塔：抱歉，突然有些感慨了。</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "没什么，只是感觉看到了更多面的奥古斯塔。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "2-2",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "没什么，只是感觉奥古斯塔一直是个很纯粹的人。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "group": "3",
+                "title": "",
+                "content": "<p>奥古斯塔：是嘛，看来我得和尤诺一样，多找找机会和你相处了。</p>\n<p>奥古斯塔：不过&hellip;&hellip;</p>\n<p>奥古斯塔：为什么「索诺拉」要向我们展示这些呢？</p>\n<p>阿布：可能是想帮我们找到那个什么&hellip;&hellip;纯净的黑潮频率？气息确实越来越清晰啦。</p>\n<p>漂泊者：或许，还有一些别的原因&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-1",
+                "cid": [],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "（告知不屈角斗士“英灵”的情报。）",
+                "content": "<p>奥古斯塔：哦？连黑潮蛮横的侵蚀都无法征服的灵魂，想要将真相传达给我们？</p>\n<p>奥古斯塔：嗯&hellip;&hellip;这份执着我记下了。现在，我会去亲自见证那个真相的分量。</p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "717df819-1af0-4225-a0e0-7de0fa4f606e": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>壁画前陈列着一本小册子，它的书页上似乎转录了壁画下方那几行难以辨清的小字&mdash;&mdash;</p>\n<p>&ldquo;唯有手握非凡力量、自黑色浪潮中崛起的英雄王能使七丘永恒。&rdquo;</p>\n<p>&ldquo;他将平息汹涌的暗流与风波，以旧王的血为无上的荣耀加冕。&rdquo;</p>\n<p>此时，你注意到壁画的画面并不完整，它的中央有着一片突兀的剥落痕迹&hellip;&hellip;</p>\n<p>你不明白这到底意味着什么，但直觉告诉你，它存在的意义，远在虚无与空白之外。</p>\n<p>阿维狄亚：日安，漂泊者阁下。看来阁下也与我一样，对四方殿的壁画兴味盎然。</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "这些壁画是……",
+                "content": "<p>阿维狄亚：它们出自历代谕女之手，描绘的尽是谕女们自圣火的焰光中窥见的预言&mdash;&mdash;已然发生的和尚未到来的，并存于此。</p>\n<p>阿维狄亚：总之，这里的壁画皆指向两则关键的预言。</p>\n<p>阿维狄亚：一是昔日的拉古那人，因岁主信仰的纷争而降下的诅咒般的预言：</p>\n<p>阿维狄亚：&ldquo;听吧，七丘的无信者们，高天的神已怒不可遏。倘使七丘的君主再次藐视神的旨意，毁灭即是七丘命运。&rdquo;</p>\n<p>阿维狄亚：另一则，恰是谕女们对拉古那人预言的延续&mdash;&mdash;</p>\n<p>阿维狄亚：&ldquo;唯有手握非凡力量、自黑色浪潮中崛起的英雄王能使七丘永恒。他将平息汹涌的暗流与风波，以旧王的血为无上的荣耀加冕&rdquo;。</p>\n<p>阿维狄亚：阁下似乎对这幅壁画格外留心&hellip;&hellip;它所刻的就是未来某日降临在七丘的灾厄，一如既往，力挽狂澜的英雄王会来到我们之中。</p>\n<p>阿维狄亚：然而关于那位英雄王的身份，我们至今仍一无所知，而且巧合的是，就像壁画上剥落的痕迹，预言中那场抵抗厄难的战争，它的结果也是空白的&hellip;&hellip;</p>\n<p>阿维狄亚：是谕女们没能窥视到应至的命运，还是预言的真实内容不便为人所知&hellip;&hellip;这个问题，的确值得琢磨。</p>\n<p>尤诺：哎呀，准英雄王阁下又在做白日梦了？盯着那面空荡荡的墙，是在幻想哪天自己的英姿也能被刻上去吗？</p>\n<p>阿维狄亚：我不过是偶然路过，随意消磨些时间罢了。谕女不必费心留意我这样无足轻重的角色。</p>\n<p>尤诺：无足轻重的角色？谁不知道你是元老院的宠儿。那些老家伙对我爱搭不理的，对你可是一副格外看重的样子呢。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1",
+                  "4-2"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "呃……尤诺……",
+                "content": "<p>尤诺：等我多久了？啧，被这家伙捷足先登还真是不爽。</p>\n<p>阿维狄亚：敬仰英雄是人之常情，谕女又何必与我置气？</p>\n<p>尤诺：嘁，别以为我不清楚你在打什么算盘，真以为漂泊者会站在你们那边？</p>\n<p>尤诺：让我想想看啊&hellip;&hellip;打算借着狩猎的名义，抢先解决掉「暴君」和黑潮，好证明你才是预言中的英雄王是吗？</p>\n<p>尤诺：哼，以为靠着什么四度穿越玛涅斯之底的名号和槲叶勋章，就能取代奥古斯塔的位置。别开玩笑了。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "玛涅斯之底是什么？",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-2",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "槲叶勋章是什么？",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-1",
+                "cid": [
+                  "6-1"
+                ],
+                "pid": [
+                  "4-1",
+                  "4-2"
+                ],
+                "group": "5",
+                "title": "",
+                "content": "<p>尤诺：啊？好像不是该解释这些的时候吧&hellip;&hellip;</p>\n<p>阿维狄亚：两位，我从不否认我是个对权力有所图谋的野心家，但同样，捍卫七丘的荣耀也是我的使命所在。</p>\n<p>阿维狄亚：若我能攀上英雄王的王座，七丘便可在下一次灾难来临时逃离毁灭的命运。这不正是四方殿的预言吗？</p>\n<p>尤诺：你&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "6-1",
+                "cid": [
+                  "7-1"
+                ],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "万一奥古斯塔才是英雄王呢？",
+                "content": "<p>阿维狄亚：她拥有诸多成就英雄王的品格，唯独缺少了预言中那所谓的&ldquo;非凡力量&rdquo;。</p>\n<p>阿维狄亚：作为共鸣者，奥古斯塔能力平平，可在七丘的历史上，历任英雄王无一不是天资卓绝之人。</p>\n<p>阿维狄亚：她或许有的是挥剑的气力，却终究无法如其他共鸣者一般，抵得住无尽的伤痛与漫长岁月的磋磨。</p>\n<p>阿维狄亚：很遗憾，在七丘这个由预言构建的城邦里，奥古斯塔是那个规则的破坏者。</p>\n<p>阿维狄亚：我可以向谕女保证，我绝不会暗中行事。奥古斯塔想要光明正大的挑战，我会给她应有的尊重。</p>\n<p>阿维狄亚：二位，恕我失陪，先行告辞了。</p>\n<p>阿维狄亚：或许&hellip;&hellip;我们会在随后的狩猎中见证新王的诞生。</p>\n<p>尤诺：&hellip;&hellip;</p>\n<p>尤诺：情况你也看到了，反正就是这么回事咯&hellip;&hellip;真是的，好不容易有点时间相处，居然被这种事情搅没了&hellip;&hellip;</p>\n<p>漂泊者：我不明白，以奥古斯塔的声望，元老院的人想要夺权根本占不到优势。他们为什么还要这么做？</p>\n<p>尤诺：还不是因为奥古斯塔一坐上总督的位置就开始折腾，尤其是在整治角斗赛事腐败这件事上，她根本不在意那些元老的脸色。</p>\n<p>尤诺：结果嘛，自然是有人哭天抢地，说什么&ldquo;影响了角斗的根基&rdquo;之类的&hellip;&hellip;其实就是想赖在自家的小金库上不肯挪窝。</p>\n<p>尤诺：更重要的是&hellip;&hellip;</p>\n<p>尤诺：&hellip;&hellip;现在这样的局面是奥古斯塔那个笨蛋想要看到的结果。</p>\n<p>尤诺：那女人说什么&ldquo;七丘的臣民只需忠于七丘，不必忠于她奥古斯塔&rdquo;。</p>\n<p>尤诺：还满不在乎地告诉我，只有强大的角斗士渴望成为总督，总督这个位置才有意义。</p>\n<p>尤诺：真是个比我还要任性的家伙。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "7-1",
+                "cid": [
+                  "8-1",
+                  "8-2",
+                  "8-3",
+                  "8-4",
+                  "8-5"
+                ],
+                "pid": [
+                  "6-1"
+                ],
+                "group": "7",
+                "title": "你是在担心奥古斯塔的实力吗？",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">尤诺：我怎么会担心这个？奥古斯塔那柄大剑你应该见过吧？剑身上那些剑骸，可是她战胜了无数角斗士征服来的战利品。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">尤诺：像阿维狄亚那样共鸣力还算拿得出手的人，早就不知道打败多少个了。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">尤诺：只是&hellip;&hellip;那个阿维狄亚，总让我觉得不太舒服。不是立场上的，是&hellip;&hellip;直觉。他有一种&hellip;&hellip;不太真实的感觉&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">尤诺：&hellip;&hellip;也许是我想多了吧&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">尤诺：是<a class=\"ingame-term-desc\">狩王鹫</a>！看样子我们的猎物总算有动静了。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">尤诺：晚些时候再见面吧，但是下次，你的注意力要全部放在我身上哦。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：那位长辈&hellip;&hellip;是在看我这边吗？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：去问声好吧。</span></p>\n</div>\n<div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">壁画前陈列着一本小册子，它的书页上似乎转录了壁画下方那几行难以辨清的小字&mdash;&mdash;</span></p>\n</div>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "8-1",
+                "cid": [
+                  "9-1"
+                ],
+                "pid": [
+                  "7-1"
+                ],
+                "group": "8",
+                "title": "（查看上方左一壁画。）",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "8-2",
+                "cid": [
+                  "10-1"
+                ],
+                "pid": [
+                  "7-1"
+                ],
+                "group": "8",
+                "title": "（查看上方左二壁画。）",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "9-1",
+                "cid": [
+                  "10-1"
+                ],
+                "pid": [
+                  "8-1"
+                ],
+                "group": "9",
+                "title": "",
+                "content": "<p>&ldquo;与岁主英白拉多同行的法比乌，预言之中的英雄王。&rdquo;</p>\n<p>&ldquo;那黑色怒潮无可驯服的领袖，挥舞着强健的臂膀。他以磐石般坚实的双手，引领吾等穿越风暴，攀上永恒的高地。&rdquo;</p>\n<p>&ldquo;胜利者的旌旗在狂风中猎猎作响：我之足下的大地，自此归于七丘。&rdquo;</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "10-1",
+                "cid": [
+                  "11-1"
+                ],
+                "pid": [
+                  "9-1",
+                  "8-2"
+                ],
+                "group": "10",
+                "title": "",
+                "content": "<p>&ldquo;&lsquo;丰碑&rsquo;阿提留斯，预言之中的英雄王。&rdquo;</p>\n<p>&ldquo;不屈的英魂，悍勇的征服者。&rdquo;</p>\n<p>&ldquo;当漆黑的潮水自高天坠落，他是横亘在七丘与灾厄间的不灭长城。&rdquo;</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "11-1",
+                "cid": [
+                  "12-1"
+                ],
+                "pid": [
+                  "10-1",
+                  "8-3"
+                ],
+                "group": "11",
+                "title": "",
+                "content": "<p>&ldquo;&lsquo;不锈的锋刃&rsquo;薇利芮尔，预言之中的英雄王。&rdquo;</p>\n<p>&ldquo;她是追逐与猎杀之地的独一君主。&rdquo;</p>\n<p>&ldquo;吾等尊贵的王将高擎利刃及长枪，割开怒兽的项颈，自黑潮的枯喉中，为七丘夺回辉煌的不朽。&rdquo;</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "8-3",
+                "cid": [
+                  "11-1"
+                ],
+                "pid": [
+                  "7-1"
+                ],
+                "group": "8",
+                "title": "（查看上方左三壁画。）",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "8-4",
+                "cid": [
+                  "12-1"
+                ],
+                "pid": [
+                  "7-1"
+                ],
+                "group": "8",
+                "title": "（查看下方大型壁画。）",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "8-5",
+                "cid": [
+                  "13-1"
+                ],
+                "pid": [
+                  "7-1"
+                ],
+                "group": "8",
+                "title": "（离开。）",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "12-1",
+                "cid": [
+                  "13-1"
+                ],
+                "pid": [
+                  "11-1",
+                  "8-4"
+                ],
+                "group": "12",
+                "title": "",
+                "content": "<p>模糊不清的壁画，画面&hellip;&hellip;似乎与对面那幅相似。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "13-1",
+                "cid": [
+                  "14-1",
+                  "14-2",
+                  "14-3",
+                  "14-4"
+                ],
+                "pid": [
+                  "12-1",
+                  "8-5"
+                ],
+                "group": "13",
+                "title": "",
+                "content": "<p>壁画不会离去，它们只在岁月中无声地等待着你的回眸。</p>\n<p>壁画前陈列着一本小册子，它的书页上似乎转录了壁画下方那几行难以辨清的小字&mdash;&mdash;</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "14-1",
+                "cid": [
+                  "15-1"
+                ],
+                "pid": [
+                  "13-1"
+                ],
+                "group": "14",
+                "title": "（查看上方左一壁画。）",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "14-2",
+                "cid": [
+                  "15-1"
+                ],
+                "pid": [
+                  "13-1"
+                ],
+                "group": "14",
+                "title": "（查看上方左二壁画。）",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "14-3",
+                "cid": [
+                  "16-1"
+                ],
+                "pid": [
+                  "13-1"
+                ],
+                "group": "14",
+                "title": "（查看上方左三壁画。）",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "14-4",
+                "cid": [
+                  "17-1"
+                ],
+                "pid": [
+                  "13-1"
+                ],
+                "group": "14",
+                "title": "（离开。）",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "15-1",
+                "cid": [
+                  "16-1"
+                ],
+                "pid": [
+                  "14-1",
+                  "14-2"
+                ],
+                "group": "15",
+                "title": "",
+                "content": "<p>一面空置的墙。</p>\n<p>它缄默地等候着命运的潮汐，在它干涸的滩涂上留下潮湿的痕迹。</p>\n<p>&ldquo;听吧，七丘的████，高天的█已████。&rdquo;</p>\n<p>&ldquo;倘使█████再次██████，██即是七丘的命运。&rdquo;</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "16-1",
+                "cid": [
+                  "17-1"
+                ],
+                "pid": [
+                  "15-1",
+                  "14-3"
+                ],
+                "group": "16",
+                "title": "",
+                "content": "<p>一面空置的墙。</p>\n<p>它缄默地等候着命运的潮汐，在它干涸的滩涂上留下潮湿的痕迹。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "17-1",
+                "cid": [],
+                "pid": [
+                  "16-1",
+                  "14-4"
+                ],
+                "group": "17",
+                "title": "",
+                "content": "<p>壁画不会离去，它们只在岁月中无声地等待着你的回眸。</p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "792644e1-7777-4a9d-91d6-c509762a185f": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>奥古斯塔：哈哈哈哈哈！漂亮的身手！</p>\n<p>奥古斯塔：虽然早有准备，但你刚才的表现，还是比我预想的要惊人。</p>\n<p>奥古斯塔：果然，站在大竞技场的高台上，看不清一个战士的灵魂。</p>\n<p>奥古斯塔：面对面的交锋，才真正让我感受到你骨血中咆哮的战意。</p>\n<p>奥古斯塔：过来吧，与我站得近些。</p>\n<p>奥古斯塔：拉古那的「桂冠」、七丘的「冠军」、受至高无上的亚狮诺索（荣耀狮像）垂青的角斗者&mdash;&mdash;以荣耀之名，你理当与我并肩共行。</p>\n<p>奥古斯塔：七丘的现任总督奥古斯塔，向你献上我的敬意。</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1",
+                  "3-2"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "很特别的打招呼方式。",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">奥古斯塔：呵呵，直接有效，而且没有麻烦的礼节。在七丘，角斗士们习惯用剑代替话语去彼此了解。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">奥古斯塔：不过我很确信，我们今后有的是相互熟悉的机会。所以这次邀你前来，是为了另一件事&mdash;&mdash;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">奥古斯塔：我以我个人的名义，也以总督宫的名义，为之前未能按时赴约一事向你致歉。</span></p>\n</div>\n<div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">奥古斯塔：我由衷地希望这次意外，不会影响到你对于狩猎的热情。</span></p>\n</div>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "你有要务缠身，不必感到抱歉。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-2",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "至少，你这些天的款待足够周到。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1",
+                  "3-2"
+                ],
+                "group": "4",
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">奥古斯塔：哈哈哈哈，宽容且强大，和我听说的一样，你的确拥有英雄一般的美德。</span></p>\n</div>\n<div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">奥古斯塔：那么，既然你没有否认对狩猎的兴趣，我们来聊聊它吧。</span></p>\n</div>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-1",
+                "cid": [
+                  "6-1"
+                ],
+                "pid": [
+                  "4-1"
+                ],
+                "group": "5",
+                "title": "愿闻其详。",
+                "content": "<p>奥古斯塔：狩猎&mdash;&mdash;在七丘人漫长的生存斗争史上，意义非凡&hellip;&hellip;</p>\n<p>奥古斯塔：它是荣誉，是责任，百年以来，无数角斗士自狩猎踏上角斗的征程，又以狩猎结束了自己辉煌的一生。</p>\n<p>奥古斯塔：毫不夸张地说，角斗士们沸腾的热血几乎灼烧着桑古伊斯狩原每一寸猩红的土地&mdash;&mdash;</p>\n<p>奥古斯塔：我们的祖辈在狩原筑起猎场和防线，至今，那里仍是七丘人对抗黑潮的前沿。</p>\n<p>奥古斯塔：你或许知道，桑古伊斯狩原的高空，盘桓着一片永恒不散的黑潮云。自黎那汐塔第一次黑潮爆发始，狩原就不幸沦为滋生黑潮造物的温床。</p>\n<p>奥古斯塔：如你所想，我们的猎物正是诞生于黑潮的残象，角斗士们的猎刃只会挥向那些亵渎了七丘的敌人。</p>\n<p>奥古斯塔：涨潮期就要来了&hellip;&hellip;这会是场汹涌的大潮。</p>\n<p>奥古斯塔：我的队伍需要所向披靡的勇将，即便流血在所难免，我坚信，漂泊者，你会是一面屹立不倒的旗帜。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "6-1",
+                "cid": [
+                  "7-1"
+                ],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "七丘不乏出色的角斗士……",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "7-1",
+                "cid": [
+                  "8-1"
+                ],
+                "pid": [
+                  "6-1"
+                ],
+                "group": "7",
+                "title": "为什么会想邀请我参加狩猎呢？",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">奥古斯塔：我赞同你的看法，七丘确实从不缺少优秀的角斗士，然而你，恰是他们之中的佼佼者。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">奥古斯塔：等待我们的将会是一场盛大的狩猎，我和我的勇士们渴望与你这样的强者并肩作战。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">奥古斯塔：当然，卓越者的意愿，理应被倾听。</span></p>\n</div>\n<div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">奥古斯塔：我想要知道你的想法，漂泊者。</span></p>\n</div>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "8-1",
+                "cid": [
+                  "9-1"
+                ],
+                "pid": [
+                  "7-1"
+                ],
+                "group": "8",
+                "title": "我同意加入狩猎，但我有我的目的。",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">奥古斯塔：不错，坦率的回答。</span></p>\n</div>\n<div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">奥古斯塔：关于你所说的&ldquo;目的&rdquo;&hellip;&hellip;</span></p>\n</div>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "9-1",
+                "cid": [
+                  "10-1"
+                ],
+                "pid": [
+                  "8-1"
+                ],
+                "group": "9",
+                "title": "（告知岁主旧物及巡游天国的情报。）",
+                "content": "<p>奥古斯塔：「巡游天国」？我听过这个荒谬的名字，但是很遗憾，狩猎的存在恰是为了粉碎黑潮的妄念。</p>\n<p>奥古斯塔：至于岁主的旧物&hellip;&hellip;</p>\n<p>奥古斯塔：&hellip;&hellip;去彻地之楔看看吧，那是岁主英白拉多在桑古伊斯狩原的降临地，也是历来狩猎的&ldquo;核心&rdquo;所在。</p>\n<p>奥古斯塔：鉴于它的重要性，就算是七丘的要员也无权接近。</p>\n<p>奥古斯塔：可若是你的愿望&hellip;&hellip;无需多言，我会让它实现的。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "10-1",
+                "cid": [
+                  "11-1"
+                ],
+                "pid": [
+                  "9-1"
+                ],
+                "group": "10",
+                "title": "你似乎很相信我。",
+                "content": "<p>奥古斯塔：这份相信，是以你对我的认可为前提的。我欣赏你的坦诚，而我，必将尽我所能回馈这份信赖。</p>\n<p>奥古斯塔：只有互相信任的双方，才能共同走得更远。</p>\n<p>奥古斯塔：我很期待即将到来的狩猎，与你同行将是我的荣幸。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "11-1",
+                "cid": [],
+                "pid": [
+                  "10-1"
+                ],
+                "group": "11",
+                "title": "我们什么时候出发？",
+                "content": "<p>奥古斯塔：我的朋友，拥有足够的耐心是成为猎人的第一步。</p>\n<p>奥古斯塔：当七丘城的东南方高天卷起怒涛般的风暴时，我会在风潮崖，静候你的到来。</p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "7c1360ae-b433-412d-bc36-389e1e0a0a2b": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>漂泊者：前边的那些&ldquo;虚影&rdquo;&hellip;&hellip;好像变得混乱起来了。</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "8a567fac-f4ea-460f-aa82-909d052aa904": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>漂泊者：那是出猎的号角声&hellip;&hellip;</p>\n<p>漂泊者：去找奥古斯塔吧。</p>\n<p>奥古斯塔：就是那边。</p>\n<p>奥古斯塔：在那面高崖的后面，岁主英白拉多遗存的彻地之楔和这片土地一样古老。</p>\n<p>奥古斯塔：那里会是你此行的终点，也是我所承诺的，我与你共同的目标。</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "这是……",
+                "content": "<p>奥古斯塔：利用彻地之楔伴生的黑石制造的定向锚。</p>\n<p>奥古斯塔：这种东西天然带有彻地之楔的残余力场，虽然不能用来防身，但起码可以帮我们暂时斥退黑潮，或者是黑潮的造物。</p>\n<p>奥古斯塔：待会儿，我们需要在赤林猎场提前标定好的三个位置插下定向锚，借助定向锚产生的特殊磁场，将猎物驱赶到更下层的往世花平野。</p>\n<p>奥古斯塔：那片开满往世花的原野是狩猎队能相对安全到达的下层区域，在高度上，它接近彻地之楔的深根。</p>\n<p>奥古斯塔：我们会在那个荣耀之所，为「暴君」送上应有的死。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "那些黑雾是……",
+                "content": "<p>奥古斯塔：是「暴君」作为黑潮先锋的标记。我们的猎物可不怎么安分啊。</p>\n<p>奥古斯塔：赤林猎场就在悬崖的对面，那家伙笃定我们会乘上狩王鹫或者其他什么走空路，索性布下埋伏，等着把我们拖入深渊。</p>\n<p>奥古斯塔：&hellip;&hellip;一头蚀脊龙，却懂得如何巧妙地设下陷阱，等待狩猎者自投罗网&hellip;&hellip;呵，还真是个有趣的对手。</p>\n<p>奥古斯塔：诸位，请随我一同步行前往猎场。</p>\n<p>奥古斯塔：让圣火的焰光点燃你们的决心吧，七丘的敌人会见识到，何为无畏！</p>\n<p>&ldquo;低语&rdquo;：&hellip;&hellip;</p>\n<p>&ldquo;低语&rdquo;：&hellip;&hellip;它&hellip;&hellip;在等你&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-1",
+                "cid": [],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "你还好吗，奥古斯塔？",
+                "content": "<p>奥古斯塔：出发吧。</p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "8ce8f215-f876-49f9-b937-eb1796bbaae6": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>漂泊者：回去吧，「索诺拉」里应该有新进展了。</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "99b7519f-0918-4c4a-8180-ace210a795b5": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>漂泊者：应该是&hellip;&hellip;这个方向&hellip;&hellip;</p>\n<p>？？？：若阁下的目的地是风潮崖，请往东面走吧。这条路会引领你去往荣耀的前庭。</p>\n<p>？？？：或者，不知阁下是否愿意与我同路？</p>\n<p>？？？：你我要去的是同一个地方，尊敬的漂泊者，你的威名无人不晓。</p>\n<p>阿维狄亚：角斗士阿维狄亚，乐意为你效劳。</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "你也是来参加狩猎的吗？",
+                "content": "<p>阿维狄亚：&ldquo;角斗&rdquo;和&ldquo;狩猎&rdquo;是七丘城立于高地、铸就不朽的根基，能受邀的话，我想没有角斗士会拒绝这份殊荣。</p>\n<p>阿维狄亚：我当然也不例外。</p>\n<p>阿维狄亚：请随我来吧，远道而来的尊贵客人。</p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "a09980ae-0440-41b7-afb9-8f2bf753782a": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>阿布：我们真的从「索诺拉」里出来了诶。</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "a8625e5b-b943-4967-8836-5b3b5cb97848": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>莉莉贝：&hellip;&hellip;</p>\n<p>莉莉贝：漂泊的英雄，我们等你很久了。</p>\n<p>莉莉贝：让我看看，嗯&hellip;&hellip;一片空白，不可知的命运&hellip;&hellip;</p>\n<p>莉莉贝：我的孩子，不必为此而烦忧。空白的意义从来不是乌有。</p>\n<p>莉莉贝：请循着它的指引前行吧，它将引领我们步入无垠的可能，穿越迷雾，抵达未曾触及的彼岸&hellip;&hellip;</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "我好像没太听明白……",
+                "content": "<p>这位年长的女性没有回答你的疑问，她的双眸注视着炽热的焰光，灵魂似乎不在此处。</p>\n<p>尤诺：时间刚好。</p>\n<p>尤诺：差不多是该活动活动了。</p>\n<p>尤诺：漂泊者是在和莉莉贝婆婆聊些什么吗&hellip;&hellip;</p>\n<p>尤诺：算了，之后再说吧。</p>\n<p>尤诺：阿奎拉，拜托你了。</p>\n<p>尤诺：荣耀之地的英魂，请回应我的祈愿。</p>\n<p>尤诺：愿燃烧不息的圣火，赐予我们无尽的视野。</p>\n<p>巴蒂斯特：年轻人，这把剑可是我这段时间打的最好的一把了。</p>\n<p>巴蒂斯特：狩猎黑潮造物，人和武器缺一不可，只是，人去剑去，剑归人不归，这种事我看得太多了&hellip;&hellip;</p>\n<p>巴蒂斯特：希望这把剑能带给你好运，年轻人！</p>\n<p>费德里科：师傅，请问这把剑有名字么？</p>\n<p>巴蒂斯特：不，还没有。年轻人，你叫什么名字？</p>\n<p>费德里科：我叫费德里科，师傅。</p>\n<p>巴蒂斯特：费德里科&hellip;&hellip;不错的名字。如果你能带着这把剑归来，那么就由你为它冠名吧。</p>\n<p>费德里科：&hellip;&hellip;我会把握住这份殊荣的，师傅。</p>\n<p>费德里科：赌上家族的荣耀，我会证明自己配得上这把剑。</p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "aed2f13c-846f-460d-a1a9-4457542b310f": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>声音熟悉的女孩：安吉尔，你要是在就好了，你绝对想不到&mdash;&mdash;噗&hellip;&hellip;哈哈哈&hellip;&hellip;</p>\n<p>声音熟悉的女孩：我、我就绕了几圈，结果恩里科他居然被我绕晕了，自己把自己绊倒！然后&mdash;&mdash;然后他还把门牙磕掉了！哈哈哈哈！</p>\n<p>安吉尔：别乱动，都不好上药啦，脸上青一块紫一块的，你还能笑得出来&hellip;&hellip;</p>\n<p>安吉尔：说吧，你是怎么惹到恩里科那个坏家伙的？</p>\n<p>安吉尔：伤成这样&hellip;&hellip;这下冒险你又去不了了。算了，反正我猜这回也差不多，橡树洞里还是什么都找不到。</p>\n<p>声音熟悉的女孩：&hellip;&hellip;因为正好撞见恩里科在欺负人嘛，还专挑更小的孩子下手&hellip;&hellip;根本没办法放着不管。</p>\n<p>声音熟悉的女孩：所以我跟他说&mdash;&mdash;&ldquo;想让别人跪下可以，不过最好自己先试试感觉。&rdquo;</p>\n<p>声音熟悉的女孩：谁知道那家伙急了&hellip;&hellip;</p>\n<p>安吉尔：明明打不过，还硬逞强&hellip;&hellip;唉，感觉确实是你会干的事&hellip;&hellip;</p>\n<p>安吉尔：&hellip;&hellip;</p>\n<p>安吉尔：对了&hellip;&hellip;猎场那边好像不太对劲，老爸老妈好几天没回家了，镇上也有些慌慌的。</p>\n<p>安吉尔：而且差不多该把借来的剑还给费罗大叔了&hellip;&hellip;</p>\n<p>安吉尔：总之，这段时间，我们大概都没法去找玛涅斯之底了。</p>\n<p>声音熟悉的女孩：没关系的啦，等涨潮期过去就好了。</p>\n<p>安吉尔：什么嘛，一下子就妥协了&hellip;&hellip;都不期待一下的吗？</p>\n<p>安吉尔：万一哪天我们真的碰到了低语，还有那个传说中的超强力量，说不准也能成为英雄王呢。</p>\n<p>声音熟悉的女孩：英雄王啊&hellip;&hellip;</p>\n<p>安吉尔：难道你不想做英雄王？</p>\n<p>声音熟悉的女孩：这个&hellip;&hellip;镇子上应该没有人不想的&hellip;&hellip;只要当了英雄王，像谕女姐姐们说的那样，我们就不用害怕黑潮了。</p>\n<p>安吉尔：也是，英雄王肯定是最最厉害的人&hellip;&hellip;这样一说，感觉离我们好远啊。</p>\n<p>声音熟悉的女孩：嗯&hellip;&hellip;也有可能是那种能给大家带来笑容的人呢，黑潮没了，大家的脸上一定都会有笑容的。</p>\n<p>安吉尔：这么简单嘛&hellip;&hellip;</p>\n<p>安吉尔：那奥古斯塔好像已经做到了哦。啊，不对，让恩里科那种坏人笑起来可不算数！</p>\n<p>阿布：漂泊者，&ldquo;飞来飞去&rdquo;稳定下来了。</p>\n<p>阿布：我们去&ldquo;虚影&rdquo;那边瞧瞧。</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "c21dc2dd-2bdc-4dee-82ef-a229ca793b5c": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>尤诺：去追逐命运吧&hellip;&hellip;奥古斯塔&hellip;&hellip;</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "c66f4e07-b118-40e1-84b6-9dfa6203bca7": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>阿布：就是这里！气息越来越强烈了！</p>\n<p>奥古斯塔：看不到神王的影子&hellip;&hellip;估计又是匿形这一招。</p>\n<p>奥古斯塔：&hellip;&hellip;必须想办法让它显化。</p>\n<p>漂泊者：也许，我们能用上这个。</p>\n<p>奥古斯塔：&hellip;&hellip;在那里。</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "c6b0dc72-fc96-4d7a-b8fb-e9b2059740b2": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>奥古斯塔：怎么样，东西找到了吗？</p>\n<p>奥古斯塔：一个匣子？看起来，像是罗盘&hellip;&hellip;</p>\n<p>奥古斯塔：这里的结构&hellip;&hellip;应该还有内部空间。漂泊者，能打开看看吗？</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "我试试……",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1",
+                  "4-2"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "不行，打不开。",
+                "content": "<p>奥古斯塔：既然是岁主留下的旧物，大概不能靠蛮力处置。</p>\n<p>奥古斯塔：我们可能要找些别的方式，比如某种特殊的&ldquo;钥匙&rdquo;、机制或口令之类的&hellip;&hellip;</p>\n<p>奥古斯塔：你有什么头绪吗？</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "（提起黑海岸。）",
+                "content": "<p>漂泊者：黑海岸那边收录了许多关于岁主的资料，说不定能帮我们解开这个谜题。</p>\n<p>漂泊者：&hellip;&hellip;更重要的是&hellip;&hellip;我需要更多黑海岸记录的黑潮数据。</p>\n<p>漂泊者：危机还没有彻底解决，黑潮目前只是暂时被彻地之楔压制，而且我总觉得黑潮几次突如其来的剧变，以及它盯上你这件事没那么简单&hellip;&hellip;</p>\n<p>奥古斯塔：你说的不错&hellip;&hellip;借助黑海岸的技术，我们也许能比藏在暗处的敌人看得更远。</p>\n<p>漂泊者：嗯，回去后我会尽早联系他们的。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-2",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "（提起卡提希娅。）",
+                "content": "<p>漂泊者：我认识一位朋友，她&hellip;&hellip;知道许多关于英白拉多的事，说不定能帮我们解开这个谜题。</p>\n<p>漂泊者：&hellip;&hellip;更重要的是&hellip;&hellip;她的力量很特别。黑潮目前只是暂时被彻地之楔压制，而且我总觉得黑潮几次突如其来的剧变，以及它盯上你这件事没那么简单&hellip;&hellip;</p>\n<p>漂泊者：如果是她，也许能够彻底解决七丘的黑潮隐患。</p>\n<p>奥古斯塔：哦？听起来是个不得了的家伙。</p>\n<p>奥古斯塔：之后 ，带我去见见她吧。我很好奇，你的这位朋友到底是个怎样的存在。</p>\n<p>奥古斯塔：不过有一点我很确定，她必定会和你一样，是个值得挑战的对手，或者，是位受人敬仰的楷模。</p>\n<p>漂泊者：你和她，也有很多相似的地方。我相信你们肯定聊得来。</p>\n<p>漂泊者：回去后我会尽早联系她的，之前因为一些无法避免的原因她没办法外出远行，现在，或许是个更合适的时机。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-1",
+                "cid": [],
+                "pid": [
+                  "4-1",
+                  "4-2"
+                ],
+                "group": "5",
+                "title": "",
+                "content": "<p>奥古斯塔：好了，暂时放下这些让人头疼的事，好好享受属于我们的胜利吧。</p>\n<p>奥古斯塔：大家一定在营地燃起了篝火&hellip;&hellip;漂泊者，是时候和我一起回到那些期待的目光之中，见见我们的同伴了。</p>\n<p>奥古斯塔：我知道这不会是征战的终点，前方的路也依旧是荆棘和血水交织的险途，但有你，有并肩作战的各位，七丘的旗帜将在风暴中屹立不倒。</p>\n<p>奥古斯塔：请长照不灭的太阳为我见证，英雄，将是你们不朽的真名。</p>\n<p>？？？：久违了，黎那汐塔。</p>\n<p>？？？：这次，我们要狩猎什么？</p>\n<p>？？？：&hellip;&hellip;鸣式。</p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "c9e3e61f-ce2a-4d6e-aabe-3af5d221162c": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>漂泊者：这个声音是&hellip;&hellip;</p>\n<p>尤诺：是猎号，一种声骸。</p>\n<p>尤诺：它的意思是&ldquo;收队&rdquo;，就这么简单。</p>\n<p>尤诺：奥古斯塔，该带着你的人回狩猎者营地了。</p>\n<p>奥古斯塔：当然，谕女大人。</p>\n<p>奥古斯塔：还有您的箭，来得真是及时。</p>\n<p>尤诺：嘁，看在漂泊者的面子上，我就当这是夸奖，勉强收下了。</p>\n<p>阿维狄亚：狩猎者营地，桑古伊斯狩原最为繁忙的角斗士驻地，几乎每一位猎人都需经由此地前往猎场。</p>\n<p>阿维狄亚：在下一次出猎前，阁下可以在此处稍作休息。</p>\n<p>尤诺：不得不承认，确实是个相当壮观的地方呢。</p>\n<p>尤诺：也是，我的前辈们舍弃了本该享有的宁静，甘愿与猎人们共享这片难得的净土。这样的繁荣，理所当然是四方殿应得的。</p>\n<p>阿维狄亚：呵，谕女的话不无道理。我自知承蒙福荫，四方殿为此所做的牺牲，我定会铭记在心。</p>\n<p>阿维狄亚：各位，不多做叨扰了。</p>\n<p>尤诺：嘁&hellip;&hellip;</p>\n<p>尤诺：虽说之前见过面，但总之还是正式介绍一下好了。</p>\n<p>尤诺：我，尤诺，四方殿的谕女。</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "我听过，谕女拥有一言以决的权力。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "2-2",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "我听过，谕女拥有预言的能力。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "group": "3",
+                "title": "",
+                "content": "<p>尤诺：哦？消息还挺灵通的嘛。倒是这样没错，可这些无聊的事我早就做腻了。</p>\n<p>尤诺：漂泊者，不如为我找些更有趣的事情来做吧。比如&hellip;&hellip;狩猎。</p>\n<p>尤诺：直白一点说，在对付黑潮这方面，这里没几个角斗士能赢得过我。</p>\n<p>尤诺：哈，又是这种无礼的眼神。</p>\n<p>尤诺：我理解，毕竟太过耀眼是会惹人嫉妒的。</p>\n<p>尤诺：我先回四方殿了，奥古斯塔。免得我的光芒待会儿又要灼伤某些人的眼睛。</p>\n<p>尤诺：要是等下你闲着没事做，可以来四方殿找我哦。</p>\n<p>尤诺：不是随便什么外邦人都有资格踏入四方殿的，所以，请好好享受这份优待吧。</p>\n<p>奥古斯塔：难得见到尤诺这么收敛。你对她来说，或许是不一样的存在。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "你们似乎关系很好。",
+                "content": "<p>奥古斯塔：可能&hellip;&hellip;是有些相似的地方吧。</p>\n<p>奥古斯塔：呵呵，别看她那副不着边际的样子，却是个很靠得住的同伴。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-1",
+                "cid": [
+                  "6-1"
+                ],
+                "pid": [
+                  "4-1"
+                ],
+                "group": "5",
+                "title": "我们刚才遇到的那个怪物……",
+                "content": "<p>奥古斯塔：蚀脊龙。</p>\n<p>奥古斯塔：阿维狄亚说得没错，那是诞生自黑潮的残象。</p>\n<p>奥古斯塔：不过他没来得及告诉你的是，我们之前面对的，是所有蚀脊龙中最为危险的个体&mdash;&mdash;黑潮的先锋，与狂涌的大潮一同降临的「暴君」。</p>\n<p>奥古斯塔：鸣式染指七丘的企图从未切实如愿，但这并不代表，我们的敌人会就此俯首称臣。</p>\n<p>奥古斯塔：黑潮不死不灭，贯彻着它的创造者&mdash;&mdash;鸣式利维亚坦的意志。</p>\n<p>奥古斯塔：只有拥有岁主英白拉多力量的彻地之楔，可以切断黑潮与鸣式之间的那根脐带，将灾厄死死钉在桑古伊斯狩原的深渊之下。</p>\n<p>奥古斯塔：所谓&ldquo;狩猎&rdquo;，就是以猎捕、剿灭的方式，打散黑潮造物的频率。</p>\n<p>奥古斯塔：然而考虑到彻地之楔的能量能够辐射的区域有限，我们要做的，就是为猎物送上正确的死。</p>\n<p>漂泊者：&hellip;&hellip;也就是说，我们需要在彻地之楔附近猎杀那头怪物&hellip;&hellip;这样才能阻止黑潮的扩张吗？</p>\n<p>奥古斯塔：嗯，至少不能超出赤林猎场的范围。</p>\n<p>奥古斯塔：这一次与「暴君」交手，尽管在狩猎队的预料之中，却不是大家愿意见到的事&hellip;&hellip;</p>\n<p>奥古斯塔：那家伙很清楚我们的目的，它是狡猾的猎物，或者从某种程度上说，是狡猾的猎手。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "6-1",
+                "cid": [],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "那我们现在要做什么？",
+                "content": "<p>奥古斯塔：等待，等它进入赤林猎场。</p>\n<p>奥古斯塔：只有当饥饿的野兽徘徊在荒野中时，真正的狩猎才算开始。</p>\n<p>总督宫侍从：总督阁下，元老们在主帐等您。</p>\n<p>总督宫侍从：是关于商讨狩猎计划的事宜&hellip;&hellip;</p>\n<p>奥古斯塔：看来要失陪一阵子了。</p>\n<p>奥古斯塔：放松点，先随意逛逛营地吧。下次出发前，猎号的呼嚎会响彻天地。</p>\n<p>奥古斯塔：那是狭渊对岸都能听到的呼嚎，你不会错过的。</p>\n<p>&ldquo;低语&rdquo;：&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "cdc13a00-7174-409b-87f0-d7b29f8a1f56": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>阿布：啊！是蚀像，果然是它们在捣鬼！</p>\n<p>漂泊者：别担心，我来处理。</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "cecb5408-ea47-406f-b0f3-84e13ae9d966": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>声音熟悉的女孩：███████在就好██你绝对█████████████</p>\n<p>阿布：唔&hellip;&hellip;声音断断续续的，完全听不清&hellip;&hellip;</p>\n<p>阿布：漂泊者，那个&ldquo;飞来飞去&rdquo;不太对劲，它看上去&hellip;&hellip;像是被别的什么东西干扰了&hellip;&hellip;</p>\n<p>阿布：我能感觉到附近有些捣乱的坏家伙，可是怎么都看不到&hellip;&hellip;就像、就像&hellip;&hellip;和我们隔着一堵墙似的。</p>\n<p>奥古斯塔：路标刻像&hellip;&hellip;我想它的出现不会是偶然。</p>\n<p>奥古斯塔：假如刻像可以引导我们进入「索诺拉」，那么它自然也能指引我们离开。</p>\n<p>漂泊者：你是说，我们需要借助刻像暂离「索诺拉」&hellip;&hellip;某个扰乱我们的因素或许就在「索诺拉」之外？</p>\n<p>奥古斯塔：不无可能，而且值得一试。</p>\n<p>漂泊者：这里也有&ldquo;过去的虚影&rdquo;。</p>\n<p>阿布：漂泊者，我看到了，在那儿！</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "cfccd455-954a-4ecc-be50-03379b9a9fa7": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>漂泊者：看起来奥古斯塔已经提前做好了安排&hellip;&hellip;进去吧。</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "d6bc036b-32bb-4a7b-8eb1-ba97288b7230": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>阿维狄亚：眼前的局势，远比我以往经历的任何时刻都更为危急。为了七丘，我也该暂时放下权力的纷争了&hellip;&hellip;</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "（询问尤诺之前在四方殿提起的那件事。）",
+                "content": "<p>阿维狄亚：四度穿越玛涅斯之底吗？</p>\n<p>阿维狄亚：现在恐怕不是谈论这些过往的时候，但如果这是阁下的要求&hellip;&hellip;</p>\n<p>阿维狄亚：这要追溯到四年前的涨潮期&hellip;&hellip;那时，我们被狂怒的黑潮逼入了狩原下层的受蚀地。</p>\n<p>阿维狄亚：我原本无意效仿三位英雄王征服玛涅斯之底的壮举，但为了突破黑潮的封锁，我不得不一次次带队，冒险深入那座埋藏在地下的前代文明遗迹。</p>\n<p>阿维狄亚：好在运气没有背弃我们，最终在那幽暗的险境中，我和我的同伴们辟出了一条艰难的生路。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "你的那些同伴也来参加这次狩猎了吗？",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">阿维狄亚：&hellip;&hellip;命运无常，如今仍在猎场上搏杀的，只剩下我一个人了。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">阿维狄亚：彼时我的诸多同伴都遭受了黑潮的侵蚀。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">阿维狄亚：我们靠着一种生长在玛涅斯之底、对黑潮具有天然抗性的特殊植株&mdash;&mdash;<a class=\"ingame-term-desc\">醒真草</a>，才勉强扛过黑潮对意志的腐化。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">阿维狄亚：纵然如此，我们当中的许多人如今仍终日受病痛折磨，只得被迫早早结束了自己的角斗士生涯。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">阿维狄亚：这枚珍贵的槲叶勋章，是前任总督在那场危机之后赐予我的嘉许。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">阿维狄亚：那是场辉煌而沉痛的胜利，可无论如何，我的同伴们，不该被黑潮的屈辱所囚。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">总督宫侍从：&hellip;&hellip;已经通知到了主营地以及主岛各区，防御措施也按照您的安排部署下去了。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">奥古斯塔：辛苦了，有其他消息及时告诉我。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">总督宫侍从：谨遵使命。</span></p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "你这边怎么样？",
+                "content": "<p>奥古斯塔：事情先交代下去了，至少在战备的层面上，我们得做好最坏的打算。</p>\n<p>奥古斯塔：另外，和黑海岸那边的沟通也在推进。</p>\n<p>奥古斯塔：总督宫先前与黎那汐塔一带的客卿搭上了线，双方谈妥了，狩猎期间，黑海岸可以占用七丘的中枢，监测、收集黑潮数据。</p>\n<p>奥古斯塔：相应的，一旦狩猎计划出现意外，黑海岸需要履约，为七丘提供必要的技术支持。</p>\n<p>漂泊者：在黎那汐塔一带活动的客卿？</p>\n<p>奥古斯塔：没错，名字叫卜灵。有趣的小姑娘，我印象很深。</p>\n<p>漂泊者：原来是她啊&hellip;&hellip;</p>\n<p>漂泊者：奥古斯塔，联络黑海岸的事交给我来吧。</p>\n<p>漂泊者：我和他们之间&hellip;&hellip;有一些往来，事情处理起来应该会更顺利一些。</p>\n<p>奥古斯塔：嗯，那就拜托你了。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-1",
+                "cid": [
+                  "6-1"
+                ],
+                "pid": [
+                  "4-1"
+                ],
+                "group": "5",
+                "title": "（联系卜灵。）",
+                "content": "<p>卜灵：情况嘛，我大致搞清楚了&hellip;&hellip;唉，这位漂泊者老板怎么又卷入到这种麻烦事里了，难办、难办哦。</p>\n<p>奥古斯塔：你的意思是&hellip;&hellip;</p>\n<p>卜灵：这么说吧，中枢这阵子传回来的数据可不太妙，桑古伊斯狩原的黑潮不对劲得很，我记得以前可没那么邪门。</p>\n<p>卜灵：本来嘛，七丘这些黑潮在涨潮期闹腾一两下也就算了，结果现在不知道撞上了什么邪祟，一下子改头换面有了人形。</p>\n<p>卜灵：嘶&hellip;&hellip;我帮老板们捋一遍泰缇斯系统的报告啊&mdash;&mdash;那人形，就是那个叫&ldquo;神王&rdquo;的邪物，这会儿正发了疯似的吞吃频率呢。</p>\n<p>卜灵：什么黑潮造物、残象、声骸，凡是带点能量的，它全都照收不误，搞不好还盯上了别的乱七八糟的东西。</p>\n<p>卜灵：说白了，神王压根没打算直接对七丘或者是拉古那动手，它约莫是想把自己养肥，等攒够了劲儿，一口气拿下彻地之楔。</p>\n<p>卜灵：要是彻地之楔失了灵，狩原底下原先被封着的黑潮不得一股子冲出来，到时候三煞临门，你们黎那汐塔人就算是有三头六臂也跑不掉咯。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "6-1",
+                "cid": [
+                  "7-1"
+                ],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "（提起奥古斯塔和尤诺的计划。）",
+                "content": "<p>你回想起尤诺曾向你透露，她与奥古斯塔原先暗中筹划过一项狩猎神王的计划。尽管那一计策终告失败，你仍依奥古斯塔的意思将其转告给了卜灵。</p>\n<p>卜灵：风行水上，雷动山前&hellip;&hellip;老板，这办法灵的啊。</p>\n<p>卜灵：要我说，这蚀脊龙八成是个引大鱼上钩的钓饵，老板真正打的主意，是先发制人，趁神王没成气候把它按得翻不了身。</p>\n<p>卜灵：我猜得没错吧？</p>\n<p>奥古斯塔：嗯，你说得不错。</p>\n<p>卜灵：天地交泰&hellip;&hellip;看这卦象，老板的计划不应当出什么大岔子才对。</p>\n<p>卜灵：但&hellip;&hellip;太顺了反而不是啥好事，泰极必否、枝节横生&hellip;&hellip;泰缇斯系统这边也确实在狩猎中途捕捉到了一段颇有些古怪的频率。</p>\n<p>卜灵：啧，那道频率简直是横空入局的变数，硬是让神王抢在命数之前成了形，把原本四平八稳的局势搅得天翻地覆。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "7-1",
+                "cid": [
+                  "8-1",
+                  "8-2"
+                ],
+                "pid": [
+                  "6-1"
+                ],
+                "group": "7",
+                "title": "能够追溯到那段频率的来源吗？",
+                "content": "<p>卜灵：呃&hellip;&hellip;这个嘛，我再算算&hellip;&hellip;气机有些乱，看得不太真切。</p>\n<p>卜灵：&hellip;&hellip;怎么感觉是有人故意遮了天机似的&hellip;&hellip;</p>\n<p>奥古斯塔：所以无论如何，我们必须赶在事态失控前找到神王，阻止它融合更多的频率&hellip;&hellip;这可能是目前唯一可行的办法。</p>\n<p>卜灵：是这个理，就算神王有上天入地的能耐，也逃不过泰缇斯系统的眼睛，我看看啊&hellip;&hellip;它眼下就在频率最集中的地方转悠呢&hellip;&hellip;</p>\n<p>卜灵：&hellip;&hellip;好像是桑古伊斯狩原的东边，唔&hellip;&hellip;那地界阴气不散，怕是之前出过大事，折过不少厉害人物呢。</p>\n<p>奥古斯塔：呓语镇&hellip;&hellip;</p>\n<p>奥古斯塔：了解了，我会去阻止它的。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "8-1",
+                "cid": [
+                  "9-1"
+                ],
+                "pid": [
+                  "7-1"
+                ],
+                "group": "8",
+                "title": "神王盯上了彻地之楔，我不能坐视不理。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "8-2",
+                "cid": [
+                  "9-1"
+                ],
+                "pid": [
+                  "7-1"
+                ],
+                "group": "8",
+                "title": "既应下了狩猎之约，我会陪你战斗到底。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "9-1",
+                "cid": [],
+                "pid": [
+                  "8-1",
+                  "8-2"
+                ],
+                "group": "9",
+                "title": "",
+                "content": "<p>阿维狄亚：总督阁下。</p>\n<p>阿维狄亚：请允许我与您一同前往呓语镇。</p>\n<p>阿维狄亚：提出这一冒昧的请求，并非是我妄自尊大不知此行危险，只是作为七丘的战士，请原谅我做不到袖手旁观。</p>\n<p>阿维狄亚：诸位，我们今天是为捍卫七丘的荣耀而团结在此。</p>\n<p>阿维狄亚：我无权要求各位同行，不过以我浅见，在场之人无不荣冠累累，我们的所作所为，必须对得起这份嘉许。</p>\n<p>年长的角斗士：说得好，年轻人。七丘的角斗士从不畏惧挑战，翱翔在高天的鹰鹫，又怎么能在风雨将至时甘心做英雄羽翼下的雏鸟？</p>\n<p>年长的角斗士：总督阁下，我等愿意追随你的脚步。</p>\n<p>奥古斯塔：很好，你们以觉悟向七丘宣誓了忠诚，不仅是我，沉眠在卡庇托山的英灵亦会因你们的无畏而赞叹自豪。</p>\n<p>奥古斯塔：既然诸君渴望并肩作战，那么，这般高涨的热情，我会给予它应有的回应。</p>\n<p>奥古斯塔：来吧，拿起你们的剑&mdash;&mdash;为了七丘，为了英雄之名永恒不朽。</p>\n<p>&ldquo;低语&rdquo;：明智的选择，奥古斯塔&hellip;&hellip;</p>\n<p>&ldquo;低语&rdquo;：回来吧，回到那应去之所，法比亚纳早已渴望着你的回归&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "d6ddfa6f-5f49-4017-843f-5d85fa1e69c1": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>负伤的角斗士：咳&hellip;&hellip;咳咳&hellip;&hellip;到这一步了吗&hellip;&hellip;</p>\n<p>负伤的角斗士：哈哈哈&hellip;&hellip;至少，我没跪着&hellip;&hellip;</p>\n<p>负伤的角斗士：&hellip;&hellip;</p>\n<p>年少的奥古斯塔：啊&hellip;&hellip;</p>\n<p>年少的奥古斯塔：&hellip;&hellip;没、没有气息了&hellip;&hellip;</p>\n<p>年少的奥古斯塔：&hellip;&hellip;</p>\n<p>年少的奥古斯塔：我&hellip;&hellip;谢谢&hellip;&hellip;</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "dcf2e385-2716-4aff-a89c-ad85dc7917ca": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>漂泊者：我听奥古斯塔说，我们面对的会是一场大潮。</p>\n<p>阿维狄亚：总督所言不错。</p>\n<p>阿维狄亚：而且&hellip;&hellip;今年的涨潮期来得比以往要迟，这的确是件不寻常的事。</p>\n<p>阿维狄亚：可惜元老院老爷们锐利的耳朵，这次没能凿开四方殿的高墙，听到墙后隐秘的风声&hellip;&hellip;</p>\n<p>阿维狄亚：呵，这究竟是灾厄的前兆，还是新传奇的序幕呢&hellip;&hellip;</p>\n<p>阿维狄亚：将阁下顺利送到总督面前，我的使命暂时告一段落了。</p>\n<p>阿维狄亚：之后，我们会一同奔赴狩原，黑潮造物或许会随时现身。届时，若能够亲眼见证阁下不俗的表现，我将荣幸之至。</p>\n<p>阿维狄亚：祝你行猎愉快。</p>\n<p>奥古斯塔：漂泊者，加入队伍吧。</p>\n<p>奥古斯塔：狩猎的号角正在呼唤我们启程。</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "我们从风潮崖出发？",
+                "content": "<p>奥古斯塔：没错，这里正是征途的起点。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "前面是悬崖，没有路……",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-1",
+                "cid": [],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "难道……是要滑翔到对面？",
+                "content": "<p>奥古斯塔：哈哈哈哈哈！拿出你的勇气吧，朋友。</p>\n<p>奥古斯塔：荣耀之路，自会在勇敢者的脚下展开。</p>\n<p>漂泊者：那是&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "dd8ceb18-67ad-4874-85a3-47290497e014": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>一旦踏上征程便再无回头之路。准备万全了吗？</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "出发。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "2-2",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "再等等。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [],
+                "pid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "group": "3",
+                "title": "",
+                "content": "<p>漂泊者：拿到了。</p>\n<p>你在奥古斯塔的示意下将定向锚递出，她举剑一挥，将其斩为小块。</p>\n<p>漂泊者：这是&hellip;&hellip;</p>\n<p>奥古斯塔：卜灵提起过，即便是微不足道的力道，也足够能达成我们的目标。既然如此&hellip;&hellip;动手的时候，藏得越深越好。</p>\n<p>奥古斯塔：走吧，漂泊者，和我一起站到命运的面前。</p>\n<p>奥古斯塔：就让这枚小东西为我们撬开命运之门的裂隙。</p>\n<p>阿维狄亚：橡树洞&hellip;&hellip;我看到它&hellip;&hellip;</p>\n<p>阿维狄亚：玛涅斯之底&hellip;&hellip;不存在的玛涅斯之底&hellip;&hellip;</p>\n<p>阿维狄亚：咳咳&hellip;&hellip;是因为&hellip;&hellip;我吗&hellip;&hellip;</p>\n<p>阿维狄亚：不，不对，我的记忆&hellip;&hellip;咳咳咳咳咳&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "ddc89b19-a4a5-4638-a439-5eea3aedbe5c": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>年少的奥古斯塔：安吉尔！</p>\n<p>年少的奥古斯塔：&hellip;&hellip;是、是你把黑潮打跑的吗？好厉害&hellip;&hellip;</p>\n<p>年少的奥古斯塔：你的伤也&hellip;&hellip;太好了，是不是低语，它们把力量带给你了！</p>\n<p>安吉尔：&hellip;&hellip;</p>\n<p>年少的奥古斯塔：安吉尔，你&hellip;&hellip;</p>\n<p>年少的奥古斯塔：&hellip;&hellip;</p>\n<p>安吉尔：快&hellip;&hellip;快跑！！！</p>\n<p>话音落下，承载着过往回响的&ldquo;虚影&rdquo;随之消散，取而代之的是一团漩涡般的能量&mdash;&mdash;它正静静停留在&ldquo;安吉尔&rdquo;消失的地方。</p>\n<p>阿布：嗅嗅&hellip;&hellip;</p>\n<p>阿布：漂泊者，就是这个味道！</p>\n<p>奥古斯塔：&ldquo;英灵&rdquo;的真相&hellip;&hellip;黑潮&hellip;&hellip;纯净的频率&hellip;&hellip;</p>\n<p>奥古斯塔：漂泊者，我们能确定是它吗？安吉尔她&hellip;&hellip;怎么会留下黑潮的频率&hellip;&hellip;</p>\n<p>漂泊者：阿布的鼻子不会有错，但以防万一，等离开「索诺拉」之后，我会把记录下来的数据传回给卜灵。</p>\n<p>漂泊者：相信黑海岸会给我们一个准确的答复。</p>\n<p>奥古斯塔：嗯&hellip;&hellip;</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "dfdfbb30-cb09-43fd-8dea-969c06ec753a": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>奇雷利：听说了吗，阿维狄亚和元老院的事&hellip;&hellip;</p>\n<p>布拉内蒂：争权夺势嘛，不过对上奥古斯塔，我看阿维狄亚未必能有胜算。</p>\n<p>奇雷利：没有足够的共鸣天赋，奥古斯塔的力量终归是有极限的。</p>\n<p>奇雷利：更何况少了强大的共鸣资质，她既不符合预言中王的标准，也难以与历代英雄王相提并论。</p>\n<p>布拉内蒂：话不能这么说，按照奥古斯塔的行事风格，若不是她默许，阿维狄亚甚至没有被推到台前的机会。</p>\n<p>布拉内蒂：这份从容&hellip;&hellip;我看正是为王应有的气度。</p>\n<p>扎罗：百年难遇的大潮&hellip;&hellip;</p>\n<p>扎罗：你说，这次会不会是预言里的那场&hellip;&hellip;七丘劫难&hellip;&hellip;</p>\n<p>赫尔库斯：呵，管它大潮小潮，哪一次涨潮期出猎，咱们不是把脑袋掖在裤腰带上？</p>\n<p>赫尔库斯：把剑磨亮了，来啥打啥。别想太多。</p>\n<p>洛尔维诺：奥古斯塔竟然会让阿维狄亚介入狩猎，还如此&hellip;&hellip;毫不设防。</p>\n<p>洛尔维诺：看来法尔科阁下您，为此花了不少心思。</p>\n<p>法尔科：我们的总督渴望挑战，而我，不过是满足她的小小愿望罢了。</p>\n<p>法尔科：至于她能不能守住位置&hellip;&hellip;呵呵，光芒太盛，有时，会先灼伤了自己。</p>\n<p>米兰塔：阿维狄亚最近风头正盛啊&hellip;&hellip;</p>\n<p>米兰塔：据说他才是那个最有资格当上英雄王的人&mdash;&mdash;这是我从元老院那边听来的消息。</p>\n<p>里卡斯托：阿提留斯的后裔，还有四度穿越玛涅斯之底的功绩&hellip;&hellip;要说他的共鸣力确实与英雄王的预言相合。</p>\n<p>里卡斯托：鹿死谁手&hellip;&hellip;拭目以待吧。</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "e251c7cf-eeff-4f7e-bae5-671b6e37ffc5": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>阿布：蚀像摆平应该就没问题了吧。</p>\n<p>阿布：走，回「索诺拉」！</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "edfb110f-c5f7-467b-b1c9-1771a1652bc2": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>奥古斯塔：一切就绪</p>\n<p>奥古斯塔：「它」会咬钩的</p>\n<p>尤诺：漂泊者，走吧，跟上那家伙。</p>\n<p>尤诺：费了不少力气才备好的诱饵。</p>\n<p>尤诺：这份&ldquo;礼物&rdquo;，「它」&hellip;&hellip;最好给我乖乖接受。</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "ee03ac36-bc91-47b6-8bf8-4417d19ba052": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>奥古斯塔：艰难的战斗&hellip;&hellip;不是吗？</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "但胜利还是站在了我们这边。",
+                "content": "<p>奥古斯塔：是啊&hellip;&hellip;</p>\n<p>奥古斯塔：这一切都离不开你，漂泊者，七丘的英雄王。</p>\n<p>漂泊者：要是这么说的话&hellip;&hellip;你的那句话也该还给你了。</p>\n<p>漂泊者：按照英雄王预言的说法&mdash;&mdash;&ldquo;手握非凡力量、自黑色的浪潮中崛起&rdquo;&mdash;&mdash;你，奥古斯塔，或许也可以是那个预言中的救世主。</p>\n<p>奥古斯塔：非凡的力量？太夸张了，我很清楚自己的限度。</p>\n<p>奥古斯塔：不过&hellip;&hellip;我自觉配得上这个名号，也配得上与你共享这一名号。</p>\n<p>奥古斯塔：也是，四方殿的预言从来没有说过英雄王是唯一的。</p>\n<p>漂泊者：能告诉我你在黑潮里都遭遇了什么吗？那会儿我还以为你&hellip;&hellip;</p>\n<p>奥古斯塔：呵呵，不算太愉快，但又&hellip;&hellip;相当痛快的经历。</p>\n<p>奥古斯塔：想知道的话，我之后会讲给你听。</p>\n<p>奥古斯塔：总之，回过头来想&hellip;&hellip;大概在黑潮中时，那些迷失的频率始终在用它们自己的方式引导我，成就我。</p>\n<p>奥古斯塔：英灵们的意志不曾屈服，哪怕是被囚困于绝望的深渊，它们仍在迷途中为我点燃了一星微暗却温暖的火。</p>\n<p>奥古斯塔：而你&hellip;&hellip;还有其他和我共赴战场的同伴们，没有你们，胜利更是空谈。</p>\n<p>奥古斯塔：也许&ldquo;王&rdquo;的定义终究还是太过狭隘了，人类的崇高本就不该被局限于一个空洞的头衔。</p>\n<p>奥古斯塔：文明的辉煌应当是无数人前赴后继的成果，绝不是一个人孤高的勋章。</p>\n<p>漂泊者：那么，我还有一个问题。</p>\n<p>漂泊者：为什么会想要邀请我参加狩猎？</p>\n<p>奥古斯塔：我和我的勇士们渴望与你这样的强者并肩作战。我的回答，不会变。</p>\n<p>奥古斯塔：可我必须向你坦白一点，你之所以会受邀，也有&ldquo;空白命运&rdquo;的缘故。</p>\n<p>奥古斯塔：这次的狩猎我筹备了很久，然而彼时除了谕女们窥见的模糊的未来和几幅预言壁画，没有人清楚，灾厄究竟会在何时降临。</p>\n<p>奥古斯塔：直到你的出现&mdash;&mdash;你应当见过四方殿中那幅缺损的壁画&mdash;&mdash;空缺的壁画与空白的命运&hellip;&hellip;</p>\n<p>奥古斯塔：于是我和命运打了一个赌，赌你是这场狩猎的关键。</p>\n<p>奥古斯塔：由于当时这件事还没那么明朗，我也确实不知道该怎么和你开口。</p>\n<p>奥古斯塔：好在，我们最后找到了关于那片&ldquo;空白&rdquo;的答案。我赌对了。</p>\n<p>奥古斯塔：一个有着英雄王资质，又拥有彻地之楔权限的人&hellip;&hellip;</p>\n<p>奥古斯塔：谢谢你的信任，漂泊者。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "这是我对你信赖的回应。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "亦是我为了承诺所做的坚守。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-1",
+                "cid": [],
+                "pid": [
+                  "4-1"
+                ],
+                "group": "5",
+                "title": "",
+                "content": "<p>奥古斯塔：那现在也是我该践行承诺的时候了。</p>\n<p>奥古斯塔：我们此行的终点&hellip;&hellip;彻地之楔。</p>\n<p>奥古斯塔：虽然和我一开始预料得不太一样，但我还是有幸和你一起走到了这里。</p>\n<p>漂泊者：英白拉多&hellip;&hellip;</p>\n<p>奥古斯塔：去吧，我等你。</p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "f47ab578-b0a5-4e66-8732-dadd31af7bdb": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>奥古斯塔：就是那边。</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "f9becdea-1d18-44ca-a2b7-4725ebdcee73": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "怎么了，奥古斯塔？",
+                "content": "<p>奥古斯塔：没什么，只是突然想起了&hellip;&hellip;一件事。</p>\n<p>奥古斯塔：漂泊者，你还记得十六年前，我在橡树洞前听到的那句低语吗&hellip;&hellip;</p>\n<p>奥古斯塔：&ldquo;黑潮钟情于强者，而弱者注定被遗忘&rdquo;。</p>\n<p>奥古斯塔：我在想，这句话挺有意思的&hellip;&hellip;</p>\n<p>奥古斯塔：没错，有件事我从来没向别人提起过。</p>\n<p>奥古斯塔：那种断断续续、像是无休无止的低语一般的声音，自黑潮&ldquo;遗忘&rdquo;我的那刻开始，始终与我如影随形。</p>\n<p>奥古斯塔：每一次战斗时，低语声总会如期而至，它告诉我该如何躲闪、如何挥剑，可随着我的对手一个又一个倒下，低语却渐渐没了声息。</p>\n<p>奥古斯塔：直到我坐上了总督的位置&hellip;&hellip;</p>\n<p>奥古斯塔：&hellip;&hellip;低语声回来了，它比以前更加嘈杂，不愿还我一分一秒的安宁。</p>\n<p>奥古斯塔：我曾尝试无视它，但每一次我偏离它的指引，命运总会用更残酷的方式将我拉回正轨。</p>\n<p>奥古斯塔：我天真地认为自己掌控着一切，然而冰冷的真相是&hellip;&hellip;那些低语比任何人都更加清楚我该去往何处。</p>\n<p>奥古斯塔：&hellip;&hellip;如今，低语向我证明了拉古那的预言是对的。</p>\n<p>奥古斯塔：那么，现在轮到我来验证它了。</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "fac8ab2e-8b3a-42b4-9581-1e0d6077e1a7": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": ""
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "entryId": "1408826543900962816",
+            "linkType": 1
+          },
+          "nextLink": {
+            "entryId": "1417172340329828352",
+            "linkType": 1
+          },
+          "preLabel": "铁锈，剑与烈阳",
+          "nextLabel": "今夜，注定属于月亮"
+        }
+      }
+    },
+    "currentVersion": "3.0",
+    "onlineVersion": "3.0",
+    "browseCount": 11352,
+    "lastUpdateTime": "2025-10-01",
+    "lastEditUserName": "Sanma",
+    "userScoreList": [
+      {
+        "userId": 10020855,
+        "userName": "Sanma",
+        "headCode": "122",
+        "userHeadUrl": "https://prod-alicdn-community.kurobbs.com/newHead/aki/taoqi.png",
+        "status": 0,
+        "score": 45,
+        "userCenterUrl": "https://www.kurobbs.com/person-center?id=10020855",
+        "lastOperator": true
+      }
+    ],
+    "status": 2,
+    "checkStatus": 0
+  },
+  "traceId": "bc19c242-c982-4b53-b3d5-6db89942ae4e",
+  "success": true
+}

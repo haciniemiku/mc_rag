@@ -1,0 +1,1647 @@
+{
+  "mediaList": [],
+  "title": "万象新声 · 上",
+  "modules": [
+    {
+      "title": "万象新声 · 上",
+      "components": [
+        {
+          "idx": "d4aa8a7d-4db5-45c0-9d8b-e8a540a03dec",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "进入云陵谷",
+      "components": [
+        {
+          "idx": "c88a1cbb-7132-4837-8bea-c030c9cb18a2",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "激活小型信标",
+      "components": [
+        {
+          "idx": "8cf4bf03-af7f-40d2-b64a-1982b3e7b904",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "使用伞翼进入无音区",
+      "components": [
+        {
+          "idx": "0d086112-86b5-464e-9c67-95d5ac490f09",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "击败？？？",
+      "components": [
+        {
+          "idx": "0881e4d7-24ec-4380-a824-ccacba9841ad",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    }
+  ],
+  "story": {
+    "0881e4d7-24ec-4380-a824-ccacba9841ad": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2"
+            ],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：秧秧！漂泊者！&nbsp;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：你们在哪！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：我和白芷被困在了屏障外，进不去，你们呢？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：我和漂泊者在一起，那个&hellip;&hellip;奇怪的残象也在这。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷：是残象的能力。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷：&hellip;&hellip;小心。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：秧秧！漂泊者！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">炽霞：你们没事吧？没受伤吧？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "（摇头。）",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "我没事。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1",
+              "4-2",
+              "4-3"
+            ],
+            "pid": [
+              "2-1",
+              "2-2"
+            ],
+            "group": "3",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：刚刚可急死我了，那破屏障看得见摸不着穿不透锤不破打不烂的！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：我也没事。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：&hellip;&hellip;我从没见过这么厉害的残象，但漂泊者却能将他完全击溃。</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "是我和秧秧一起打败的。",
+            "content": "<p>秧秧：我&hellip;&hellip;没做什么，是漂泊者厉害。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-2",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "是实力碾压。",
+            "content": "<p>炽霞：漂泊者最后使的那一招是什么！比得上火焰英雄的绝技了！</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-3",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "其实也并不轻松。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：还谦虚上了漂泊者！没想到之前还在藏拙，我在屏障外可是看得清清楚楚！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：你哼啊哈啊没几下就把残象打散了！</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1",
+              "6-2"
+            ],
+            "pid": [
+              "4-1",
+              "4-2",
+              "4-3"
+            ],
+            "group": "5",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：但云陵谷并非如此危险的区域&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">炽霞：别说这些了，快来看！快来看！</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-1",
+            "cid": [
+              "7-1"
+            ],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "残象……留下了虚影？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-2",
+            "cid": [
+              "7-1"
+            ],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "这是什么？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "7-1",
+            "cid": [
+              "8-1",
+              "8-2"
+            ],
+            "pid": [
+              "6-1",
+              "6-2"
+            ],
+            "group": "7",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：啊，这是&hellip;&hellip;遗留的残响？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：哇哇！这种级别的残响&hellip;&hellip;这什么运气啊！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：抱歉，我们自顾自地说了起来，漂泊者对「残响」和「声骸」也没有印象是吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：世界万物由频率构成，而发声必有回响。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：残象被击溃后的余留回响，我们一般称其为「残响」，通过盘古终端的数据坞可以将其回收。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：盘古终端就是每个共鸣者带在身上的葫芦啦，瑝珑科技，必属精品！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：不过残响是几率产生的，产生概率也会受到数据坞等级的影响。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：数据坞等级越高，残响被完整遗留的概率也越大&hellip;&hellip;完整遗留的残响才能够被转化为「声骸」，并成为可以利用的战斗力量。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：终端在之前感受到残象的时候发出了危险警报，残象等级至少是怒涛级以上。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：或许漂泊者可以查看一下数据坞等级？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：不用这么麻烦！漂泊者用终端吸收看看不就知道了？</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">炽霞：啊，吸收不了吗&hellip;&hellip;</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "8-1",
+            "cid": [
+              "9-1"
+            ],
+            "pid": [
+              "7-1"
+            ],
+            "group": "8",
+            "title": "我的葫芦等级是零。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：没事没事，饭要一口口吃，等级要一步步升，我们可以先抓&ldquo;小鬼&rdquo;，再吞&ldquo;大象&rdquo;嘛！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：我记着这附近有阿嗞嗞，那也很可爱的！我们待会陪你先整一个，怎么样？</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "8-2",
+            "cid": [
+              "9-1"
+            ],
+            "pid": [
+              "7-1"
+            ],
+            "group": "8",
+            "title": "吸收不了，会怎么样？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷：过不了多久，残响会逸散，天空海消失。而天空海消失，被阻断的通讯信号会自然恢复。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷：无音区则会陷入沉寂，等待下一次复苏。</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "9-1",
+            "cid": [
+              "10-1",
+              "10-2",
+              "10-3",
+              "10-4"
+            ],
+            "pid": [
+              "8-1",
+              "8-2"
+            ],
+            "group": "9",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷：&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷：云陵谷的异常情况，需要向边庭和院内通报。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷：先离开这里吧。</p>\n</div>\n<div class=\"\">\n<div class=\"flex items-center align-center text-center w-full flex-row my-4 px-16\">\n<div class=\"flex border-gray-200 dark:border-gray-800 w-full border-t border-solid\">&nbsp;</div>\n</div>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">饿&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">好饿&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div class=\"flex items-center align-center text-center w-full flex-row my-4 px-16\">\n<div class=\"flex border-gray-200 dark:border-gray-800 w-full border-t border-solid\">&nbsp;</div>\n</div>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：这&hellip;&hellip;这是什么力量！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：你&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：难道一直在扮猪吃老虎！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">炽霞：完全没见识过这种共鸣能力啊，你还有什么本领没使出来的！生吞残象？碳烤声骸？</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "10-1",
+            "cid": [
+              "11-1"
+            ],
+            "pid": [
+              "9-1"
+            ],
+            "group": "10",
+            "title": "并不是我的共鸣能力。",
+            "content": "<p>炽霞：不是共鸣能力吗？</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "10-2",
+            "cid": [
+              "11-1"
+            ],
+            "pid": [
+              "9-1"
+            ],
+            "group": "10",
+            "title": "我也不清楚发生了什么。",
+            "content": "<p>秧秧：这会不会跟漂泊者失去的记忆有关？现在能想起什么吗？</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "10-3",
+            "cid": [
+              "11-1"
+            ],
+            "pid": [
+              "9-1"
+            ],
+            "group": "10",
+            "title": "这和“生吞”也没什么区别了吧。",
+            "content": "<p>炽霞：确实，不过是什么味道的？辣的？甜的？</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "10-4",
+            "cid": [
+              "11-1"
+            ],
+            "pid": [
+              "9-1"
+            ],
+            "group": "10",
+            "title": "怎么还有烹饪技能。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：听说有人试过烹饪&ldquo;咕咕河豚&rdquo;，是不是还是哪个州的名菜来着？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：啊，咕咕河豚也是残象的一种啦！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：说起来还真让人好奇味道&hellip;&hellip;不管什么，应该都是辣味的好！</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "11-1",
+            "cid": [
+              "12-1",
+              "12-2"
+            ],
+            "pid": [
+              "10-1",
+              "10-2",
+              "10-3",
+              "10-4"
+            ],
+            "group": "11",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：感觉还好吗？有难受的地方吗？</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：会不会是残象的影响残留？白芷，如果方便的话，是否可以让漂泊者在华胥研究院共鸣医疗科检查一下&hellip;&hellip;</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "12-1",
+            "cid": [
+              "13-1"
+            ],
+            "pid": [
+              "11-1"
+            ],
+            "group": "12",
+            "title": "我没事。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "12-2",
+            "cid": [
+              "13-1"
+            ],
+            "pid": [
+              "11-1"
+            ],
+            "group": "12",
+            "title": "是得看一下。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "13-1",
+            "cid": [
+              "14-1",
+              "14-2",
+              "14-3"
+            ],
+            "pid": [
+              "12-1",
+              "12-2"
+            ],
+            "group": "13",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷：&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：白芷？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷：肉身吸收声骸，并非完全没有先例。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：肉身吸收声骸&hellip;&hellip;？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：我记得在《纪世通鉴》中瑝珑篇章，开篇中有提到&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：&ldquo;&hellip;&hellip;斯天人降世，乾坤指掌，纳骸于身；一气凝化，盘古生焉；覆天偃地，经纬相应，四方照临。而瑝珑史始，庭州初分&hellip;&hellip;&rdquo;</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "14-1",
+            "cid": [
+              "15-1",
+              "15-2",
+              "15-3"
+            ],
+            "pid": [
+              "13-1"
+            ],
+            "group": "14",
+            "title": "这是什么意思？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：就是大概很久很久很久以前有个很厉害的人，像手里有一个宇宙一样，在终端还不存在的时候，仅凭肉身！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：就把世上最厉害的残象给吸收了，转化成声骸。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">炽霞：然后利用声骸的力量，重塑了世间，辨明了经纬道理，于是瑝珑开始有了历史&hellip;&hellip;</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "14-2",
+            "cid": [
+              "16-1"
+            ],
+            "pid": [
+              "13-1"
+            ],
+            "group": "14",
+            "title": "真玄乎。",
+            "content": "<p>秧秧：看来漂泊者也是一个非常&ldquo;玄乎&rdquo;的人。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "14-3",
+            "cid": [
+              "16-1"
+            ],
+            "pid": [
+              "13-1"
+            ],
+            "group": "14",
+            "title": "盘古、乾坤？",
+            "content": "<p>秧秧：这正是「盘古终端」和「乾坤数据坞」的名称由来。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "15-1",
+            "cid": [
+              "16-1"
+            ],
+            "pid": [
+              "14-1"
+            ],
+            "group": "15",
+            "title": "没想到炽霞其实是个隐藏的学霸。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：虽然我很想承认但并不是啦，只是这个故事跟「岁主授任」一样，小时候常听大人们念叨讲古。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：不过秧秧能把典籍原文记住，我可记不住，但大概讲什么，还是知道一些的啦。</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "15-2",
+            "cid": [
+              "16-1"
+            ],
+            "pid": [
+              "14-1"
+            ],
+            "group": "15",
+            "title": "原来如此。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：快别背了别背了，求你了秧秧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：学宫里先生要求全文背诵的痛苦记忆全翻上来了，这不是个传说故事吗。</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "15-3",
+            "cid": [
+              "16-1"
+            ],
+            "pid": [
+              "14-1"
+            ],
+            "group": "15",
+            "title": "难道我就是……",
+            "content": "<p>炽霞：这时间跨度也太长了，虽然说共鸣者相较于普通人岁寿会更长一些，但左右最长也就以百年度量，瑝珑已知历史可至少横跨千年&hellip;&hellip;</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "16-1",
+            "cid": [
+              "17-1",
+              "17-2",
+              "17-3",
+              "17-4"
+            ],
+            "pid": [
+              "15-1",
+              "15-2",
+              "15-3",
+              "14-2",
+              "14-3"
+            ],
+            "group": "16",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：抛开真假不讲，这得多久远以前的事啊，远到太古了，那时候今州都没建州吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：难不成漂泊者是我们的祖祖祖祖祖祖爷爷不成？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷：在没有获得更多的数据及进行分析研究之前，不能妄下论断。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷：漂泊者。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：诶？讯号恢复了！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：这是&hellip;&hellip;来自边庭的今州全域影像留言。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：诸位身处今州的将士与人民，此时叨扰。我是今州现任令尹 &mdash;&mdash;今汐。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：时值 「追月节」 临近之际，今州亦迎来四方之客。此番佳节盛况将至，众望所待，群情欢洽，我亦如是。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：今州从古至今，作为瑝珑抵御残象潮的前线关隘，险峻之地。自立州便肩负着不可后退、不能失败的战争重担。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：是各位恪尽职守、驻守边防的今州将士，各位敬业乐群、积极热情的人民的守护，才有如此安宁昌盛的今州，以如此熠熠的面貌呈现于世。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：我们从来以无畏的意志面对战争潮涌，以包容热诚的态度面对四方往来，今日如此，长此依旧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：因此，我有一事想拜托各位。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：在到来的客人中，有一位对我、对今州、乃至瑝珑都很重要的客人。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：我们已等候许久。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：这位客人，在您苏醒之后，您一定感到十分迷茫。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：您应当已觉察到一些与您有关的异象奇事。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：如若您现在是于今州境内停驻，愿意留待些许时刻，是否可以请您于今州城内边庭一见。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：我虽无法保证能完全解答您的疑惑，但可以的话，我希望能协助一二或提供一些便于行事的权限。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：这并不是限制，仅仅是请求，您有任何行动的选择自由。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐：所以，我在此亦请今州各位人民将士，若有机缘，也烦请为来客行个方便，有所照拂。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：我怎么感觉&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷：令尹口中所指的人。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：&hellip;&hellip;是漂泊者。</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "17-1",
+            "cid": [
+              "18-1",
+              "18-2"
+            ],
+            "pid": [
+              "16-1"
+            ],
+            "group": "17",
+            "title": "正是在下。",
+            "content": "<p>炽霞：这就是&hellip;&hellip;首&hellip;&hellip;不，这就是漂泊者的实力吗！</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "17-2",
+            "cid": [
+              "20-1"
+            ],
+            "pid": [
+              "16-1"
+            ],
+            "group": "17",
+            "title": "现在下定论为时尚早。",
+            "content": "<p>秧秧：漂泊者这一点倒是和白芷有些相似。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "17-3",
+            "cid": [
+              "20-1"
+            ],
+            "pid": [
+              "16-1"
+            ],
+            "group": "17",
+            "title": "追月节？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：追月节是跟春龙节并列的瑝珑两大传统节日，是一年来最为热闹的两个节日。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：各庭州都有其特有的习俗与节目，今州虽为险要边地，却也不例外。</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "17-4",
+            "cid": [
+              "20-1"
+            ],
+            "pid": [
+              "16-1"
+            ],
+            "group": "17",
+            "title": "今汐？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：漂泊者是对令尹的名讳有疑问吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：现任令尹其实真名单字为&ldquo;汐&rdquo;，岁主授任仪式后，候选者应选，便承令尹之职，赐予州姓，取意承州之名，同州共济，同姓一心。</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "18-1",
+            "cid": [
+              "19-1"
+            ],
+            "pid": [
+              "17-1"
+            ],
+            "group": "18",
+            "title": "你刚才想说什么？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "18-2",
+            "cid": [
+              "19-1"
+            ],
+            "pid": [
+              "17-1"
+            ],
+            "group": "18",
+            "title": "首……？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "19-1",
+            "cid": [
+              "20-1"
+            ],
+            "pid": [
+              "18-1",
+              "18-2"
+            ],
+            "group": "19",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：&ldquo;这就是首席的实力！&rdquo;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：是经典的英雄戏剧目的名台词之一！至今没有完结，已经连演四年多了吧，首席指挥官和其小队的故事真是牵动心肠啊。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：漂泊者是对这个英雄戏剧目有印象吗？</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "20-1",
+            "cid": [
+              "21-1",
+              "21-2",
+              "21-3",
+              "21-4"
+            ],
+            "pid": [
+              "19-1",
+              "17-2",
+              "17-3",
+              "17-4"
+            ],
+            "group": "20",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：不过现在重点不是这个吧！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：漂泊者现在有什么打算吗？</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "21-1",
+            "cid": [
+              "22-1"
+            ],
+            "pid": [
+              "20-1"
+            ],
+            "group": "21",
+            "title": "去边庭会会令尹。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "21-2",
+            "cid": [
+              "22-1"
+            ],
+            "pid": [
+              "20-1"
+            ],
+            "group": "21",
+            "title": "去城内探探消息。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "21-3",
+            "cid": [
+              "22-1"
+            ],
+            "pid": [
+              "20-1"
+            ],
+            "group": "21",
+            "title": "没什么打算想法。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "21-4",
+            "cid": [
+              "22-1"
+            ],
+            "pid": [
+              "20-1"
+            ],
+            "group": "21",
+            "title": "不是有节日？凑凑热闹。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：节休假还没着落，没到真正热闹的时候呢！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：漂泊者此时对节日氛围有期待，怕是会失望。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：若是能在今州城多待些时日，等追月节筹备妥当&hellip;&hellip;</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "22-1",
+            "cid": [
+              "23-1",
+              "23-2",
+              "23-3"
+            ],
+            "pid": [
+              "21-1",
+              "21-2",
+              "21-3",
+              "21-4"
+            ],
+            "group": "22",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：我记得在谷中，漂泊者在看见今州岁主雕像的时候，提到一段与岁主对视的记忆影像。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：虽无法确认是否是真实的记忆，但若真如令尹的通讯所言，漂泊者的来历记忆或许与今州密切相关。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：但不论漂泊者是不是令尹口中那位重要的客人，你都是今州重要的来客，也是我们的&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：&mdash;&mdash;朋友！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：毕竟过命的交情了，我可没在那么短的时间遇见那么多残象过，最后还来了个大的！虽然大多都是漂泊者打垮的，嘿嘿。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">炽霞：不管如何，到今州城我一定要请你吃攀花饭馆的拿手好菜！</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "23-1",
+            "cid": [
+              "24-1"
+            ],
+            "pid": [
+              "22-1"
+            ],
+            "group": "23",
+            "title": "那走吧。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "23-2",
+            "cid": [
+              "24-1"
+            ],
+            "pid": [
+              "22-1"
+            ],
+            "group": "23",
+            "title": "前往今州城。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "23-3",
+            "cid": [
+              "24-1"
+            ],
+            "pid": [
+              "22-1"
+            ],
+            "group": "23",
+            "title": "也没其他现在好去的了。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "24-1",
+            "cid": [],
+            "pid": [
+              "23-1",
+              "23-2",
+              "23-3"
+            ],
+            "group": "24",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷：你的身体状况，最好到今州城后，做一次整体的排验检查。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷：虽然吸收声骸后没有什么明显的异状，但并不能排除有其他潜藏的危险影响。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷：现在数据样本、表现体征情况收集太少，若路上有余留残响，可以一试，但若不成，不要强撑。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：对的对的，不要逞强，有伤看伤，没伤图个心安，至少图两份心安！秧秧可担心得紧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：如果漂泊者路上有任何不舒服，请一定要告诉我们。</p>\n</div>",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "0d086112-86b5-464e-9c67-95d5ac490f09": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2"
+            ],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：白芷！白芷&mdash;&mdash;！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：白芷，这是个蛰伏期的无音区吧，你怎么一个人跑无音区中央来了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：白芷，我跟你说，我们&hellip;&hellip;诶？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷：看来，无碍。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：他能跑能跳的，刚几招刷刷刷就解决了至少巨浪级别的残象，比我还精神，嘿嘿，嘿嘿！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：我一直有在用流息感应关注&hellip;&hellip;</p>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1",
+              "3-2",
+              "3-3"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "怎么了？",
+            "content": "<p>秧秧：白芷是在担心你的身体状况，觉得我们不应该带着你无节制随意行动&hellip;&hellip;</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1",
+              "3-2",
+              "3-3"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "这是什么读心大会吗？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：啊？不是的。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：白芷只是在担心你的身体状况，觉得我们不应该带着你无节制随意行动&hellip;&hellip;</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1",
+              "2-2"
+            ],
+            "group": "3",
+            "title": "我确实没事。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-2",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1",
+              "2-2"
+            ],
+            "group": "3",
+            "title": "嚯！",
+            "content": "<p>炽霞：看看，多么有力的拳头！</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-3",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1",
+              "2-2"
+            ],
+            "group": "3",
+            "title": "突然感觉……身体很难受。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：是哪里难受？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷：关心则乱。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷：你的体征表现一切正常，瞳孔没有变化，呼吸平稳。</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-1",
+            "cid": [],
+            "pid": [
+              "3-1",
+              "3-2",
+              "3-3"
+            ],
+            "group": "4",
+            "title": "",
+            "content": "<p>白芷：&hellip;&hellip;这里不是说话的地方。</p>",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "8cf4bf03-af7f-40d2-b64a-1982b3e7b904": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2"
+            ],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：前面就快到谷口了，地势会有一些高度落差，用终端里的伞翼模块通过会方便许多。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：刚才确认的终端功能里就有伞翼模块，等下我告诉你如何开启吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：出了谷口，再走一段路就是今州城了！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">炽霞：城里是最安全的地方了，中枢信标辐射全城，还有防护罩，天工的防御工事可不是盖的。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "真壮观。",
+            "content": "<p>炽霞：嘿嘿，不错吧？</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "还可以。",
+            "content": "<p>炽霞：嘿嘿，也许比不过其他更壮观的地方，但今州城永远是我的快乐老家！</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1",
+              "4-2"
+            ],
+            "pid": [
+              "2-1",
+              "2-2"
+            ],
+            "group": "3",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：今州面靠荒石高地与北落野，是座关城，也是要塞，被称为瑝珑的咽喉之地。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：跟白芷约好了在这附近汇合的&hellip;&hellip;人呢&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：天空海在这里汇聚了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：&hellip;&hellip;无音区？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：&hellip;&hellip;什么时候形成的？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：来的时候还没有的。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：刚才我并没有感应到任何无音区的气息&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：难道是在刚刚一瞬间生成的？就这么会儿功夫？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：还是这天空海会追踪啊？跟着我们跑？</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：&hellip;&hellip;无音区中央&hellip;&hellip;</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "好像有什么东西。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-2",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "有个人。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1",
+              "6-2"
+            ],
+            "pid": [
+              "4-1",
+              "4-2"
+            ],
+            "group": "5",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：那不是白芷吗！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：白芷！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：白芷&mdash;&mdash;！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：距离太远了，声音传不过去&hellip;&hellip;</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-1",
+            "cid": [
+              "7-1",
+              "7-2"
+            ],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "无音区不是很危险么？",
+            "content": "<p>秧秧：刚形成的无音区会有一段时间的&ldquo;蛰伏期&rdquo;，这一段时间是相对安全的。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-2",
+            "cid": [
+              "9-1"
+            ],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "为什么她会在那里？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：我们约定在这附近汇合，她说是去采样，结果一个人采到无音区正中心去了吗！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：按白芷的个性来说，不会做不加考虑，纯粹冒险的事。刚形成的无音区会有一段时间的&ldquo;蛰伏期&rdquo;。</p>\n</div>",
+            "delEdgeChildren": [
+              "8-1"
+            ]
+          },
+          {
+            "id": "7-1",
+            "cid": [
+              "8-1"
+            ],
+            "pid": [
+              "6-1"
+            ],
+            "group": "7",
+            "title": "这段时间？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "7-2",
+            "cid": [
+              "8-1"
+            ],
+            "pid": [
+              "6-1"
+            ],
+            "group": "7",
+            "title": "那这个无音区相对“安全”？",
+            "content": "<p>秧秧：应该说是&ldquo;暂时&rdquo;安全。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "8-1",
+            "cid": [
+              "9-1"
+            ],
+            "pid": [
+              "7-1",
+              "7-2",
+              "6-2"
+            ],
+            "group": "8",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：蛰伏期根据无音区形成时间有变化，一般来说，形成的时间越短，蛰伏期则越长。但蛰伏期越长，无音区孕育生成的残象则越加强大。</p>\n</div>",
+            "lastPid": "6-2",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "9-1",
+            "cid": [
+              "10-1",
+              "10-2",
+              "10-3"
+            ],
+            "pid": [
+              "8-1",
+              "6-2"
+            ],
+            "group": "9",
+            "title": "",
+            "content": "<div class=\"\">秧秧：无音区形成的时间越短，蛰伏期则越长，现在这个无音区，在短时间内应该是安全的。</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "10-1",
+            "cid": [
+              "12-1"
+            ],
+            "pid": [
+              "9-1"
+            ],
+            "group": "10",
+            "title": "不会一下去哗地冒出强大的残象吧。",
+            "content": "<p>炽霞：按照英雄戏（今州流行戏剧）的编排，确实有这种可能！</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "10-2",
+            "cid": [
+              "11-3",
+              "11-4",
+              "11-5"
+            ],
+            "pid": [
+              "9-1"
+            ],
+            "group": "10",
+            "title": "有没有可能底下的白芷是个诱饵。",
+            "content": "<p>炽霞：确实，那会是谁布下的诱饵呢？</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "10-3",
+            "cid": [
+              "14-1"
+            ],
+            "pid": [
+              "9-1"
+            ],
+            "group": "10",
+            "title": "那我们下去吧。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "11-3",
+            "cid": [
+              "12-1"
+            ],
+            "pid": [
+              "10-2"
+            ],
+            "group": "11",
+            "title": "你。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：哦&hellip;&hellip;一行人里看起来最头脑简单的那个其实深谋远虑、诡计多端也是个常见的英雄戏桥段设计！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：啊不对，没有这种设计啦！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：&hellip;&hellip;漂泊者。</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "11-4",
+            "cid": [
+              "12-1"
+            ],
+            "pid": [
+              "10-2"
+            ],
+            "group": "11",
+            "title": "秧秧。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：哦&hellip;&hellip;一行人里看起来最安静、与世无争的那个其实心思复杂、诡计多端，隐藏在主角身边也是个常见的英雄戏桥段设计！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：啊不对，应该是没有这种设计啦！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：也不是一定不能有&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：啊？！</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "11-5",
+            "cid": [
+              "12-1"
+            ],
+            "pid": [
+              "10-2"
+            ],
+            "group": "11",
+            "title": "残象。",
+            "content": "<p>秧秧：确实存在会重复和模仿人类言语和行为的残象，呓语种，但拟真到这种程度&hellip;&hellip;</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "12-1",
+            "cid": [
+              "13-1",
+              "13-2"
+            ],
+            "pid": [
+              "11-3",
+              "10-1",
+              "11-4",
+              "11-5"
+            ],
+            "group": "12",
+            "title": "",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "13-1",
+            "cid": [
+              "14-1"
+            ],
+            "pid": [
+              "12-1"
+            ],
+            "group": "13",
+            "title": "总之，先下去吧。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "13-2",
+            "cid": [
+              "14-1"
+            ],
+            "pid": [
+              "12-1"
+            ],
+            "group": "13",
+            "title": "有没有办法绕开这个无音区？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "14-1",
+            "cid": [],
+            "pid": [
+              "13-1",
+              "13-2",
+              "10-3"
+            ],
+            "group": "14",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：伞翼的滑翔距离无法超过无音区的范围，白芷还在无音区里面，只能先下去看看情况了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：是时候使用终端里的伞翼功能了，漂泊者，我来帮你开启吧。</p>\n</div>",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "c88a1cbb-7132-4837-8bea-c030c9cb18a2": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2"
+            ],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：虽然漂泊者什么都想不起来，但有件事我可以九成&hellip;&hellip;不十成确定！你是一位共鸣者。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：手背有声痕，身上也携带着葫芦（终端），虽然看上去样式有些不同，但这两者都是共鸣者的象征。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：有些「共鸣者」，比如说秧秧的共鸣能力可以通过风感知到外界的信息，所以刚才能大概感知到附近有无音区正在形成。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：像我就完全感知不到，嘿嘿。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：而且除了共鸣者，非必要时刻，也少有人没事在野外跑了~</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：别看现在谷内安静祥和的样子，指不定打哪就蹦出来一危险的残象来！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：这叫什么，说来就来哦。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：虽然丢失了记忆，但战斗招式倒是还记得啊。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：下次我必定一马当先！不然我就不叫&hellip;&hellip;马小芳&hellip;&hellip;不对不对，不叫炽霞！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：怎么了？有哪里不舒服吗？是刚才的战斗&hellip;&hellip;？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "我好像想起了些东西。",
+            "content": "<p>秧秧：记忆里出现了岁主的影像？</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "4-1",
+              "4-2",
+              "4-3"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "这座雕像是……？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：这是今州岁主（指引机枢）「角」的雕像，是为龙形。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：瑝珑共有一庭六州，各有一位岁主，身形样貌有相似相近，亦有不同。</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1",
+              "4-2",
+              "4-3"
+            ],
+            "pid": [
+              "2-1"
+            ],
+            "group": "3",
+            "title": "岁主？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：就是这座龙形雕像的真身，今州的岁主（指引机枢），瑝珑共有一庭六州，各有一位岁主。身形样貌有相似相近，也有不同。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：今州的岁主名为「角」，龙形，就是这座雕像所呈现的模样。</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1",
+              "2-2"
+            ],
+            "group": "4",
+            "title": "除了瑝珑外的地界也有岁主？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：存在文明与历史的疆域地界就会存在岁主，而瑝珑较为特别。瑝珑历史渊远，文明厚重，地大物博，以致瑝珑是现今世上岁主同生共存最多的地方。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：根据记载，瑝珑岁主本为一体，合则归一，分而治之。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：其他地界，自然也存在相对应的岁主，只是数量大多远不及瑝珑。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：瑝珑的岁主以龙形居多，而瑝珑外各有不同，有的甚至&hellip;&hellip;难以描述。</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-2",
+            "cid": [],
+            "pid": [
+              "3-1",
+              "2-2"
+            ],
+            "group": "4",
+            "title": "其他岁主长什么样？",
+            "content": "<p>秧秧：瑝珑的岁主以龙形居多，而瑝珑外各有不同，有的甚至&hellip;&hellip;难以描述。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-3",
+            "cid": [],
+            "pid": [
+              "3-1",
+              "2-2"
+            ],
+            "group": "4",
+            "title": "我看见我与祂对面而立。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1",
+              "6-2"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：与真实的岁主对面而立？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：岁主真身一般是难以见到的&hellip;&hellip;几乎只有在授任大典上才能一睹真容。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：且按漂泊者描述这么近的距离，除非是岁主的共鸣者，但现今今州岁主的共鸣者正是今州令尹（最高执政官）&hellip;&hellip;</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-1",
+            "cid": [
+              "7-1"
+            ],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "或许，这只是我的想象？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-2",
+            "cid": [],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "……",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "7-1",
+            "cid": [],
+            "pid": [
+              "6-1"
+            ],
+            "group": "7",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：嗬！可恶&hellip;&hellip;这起码也得是巨浪级别的残象了吧！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：炽霞那边好像遇到了危险，漂泊者&hellip;&hellip;！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：漂泊者，小心！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：刚才好险，你们俩第一次配合倒是还挺默契的！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：我都来不及出手，只看见秧秧下意识像老&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：咳咳，下意识护在漂泊者前面的时候，我都没看清，残象就被消灭了！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：&hellip;&hellip;炽霞。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：嘿嘿嘿&hellip;&hellip;那个啊，和白芷约定的地方就要到了！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：之前是白芷和我们一起发现的你，她的共鸣能力是治疗相关，她离开前有对你做了一些简单的诊疗处理。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：你昏迷时出现了一些类似溺水的症状，但口鼻无异物，身上衣物也很干爽整洁。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：口鼻有无异物这些是秧秧通过感应知道的，她当时可是红着脸对昏迷的你，一直说不好意思不好意思&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：炽、炽霞！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：啊，前面就是信标点了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：看到信标记得登记激活一下，信标有一定防护的作用，在信标方圆五米内应该是比较安全的！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：可以把你的终端给我一下吗?</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：嗯&hellip;&hellip;好了，虽然型号和版本不同，但数据传输功能和一些基础模块功能是确认可用的。</p>\n</div>",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "d4aa8a7d-4db5-45c0-9d8b-e8a540a03dec": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1"
+            ],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">模糊且温柔的女声：&hellip;&hellip;溺水的症状&hellip;&hellip;奇怪。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">模糊且温柔的女声：&hellip;&hellip;没有外伤，呼吸&hellip;&hellip;没有异常。心跳&hellip;&hellip;应该很快&hellip;&hellip;才对。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">温柔的女声：&hellip;&hellip;醒了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">元气的女声：让我看看让我看看！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">元气的女声：幸好你醒了，差点我就要掏出压箱底的本领了，初级巡尉必备急救技能第一课&mdash;&mdash;心肺复苏！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">元气的女声：但现实实践这可能还是第一次&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">温柔的女声：&hellip;&hellip;炽霞。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">元气的女声：不好意思不好意思，你刚醒来，我这噼里啪啦的一堆话&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">温柔的女声：你还好吗？身体有什么不舒服的地方吗？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "你们是？",
+            "content": "<p>炽霞：我的名字是炽霞&hellip;&hellip;嗯，她是秧秧！</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1",
+              "4-2"
+            ],
+            "pid": [
+              "2-1"
+            ],
+            "group": "3",
+            "title": "这里是？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：这里是云陵谷，瑝珑属下今州城的边地野外。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：我看你的装束不像是瑝珑本地人，是漂泊在外的旅者或是&hellip;&hellip;归客吗？</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "……漂泊者？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-2",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "我不记得了。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1",
+              "4-2"
+            ],
+            "group": "5",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：不知道为什么会在这里&hellip;&hellip;也不记得自己是哪里人，什么身份吗。</p>\n<p class=\"py-1 px-2 align-middle\">炽霞：白芷可没说醒了之后会有这种后遗症啊。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：风带来危险的讯息，天空海正在聚拢，看来快要生成新的无音区了。</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-1",
+            "cid": [
+              "7-1",
+              "7-2",
+              "7-3"
+            ],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "什么意思?",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：意思是这里不久后很大可能会有危险。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：果然，受到<span class=\"mc-ingame-Highlight\" style=\"color: rgb(241, 196, 15);\">天空海</span>的影响，葫芦（盘古终端）也失去信号了，收发不了讯息，联络不到任何人，得尽快跟白芷在约定的地方会合，离开这里了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：看来你真的什么都想不起来了，没事没事！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：有问题，我们边走边说，让我和秧秧一件件原原本本、事无巨细地告诉你！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：漂泊者&hellip;&hellip;在记起原本的名字之前，可以这么称呼你吗？</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "7-1",
+            "cid": [
+              "8-2"
+            ],
+            "pid": [
+              "6-1"
+            ],
+            "group": "7",
+            "title": "嗯。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "7-2",
+            "cid": [
+              "8-2"
+            ],
+            "pid": [
+              "6-1"
+            ],
+            "group": "7",
+            "title": "可以暂时这么称呼。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "7-3",
+            "cid": [
+              "8-2"
+            ],
+            "pid": [
+              "6-1"
+            ],
+            "group": "7",
+            "title": "还挺适合我。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "8-2",
+            "cid": [
+              "9-1",
+              "9-2"
+            ],
+            "pid": [
+              "7-1",
+              "7-2",
+              "7-3"
+            ],
+            "group": "8",
+            "title": "",
+            "content": "<p>秧秧：这里不是久留之地，如果漂泊者暂时没有其他打算的话，或许可以先和我们同行？</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "9-1",
+            "cid": [
+              "10-1"
+            ],
+            "pid": [
+              "8-2"
+            ],
+            "group": "9",
+            "title": "好。",
+            "content": "<p>炽霞：太好了，一起走吧。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "9-2",
+            "cid": [
+              "10-1"
+            ],
+            "pid": [
+              "8-2"
+            ],
+            "group": "9",
+            "title": "出谷的路只有一条？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "10-1",
+            "cid": [],
+            "pid": [
+              "9-1",
+              "9-2"
+            ],
+            "group": "10",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：谷内地形地势复杂，我们惯常走的道路只有一条，不介意的话，不如先结伴同行，出了云陵谷后再作打算？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：走吧走吧，一起走吧！</p>\n</div>\n<div class=\"\">&nbsp;</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "11-1",
+            "cid": [],
+            "pid": [
+              "10-1"
+            ],
+            "group": "11",
+            "title": "我好像想起了些东西。",
+            "content": "<p>秧秧：记忆里出现了岁主的影像？</p>",
+            "delNode": true,
+            "lastPid": "10-1",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "11-2",
+            "cid": [],
+            "pid": [
+              "10-1"
+            ],
+            "group": "11",
+            "title": "这座雕像是……？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：这是今州岁主「角」的雕像，是为龙形。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：瑝珑共有一庭六州，各有一位岁主，身形样貌有相似相近，亦有不同。</p>\n</div>",
+            "delNode": true,
+            "lastPid": "10-1",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": [
+          {
+            "id": "11-1"
+          },
+          {
+            "id": "11-2"
+          }
+        ]
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "entryId": "1316542410030260224",
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": "万象新声·下"
+    }
+  }
+}

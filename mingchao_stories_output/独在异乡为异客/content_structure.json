@@ -1,0 +1,1242 @@
+{
+  "mediaList": [],
+  "title": "独在异乡为异客",
+  "modules": [
+    {
+      "title": "",
+      "components": [
+        {
+          "idx": "1c83c7fc-c5b1-4640-a781-070bb99e7868",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "返回拉古那城",
+      "components": [
+        {
+          "idx": "8e6f006f-8428-400b-b881-6796de788467",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往拉古那广场，寻找夏空",
+      "components": [
+        {
+          "idx": "bff009a0-ca98-4952-a2af-22d3cd86e721",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        },
+        {
+          "idx": "cfcd84cc-2bb8-45b2-822e-5f6c923e8363",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "击退伴随黑潮而来的残象",
+      "components": [
+        {
+          "idx": "7e879826-5e17-43cd-aa49-a8bdd51d44d0",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往教士撤离民众处",
+      "components": [
+        {
+          "idx": "bb46092c-1f44-4a77-b08f-d72764d07cb1",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "寻找修会的教士",
+      "components": [
+        {
+          "idx": "56a74284-a91b-4aac-b89a-6ccd0ac3ee4d",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往平台查看情况",
+      "components": [
+        {
+          "idx": "a06f4970-8510-40b4-bd54-ae31e8d84ae0",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "击败受黑潮吸引而来的残象",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "令受到黑潮侵染的骑士安息",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "调查留有漂泊者气息的痕迹",
+      "components": [
+        {
+          "idx": "a3c919dc-7f77-473a-8f2e-cb7430e8e276",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "越过水道，前往高塔中央",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往高塔内部",
+      "components": [
+        {
+          "idx": "f6a11798-392b-4dc7-994a-1e2532736c00",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "乘坐电梯",
+      "components": [
+        {
+          "idx": "8a2dae03-e25c-40ab-9f78-69284b145559",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "和坎特蕾拉对话",
+      "components": [
+        {
+          "idx": "4abd8ee1-5e71-4948-bd0b-548129b5f46d",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "追踪芬莱克的痕迹",
+      "components": [
+        {
+          "idx": "a23c9743-ef06-467e-aa31-ed2737745640",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "击败受黑潮吸引而来的残象",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往芬莱克所在之处",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "寻找芬莱克",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "仇敌在前，击杀「残星会成员」",
+      "components": [
+        {
+          "idx": "b5d38d8a-fdea-49aa-9c77-de60fcfe48a0",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "令「芬莱克一世」得以安息",
+      "components": [
+        {
+          "idx": "49a584c2-9721-4d95-ad52-73cc2b49b840",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        },
+        {
+          "idx": "b4d922b0-d758-4f74-8b21-04bdefa5a5de",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        },
+        {
+          "idx": "eff48202-ea85-437e-bd1e-f6a84f9458cf",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "寻找伙伴，询问仇远的行踪",
+      "components": [
+        {
+          "idx": "fbd4aa1c-a8d3-40d7-bdf1-f08faec72c4f",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        },
+        {
+          "idx": "dec64715-b6ee-47b8-95d0-f25ba81c7165",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往港口，寻找仇远",
+      "components": [
+        {
+          "idx": "42db9bdd-6554-4331-8950-f3eac3d47354",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    }
+  ],
+  "story": {
+    "1c83c7fc-c5b1-4640-a781-070bb99e7868": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": ""
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "entryId": "1423344971962478592",
+        "linkType": 1
+      },
+      "nextLink": {
+        "entryId": "1439221762898063360",
+        "linkType": 1
+      },
+      "preLabel": "暗潮将映的黎明",
+      "nextLabel": "曙光停摆于荒地之上"
+    },
+    "42db9bdd-6554-4331-8950-f3eac3d47354": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "pid": [],
+            "title": "",
+            "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">老伯，还有多久开船。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">年老的商人：<span class=\"playable-plot-text cursor-pointer\">船长说，等七丘的这批货搬完，应该准备一下我们就出发了。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">好像没有修士来监督你们了？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">年老的商人：<span class=\"playable-plot-text cursor-pointer\">我以为您真的看不见呢，原来您看的见啊？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">不&hellip;&hellip;只是感觉，没有人来干扰你们。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">年老的商人：<span class=\"playable-plot-text cursor-pointer\">拉古那和七丘遭了这么大的灾，是那些英雄们带我们度过了这个难关。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">年老的商人：<span class=\"playable-plot-text cursor-pointer\">还有芬莱克大人和很多拉古那历史上的老主座，他们提着一盏灯，跟在英白拉多后面，驱散了我们眼前的黑雾。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">年老的商人：<span class=\"playable-plot-text cursor-pointer\">不过现在想起来，还有点后怕&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">都过去了，老伯。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">年老的商人：<span class=\"playable-plot-text cursor-pointer\">是啊&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">您先上船吧，再等一会，我也准备登船了。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">年老的商人：<span class=\"playable-plot-text cursor-pointer\">好，也谢谢你啦，小伙子。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">你来了。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">漂泊者：<span class=\"playable-plot-text cursor-pointer\">这就准备走了？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">事情还没做完，也该走了。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">漂泊者：<span class=\"playable-plot-text cursor-pointer\">伤痕和残星会他们还是逃跑了&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">本兵大人应该也料定，他们一定有办法从这里脱身。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">只是可惜，不知道那颗羊头，经不经得起我这一剑。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">漂泊者：<span class=\"playable-plot-text cursor-pointer\">七丘的事，我还没有向你正式道谢。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">利维亚坦针对着的是黎那汐塔，换了外人，似乎便难以受到影响。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">而且，是本兵大人委托我来这里帮你一把。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">要谢的话，等你将来去了明庭，亲自向本兵大人道谢吧。她似乎对你很有兴趣。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">漂泊者：<span class=\"playable-plot-text cursor-pointer\">明庭&hellip;&hellip;我还只见过今州风貌。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">天下之大，四海之内，漂泊不定，总会去到的。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">漂泊者：<span class=\"playable-plot-text cursor-pointer\">对了，关于哥舒临&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">你认识忌炎，打过北落野那场仗，也知道今州三年前到底发生了什么。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">你应该也知道，落入鸣式手中的人，都是什么下场。不是所有人，都能像这里的人一样，受得住鸣式的诱惑。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">漂泊者：<span class=\"playable-plot-text cursor-pointer\">你还在追杀他吗？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">那时，那些贪官墨吏，骗了镇抚司，骗了我和梁大人去今州杀他。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">但他当时&hellip;&hellip;根本不是那么一回事。只是后来，他的确落入了鸣式手中。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">对那些死在战场上的人而言，死亡对他来说远远不够。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">但为他送上死亡，是我只能，也必须做到的事。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">年老的商人：<span class=\"playable-plot-text cursor-pointer\">小伙子，这趟去梦州的船，赶不上就只能等明天啦！</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">你虽漂泊不定，却终究是有家的人，有鞘的剑。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">那些和你站在一起的人，就是你的家人，你的剑鞘。他们会为你而挥剑，你便也为他们而挥剑。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">也许有一天&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">漂泊者：<span class=\"playable-plot-text cursor-pointer\">会的。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">不愧是你。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">江湖路远，再会吧。</span></p>\n</div>\n<div>\n<div class=\"flex items-center align-center text-center w-full flex-row my-4 px-8 lg:px-16\" role=\"separator\" data-orientation=\"horizontal\">&nbsp;</div>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "49a584c2-9721-4d95-ad52-73cc2b49b840": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "pid": [],
+            "title": "",
+            "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">熄灭吧&hellip;&hellip;熄灭吧&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">那短促的烛光&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">如同那愚者的故事&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">喧嚣而无物。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">是黑潮，看来他仍然保有着和鸣式的连接&hellip;&hellip;</span></p>\n</div>\n<div>\n<div class=\"flex items-center align-center text-center w-full flex-row my-4 px-8 lg:px-16\" role=\"separator\" data-orientation=\"horizontal\">\n<div class=\"border-default w-full border-solid border-t\">&nbsp;</div>\n</div>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">我的&hellip;&hellip;教堂。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">这里是&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">这里是我心中一隙，因人而变。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">这座教堂，也正是你的执念吧。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">瑝珑人&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">这里既无你能领受的福音，也无你能承受的惩罚。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">鸣式已经夺走了你的一切。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">你们的圣女已经死了，你的城市也正在分崩离析。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">那黑色的潮水，很快就会吞噬整座城市。你和鸣式相连，你应该知道地上究竟发生了什么。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">将那盏提灯交给我。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">哦？我凭什么将我们的一切交给你？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">&ldquo;以不义开始的事业，必将以罪恶巩固&hellip;&hellip;&rdquo;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">不，就是在这磐石之上，我们才建立起我们的事业。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">一代又一代的主座，都是在这里，以我们残缺的肉体&hellip;&hellip;抵抗着祂。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">只是&hellip;&hellip;无论是利维亚坦、卡提希娅还是残星会，他们都不能将拉古那从我手中夺去。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">拉古那在我们手中缔造出繁荣的奇迹，人民也将在我们的指引下免遭鸣式的荼毒，抵达同一的乐土。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">人民需要一个统一的信念，这就是身为主座的统治的意义，身为主座的信念。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">这便是过去二十年中，我能够不断对抗，利用着鸣式的原因。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">只是&hellip;&hellip;那信念带来的命运将我吞噬。我原以为能够利用鸣式，锻造出一个能对抗它那「天国」的乐土，却反过来被它利用。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">这是我的命运，我欣然接受。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">而如今支撑着我的，只有&hellip;&hellip;对于背叛的怒火和仇恨。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">你们只是普通人，普通人怎么可能对抗得了鸣式。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">它日夜在我们的脑海中低语，这样的痛苦，无人能够承受。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">就算英白拉多残存的力量只能维持我们失去理智前的最后一丝意识，一代又一代的主座们，也都选择了这条道路。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">即便如此却还想要利用鸣式吗？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">野心和执念支撑着你对抗鸣式。它们和鸣式也让你流落于此。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">你的经文上满是仁义道德，自己却恶贯满盈。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">我的双脚已步入血河，覆水难收。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">我曾有机会杀死一个即将迈入那血河之中的人。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">现在，有另一个机会在我面前。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">&ldquo;凡属此世之人，无法伤我分毫。&rdquo;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">属于我的预言和命运正在前方指引着我&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">以残暴开始的欢愉，终将以残暴终结。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">怀有愧疚之人，向我告解吧。</span></p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "4abd8ee1-5e71-4948-bd0b-548129b5f46d": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "pid": [],
+            "title": "",
+            "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">坎特蕾拉：<span class=\"playable-plot-text cursor-pointer\"><a class=\"ingame-term-desc\">明庭</a>的人&hellip;&hellip;不，我认得你。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">坎特蕾拉：<span class=\"playable-plot-text cursor-pointer\">你是那个梁先生手底下的&hellip;&hellip;仇远。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">&hellip;&hellip;你认识梁大人？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">坎特蕾拉：<span class=\"playable-plot-text cursor-pointer\">我曾经亲自去明庭见到了许多明庭要员，专司岁主事务的<a class=\"ingame-term-desc\">谛天鉴</a>特意向我介绍了你们<a class=\"ingame-term-desc\">镇抚司</a>。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">坎特蕾拉：<span class=\"playable-plot-text cursor-pointer\">绝对不会错，跟在梁先生身后的，那个双眼失明却又能看见一切的人&hellip;&hellip;那个&ldquo;心绝&rdquo;。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">我只是能看到你们看不到的东西，仅此而已。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">这子弹杀了卡提希娅，却感受不到丝毫杀意。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">生于光明，却振翼于黑暗之中。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">你究竟&hellip;&hellip;寻找着怎样的火焰呢？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">卡提希娅，岁主的共鸣者，鸣式的共鸣者。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">即便是&ldquo;死&rdquo;，这两股力量，也还在你的身体里寄宿着。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">反倒是&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">明庭的卷宗里，没有关于你的记录。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">你所有的气息，都指向了鸣式。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">融合，混沌，吞噬&hellip;&hellip;这是残象。这力量并不完全属于你。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">你复仇的对象，你要杀的不是她，而是&hellip;&hellip;神。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">但你没有把这件事告诉漂泊者，不然事情也不会这样突然。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">因为这场大火，除了火星和柴薪，还要有另一个人&mdash;&mdash;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">漂泊者，果然是你。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">你果真和今令尹的近卫说的一样，只是现如今&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">鸣式的遗毒，利维亚坦的黑潮，正笼罩着你。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">大约正因如此，我才能透过那城中的黑潮隐约感知到你。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">沾染鸣式之人，唯有毁灭一途。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">即便以炬火驱散黑暗，可到了你必须做出选择的时候&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">你手中的剑，该如何指向自己？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">那女人开枪杀了卡提希娅，漂泊者已经追上去了。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">这里头还另有隐情。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">坎特蕾拉：<span class=\"playable-plot-text cursor-pointer\">你怎么知道？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">我能感知到残留在这里的气息。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">坎特蕾拉：<span class=\"playable-plot-text cursor-pointer\">岁主已逝，圣女不在，黑潮蔓延&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">你们寡不敌众。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">你若是亲自拜访过明庭要员，除了梁大人之外，那你应该也见过明庭<a class=\"ingame-term-desc\">军策府</a>的<a class=\"ingame-term-desc\">本兵</a>大人。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">她委托我来黎那汐塔诛杀一个叫做伤痕的残星会会监，也托我来此地帮助漂泊者。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">坎特蕾拉：<span class=\"playable-plot-text cursor-pointer\">明庭已经预料到这一切了？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">那不是我关心的事了。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">&ldquo;必以得位不正之人手中炬火，驱散天星黑暗。&rdquo;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">谛天鉴交给我这么一句话，这炬火&hellip;&hellip;你可有什么头绪？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">坎特蕾拉：<span class=\"playable-plot-text cursor-pointer\">得位不正&hellip;&hellip;炬火&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">坎特蕾拉：<span class=\"playable-plot-text cursor-pointer\">也许，是说主座芬莱克和掌握在他手中的拉古那&ldquo;始源圣器&rdquo;。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">那便大约是能助他一臂之力的物件。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">坎特蕾拉：<span class=\"playable-plot-text cursor-pointer\">芬莱克如今应该在他秘密修建的试验场中。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">坎特蕾拉：<span class=\"playable-plot-text cursor-pointer\">狄萨莱海脊西南海域，具体位置，恐怕只能你自己寻找了。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">好。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">对了，不要提起我来过这里。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">知道了吗？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">坎特蕾拉：<span class=\"playable-plot-text cursor-pointer\">为什么？你不是明庭官方的人吗？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">过去是，现在不是了。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">明庭&hellip;&hellip;应该已经不是你曾经以为的模样了。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">保护好卡提希娅的肉身，去更安全的地方吧。</span></p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "56a74284-a91b-4aac-b89a-6ccd0ac3ee4d": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "pid": [],
+            "title": "",
+            "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥：<span class=\"playable-plot-text cursor-pointer\">是你&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">去安全的地方。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥：<span class=\"playable-plot-text cursor-pointer\">广场那边，还有人没撤出来！</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥：<span class=\"playable-plot-text cursor-pointer\">莫塔里家的珂莱塔。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">珂莱塔：<span class=\"playable-plot-text cursor-pointer\">利奥先生？还有这位&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">仇远。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥：<span class=\"playable-plot-text cursor-pointer\">如果不是这位瑝珑的先生出手相助，恐怕我早已死于非命。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">珂莱塔：<span class=\"playable-plot-text cursor-pointer\">感谢您的帮助，瑝珑的客人。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">珂莱塔：<span class=\"playable-plot-text cursor-pointer\">利奥先生，这些残象突然之间就在城中出现，毫无征兆&mdash;&mdash;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥：<span class=\"playable-plot-text cursor-pointer\">珂莱塔小姐，莫塔里区呢！怎么样，平民有没有撤到安全的地方？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">珂莱塔：<span class=\"playable-plot-text cursor-pointer\">还在陆续向水星天教堂撤离，这个您不用担心。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">这座城市已经笼罩在鸣式的阴云之下&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">竟然能够透过这黑潮看到你？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">莫非&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥：<span class=\"playable-plot-text cursor-pointer\">您这就要离开了吗？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">记住，这里不安全，你们必须撤退。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥：<span class=\"playable-plot-text cursor-pointer\">&hellip;&hellip;愿英白拉多与你同在，朋友。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">珂莱塔：<span class=\"playable-plot-text cursor-pointer\">好奇怪的人，怎么自说自话就走了&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥：<span class=\"playable-plot-text cursor-pointer\">无论怎样，我相信这位先生没有恶意，而且&hellip;&hellip;他似乎正追寻着什么。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">珂莱塔：<span class=\"playable-plot-text cursor-pointer\">利奥先生早就认识他？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥：<span class=\"playable-plot-text cursor-pointer\">不，我也是刚刚才在银行街遇到他。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥：<span class=\"playable-plot-text cursor-pointer\">鸣式利维亚坦的阴翳不能盘踞在异邦人的心中&hellip;&hellip;不过，蒙英白拉多的福，愿他能找到自己追求的东西，寻到他自己的道。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">夏空：<span class=\"playable-plot-text cursor-pointer\">珂莱塔！</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">夏空：<span class=\"playable-plot-text cursor-pointer\">广场的平民应该都撤到教堂去了，我挨家挨户敲的门！只剩这几个孩子了！</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥：<span class=\"playable-plot-text cursor-pointer\">这位&hellip;&hellip;托卡塔。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">夏空：<span class=\"playable-plot-text cursor-pointer\">这座城市和她的人民呼唤着我们，我们一定能扛过去！</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥：<span class=\"playable-plot-text cursor-pointer\">节使们，拉古那危在旦夕，铭记起你们古老的使命，保卫城市和人民！</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">珂莱塔：<span class=\"playable-plot-text cursor-pointer\">准备好，要来了！</span></p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "7e879826-5e17-43cd-aa49-a8bdd51d44d0": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "pid": [],
+            "title": "",
+            "content": "<p>仇远：<span class=\"playable-plot-text cursor-pointer\">&hellip;&hellip;哼，鸣式的余孽。</span></p>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "8a2dae03-e25c-40ab-9f78-69284b145559": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "pid": [],
+            "title": "",
+            "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">火铳的声音&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">看来有人先我一步到了这里。</span></p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "8e6f006f-8428-400b-b881-6796de788467": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2"
+            ],
+            "pid": [],
+            "title": "",
+            "content": "<p>夏空：<span class=\"\">你回来啦，要继续我们刚才的故事吗？</span></p>"
+          },
+          {
+            "id": "2-1",
+            "cid": [],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "我准备好了。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "2-2",
+            "cid": [],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "再等等吧。",
+            "content": "",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "a06f4970-8510-40b4-bd54-ae31e8d84ae0": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "pid": [],
+            "title": "",
+            "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">从气息来看，漂泊者就在这里。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">不过这座塔里，还有异样的气息。</span></p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "a23c9743-ef06-467e-aa31-ed2737745640": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "pid": [],
+            "title": "",
+            "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">海面之下竟然有这样的设施。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">如此亵渎，如此&hellip;&hellip;荒谬。</span></p>\n</div>\n<div>\n<div class=\"flex items-center align-center text-center w-full flex-row my-4 px-8 lg:px-16\" role=\"separator\" data-orientation=\"horizontal\">\n<div class=\"border-default w-full border-solid border-t\">&nbsp;</div>\n</div>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">翻腾于黑暗中的怪物&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">让你们见识下真正的黑暗吧。</span></p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "a3c919dc-7f77-473a-8f2e-cb7430e8e276": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "pid": [],
+            "title": "",
+            "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">从气息来看，似乎是那圣女留下的&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">正合一用。</span></p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "b4d922b0-d758-4f74-8b21-04bdefa5a5de": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "pid": [],
+            "title": "",
+            "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">哥舒临：<span class=\"playable-plot-text cursor-pointer\">告诉我，为什么？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\"><a class=\"ingame-term-desc\">兰台</a>御史有书，要镇抚司来取你的性命。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">哥舒临：<span class=\"playable-plot-text cursor-pointer\">我？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">他们检举你&hellip;&hellip;在今州各地烧杀抢掠，串通残象，扰乱地方。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">哥舒临：<span class=\"playable-plot-text cursor-pointer\">笑话&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">哥舒临：<span class=\"playable-plot-text cursor-pointer\">我杀它们还不够。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">你杀了这些残象，他们是你救下来的。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">哥舒临：<span class=\"playable-plot-text cursor-pointer\">是又如何。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">哥舒临：<span class=\"playable-plot-text cursor-pointer\">边关这个样子，你们镇抚司只知道当那些贪官墨吏的走狗。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">哥舒临：<span class=\"playable-plot-text cursor-pointer\">不如就在这里&hellip;&hellip;杀了我。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">哥舒临：<span class=\"playable-plot-text cursor-pointer\">动手吧。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">哥舒临：<span class=\"playable-plot-text cursor-pointer\">若是你不杀我，迟早&hellip;&hellip;你们这些镇抚司的狗，派来的人&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">哥舒临：<span class=\"playable-plot-text cursor-pointer\">还有那些残象，我会把你们杀个&hellip;&hellip;片甲不留。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">镇抚司的梁大人可是为你说话的。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">哥舒临：<span class=\"playable-plot-text cursor-pointer\">那你来做什么？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">&hellip;&hellip;这几天，我也查了你在今州本地的档案。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">那些兰台御史，身为言官，却欺瞒镇抚司&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">一个伍长，哪有什么神通能串通残象烧杀抢掠。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">你只是一个普通人。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">哥舒临：<span class=\"playable-plot-text cursor-pointer\">它们屠戮平民，我&hellip;&hellip;不可能放任它们。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">哥舒临：<span class=\"playable-plot-text cursor-pointer\">只要有残象，就必须被消灭，我会不惜一切代价，直至&hellip;&hellip;灭绝它们。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">今州生民性命，皆尽系于能否抵御残象。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">你有着巨大的潜力，但你&hellip;&hellip;必须谨慎地使用你的这份力量。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">剑不在杀，而在藏。切忌锋芒毕露，反受其害。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">你手中的剑，能杀残象，也能救人。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">只要你守护一方的决心坚定不移，将来，必成大业。</span></p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "b5d38d8a-fdea-49aa-9c77-de60fcfe48a0": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "pid": [],
+            "title": "",
+            "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">？？？：<span class=\"playable-plot-text cursor-pointer\">嗯？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">这里早已污秽横流，为何还要来以身犯险，兄弟？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">「残星会」&hellip;&hellip;是你。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">装作别人的模样&hellip;&hellip;这是你一直以来的恶趣味吗？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">英白拉多在上，你不认得我了？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">你的伪装，在我面前毫无意义。我认得你的气息。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">呵&hellip;&hellip;我们又有什么不同呢？兄弟。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">外表不过是可悲的皮囊，我是教士&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">正如同你即便成为逃犯，今仍披着这身当朝为官时的衣装。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">可惜，过去在明庭你没能杀了&ldquo;他&rdquo;，现如今也不可能。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">你为什么会在这里。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">这片大地已经升起一座为漂泊者而准备的阴森的舞台。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">我也只是受人之情，出演一个，小小的配角而已。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">作为配角，我如今的任务，是来这里阻止你。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">而教士，只有对&ldquo;英白拉多&rdquo;坚不可摧的虔诚，肉身却可以被轻易磨灭。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">你杀了那个教士。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">他可活得好好的呢，眼下，他应该正在那座金库里救助伤员吧。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">再说，一个普通人，还用不上我动手。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">真是残忍，我只是一个手无寸铁的教士罢了。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">自然是比不上，梁东园那副文武双全的躯壳。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">杀害梁大人的血债，必须以你的血来偿。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">可我记得，这笔债，不是算在你身上了吗？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">倒是你，身为明庭重犯，却带着军策府的命令私下来黎那汐塔追杀「伤痕」。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">没想到，明庭竟然把他看得这么重。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">你知道这件事就说明，明庭里还有你的人。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">当然，我可以在&ldquo;任何地方&rdquo;。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">不过这个时候伤痕应该在七丘吧。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">今州的事办得不干净，那是他自己的事。你们之间，我不会管。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">而这位手握着一个残酷命运的王，我们的主座，未曾享有自己名号的殉道者&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">你来这儿的目的，是他吧？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">&ldquo;必以得位不正之人手中炬火，驱散天星黑暗。&rdquo;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">瑝珑能得到这样的预言，难道不也是神明写下的剧本吗？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">你对他做了什么。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">我可什么都没做。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">现如今变成这副模样，全是他践行命运的结果。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">但这里还保管着他些许残存的意识，就在这盏灯里。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">让开。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">当然没问题，一个手无寸铁的教士，怎么挡得住瑝珑的利刃呢？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">不过，我得提醒你&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">芬莱克和你&hellip;&hellip;没有什么不同。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">你杀了那么多人，唯独错在一场仁慈之中。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">为了这场仁慈，你付出的代价，不比芬莱克少。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">一束炬火，又怎能驱散两层黑暗。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥？：<span class=\"playable-plot-text cursor-pointer\">残忍的灵魂呀，那最后一个去处，正等着你呢！</span></p>\n</div>\n<div>\n<div class=\"flex items-center align-center text-center w-full flex-row my-4 px-8 lg:px-16\" role=\"separator\" data-orientation=\"horizontal\">&nbsp;</div>\n<div class=\"flex items-center align-center text-center w-full flex-row my-4 px-8 lg:px-16\" role=\"separator\" data-orientation=\"horizontal\">&nbsp;</div>\n<div class=\"flex items-center align-center text-center w-full flex-row my-4 px-8 lg:px-16\" role=\"separator\" data-orientation=\"horizontal\">\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">前面是&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">残星会。</span></p>\n</div>\n</div>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "bb46092c-1f44-4a77-b08f-d72764d07cb1": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "pid": [],
+            "title": "",
+            "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">接引教士：<span class=\"playable-plot-text cursor-pointer\">利奥大人，你也快上船！</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">接引教士：<span class=\"playable-plot-text cursor-pointer\">教堂里快要装不下那么多人了！</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥：<span class=\"playable-plot-text cursor-pointer\">你们先撤！城里还有人需要撤到安全的地方！</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥：<span class=\"playable-plot-text cursor-pointer\">告诉菲比，一定要保护好教堂里的民众！</span></p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "bff009a0-ca98-4952-a2af-22d3cd86e721": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2"
+            ],
+            "pid": [],
+            "title": "",
+            "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">夏空：<span class=\"playable-plot-text cursor-pointer\">&hellip;&hellip;这场战斗可不轻松，就连桂冠也深陷其中。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">夏空：<span class=\"playable-plot-text cursor-pointer\">他落入黑潮不见踪迹，就连我们也无能为力。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">夏空：<span class=\"playable-plot-text cursor-pointer\">满眼哀伤如此无助，难道一切就要在这里结束？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">夏空：<span class=\"playable-plot-text cursor-pointer\">直到漆黑的猎人击败劲敌，在绝望的深渊中鼓动她纯白的羽翼！</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">夏空：<span class=\"playable-plot-text cursor-pointer\">无数光芒将他托举，而那疯狂的鸣式已经不足为惧！</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">夏空：<span class=\"playable-plot-text cursor-pointer\">尽管眼前的黑暗无穷无尽，如今合一的光芒在前指引。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">夏空：<span class=\"playable-plot-text cursor-pointer\">他高举提灯将黑潮消灭，黎那汐塔的灾难，也就此终结！</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">夏空：<span class=\"playable-plot-text cursor-pointer\">虽然那漆黑的英雄已经离去，而那桂冠就在这里！</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">漂泊者：<span class=\"playable-plot-text cursor-pointer\">咳&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">夏空：<span class=\"playable-plot-text cursor-pointer\">那可是一场载入史册的战役，只要能编织歌谣流传下去，就会一直留在拉古那和七丘人的记忆里，成为整个黎那汐塔的故事。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 align-middle text-neutral-400\">夏空：<span class=\"playable-plot-text cursor-pointer\">黎那汐塔会因此而重生，也因此记住那些不幸的罹难者&hellip;&hellip;</span></p>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "这就是吟游诗人的工作吗……",
+            "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">夏空：<span class=\"playable-plot-text cursor-pointer\">哎，不过，在这个故事里，还有另一个人&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">夏空：<span class=\"playable-plot-text cursor-pointer\">他既不是拉古那人，也不是七丘人。这个异邦人的故事，你可曾知晓？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">夏空：<span class=\"playable-plot-text cursor-pointer\">既然这样，就让这旋律，化为故事，在你眼前再现&hellip;&hellip;</span></p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "2-2",
+            "cid": [],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "没错，我实在是太强了。",
+            "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">夏空：<span class=\"playable-plot-text cursor-pointer\">哎，不过，在这个故事里，还有另一个人&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">夏空：<span class=\"playable-plot-text cursor-pointer\">他既不是拉古那人，也不是七丘人。这个异邦人的故事，你可曾知晓？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">夏空：<span class=\"playable-plot-text cursor-pointer\">既然这样，就让这旋律，化为故事，在你眼前再现&hellip;&hellip;</span></p>\n</div>",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "cfcd84cc-2bb8-45b2-822e-5f6c923e8363": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "pid": [],
+            "title": "",
+            "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥：<span class=\"playable-plot-text cursor-pointer\">嗯，这位先生？你好？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥：<span class=\"playable-plot-text cursor-pointer\">乞者&hellip;&hellip;您需要帮助吗？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥：<span class=\"playable-plot-text cursor-pointer\">英白拉多在上，拉古那的隐海修会，定会尽力帮助您。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">我想见芬莱克。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥：<span class=\"playable-plot-text cursor-pointer\">您是想要跟他亲自告解吗？真不巧，最近芬莱克大人外出宣讲福音了。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥：<span class=\"playable-plot-text cursor-pointer\">如果有困难的话，您就和路边的人打听隐海修会，去那边的水星天教堂就行。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥：<span class=\"playable-plot-text cursor-pointer\">只要您愿意，在水星天教堂就能找到我，兄弟，我叫利奥。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥：<span class=\"playable-plot-text cursor-pointer\">愿英白拉多与你同在。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">与鸣式沆瀣一气的圣座，何来告解之说。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">但他若是不在的话，只能去找&ldquo;圣女&rdquo;&hellip;&hellip;或是漂泊者了吧。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">夏空：<span class=\"playable-plot-text cursor-pointer\">诶！你好呀！这位&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">夏空：<span class=\"playable-plot-text cursor-pointer\">看你的打扮，像是瑝珑来的？旅游观光的话，黎那汐塔可有不少好去处呢&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">&hellip;&hellip;&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">拉古那居民：<span class=\"playable-plot-text cursor-pointer\">啊！！！！！！</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">逃难的群众：<span class=\"playable-plot-text cursor-pointer\">怪， 怪物！</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">逃难的群众：<span class=\"playable-plot-text cursor-pointer\">小心那些黑泥！</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥：<span class=\"playable-plot-text cursor-pointer\">卫冕节使，保护群众！市民们，往教堂去！</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥：<span class=\"playable-plot-text cursor-pointer\">孩子和老人先走，快！</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">利奥：<span class=\"playable-plot-text cursor-pointer\">大家不要怕，修会一定会保护大家！</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">夏空：<span class=\"playable-plot-text cursor-pointer\">和漂泊者描述过的情景有些相似&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">夏空：<span class=\"playable-plot-text cursor-pointer\">这就是&hellip;&hellip;「天国」之前的「末日」吗？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">夏空：<span class=\"playable-plot-text cursor-pointer\">大家，快离开这里！</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">夏空：<span class=\"playable-plot-text cursor-pointer\">瑝珑的客人，你也快跟着去避难，这些怪物很危险！</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">带平民离开。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">这里留给我。</span></p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "dec64715-b6ee-47b8-95d0-f25ba81c7165": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "pid": [],
+            "title": "我正准备找他道谢。",
+            "content": "<p>奥古斯塔：<span class=\"playable-plot-text cursor-pointer\">这时候船还没开，他应该就在码头上。</span></p>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "eff48202-ea85-437e-bd1e-f6a84f9458cf": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "pid": [],
+            "title": "",
+            "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">我&hellip;&hellip;我看到了你心中的执念，你的记忆&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">我能看到那个雨夜，那场战争，还有那个以战争为食粮的鸣式。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">那个在尸山血海的平原上，那个在黑色火焰中燃烧的男人&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">他最后&mdash;&mdash;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">落入了无相燹主的深渊之中。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">像我一样&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">或许当时他并非作恶多端，仍然心存善念，只是最后落得那么个下场。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">你应该在那时就杀了他。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">历史没有如果，人死也不能复生。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">我如今失去了一切，却也还不清那些死在战场上的人们的债。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">我能做的，不过是再见到他时，毫不犹豫地杀了他。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">如果让你再选一次，你还会当主座吗？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">会。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">即便世人皆知我得位不正，也必将知道我宵衣旰食。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">我知晓我的罪恶，也知晓如今的命运将走向何方。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">但让我再选一次，我还是会走上这条道路&hellip;&hellip;即便它须背弃历代主座的教诲，即便它遍布恐惧和磨难。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">现如今&hellip;&hellip;请你拿上它吧。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">&ldquo;必以得位不正之人手中炬火，驱散天星黑暗。&rdquo;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">这就是&ldquo;始源圣器&rdquo;？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">当初，那不盖勒二世，带着它驱散了席卷拉古那的黑潮，也恰是那时，鸣式就已经盯上了隐海修会。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">这盏灯&hellip;&hellip;请你带出去吧。倘若巡游天国果真降临，必然出现在远方的七丘，那漂泊的义人，也一定在那里。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">漂泊者他也沾染了与你身上类似的黑潮。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">黑潮将一切连接在一起，我的确感知到了他。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">他已经成为了新的代行者，他也逐步迈上了一条&hellip;&hellip;不该属于他的道路。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">正因如此，他才比我更需要这盏提灯。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">这算是你的忏悔吗？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">我从不忏悔，只是一个不久于世的主座，不应该再继续拿着它了。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">这是属于我的&hellip;&hellip;命运。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">我从谎言和欺骗中建立起统治和事业，而凡属此世之人，无法伤我分毫。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">那漂泊的义人&hellip;&hellip;绝非常人。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">带上这盏灯！</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">那野心和执念的火焰已然熄灭，唯余这灯中烛火。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">那么，你想要复仇吗？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">我将亲手终结那以残暴开始的欢愉&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">鸣式可没有那么容易被杀死。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">我的子民，隐海修会的教士们，还有那漂泊的义人&hellip;&hellip;他们一定能做到&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">即便我将要在地狱中沉沦，利维亚坦&hellip;&hellip;也将与我一同在地狱中燃烧。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">成为我的棋子，带上它，离开这里。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">我就能完成&hellip;&hellip;我自己的命运&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">&hellip;&hellip;芬莱克&middot;麦克白&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">纵然我无法跻身那些伟大主座的行列之中&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">后人也将称我为&hellip;&hellip;芬莱克&hellip;&hellip;一世。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">&hellip;&hellip;史笔如铁，自有后人评断。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">这就是，隐海修会<a class=\"ingame-term-desc\">芬莱克一世</a>的末路。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">你的愿望，我收到了。</span></p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "f6a11798-392b-4dc7-994a-1e2532736c00": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "pid": [],
+            "title": "",
+            "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">这风息也是那圣女所设。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">但从这里走过的人不止有漂泊者。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">仇远：<span class=\"playable-plot-text cursor-pointer\">还有另一个&hellip;&hellip;燃着黑色恶火的杀意从这里经过。</span></p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "fbd4aa1c-a8d3-40d7-bdf1-f08faec72c4f": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1"
+            ],
+            "pid": [],
+            "title": "",
+            "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">菲比：<span class=\"playable-plot-text cursor-pointer\">漂泊者，你来了。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">菲比：<span class=\"playable-plot-text cursor-pointer\">赞妮小姐和我正在清查埃弗拉德金库和水星天教堂的损失情况。</span></p>\n</div>\n<div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 align-middle text-neutral-400\">赞妮：<span class=\"playable-plot-text cursor-pointer\">金库&hellip;&hellip;倒也没什么，只是照着珂莱塔小姐的意思丢出去了一些藏品而已。</span></p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "那时多亏了你们。",
+            "content": "<p>赞妮：<span class=\"playable-plot-text cursor-pointer\">和居民们的安全相比，这些损失都不算什么。</span></p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1"
+            ],
+            "group": "3",
+            "title": "话说回来……",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "有看到那位叫做仇远的瑝珑人吗？",
+            "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">菲比：<span class=\"playable-plot-text cursor-pointer\">我好像之前在广场那边看到过他。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">菲比：<span class=\"playable-plot-text cursor-pointer\">因为是瑝珑人，所以显得很特别。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">菲比：<span class=\"playable-plot-text cursor-pointer\">那边应该还有不少来拉古那商讨重建的七丘客人，漂泊者也可以问问他们。</span></p>\n</div>\n<div>\n<div class=\"flex items-center align-center text-center w-full flex-row my-4 px-8 lg:px-16\" role=\"separator\" data-orientation=\"horizontal\">\n<div class=\"border-default w-full border-solid border-t\">&nbsp;</div>\n</div>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">奥古斯塔：<span class=\"playable-plot-text cursor-pointer\">拉古那的风貌，确实和七丘完全不一样。</span></p>\n</div>\n<div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 align-middle text-neutral-400\">奥古斯塔：<span class=\"playable-plot-text cursor-pointer\">这种四通八达的海港，也更适合出海贸易&hellip;&hellip;</span></p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1",
+              "6-2"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "这是奥古斯塔第一次来拉古那吗？",
+            "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">奥古斯塔：<span class=\"playable-plot-text cursor-pointer\">的确如此，毕竟在这之前，拉古那一直是封闭状态。</span></p>\n</div>\n<div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 align-middle text-neutral-400\">奥古斯塔：<span class=\"playable-plot-text cursor-pointer\">不过，和莫塔里家族以及隐海修会商谈完贸易的事，我们也要尽快回去了。</span></p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-1",
+            "cid": [],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "那位独守了七丘防线的瑝珑人……",
+            "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">奥古斯塔：<span class=\"playable-plot-text cursor-pointer\">那位叫做仇远的剑客？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">奥古斯塔：<span class=\"playable-plot-text cursor-pointer\">刚才我倒是在码头那边遇到了他，攀谈了几句，他似乎准备坐船回去。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">奥古斯塔：<span class=\"playable-plot-text cursor-pointer\">我听那些孤守在地上的角斗士们说，我们被残星会掀起的黑潮吞没之后，他一个人守住了最要紧的关隘。</span></p>\n</div>\n<div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 align-middle text-neutral-400\">奥古斯塔：<span class=\"playable-plot-text cursor-pointer\">要是没有他，地上防线的伤亡不堪设想&hellip;&hellip;</span></p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-2",
+            "cid": [],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "奥古斯塔有看到过他吗？",
+            "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">奥古斯塔：<span class=\"playable-plot-text cursor-pointer\">那位叫做仇远的剑客？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">奥古斯塔：<span class=\"playable-plot-text cursor-pointer\">刚才我倒是在码头那边遇到了他，攀谈了几句，他似乎准备坐船回去。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">奥古斯塔：<span class=\"playable-plot-text cursor-pointer\">我听那些孤守在地上的角斗士们说，我们被残星会掀起的黑潮吞没之后，他一个人守住了最要紧的关隘。</span></p>\n</div>\n<div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 align-middle text-neutral-400\">奥古斯塔：<span class=\"playable-plot-text cursor-pointer\">要是没有他，地上防线的伤亡不堪设想&hellip;&hellip;</span></p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    }
+  }
+}

@@ -1,0 +1,2000 @@
+{
+  "code": 200,
+  "msg": "操作成功",
+  "data": {
+    "id": "1383208376710463488",
+    "name": "燃烧的心（剧情）",
+    "orgFullName": "剧情任务组",
+    "orgTree": {
+      "id": 3,
+      "key": null,
+      "name": "全部",
+      "parentId": null,
+      "level": 0,
+      "sort": null,
+      "children": [
+        {
+          "id": 332,
+          "key": null,
+          "name": "剧情任务组",
+          "parentId": null,
+          "level": 1,
+          "sort": null,
+          "children": null
+        }
+      ]
+    },
+    "orgId": 332,
+    "orgIdList": [
+      332,
+      3
+    ],
+    "content": {
+      "mediaList": [],
+      "title": "燃烧的心（剧情）",
+      "modules": [
+        {
+          "title": "",
+          "components": [
+            {
+              "idx": "71b427bd-47ab-4980-a43d-becd03aeef3d",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "前往竞技场，和露帕见面",
+          "components": [
+            {
+              "idx": "1982bbb6-093c-4c16-90cc-f31b2ebdafd0",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "前往荣耀之间",
+          "components": [
+            {
+              "idx": "6a6cbd50-0170-4dfd-ac59-2aa9d3c76025",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "继续前进",
+          "components": [
+            {
+              "idx": "128c4a92-cd1e-42c9-94fd-354db6ee7c98",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "聆听旧剑的低语",
+          "components": [
+            {
+              "idx": "3a746342-afd5-455e-8e2d-ed1865c14891",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "击败异常的残象",
+          "components": [
+            {
+              "idx": "6bacb3e5-6ff8-4fd5-a677-9ea4800ea4a9",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "清除潮蚀",
+          "components": [
+            {
+              "idx": "a3b94ea9-e4ed-49e6-b209-5ff355f01d37",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "前往异响源头",
+          "components": [
+            {
+              "idx": "9bcf1f35-751c-455f-bb59-0a11ea4806a0",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "进入山体内部",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "向前探索",
+          "components": [
+            {
+              "idx": "b7dff723-904c-4927-b03e-f784eabf95e5",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "搭乘高天讯使",
+          "components": [
+            {
+              "idx": "e0f7e01e-f6f0-4eb7-9ef6-2bc3f6cdb1ed",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "使用高天讯使升至高空",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "前往旧城区",
+          "components": [
+            {
+              "idx": "69c953dc-a4b7-439a-a13b-f45d5c07c874",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "清空旧城区的积水",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "前往钟楼",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "前往电梯",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "搭乘电梯，抵达地下水道",
+          "components": [
+            {
+              "idx": "b431c791-77cc-4154-a0ad-0a64dd0bb697",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "继续前进",
+          "components": [
+            {
+              "idx": "8eb9922a-9dd6-49cf-a04e-2eadaa807c90",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "使用妙眼铜镜",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "查看铜镜映照之处",
+          "components": [
+            {
+              "idx": "86572751-e450-42ba-91dc-4cf84d2a5e49",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "继续前进",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "寻找铃声所在",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "使用妙眼铜镜",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "查看铜镜映照之处",
+          "components": [
+            {
+              "idx": "fed324ce-2da2-4a6f-849e-d88220d5c942",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "继续前进",
+          "components": [
+            {
+              "idx": "31d81683-d997-4661-b1e1-a3958349556d",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "清除潮蚀",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "寻找铃声所在",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "使用妙眼铜镜",
+          "components": [
+            {
+              "idx": "d0bc466e-6598-4d91-b42a-ef4d47473213",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "返回闸门所在的房间",
+          "components": [
+            {
+              "idx": "e665a7ab-8ef0-4c9f-9165-968912d1d0ea",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "继续前进",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "前往电梯",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "搭乘电梯，抵达水道深处",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "沿着道路前进",
+          "components": [
+            {
+              "idx": "caefbc30-cdd8-4015-a193-8aeb6b4d8a9b",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "向前走",
+          "components": [
+            {
+              "idx": "d4a17e71-da61-4763-9103-5a0a3075d00e",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "击败海之女",
+          "components": [
+            {
+              "idx": "99157c65-bdbc-439d-b1d9-7fa65f72c9c8",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "跟随海之女，进入「最终章」",
+          "components": [
+            {
+              "idx": "967d73cd-6ecd-4406-9273-b02666072fd4",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "再次进入岩间中枢",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "向前探索",
+          "components": [
+            {
+              "idx": "d2f4bce2-1d57-444c-8947-9587aeb1bed6",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        }
+      ],
+      "story": {
+        "128c4a92-cd1e-42c9-94fd-354db6ee7c98": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：我记得，它们平常主要出现在分界山那里啊。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：（这些残象不是由自然环境聚拢而来的，更像是&hellip;&hellip;凭空生成。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：就在前面了。「荣耀之间」，英雄的埋骨地。</span></p>\n</div>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">蜜芽：&hellip;&hellip;你&hellip;&hellip;是&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">蜜芽：&hellip;&hellip;我故乡的&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">蜜芽：七丘&hellip;&hellip;</span></p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1",
+                  "4-2"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：（刚才的那位少女，是蜜芽。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者</span><span class=\"text-neutral-400\">：（越是靠近荣耀之间，正常和异常的<span class=\"ingame-RedD\">重叠</span>就越明显。无论那里有什么等着，一定就是整件事的关键所在。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：（在去之前，从头开始梳理吧。七丘、露帕、卡提希娅、蜜芽、荣耀狮像&hellip;&hellip;一切。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者</span><span class=\"text-neutral-400\">：（卡提希娅独自来到七丘。她没有选择等我或联系我，说明当时发生了无暇通讯的突发事件。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：（黎那汐塔能让她失去联系的对象，除了残星会，就是本该消亡的鸣式。）</span><span class=\"text-neutral-400\">PlayerName：（七丘不存在对岁主的信仰，因此鸣式没能在这里建立属于它的影响区&mdash;&mdash;果真如此吗？）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：（通过信仰，鸣式能够控制信徒的精神&hellip;&hellip;蜜芽是拉古那移民，她有很大概率也是隐海修会的信徒。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：（如果前往荣耀之间是冠军被认可的重要仪式，或许蜜芽当年也去了，甚至就是在那里失踪的。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：（蜜芽赛场失态的癔症、幻觉、无法自控，都是鸣式精神侵蚀的表现。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：（弗洛洛曾说，&ldquo;在一个故事里，身份越接近<span class=\"ingame-RedD\">主角</span>的人，就拥有更大的权力&hellip;&hellip;改变故事情节的权力。&rdquo;）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：（现在的大角斗赛，<span class=\"ingame-RedD\">主角</span>是露帕，而多年前&hellip;&hellip;则是蜜芽。这一路，我曾不止一次看到蜜芽和露帕的身影在交替。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：（如果我看到的蜜芽处在鸣式控制中，这是否说明获得<span class=\"ingame-RedD\">主角</span>位置能达成的事对祂很重要？）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：（初次见面时，我曾从露帕身上感觉到了属于卡提希娅的频率，后来又从她身上感觉到了鸣式的频率。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：（她们已经接触过了吗？如果卡提希娅也在这个「故事」中，可能性是很大的。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者</span><span class=\"text-neutral-400\">：（也许露帕遗忘了这件事，也许是她无意识间接触的，也可能是她有意说谎，也许她此刻也正受到鸣式的影响。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：（究竟是如弗洛洛所言，是露帕作为始作俑者引发了黑潮&hellip;&hellip;还是她也是黑潮的受害者？）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：搭档，你看起来忧心忡忡。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：有什么是我能为你做的吗？如果&hellip;&hellip;你想告诉我的话。</span></p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "（信任她，和她商量。）",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：抱歉，搭档，我的确不记得自己曾见过卡提希娅。但你说得有道理，或许是我遗忘了这点。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：这几天，有时候我会有些&hellip;&hellip;恍惚，忘记自己刚才在做什么。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：我不知道这是否受到了鸣式的影响，但如果真的出了什么问题，譬如它想腐化我的精神&mdash;&mdash;</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：作为我的搭档，你会做出正确的判断，对吧？</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：为我保留高贵和尊严。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：要保留的东西不止这些，露帕。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：我听说过七丘人「渴望荣耀，无惧死亡」，但有时候，活着比死去更需要勇气。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：呵&hellip;&hellip;那么，这样就好！</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：我相信你，搭档，正如你也愿意相信我。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：（无论所谓<span class=\"ingame-RedD\">故事的尾声</span>是已经发生的事，还是尚未到来的未来&hellip;&hellip;）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：（我都会根据自己的判断，矫正它的走向。）</span></p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-2",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "（怀疑她，保持沉默。）",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：没什么事，别太担心。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：&hellip;&hellip;是吗？</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：我不知道你在为什么烦恼，但你接受了我的邀请，也完美地与我完成了赛场上的配合。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：作为战士，比起话语，我更相信彼此交锋时武器碰撞出的脆响！</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：剑光的痕迹，也会映照出主人的品格。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：好啦！别这副表情啊，反正&mdash;&mdash;我相信你能做出正确的判断。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：七丘是我的城市，别让它失去荣光和尊严。可以答应我吗？搭档。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：我会尽力而为。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：（无论所谓<span class=\"ingame-RedD\">故事的尾声</span>是已经发生的事，还是尚未到来的未来&hellip;&hellip;）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：（我都会根据自己的判断，矫正它的走向。）</span></p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-1",
+                "cid": [
+                  "6-1"
+                ],
+                "pid": [
+                  "4-1",
+                  "4-2"
+                ],
+                "group": "5",
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：地面上那些嵌入石体中的剑、枪、戟&hellip;&hellip;就是英雄们曾经的兵器。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：依照七丘传统，现在的你我触摸它们，就能听到旧主的低语声。</span></p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "6-1",
+                "cid": [
+                  "7-1"
+                ],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">你伸出手，带着锈迹的铁器与指腹接触，严肃凛然的声音自枪身中发出震颤。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">在他漫长的战斗与厮杀中，在涌动起伏的黑潮间，手足与亲子俱被遗忘，一切温和的情感都消失殆尽。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">映入眼瞳深处的，只剩下开在原野上的白色小花。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">多么柔软、多么脆弱、多么美好啊&hellip;&hellip;他叹息着，被残象碾碎颅骨。</span></p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "7-1",
+                "cid": [],
+                "pid": [
+                  "6-1"
+                ],
+                "group": "7",
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">你伸出手，带着锈迹的铁器与指腹接触，平静哀愁的声音自斧身中发出震颤。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">无人知晓，她前往战场，只为离开另一个战场。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">抛弃那些金饰与宝石，扯断缚在脖颈上的荣耀，离被称为骄傲的家族越远越好，回绝一切凝视的目光。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">这寂静便是属于我的胜利！她笑着，冲向翻涌的黑潮。</span></p>\n</div>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "1982bbb6-093c-4c16-90cc-f31b2ebdafd0": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：你来啦，搭档！</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：英武的守护者、我们的女武神&mdash;&mdash;亚狮诺索不是那种喜爱亲近人群的声骸。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：狮像喜欢坚韧不屈、高洁善战之人。只有对它认可的人，才不会抗拒接触。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：不过&hellip;&hellip;它仍旧是声骸，不会说话。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：（这些声音&hellip;&hellip;）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：怎么样？你有感觉到什么吗？</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：只听到了异样的声音。它刚才看向的那个方向是哪里？</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：那是「<a>荣耀之间</a>」。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：所有获得了铁与火铸成之荣光的英雄们，都会被埋葬在那里。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：但行猎之途漫漫，许多躯壳伴随死亡消散，有不少人只有武器被送回那里。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：亚狮诺索的频率由英魂厮杀之声组成，那些战痕斑驳的兵刃会受到它的影响，低语自身主人曾经的愿景。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：触碰它们，对能被狮像认可的大角斗赛的胜利者而言，是很重要，也很有意义的仪式！</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：能在亚狮诺索的陪伴下聆听祖辈过去的声音，对七丘人来说是莫大的激励。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：（遇到卜灵前，我在那个村落中触碰声骸时，曾感到一种&ldquo;层层叠叠、模糊不清的异样频率&rdquo;。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：（那种感觉与阿布来七丘路上的形容很像，但这一路我都没能完全确认其来源。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者</span><span class=\"text-neutral-400\">：（现在&hellip;&hellip;终于找到了。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：（那股力量的源头就在荣耀之间，且随着狮像飞去而愈发强烈、明显。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：它应该已经在那里等我们了，我们&hellip;&hellip;一起去？</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：就是不知道你对七丘人的仪式感不感兴趣，但&mdash;&mdash;也许还能发现些别的线索，对吧？</span></p>\n</div>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "在这方面，我的确很感兴趣。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "2-2",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "我很乐意和我的搭档一起去。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [],
+                "pid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "group": "3",
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：哈哈，真好！那我们出发吧！</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：唔&hellip;&hellip;</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：怎么了？</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：不知道&hellip;&hellip;就是&hellip;&hellip;</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：&hellip;&hellip;可能是有点恍惚？刚拿到冠军，兴奋过度&hellip;&hellip;之类的。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：总之，没什么大问题。走吧。</span></p>\n</div>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "31d81683-d997-4661-b1e1-a3958349556d": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：真恶心。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：把七丘当做手里的玩具，随意涂抹&hellip;&hellip;不可原谅！</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：一个人被逼死的故事，有什么诗意和浪漫可言！</span></p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "3a746342-afd5-455e-8e2d-ed1865c14891": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "这把剑属于谁？",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：这是特库斯的剑。还记得那片上城区的水域吗？你曾在那里寻找卡提希娅&mdash;&mdash;他便是当时那座雕像的原型人物。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：数百年前拉古那爆发了黑潮，七丘也受到波及。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：特库斯是当年的总督之子，也是带领七丘的战士们抵御黑潮与残象的领头人，最后因力竭死在了黑潮中。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：他的剑也受到了黑潮的污染，但是被随行的人拼死带了回来。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：在七丘，强烈的情绪频率很容易和其他物质结合。荣耀狮像的诞生也来源于英雄们激烈的情感，所以它能影响这些武器。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：那时候，这把剑也有异化的倾向&hellip;&hellip;</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：不过，这么多年过去，它早已变为了一柄英雄的纪念物。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：（顺着剑身向下，有一股强烈的、在泵动的力量。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：（位置在地下，是位于山体内部？）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：&hellip;&hellip;频率&hellip;&hellip;属于岁主英白拉多&hellip;&hellip;</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：和拉古那一样，七丘也有起源信标&hellip;&hellip;所以祂才想要&hellip;&hellip;</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：&hellip;&hellip;供能&hellip;&hellip;增强&hellip;&hellip;</span></p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "69c953dc-a4b7-439a-a13b-f45d5c07c874": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>露帕：（在之前的<span class=\"ingame-RedD\">故事</span>里，我曾和卡提希娅一起来过这里。）</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：你的状况&hellip;&hellip;可能撑不了太久了。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">无名之人：哈、哈哈&hellip;&hellip;我也觉得&hellip;&hellip;大概，只能到这里了&hellip;&hellip;</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">无名之人：真怪啊。明明我记得七丘的一切，却想不起&hellip;&hellip;咳，想不起自己的名字。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：不是你忘了。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：有人夺走了你在故事里的<span class=\"ingame-RedD\">角色</span>，所以就算我们找到赛场上的海报，也读不出你的名字。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：你的存在被抹掉了，只有破坏这幕故事才能找回它。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">无名之人：呵&hellip;&hellip;真可惜，我撑不到那时候了。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">无名之人：抱歉，卡提希娅，你救了我，我却没能帮到你什么。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：小时候&hellip;&hellip;很久之前，我曾经听过七丘的传言。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：我听说这是一个热情而富有生命力的城市，人们喜爱痛饮，喜爱大笑，喜爱雕塑，喜爱狩猎。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：男人与女人都无畏死亡，如火般燃烧，在烧尽前迸发所有的光和热。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：但在我来到七丘时，它已被恶徒设计破坏，街道流淌着黑色的潮水，变成了一座空城。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">无名之人：是啊&hellip;&hellip;我的城市，它很美&hellip;&hellip;</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">无名之人：猎猎秋风吹过金橙色的旗帜和风铃时，时间都会慢下来&hellip;&hellip;</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：鸣式利维亚坦&hellip;&hellip;我不会再给它第二次让黎那汐塔人流泪流血的机会。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：无论设计这幕悲剧的人身在此地何方，我都会把他揪出来。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">无名之人：咳！咳咳！七丘&hellip;&hellip;可以托付给你吗？</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：不行。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：你说过了吧？这是你的城市。有些事，也只有你才能做到。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：在黑潮中留下痕迹的怪物，我能感觉到&hellip;&hellip;它的频率和我很像。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：鸣式为了制造能承载它力量的共鸣者，创造了我。但除我之外，还有大量失败的&ldquo;容器&rdquo;。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">无名之人：你是说&mdash;&mdash;</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：现在还有很多事无法确定，我会继续调查。但无论如何，你一定有&ldquo;特殊性&rdquo;。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：我曾经&hellip;&hellip;想要以死亡结束一切，有个人阻止了我。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：即便是被戏弄的生命，仍旧能够破除诅咒。只要是想做的事，无论力量强弱，都该尽力而为。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：我能从塔中离开回到人世，也是因为那个人的帮助。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：所以我相信，他也一定会来到这里，并改变这个品味糟糕的故事。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">无名之人：那一定是个很有趣的人吧！呼&hellip;&hellip;真想也见见那个人，看看他怎么做到的&hellip;&hellip;</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：那就亲眼去看吧。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：胜利往往无法一蹴而就，需要耐心与坚持。也许此刻的你我还无法办到，但总有人会接续这份努力。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：如果你想拯救自己的城市，就坚持下去吧。无论多么痛苦，哪怕自我怀疑，都坚持下去。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：就像你在我来之前，在七丘徘徊至精疲力竭，想要离开这座城市去为它呼救那样。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：去新的故事中找他吧，将我的讯息带给那个人。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">无名之人：呵呵&hellip;&hellip;哈哈哈！好啊，卡提希娅，我会&hellip;&hellip;咳，像你说的那样，尽量撑住&hellip;&hellip;咳咳！</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">无名之人：说吧！告诉我&mdash;&mdash;那个人的名字是什么？</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：距离那异样的频率已经很近了&hellip;&hellip;</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：&hellip;&hellip;你，在水下的地宫中啊。</span></p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：水下地宫&hellip;&hellip;我记得西尔瓦家的资料中曾记载，过去七丘的确修建过一条通向平原水域的地下水道。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：但现在旧城区已被淹没，要想进入水道，就必须先将水泄尽。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（在我的「角色」被彻底替代而消失后，卡提希娅应该找到了那个半人半鱼的怪物和残星会的人。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（和漂泊者一样，她也选择了留在那页剧本的尾端，为之后的故事创造新机会。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（所以&hellip;&hellip;在遇到搭档时，我才重新拥有了自己的名字。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（搭档路上看到的世界交叠，是因为那个怪物&mdash;&mdash;蜜芽选手在尝试夺取我的「角色」，再次从中枢污染七丘。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（只有我能彻底抹消它在故事里的存在。只有我能证明，我是真，她是伪。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：&hellip;&hellip;数十年前蜜芽选手前往荣耀之间失踪后，到底发生了什么？</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：对被压迫的你而言，七丘这座城市&hellip;&hellip;</span></p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-1",
+                "cid": [],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（我记得，通向地下水道的入口位于旧城区的钟楼。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（呵&hellip;&hellip;这么一想，是啊！这片水域的维护，本就在西尔瓦家的职权范围内。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（也许，可以让这尊沉睡的荣耀巨像重新动起来。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（遵照七丘传统，它持剑守望出城行猎的战士时，城门与各个关窍都会打开。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（尽管许多地方已经因为搬迁而堵塞废弃，但通过剩余的关窍将水泄出并非不可能。值得一试！）</span></p>\n</div>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "6a6cbd50-0170-4dfd-ac59-2aa9d3c76025": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：这几天发生了好多开心的事！</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：拿到冠军，得偿所愿&hellip;&hellip;都是因为有你。</span></p>\n</div>"
+              },
+              {
+                "id": "2-1",
+                "cid": [],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "",
+                "content": "<p>露帕：奇怪&hellip;&hellip;为什么会突然出现这么多残象？</p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "6bacb3e5-6ff8-4fd5-a677-9ea4800ea4a9": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：又是这些突然冒出来的残象！</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：（刚才一瞬间，世界似乎又像是看到蜜芽时一样陷入异常的氛围中。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：（每次正常和异常的世界<span class=\"ingame-RedD\">重叠</span>时，新的潮蚀和残象都会出现&hellip;&hellip;）</span></p>\n</div>"
+              },
+              {
+                "id": "2-1",
+                "cid": [],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：这些潮蚀，是被黑潮蔓延过后的增生物。、</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：为什么会突然出现这些东西&hellip;&hellip;</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：得先把它们清理掉，再看看源头的那把剑是不是出了问题。</span></p>\n</div>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "71b427bd-47ab-4980-a43d-becd03aeef3d": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": ""
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "entryId": "1383842797711962112",
+            "linkType": 1
+          },
+          "nextLink": {
+            "entryId": "1396949918158663680",
+            "linkType": 1
+          },
+          "preLabel": "荣耀暗面",
+          "nextLabel": "捕梦于神秘园中"
+        },
+        "86572751-e450-42ba-91dc-4cf84d2a5e49": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">尤利娅：人我已经帮你们从海里捞上来了。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：很好，尤利娅女士，守信是建立良好合作的第一步。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：我知道、我知道，现任七丘的总督不太听元老院的话，这件事我们会处理好的。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：一杯毒酒，一只飞虫，一柄匕首&hellip;&hellip;一次巧合。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：有你这样聪慧理性的家主，西尔瓦家不必担心自己的存续。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">尤利娅：我和你们合作不是为了西尔瓦家，而是为了七丘！</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">尤利娅：&hellip;&hellip;有些七丘人已经忘了在海上流亡的恐惧。为求在潮涌中生存下去，必须做正确的选择。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">尤利娅：剩下的事，之后再谈吧。但，你们为什么想要一个坠海的死人？</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：死人&hellip;&hellip;啊~你是说蜜芽？</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：事实上，她正是我曾说过的，要在这地下水道的深处建起的设备的核心。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：无论生死，这副躯壳里都有我们想要的信息，残星会在这里的实验会持续很长时间。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：在此期间，掩盖这处实验场的存在还需你的帮助，女士。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">尤利娅：&hellip;&hellip;实验核心？这个软弱的女人共鸣能力可不强。蜜芽资质平平&hellip;&hellip;场上的表现也一样。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">尤利娅：哼，如果不是因为元老院的那群废物想要把她抬上去制造噱头，转移平民的注意力和怒火，她根本不可能杀进决赛！</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：别生气，亲爱的女士，你说得完全正确。这位少女如此无力，以至于完全无法抵抗她的创造者。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：获得大角斗赛的胜利，恰恰为她带来了死亡的阴影。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：幸运与不幸，高贵与低贱，软弱和坚强&hellip;&hellip;有时候，人的秉性正如硬币的两面。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：而我，总是钟爱那些必然发生的悲剧。</span></p>\n</div>"
+              },
+              {
+                "id": "2-1",
+                "cid": [],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：&hellip;&hellip;原来，蜜芽选手早就死了。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：她失踪后没有离开七丘，而是沉在了冰冷的海水里。</span></p>\n</div>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "8eb9922a-9dd6-49cf-a04e-2eadaa807c90": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（那枚铜镜在响。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（搭档曾用它&ldquo;看见&rdquo;过去的世界，这里也有相关的痕迹吗&hellip;&hellip;）</span></p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "967d73cd-6ecd-4406-9273-b02666072fd4": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1",
+                  "2-2",
+                  "2-3",
+                  "2-4"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：太好了&hellip;&hellip;你们平安无事真的太好了。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：我感觉到鸣式的频率消失了。你做得很好，露帕。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：成功找到了漂泊者，守护了七丘，简直是完美的骑士故事&mdash;&mdash;嗯~不对，角斗士故事？</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">阿布：呼啊！总算能探出头来了！漂泊者，你没事吧？！</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：阿布，我没事。你之前怎么了？</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">阿布：我&hellip;&hellip;咦，已经到七丘了？</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">阿布：我之前正和你说着话呢，突然！感觉有个薄膜一样的东西盖住了我！</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">阿布：本来就频率失衡晕乎乎，这下直接发不出声音，睡过去了&hellip;&hellip;啊！卡提希娅！还有个不认识的女孩！</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：呵，好活泼啊，搭档的声骸比「啪嗒」还闹腾呢~</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">阿布：在、在我睡着的时候到底发生了什么呀！</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：嗯&hellip;&hellip;我也觉得我们该交换一下信息，来补全这次经历的<span class=\"ingame-RedD\">故事</span>。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：在颠倒塔感受到七丘方向有鸣式力量的异动后，我立刻追向了其源头。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：事出突然，我顺着最后一丝缝隙进入了这个索诺拉内部，和外界的通讯也就此断绝。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：在七丘城中，我找到了丢失<span class=\"ingame-RedD\">角色</span>的露帕。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：我和她同行了一段时间，找到了引发异常的元凶&mdash;&mdash;残星会的剧作家克里斯托弗和鸣式。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：但露帕的存在最终还是被剧作家抹掉，我则进入了水下地宫，找到了寄宿于蜜芽残躯，并藏身在实验装置内的鸣式。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：但我没能完全解决掉祂，祂藏了起来。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：于是我想，你一定会察觉异常并来到七丘，我要为你的行动提供帮助。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：我与剧作家进行了战斗，让他丢失了对<span class=\"ingame-RedD\">剧本</span>的控制。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：后来，他和其他残星会的会监一起从我面前逃离&hellip;&hellip;此时，索诺拉也开始崩溃，于是你我再度重逢。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：漂泊者，还有什么想细问我的吗？</span></p>\n</div>\n<div>\n<div class=\"flex items-center align-center text-center w-full flex-row my-4 px-16\" role=\"separator\" data-orientation=\"horizontal\">&nbsp;</div>\n</div>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "关于角色和故事。",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：这些是我和露帕在调查过程中做出的一些推测，不一定准确。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：在这个以故事为呈现形式的索诺拉中，<span class=\"ingame-RedD\">角色</span>就是其中人们的身份。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：如果丢失「角色」，就会同时丢掉名字和记忆。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：现实里蜜芽早已死去，因此并不存在，在三日大赛中真正夺冠的是露帕。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：我想，被剧作家虚构出的故事是无法超脱蓝本太多的，这是他共鸣能力的限制。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：所以他才选择抹掉了露帕的名字，替换了露帕和&ldquo;蜜芽&rdquo;二者的存在，让后者在七丘引发黑潮。</span></p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "2-2",
+                "cid": [
+                  "3-2"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "关于鸣式和中枢。",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：那处位于「荣耀之间」的中枢是岁主设置的，过去应该从未有人进入。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：它的开启起码需要两个条件：夺冠&mdash;&mdash;或者说是获得岁主给予权限的荣耀狮像的认可，以及拥有岁主相关的频率。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：过去鸣式因此盯上了蜜芽，现在，又因此看向了露帕。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：我在<span class=\"ingame-RedD\">故事</span>中重创了祂，但因为没能在更早的时候阻止祂污染中枢，祂依靠那股力量仍旧存活。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：这一路，我时常看到露帕和蜜芽的身影在<span class=\"ingame-RedD\">重叠</span>&hellip;&hellip;</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：那应该就是鸣式还在试图顶替露帕的角色，再次污染中枢获得供能，毁灭黎那汐塔。</span></p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "2-3",
+                "cid": [
+                  "3-3"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "关于其他会监。",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：除剧作家外，我还遭遇了两名残星会会监。一位用绷带蒙眼的女性，和一位脸上带着疤痕的男性。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：（听起来，似乎是弗洛洛和&hellip;&hellip;伤痕。为什么伤痕会出现在黎那汐塔？）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：只可惜，我没能和另外两个人交手，他们只匆匆出现了一两次，就再未露面。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：我不确定他们聚集在七丘是为了什么，但我们都需要为此做好准备。</span></p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "2-4",
+                "cid": [
+                  "6-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "我没什么想问的了。",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：鸣式的频率已经在七丘消失了，但这件事恐怕还没那么快了结。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：另外&hellip;&hellip;或许是受到索诺拉中黑潮的影响，我能感觉到我体内的力量从原本的平衡，开始倾斜向更接近鸣式的一侧了。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：&hellip;&hellip;！</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：现在想来，或许这也是残星会目的的一部分。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：&hellip;&hellip;去黑海岸看看吧，卡提希娅。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：那里有多年来应对鸣式的经验，我认为你应该去一趟进行检测，并确定后续如何控制。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：黑海岸&hellip;&hellip;就是你的来处，是吗？</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：如果是你信任的地方，我会去的。</span></p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "我还想问些别的。",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：那处位于「荣耀之间」的中枢是岁主设置的，过去应该从未有人进入。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：它的开启起码需要两个条件：夺冠&mdash;&mdash;或者说是获得岁主给予权限的荣耀狮像的认可，以及拥有岁主相关的频率。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：过去鸣式因此盯上了蜜芽，现在，又因此看向了露帕。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：我在<span class=\"ingame-RedD\">故事</span>中重创了祂，但因为没能在更早的时候阻止祂污染中枢，祂依靠那股力量仍旧存活。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：这一路，我时常看到露帕和蜜芽的身影在<span class=\"ingame-RedD\">重叠</span>&hellip;&hellip;</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：那应该就是鸣式还在试图顶替露帕的角色，再次污染中枢获得供能，毁灭黎那汐塔。</span></p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "我还想问些别的。",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：除剧作家外，我还遭遇了两名残星会会监。一位用绷带蒙眼的女性，和一位脸上带着疤痕的男性。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：（听起来，似乎是弗洛洛和&hellip;&hellip;伤痕。为什么伤痕会出现在黎那汐塔？）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：只可惜，我没能和另外两个人交手，他们只匆匆出现了一两次，就再未露面。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：我不确定他们聚集在七丘是为了什么，但我们都需要为此做好准备。</span></p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-1",
+                "cid": [
+                  "6-1"
+                ],
+                "pid": [
+                  "4-1"
+                ],
+                "group": "5",
+                "title": "我还想问些别的。",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：鸣式的频率已经在七丘消失了，但这件事恐怕还没那么快了结。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：另外&hellip;&hellip;或许是受到索诺拉中黑潮的影响，我能感觉到我体内的力量从原本的平衡，开始倾斜向更接近鸣式的一侧了。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：&hellip;&hellip;！</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：现在想来，或许这也是残星会目的的一部分。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：&hellip;&hellip;去黑海岸看看吧，卡提希娅。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：那里有多年来应对鸣式的经验，我认为你应该去一趟进行检测，并确定后续如何控制。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：黑海岸&hellip;&hellip;就是你的来处，是吗？</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：如果是你信任的地方，我会去的。</span></p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-2",
+                "cid": [
+                  "4-2"
+                ],
+                "pid": [
+                  "2-2"
+                ],
+                "group": "3",
+                "title": "我还想问些别的。",
+                "content": "<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：除剧作家外，我还遭遇了两名残星会会监。一位用绷带蒙眼的女性，和一位脸上带着疤痕的男性。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：（听起来，似乎是弗洛洛和&hellip;&hellip;伤痕。为什么伤痕会出现在黎那汐塔？）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：只可惜，我没能和另外两个人交手，他们只匆匆出现了一两次，就再未露面。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：我不确定他们聚集在七丘是为了什么，但我们都需要为此做好准备。</span></p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-2",
+                "cid": [
+                  "5-4"
+                ],
+                "pid": [
+                  "3-2"
+                ],
+                "group": "4",
+                "title": "我还想问些别的。",
+                "content": "<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：鸣式的频率已经在七丘消失了，但这件事恐怕还没那么快了结。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：另外&hellip;&hellip;或许是受到索诺拉中黑潮的影响，我能感觉到我体内的力量从原本的平衡，开始倾斜向更接近鸣式的一侧了。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：&hellip;&hellip;！</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：现在想来，或许这也是残星会目的的一部分。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：&hellip;&hellip;去黑海岸看看吧，卡提希娅。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：那里有多年来应对鸣式的经验，我认为你应该去一趟进行检测，并确定后续如何控制。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：黑海岸&hellip;&hellip;就是你的来处，是吗？</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：如果是你信任的地方，我会去的。</span></p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-3",
+                "cid": [
+                  "4-3"
+                ],
+                "pid": [
+                  "2-3"
+                ],
+                "group": "3",
+                "title": "我还想问些别的。",
+                "content": "<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：鸣式的频率已经在七丘消失了，但这件事恐怕还没那么快了结。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：另外&hellip;&hellip;或许是受到索诺拉中黑潮的影响，我能感觉到我体内的力量从原本的平衡，开始倾斜向更接近鸣式的一侧了。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：&hellip;&hellip;！</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：现在想来，或许这也是残星会目的的一部分。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：&hellip;&hellip;去黑海岸看看吧，卡提希娅。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：那里有多年来应对鸣式的经验，我认为你应该去一趟进行检测，并确定后续如何控制。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：黑海岸&hellip;&hellip;就是你的来处，是吗？</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：如果是你信任的地方，我会去的。</span></p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-3",
+                "cid": [
+                  "5-3"
+                ],
+                "pid": [
+                  "3-3"
+                ],
+                "group": "4",
+                "title": "",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-3",
+                "cid": [
+                  "6-1"
+                ],
+                "pid": [
+                  "4-3"
+                ],
+                "group": "5",
+                "title": "",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-4",
+                "cid": [
+                  "6-1"
+                ],
+                "pid": [
+                  "4-2"
+                ],
+                "group": "5",
+                "title": "",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "6-1",
+                "cid": [
+                  "7-1",
+                  "7-2",
+                  "7-3",
+                  "7-4"
+                ],
+                "pid": [
+                  "5-1",
+                  "5-3",
+                  "5-4",
+                  "2-4"
+                ],
+                "group": "6",
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：最初引发黑潮的契机，应该是我的死亡。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：在那之后的<span class=\"ingame-RedD\">故事</span>，因为重复了太多次，我也有些记不清了&hellip;&hellip;</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：我只知道自己在被黑潮污染毁灭的空城七丘徘徊了很久，一直无法离开&mdash;&mdash;直到遇到卡提希娅。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：她救下了我，但在那个故事中，我们没能完全解决事件的元凶。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：后来，我又在新的故事中遇到了搭档你。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：和你分开后，我在又一个<span class=\"ingame-RedD\">故事</span>里于荣耀之间醒来，并在地下水道找到了鸣式的真身。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：祂&hellip;&hellip;利用并占据了蜜芽选手的残躯，想要利用残星会设置的这个索诺拉壮大自己的力量。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：在击败祂后，索诺拉开始崩溃，我穿越了那些开始粉碎的纸页，总算和你们重逢啦！</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：搭档还有什么想知道的吗？我一定知无不言~</span></p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "7-1",
+                "cid": [
+                  "8-1"
+                ],
+                "pid": [
+                  "6-1"
+                ],
+                "group": "7",
+                "title": "关于你的“死亡”。",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：我的&ldquo;死亡&rdquo;&hellip;&hellip;嗯，那就从最开始的夺冠之旅开始说吧。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：那一次我没能戳破家族打假赛的事，在被尤利娅女士欺骗并独自夺冠后，我有一段时间的记忆很模糊&hellip;&hellip;大概是被控制了。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：我只记得最后自己站在「荣耀之间」内部的中枢，把枪插进了像是控制台一样的东西，黑潮涌了出来。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：最后，整个七丘都因此被黑潮吞没。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：我不太确定上述发生的一切，究竟是从哪个阶段开始处于残星会成员创造的索诺拉中&hellip;&hellip;现实和虚构的界限变得很模糊。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：在没有被卡提希娅救下的三日<span class=\"ingame-RedD\">故事</span>中，我总是在第一天就会死去，只能眼睁睁看着故乡不断毁灭。</span></p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "7-2",
+                "cid": [
+                  "8-2"
+                ],
+                "pid": [
+                  "6-1"
+                ],
+                "group": "7",
+                "title": "关于你和卡提希娅的同行。",
+                "content": "<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：卡提希娅救下了被夺走<span class=\"ingame-RedD\">角色</span>，并失去了记忆的我。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：我们一起在空城七丘调查了一段时间，察觉到了事件背后的主使是残星会和鸣式。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：但最后，我的<span class=\"ingame-RedD\">角色</span>还是被鸣式顶替，并因此在卡提希娅面前被抹去了痕迹。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：但在我消失前，卡提希娅将自己的一丝频率赠予了我&hellip;&hellip;</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：我想就是因为那丝频率，我才会不自觉地向搭档你所在的方向靠近，并在<span class=\"ingame-RedD\">故事</span>中与你相遇！</span></p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "7-3",
+                "cid": [
+                  "8-3"
+                ],
+                "pid": [
+                  "6-1"
+                ],
+                "group": "7",
+                "title": "关于蜜芽和鸣式。",
+                "content": "<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：蜜芽选手&hellip;&hellip;在许多年前，就为了抵抗鸣式的控制投海而亡了。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：但在她死后，尤利娅女士还是将她的残躯打捞上来，交给了残星会的人。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：残星会这些年一直在利用她的残躯进行某种实验，直到鸣式残存在那具躯壳中的力量在不久前复苏。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：控制着蜜芽选手残躯的鸣式，化身为半人半鱼的怪物，和残星会进行了合作。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：而蜜芽选手仅剩的那丝残响也一直被迫与之融合，饱受折磨&hellip;&hellip;</span></p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "7-4",
+                "cid": [
+                  "11-1"
+                ],
+                "pid": [
+                  "6-1"
+                ],
+                "group": "7",
+                "title": "我没什么想问的了。",
+                "content": "<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：对啦，搭档，你给我的剧本和铜镜，现在交还给你。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：真是一个漫长的<span class=\"ingame-RedD\">故事</span>啊&mdash;&mdash;但结局还是很好的。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：只是想到蜜芽选手，总是有些难过。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：蜜芽选手被融合在那怪物躯体中的一丝残响，在这十多年里，一定都很痛苦&hellip;&hellip;</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：你击败了鸣式，那丝残响一定也从束缚中得到了解脱。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：&hellip;&hellip;是啊，能和她进行那场最后的比赛，真的很开心！</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：是你和卡提希娅帮助了我，让我能够改写这个悲剧故事的结局。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：搭档，谢谢你&hellip;&hellip;愿意相信我。</span></p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "8-1",
+                "cid": [
+                  "9-1"
+                ],
+                "pid": [
+                  "7-1"
+                ],
+                "group": "8",
+                "title": "我还想问些别的。",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：卡提希娅救下了被夺走<span class=\"ingame-RedD\">角色</span>，并失去了记忆的我。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：我们一起在空城七丘调查了一段时间，察觉到了事件背后的主使是残星会和鸣式。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：但最后，我的<span class=\"ingame-RedD\">角色</span>还是被鸣式顶替，并因此在卡提希娅面前被抹去了痕迹。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：但在我消失前，卡提希娅将自己的一丝频率赠予了我&hellip;&hellip;</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：我想就是因为那丝频率，我才会不自觉地向搭档你所在的方向靠近，并在<span class=\"ingame-RedD\">故事</span>中与你相遇！</span></p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "9-1",
+                "cid": [
+                  "10-1"
+                ],
+                "pid": [
+                  "8-1"
+                ],
+                "group": "9",
+                "title": "我还想问些别的。",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：蜜芽选手&hellip;&hellip;在许多年前，就为了抵抗鸣式的控制投海而亡了。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：但在她死后，尤利娅女士还是将她的残躯打捞上来，交给了残星会的人。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：残星会这些年一直在利用她的残躯进行某种实验，直到鸣式残存在那具躯壳中的力量在不久前复苏。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：控制着蜜芽选手残躯的鸣式，化身为半人半鱼的怪物，和残星会进行了合作。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：而蜜芽选手仅剩的那丝残响也一直被迫与之融合，饱受折磨&hellip;&hellip;</span></p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "8-2",
+                "cid": [
+                  "9-2"
+                ],
+                "pid": [
+                  "7-2"
+                ],
+                "group": "8",
+                "title": "我还想问些别的。",
+                "content": "<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：蜜芽选手&hellip;&hellip;在许多年前，就为了抵抗鸣式的控制投海而亡了。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：但在她死后，尤利娅女士还是将她的残躯打捞上来，交给了残星会的人。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：残星会这些年一直在利用她的残躯进行某种实验，直到鸣式残存在那具躯壳中的力量在不久前复苏。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：控制着蜜芽选手残躯的鸣式，化身为半人半鱼的怪物，和残星会进行了合作。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：而蜜芽选手仅剩的那丝残响也一直被迫与之融合，饱受折磨&hellip;&hellip;</span></p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "9-2",
+                "cid": [
+                  "11-1"
+                ],
+                "pid": [
+                  "8-2"
+                ],
+                "group": "9",
+                "title": "我还想问些别的。",
+                "content": "<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：对啦，搭档，你给我的剧本和铜镜，现在交还给你。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：真是一个漫长的<span class=\"ingame-RedD\">故事</span>啊&mdash;&mdash;但结局还是很好的。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：只是想到蜜芽选手，总是有些难过。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：蜜芽选手被融合在那怪物躯体中的一丝残响，在这十多年里，一定都很痛苦&hellip;&hellip;</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：你击败了鸣式，那丝残响一定也从束缚中得到了解脱。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：&hellip;&hellip;是啊，能和她进行那场最后的比赛，真的很开心！</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：是你和卡提希娅帮助了我，让我能够改写这个悲剧故事的结局。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：搭档，谢谢你&hellip;&hellip;愿意相信我。</span></p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "8-3",
+                "cid": [
+                  "11-1"
+                ],
+                "pid": [
+                  "7-3"
+                ],
+                "group": "8",
+                "title": "我还想问些别的。",
+                "content": "<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：对啦，搭档，你给我的剧本和铜镜，现在交还给你。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：真是一个漫长的<span class=\"ingame-RedD\">故事</span>啊&mdash;&mdash;但结局还是很好的。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：只是想到蜜芽选手，总是有些难过。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：蜜芽选手被融合在那怪物躯体中的一丝残响，在这十多年里，一定都很痛苦&hellip;&hellip;</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：你击败了鸣式，那丝残响一定也从束缚中得到了解脱。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：&hellip;&hellip;是啊，能和她进行那场最后的比赛，真的很开心！</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：是你和卡提希娅帮助了我，让我能够改写这个悲剧故事的结局。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：搭档，谢谢你&hellip;&hellip;愿意相信我。</span></p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "11-1",
+                "cid": [],
+                "pid": [
+                  "10-1",
+                  "9-2",
+                  "8-3",
+                  "7-4"
+                ],
+                "group": "11",
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：还有一件事&mdash;&mdash;我们要再去一次七丘的中枢，我在那里发现了一些和你有关的讯息，漂泊者。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：中枢&hellip;&hellip;正好，我也有一些想在荣耀之间做的事。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：好，那我们一起去吧。</span></p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "10-1",
+                "cid": [
+                  "11-1"
+                ],
+                "pid": [
+                  "9-1"
+                ],
+                "group": "10",
+                "title": "我还想问些别的。",
+                "content": "<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：对啦，搭档，你给我的剧本和铜镜，现在交还给你。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：真是一个漫长的<span class=\"ingame-RedD\">故事</span>啊&mdash;&mdash;但结局还是很好的。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：只是想到蜜芽选手，总是有些难过。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：蜜芽选手被融合在那怪物躯体中的一丝残响，在这十多年里，一定都很痛苦&hellip;&hellip;</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：你击败了鸣式，那丝残响一定也从束缚中得到了解脱。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：&hellip;&hellip;是啊，能和她进行那场最后的比赛，真的很开心！</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：是你和卡提希娅帮助了我，让我能够改写这个悲剧故事的结局。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：搭档，谢谢你&hellip;&hellip;愿意相信我。</span></p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "99157c65-bdbc-439d-b1d9-7fa65f72c9c8": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">海之女：我从文明的恐惧和渴望中诞生，从千万个男人和女人、千万个稚童和老者的心灵中诞生。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">海之女：你们以尖刀和巧舌争夺利益，欣赏在赛场上互相杀戮的游戏，从过去到现在，从未改变。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：哈！你有什么资格评判黎那汐塔人？</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：蜜芽选手是有尊严地选择了自己的结局，你的存在本身，就是对她的侮辱。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：如今的你，宁可缩在小小的甬中也要拼命回避消亡的命运，又怎么会懂如何面对死之恐惧！</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">海之女：人类的一生，不过是在生死之间的一声嚎哭！</span></p>\n</div>\n<div>\n<div class=\"flex items-center align-center text-center w-full flex-row my-4 px-16\" role=\"separator\" data-orientation=\"horizontal\">&nbsp;</div>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "9bcf1f35-751c-455f-bb59-0a11ea4806a0": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：露帕？</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：这里&hellip;&hellip;我好像不是第一次来了。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：走吧。</span></p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "a3b94ea9-e4ed-49e6-b209-5ff355f01d37": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>露帕：那边有什么声音&hellip;&hellip;搭档，一起去看看吧</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "b431c791-77cc-4154-a0ad-0a64dd0bb697": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（要进入地宫深处，就得通过这道门。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（闸门现在打不开&hellip;&hellip;先去其他地方看看吧。）</span></p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "b7dff723-904c-4927-b03e-f784eabf95e5": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>漂泊者：这里的频率，的确与英白拉多的一致。</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">？？：你身上&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">？？：有卡提希娅的气息。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：不仅是智识&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：你还融合了一部分岁主的权限吗！</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：从露帕的<span class=\"ingame-RedD\">角色</span>里&mdash;&mdash;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：滚出去！</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：那是&hellip;&hellip;蜜芽选手？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：是鸣式。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：露帕，接下来的这件事只有你能做。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：我该怎么配合你？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：读完剧本，随机应变。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：我相信你，搭档。</span></p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：呼&hellip;&hellip;哈啊&hellip;&hellip;呜！</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：梦？不、不对&hellip;&hellip;</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：不是&hellip;&hellip;梦。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：我不是孤身一人，搭档把改变的希望托付给了我。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：呵&hellip;&hellip;有人陪着而不是独自站在领奖台上，感觉真好！</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（漂泊者没有得到相关的信息，但曾和卡提希娅同行的我可以确定，我仍旧不处在现实中。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（这里是残星会成员创造的索诺拉，是<span class=\"ingame-RedD\">故事</span>的世界。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（这个关于大角斗赛的故事时间只有三天，在卡提希娅来到这里前，我已经&hellip;&hellip;在这重复的故事里徘徊了无数次。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（黑潮不断地吞没七丘，那条半人半鱼的怪物在潮水中越来越大&hellip;&hellip;那就是残星会的目的？用毁灭的七丘做养料养大它？）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（「剧本」&hellip;&hellip;没错，这个索诺拉空间的确像是一本书。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（索诺拉中每个世界都是一个重复的故事，每个世界都像是一张纸，层层叠叠<span class=\"ingame-RedD\">重叠</span>在一起。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（新的纸不断出现，叠上旧的纸，而上一个的故事中改变的情节，则会透过纸背映出痕迹。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（因此在卡提希娅行动后，原本被黑潮变为空城的七丘，在漂泊者到来的故事里已经趋向正常。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（她救了我，改变了我的命运，让我能够来到搭档身边。搭档在上一个故事里阻止了鸣式，所以这次我没有丢失记忆。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（那个怪物的力量因为漂泊者被极大削弱了，中枢对它的供能也已经切断。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（但那并不是完整的它。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（&hellip;&hellip;我曾和卡提希娅一起寻找它的本体所在，我记得，最后的终点在下城区的水面上。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：我绝不会辜负你的信任，漂泊者。</span></p>\n</div>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "caefbc30-cdd8-4015-a193-8aeb6b4d8a9b": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（我一直怀有羞愧。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（一种对自己天生便拥有的东西的羞愧，有时，这种羞愧会酿成自疑。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（我想尽量洒脱地活着！我的确这样做了，但我仍旧&hellip;&hellip;能看到其他人的悲哀。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（失败离场的人、无法追上我脚步的人、将全部期望寄托在我身上的人&hellip;&hellip;）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（我总想着&mdash;&mdash;如果我没有这份天赋的垂青，是否早就无法坚持现在的底线。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（那些为了生存而践踏规则的人，我能够审判他们吗？还是说，这也是一种不自知的傲慢？）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：但现在&hellip;&hellip;我已不再这样想了。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：漂泊者比我强大许多，但仍旧对所有人平等相待，他没有选择独断，而是选择了相信我。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：卡提希娅曾因众人的期望在那座塔中困守多年，她从未踏足七丘的土地，却愿意渡海而来。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：蜜芽选手&hellip;&hellip;蜜芽选手的共鸣能力并不出众，但她不曾自人生的赛场上逃走，一直战斗到了最后一刻。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：人的品性，并不因天生的获得而被塑形。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：我&hellip;&hellip;太看轻别人，也太看轻自己。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：而你&mdash;&mdash;傲慢无比、自以为理解人心幽暗的你，不过是一头无血无泪的怪物。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：美丽的<a class=\"ingame-term-desc\">鹫巢石城</a>，我的城市，七丘。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：它由七丘人自己一砖一瓦建成，和岁主无关，也和鸣式无关。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：盛光之下，必有幽影。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：但人们总是需要光，总会逐光，也总会习得如何与影共存。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：蜜芽、卡提希娅&hellip;&hellip;她们被这片群岛养育长大，她们是黎那汐塔人的女儿，从不属于任何神明！</span></p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "d0bc466e-6598-4d91-b42a-ef4d47473213": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">蜜芽：&hellip;&hellip;</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">海之女：还未消失吗，蜜芽。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">海之女：一丝薄弱的残响，早该消融于海了。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">蜜芽：&hellip;&hellip;你&hellip;&hellip;要&hellip;&hellip;去哪&hellip;&hellip;里&hellip;&hellip;</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">海之女：夺冠。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">海之女：这不是你的未竟之愿吗？蜜芽。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">蜜芽：那不是属于&hellip;&hellip;我的，赛场&hellip;&hellip;</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">蜜芽：&hellip;&hellip;我不需要&hellip;&hellip;这种&hellip;&hellip;冠军&hellip;&hellip;！</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">海之女：但我需要。没有冠军和狮像这两把钥匙，就无法进入英白拉多设置的中枢。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">海之女：你也好，卡提希娅也好&hellip;&hellip;我的&ldquo;女儿&rdquo;们，我的造物们！为何总是徒劳反抗？</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">海之女：七丘何曾对你施以过恩惠？</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">海之女：他们不喜欢你，也不需要你&mdash;&mdash;你早已被遗忘。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">蜜芽：我们是被&hellip;&hellip;人类，养大的&hellip;&hellip;</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">蜜芽：你永远也不会&hellip;&hellip;理解&hellip;&hellip;</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">海之女：善战而骄傲，勇武而慕强，我比你更了解七丘人的民族性。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">海之女：蜜芽，你只是不敢去看他们暴露的本性，选择自我欺骗。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">海之女：你不敢承认他们利用了你，又抛弃了你。不敢承认从始至终，你都无足轻重。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">蜜芽：不&hellip;&hellip;荚蒾&hellip;&hellip;我的，花&hellip;&hellip;</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">海之女：但&hellip;&hellip;没关系。你怎么想，不重要。</span></p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "d2f4bce2-1d57-444c-8947-9587aeb1bed6": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：在露帕消失，我斩裂实验装置追赶鸣式，并击败了被祂控制前来拦截我的荣耀狮像后，我曾来过这里一次。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：你还记得鸣式夺取了一部分岁主的智识和权限吧？</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：对岁主来说，被夺走的是信息，体现的形式则是祂的记忆。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：因此就连祂自己也忘了，祂曾在被鸣式融合前，转移了一部分智识和信息到七丘的中枢里。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：被英白拉多遗忘的信息&hellip;&hellip;</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：恐怕是因为这是在岁主看来必须保密、不可让鸣式发现的信息，才在最后的瞬息将之转移的。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：我发现在其中储存着一份特殊的频率&mdash;&mdash;其中缺损的部分，与你的频率相似。我想这是祂留给你的，于是将之分离了出来。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">漂泊者：&hellip;&hellip;！</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">你接过那缕散发着凛冽之风气息的频率。它在你掌心触之即散，但在消失前，那道频率隐隐指向了七丘远方某处。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：看来它只是一道指引&hellip;&hellip;岁主真正要为你保留下的秘密讯息不在此处，而是在那个方向。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：刚才我来这里与你们汇合前，经过了七丘城区。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：被我斩裂的竞技场恢复了原状，但在人们的认知里，还是露帕和漂泊者你们两个人夺冠。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：那个残星会会监的能力能够让虚构对现实产生影响，影响程度比我们想得更深&hellip;&hellip;这次的事恐怕只是一个开始。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：我本以为鸣式的目的只是想在残星会的帮助下恢复力量，但祂一直想要侵入大中枢，我怀疑也和这份残缺信息有关。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：那个方向&hellip;&hellip;是七丘的猎场。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：猎场上方一直有不散的「<a class=\"ingame-term-desc\">黑潮云</a>」，每当「<a class=\"ingame-term-desc\">涨潮期</a>」到来，七丘人都要开始行猎，剿杀蠢动的残象。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：黑潮，它是关联着这一切的媒介。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：我无法定位岁主所留讯息的具体所在，恐怕你要亲自去一趟了，漂泊者。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：不过，风波告一段落，先休息片刻吧。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：露帕，能为我们当导游，带我们在七丘好好玩一趟吗？</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">卡提希娅：我也很想听听看你之前所说的，带着凉意的风吹过金橙色的旗帜和风铃的声音。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：当然！我非常乐意。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：从这里离开之后，请稍等我一下，我&hellip;&hellip;有件事想做。</span></p>\n</div>"
+              },
+              {
+                "id": "2-1",
+                "cid": [],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "这是……？",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：是蜜芽选手的剑，我勉强把它带了回来。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：那个怪物已经消失了，就像七丘很多失去了躯壳的英雄。至少&hellip;&hellip;该把遗物带回。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：这是她自裁的地方。我无法知道，蜜芽选手对于七丘究竟是憎恶更多，还是喜爱更多。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：但&hellip;&hellip;她曾提到血叶荚蒾，那是角斗士的追随者们常赠予的礼物。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：所以我想，她还是愿意睡在这儿的。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：真美啊&hellip;&hellip;</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：我们的城市，荣光之都。人们喜爱痛饮，喜爱大笑，喜爱雕塑，喜爱狩猎。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：如火般燃烧，浸透了胜利和失败，蕴藏一切失望，一切希冀。</span></p>\n</div>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "d4a17e71-da61-4763-9103-5a0a3075d00e": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>露帕：向长照不灭的太阳起誓，我会宰了你。</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "e0f7e01e-f6f0-4eb7-9ef6-2bc3f6cdb1ed": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（因黑潮威胁，沉眠在水域下的七丘旧城&hellip;&hellip;）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（啊，黑潮，就像盘旋不散的阴云，笼罩在七丘上空。）</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：（漂泊者&hellip;&hellip;会没事吗？我必须快些找到造成这一切的元凶。）</span></p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "e665a7ab-8ef0-4c9f-9165-968912d1d0ea": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：荚蒾&hellip;&hellip;是七丘的血叶荚蒾？</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：&hellip;&hellip;啊，我明白了。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">露帕：那是追随者们常赠给角斗士的花&hellip;&hellip;寓意胜利之花&hellip;&hellip;</span></p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "fed324ce-2da2-4a6f-849e-d88220d5c942": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：地宫里的实验装置你已经看过了，感觉如何？</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">弗洛洛：如果没有那柄断裂在她胸膛中的剑，那具躯壳几乎像是活着。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：是啊，几十年过去，蜜芽仍是从海里被打捞出时的样子。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：她为我们提供了不少实验数据&mdash;&mdash;作为被鸣式制造出的失败品共鸣者，这位死者可称得上优秀。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：前不久，在那位漂泊者介入后，圣女卡提希娅已经从塔中走出。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：而我则发现&hellip;&hellip;鸣式残存在蜜芽体内的一小部分力量，因塔与外界重新连接而活性化了。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">弗洛洛：听起来，你有了新的灵感。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：是的，七丘的大角斗赛即将开幕，我有一个有趣的点子。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：蜜芽死前也正举办大赛，以此为虚构的锚点，可以创造一份完美覆写现实的「剧本」。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：所以，我和祂谈了谈，达成一份小小的合作。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">弗洛洛：&hellip;&hellip;和鸣式谈？利维亚坦已经醒了？</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：只是祂一小部分活性化的碎片&mdash;&mdash;虚弱、狡猾，强烈渴望壮大自身的力量。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：我会为这条鱼儿虚构一个「故事」，让它完成当初未竟之事：以黑潮吞没七丘。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：鸣式当年想通过蜜芽找到七丘的中枢，污染信标系统；即便失败，也能控制这位冠军的心灵，进入七丘上层。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：可惜！全都失败了。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：无力抵抗祂精神侵蚀的少女宁死也不愿妥协，把剑插进自己的胸膛，在被血呛死前跳了海。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：很有趣不是吗？面对相同的境况，力量的强与弱仍会带来区别。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：那位圣女能一力阻止鸣式在拉古那的阴谋，而这位死者除了自杀别无他法。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：富有戏剧性的死亡和强烈的悲怆之情，多么诗意，多么令人怜爱&hellip;&hellip;</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">弗洛洛：我对你的品味不感兴趣，克里斯托弗。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">弗洛洛：我只是好奇，你这次为七丘写了怎样的结局？</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：你还真是一位心急的读者，弗洛洛。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：这次的剧本只是一个&ldquo;放大器&rdquo;，用来培育鸣式残存的力量。等它长得足够大时，我就会将索诺拉和现实进行「覆盖」。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：只需要找尤利娅女士为我们挑一位合适的冠军就行，呵呵，为蓝本故事换个「主角」并不难。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：等那鱼儿在我用黑潮铸就的摇篮中不断长大后，高唱圣歌的「巡游天国」就将自七丘蔓延至整个黎那汐塔。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：你瞧，比起那些早就将蜜芽遗忘的七丘人，我为死者编写的故事要浪漫有趣多了！不是吗？</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">弗洛洛：如果失败了呢？</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：那也无所谓。你知道的，弗洛洛，故事往往是人对命运的想象和预演。</span></p>\n<p class=\"plot-p-unit py-1 px-2\"><span class=\"text-neutral-400\">克里斯托弗：能用一份剧本证明漂泊者具有成为我所写故事的主角的资格，证明其是通过试炼的英雄，难道不好吗？</span></p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        }
+      }
+    },
+    "currentVersion": "11.0",
+    "onlineVersion": "11.0",
+    "browseCount": 8490,
+    "lastUpdateTime": "2025-08-23",
+    "lastEditUserName": "Kimim",
+    "userScoreList": [
+      {
+        "userId": 10267154,
+        "userName": "Kimim",
+        "headCode": "97",
+        "userHeadUrl": "https://prod-alicdn-community.kurobbs.com/headCode/XXl2.png",
+        "status": 0,
+        "score": 15,
+        "userCenterUrl": "https://www.kurobbs.com/person-center?id=10267154",
+        "lastOperator": true
+      },
+      {
+        "userId": 15161476,
+        "userName": "仰己",
+        "headCode": "88",
+        "userHeadUrl": "https://prod-alicdn-community.kurobbs.com/headCode/Shenhen2.png",
+        "status": 0,
+        "score": 105,
+        "userCenterUrl": "https://www.kurobbs.com/person-center?id=15161476",
+        "lastOperator": true
+      }
+    ],
+    "status": 2,
+    "checkStatus": 0
+  },
+  "traceId": "b4f198b6-57cf-4f8f-85a5-7dffeae7d7b0",
+  "success": true
+}

@@ -1,0 +1,3120 @@
+{
+  "code": 200,
+  "msg": "操作成功",
+  "data": {
+    "id": "1423058186011807744",
+    "name": "已逝的必将归来",
+    "orgFullName": "剧情任务组",
+    "orgTree": {
+      "id": 3,
+      "key": null,
+      "name": "全部",
+      "parentId": null,
+      "level": 0,
+      "sort": null,
+      "children": [
+        {
+          "id": 332,
+          "key": null,
+          "name": "剧情任务组",
+          "parentId": null,
+          "level": 1,
+          "sort": null,
+          "children": null
+        }
+      ]
+    },
+    "orgId": 332,
+    "orgIdList": [
+      332,
+      3
+    ],
+    "content": {
+      "mediaList": [],
+      "title": "已逝的必将归来",
+      "modules": [
+        {
+          "title": "",
+          "components": [
+            {
+              "idx": "618827f2-b588-4732-98ca-8cbbf148b877",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "已逝的必将归来",
+          "components": [
+            {
+              "idx": "e7db7eed-840b-43ee-83bc-8eb215fb1866",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "向前探索",
+          "components": [
+            {
+              "idx": "5adc89f2-5f4f-4be1-8a73-6ddb4f143775",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "探索神秘的空间",
+          "components": [
+            {
+              "idx": "ae70a236-58a6-404f-8511-692974e997f9",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "搭乘高天讯使，前往颠倒塔",
+          "components": [
+            {
+              "idx": "e45baef0-e4c8-4a48-8133-d2530e2286ef",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "与坎特蕾拉对话",
+          "components": [
+            {
+              "idx": "4d9630e4-8c32-4399-bae0-3dbe3a884757",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "追踪黑潮的频率",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "击败出现的黑潮造物",
+          "components": [
+            {
+              "idx": "5b3dcd64-58dd-42a6-9e33-c4f0628406ea",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "调查黑潮的痕迹",
+          "components": [
+            {
+              "idx": "f0972119-bb7b-46d2-9f14-dbecaaa31db1",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "追踪黑潮的频率",
+          "components": [
+            {
+              "idx": "bd10c12c-4e99-426e-a200-85ad64218e86",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "进入「异维无音区」",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "击败出现的黑潮造物",
+          "components": [
+            {
+              "idx": "59e87bca-d912-4318-bf94-45f8ece7f989",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "离开「异维无音区」",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "与阿维狄亚交谈",
+          "components": [
+            {
+              "idx": "0d48f5d8-b54d-4f25-88e8-a2d92a8b56ff",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "尝试与黑潮痕迹进行「共感」",
+          "components": [
+            {
+              "idx": "078f039c-dc0d-441a-b13d-2b46f97be95a",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "前往「埃弗拉德金库」",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "与珂莱塔交谈",
+          "components": [
+            {
+              "idx": "7a01d655-2e1b-408a-9012-257c792d3e24",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "击败出现的黑潮造物",
+          "components": [
+            {
+              "idx": "d43a6525-5832-4393-b221-d263f416b494",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "探索「文明之匣」的内部空间",
+          "components": [
+            {
+              "idx": "7e7b551b-b99d-49a6-9508-50e34bb1c34c",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "击败出现的黑潮造物",
+          "components": [
+            {
+              "idx": "d17e91da-3a25-4732-a3f2-7e344f6371a5",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "逃离「文明之匣」",
+          "components": [
+            {
+              "idx": "53d0cea4-cdab-4e4f-8770-26aef47520dc",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "前往狄萨莱海脊",
+          "components": [
+            {
+              "idx": "83c86890-7958-4f27-8f83-4a2bae3b80f5",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "击败出现的黑潮造物",
+          "components": [
+            {
+              "idx": "6c4549d4-9dec-429e-95bf-27c2a3006b99",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "寻找坎特蕾拉",
+          "components": [
+            {
+              "idx": "5245c7c8-fe58-4e83-beee-cef9d38a251e",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "寻找阿维狄亚",
+          "components": [
+            {
+              "idx": "4adb4eec-0923-4162-93d4-39c1a4091d29",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "击败「疯王·卡利古拉」",
+          "components": [
+            {
+              "idx": "da45bc2e-6a9f-4309-88e8-d2d6aa02ca83",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "与克里斯托弗交谈",
+          "components": [
+            {
+              "idx": "7e13c4d4-922b-4d81-80ca-6a79ddef6baa",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "返回坎特蕾拉处",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "与害怕的小女孩交谈",
+          "components": [
+            {
+              "idx": "41bff3f6-cb15-4bf7-adbc-63f8d1131ad3",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "与夏空交谈（可选）",
+          "components": [
+            {
+              "idx": "70ba469f-74ef-4fa8-a872-5b5a6089770c",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "与赞妮交谈（可选）",
+          "components": [
+            {
+              "idx": "237ba4d2-9198-4f7f-bbb8-7923c2105783",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "与菲比交谈（可选）",
+          "components": [
+            {
+              "idx": "d3ebf0e3-c9fa-4ed4-81e7-6fcfbff3c930",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "寻找卡提希娅",
+          "components": [],
+          "titleDisabled": true
+        }
+      ],
+      "story": {
+        "078f039c-dc0d-441a-b13d-2b46f97be95a": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>嘈杂的絮语：&hellip;&hellip;</p>\n<p>漂泊者：看不到任何画面&hellip;&hellip;只能听到一些嘈杂的声音&hellip;&hellip;</p>\n<p>漂泊者：专注&hellip;&hellip;一定能从中听到些什么&hellip;&hellip;</p>\n<p>？？？：不要慌乱&hellip;&hellip;乘坐电梯即可抵达庇护所&hellip;&hellip;</p>\n<p>？？？：将藏品陈列室的原型声骸&hellip;&hellip;一并调用&hellip;&hellip;</p>\n<p>漂泊者：这个声音是&hellip;&hellip;赞妮和珂莱塔？</p>\n<p>漂泊者：&hellip;&hellip;是埃弗拉德金库。黑潮造物&hellip;&hellip;可能在那里出现了。</p>\n<p>阿维狄亚：那里现在正保护着大量的平民&hellip;&hellip;</p>\n<p>漂泊者：抓紧时间，我们赶快过去。</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "0d48f5d8-b54d-4f25-88e8-a2d92a8b56ff": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">阿维狄亚：<span class=\"playable-plot-text cursor-pointer\">漂泊者阁下！你怎么样？进入无音区后，阁下突然就消失不见了。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">漂泊者：<span class=\"playable-plot-text cursor-pointer\">我没事&hellip;&hellip;异维无音区消失了？阿维狄亚，刚才我们分开后，你有遇到些什么吗？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">阿维狄亚：<span class=\"playable-plot-text cursor-pointer\">在那个无音区里面，我并没有看见那只「云闪之鳞」，而是遇到了一个古怪的人影。</span></p>\n</div>\n<div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 align-middle text-neutral-400\">阿维狄亚：<span class=\"playable-plot-text cursor-pointer\">我没有看清他具体的样貌，只是依稀听见他自称为&hellip;&hellip;卡利古拉。</span></p>\n</div>\n</div>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1",
+                  "3-2",
+                  "3-3"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "……卡利古拉是谁？",
+                "content": "<p>阿维狄亚：卡利古拉&hellip;&hellip;是七丘历史上恶贯满盈的暴君，以残忍和荒诞的行为闻名于世。人们难以理解他的种种行径，世人都将其称为「疯王」。</p>\n<p>阿维狄亚：传说他手执极为蛮横的黑色共鸣力，七丘历史上几次与黑潮有关的灾难，都是因他而起。</p>\n<p>阿维狄亚：他非但不抵御黑潮，反而与黑潮造物为伍，甚至具有操控，驱使它们的能力。最终人们不堪重负，联合将其刺杀&hellip;&hellip;</p>\n<p>阿维狄亚：而在死前，他曾为七丘留下恶毒的诅咒&mdash;&mdash;&ldquo;我将化作七丘的历史与记忆，只要人们心中的恐惧长存不灭，我必将再度归来&hellip;&hellip;&rdquo;</p>\n<p>漂泊者：（操控，驱使黑潮造物的能力&hellip;&hellip;这是「代行者」才拥有的权能。）</p>\n<p>漂泊者：（那位猎魔人说自己为阻止灾厄，也在寻找代行者&hellip;&hellip;拉古那的异象，恐怕的确与代行者脱不了干系。）</p>\n<p>漂泊者：（而且刚才，是她帮助我脱离了幻境&hellip;&hellip;如果她是一切的始作俑者，又为什么要帮助我？）</p>\n<p>漂泊者：（事情越来越扑朔迷离了。代行者&hellip;&hellip;究竟会是谁？）</p>\n<p>阿维狄亚：漂泊者，异维无音区消失的地方，还残留了一些黑潮的频率。</p>\n<p>阿维狄亚：&hellip;&hellip;定向锚不起作用了。黑潮频率的动向，似乎被某种空间阻隔了。</p>\n<p>漂泊者：奥古斯塔说，她曾在被黑潮吞没时，接收到了其中的信息。也许&hellip;&hellip;我也可以利用黑潮获取些情报。</p>\n<p>漂泊者：我的「共感」能力，应该能派上用场。</p>\n<p>阿维狄亚：「共感」？阁下果然精通诸多武艺&hellip;&hellip;我并非对阁下的能力有所怀疑，但那可是黑潮，贸然接触的话&hellip;&hellip;</p>\n<p>阿维狄亚：我不希望&hellip;&hellip;七丘那时的悲剧，再次发生了。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "只是尝试一下。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-2",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "类似于心灵感应。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-3",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "不会直接接触到的。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-1",
+                "cid": [],
+                "pid": [
+                  "3-1",
+                  "3-2",
+                  "3-3"
+                ],
+                "group": "4",
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">漂泊者：<span class=\"playable-plot-text cursor-pointer\">我们现在太过被动，猎魔人掌握的情报明显多于我们，我们必须要尽快找到她。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">漂泊者：<span class=\"playable-plot-text cursor-pointer\">我们必须抓住，任何可能的线索。</span></p>\n</div>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "237ba4d2-9198-4f7f-bbb8-7923c2105783": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>涅瓦娜：赞妮小姐&hellip;&hellip;抱歉，我马上回去&hellip;&hellip;</p>\n<p>赞妮：没事，难过的话，从办公室出来多透几口气也好。</p>\n<p>赞妮：早，漂泊者，如果你想要办理什么业务的话&hellip;&hellip;可能需要等上一会儿了。</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "她遇到什么困难了吗？",
+                "content": "<p>涅瓦娜：谢谢您的关心&hellip;&hellip;我只是，做了一个太过真切的梦&hellip;&hellip;一个关于我已故祖母的梦&hellip;&hellip;</p>\n<p>涅瓦娜：当我从梦中醒来时，依稀看见她就坐在我的身边。她的笑容还是那样温柔，就像小时候，她唱着摇篮曲哄我入睡时那样&hellip;&hellip;</p>\n<p>涅瓦娜：我向她诉说着我的思念，她就那样细细聆听着，直到她起身向我告别&hellip;&hellip;</p>\n<p>涅瓦娜：当时，我看见她踏入了一道门&hellip;&hellip;我想追上她，她却告诉我：不要追。更不要温和地，走入那扇门扉&hellip;&hellip;再然后&hellip;&hellip;我又一次清醒了过来。</p>\n<p>涅瓦娜：那是我的&ldquo;重叠梦&rdquo;吗？还是说，是我因记忆而产生的幻视&hellip;&hellip;？可她的话语和容貌&hellip;&hellip;都是那么的真切&hellip;&hellip;</p>\n<p>赞妮：&hellip;&hellip;可以理解。你的工作我帮你交接一下，今天你就先好好休息吧。</p>\n<p>涅瓦娜：赞妮小姐&hellip;&hellip;谢谢，但我想，祖母对我说的话，是想告诫我，人不能沉溺在悲伤和过去里&hellip;&hellip;</p>\n<p>涅瓦娜：我会继续完成今天的工作。抱歉，让你们担心了&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "41bff3f6-cb15-4bf7-adbc-63f8d1131ad3": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>害怕的小女孩：<span class=\"playable-plot-text cursor-pointer\">我&hellip;&hellip;我好害怕&hellip;&hellip;</span></p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "没事了，小朋友。",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">害怕的小女孩：<span class=\"playable-plot-text cursor-pointer\">啊，是漂泊者姐姐！</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">害怕的小女孩：<span class=\"playable-plot-text cursor-pointer\">我在坎特蕾拉姐姐那听过你的故事，她说你就像是冒险故事里的大英雄一样，既勇敢又坚定&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">害怕的小女孩：<span class=\"playable-plot-text cursor-pointer\">&hellip;&hellip;可是&hellip;&hellip;你拯救不了所有人啊&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">卡提希娅？：<span class=\"playable-plot-text cursor-pointer\">不要走&hellip;&hellip;不要离开，不要分离&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">漂泊者：<span class=\"playable-plot-text cursor-pointer\">&hellip;&hellip;卡提希娅？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">卡提希娅？：<span class=\"playable-plot-text cursor-pointer\">众生需要拯救&hellip;&hellip;众生需要联结&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">卡提希娅？：<span class=\"playable-plot-text cursor-pointer\">义人&hellip;&hellip;为我打开&hellip;&hellip;向上的门扉吧&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">嘉贝莉娜：<span class=\"playable-plot-text cursor-pointer\">利维亚坦，现世，不是你该来的地方&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">嘉贝莉娜：<span class=\"playable-plot-text cursor-pointer\">&hellip;&hellip;奇美拉！</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">嘉贝莉娜：<span class=\"playable-plot-text cursor-pointer\">&hellip;&hellip;漂泊者，感觉好些了吗？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">坎特蕾拉：<span class=\"playable-plot-text cursor-pointer\">冷静。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">坎特蕾拉：<span class=\"playable-plot-text cursor-pointer\">我叫你们冷静，退下。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">恐慌的翡萨烈成员：<span class=\"playable-plot-text cursor-pointer\">可是家主，我们都看见了&hellip;&hellip;刚才那可是&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">坎特蕾拉：<span class=\"playable-plot-text cursor-pointer\">都给我冷静。一直以来，&ldquo;低语&rdquo;从未让你们失态，近在眼前的恐惧，就足以令你们忘记盟友的情谊了吗？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">恐慌的翡萨烈成员：<span class=\"playable-plot-text cursor-pointer\">对不起，家主&hellip;&hellip;还有，漂泊者，抱歉，是我们失态了&hellip;&hellip;</span></p>\n</div>\n<div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 align-middle text-neutral-400\">坎特蕾拉：<span class=\"playable-plot-text cursor-pointer\">利维亚坦最善于挑选心灵的薄弱处趁虚而入。去做你们该做的事情，这里我来处理。</span></p>\n</div>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1",
+                  "4-2"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "刚才发生了什么……",
+                "content": "<p>嘉贝莉娜：你和人们的某种情绪发生了共鸣，声痕处形成了一道&ldquo;门&rdquo;，它将你再次拖入了&ldquo;幻境&rdquo;。</p>\n<p>嘉贝莉娜：那道&ldquo;门&rdquo;借助着你的存在，在现世无差别地向周遭散播恶意与恐惧&hellip;&hellip;在它未成形前，我闯入了你的幻境，关闭了它。</p>\n<p>漂泊者：我刚才看到了芬莱克、蜜芽，还有卡提希娅&hellip;&hellip;他们都走入了那道门。那道门扉之后的国度&hellip;&hellip;究竟是什么？</p>\n<p>嘉贝莉娜：&hellip;&hellip;那即是，利维亚坦所创造的国度，「巡游天国」。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "如果那扇“门”因我而启……",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-2",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "那么这是否意味着……",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-1",
+                "cid": [],
+                "pid": [
+                  "4-1",
+                  "4-2"
+                ],
+                "group": "5",
+                "title": "",
+                "content": "<p>嘉贝莉娜：阿维狄亚，是克里斯托弗故意创造出的&ldquo;幌子&rdquo;，他甚至将这个&ldquo;幌子&rdquo;在七丘预埋了数年之久&hellip;&hellip;当潮水退去，真相才会逐渐浮现&hellip;&hellip;</p>\n<p>嘉贝莉娜：漂泊者&hellip;&hellip;你，才是新一任的，黑潮的代行者。</p>\n<p>嘉贝莉娜：黑潮造物已经尽数退去，狄萨莱海脊的情况有所好转了。</p>\n<p>嘉贝莉娜：看起来，那些受伤的伤员，也已经被修会转运至埃弗拉德金库了。</p>\n<p>嘉贝莉娜：只是&hellip;&hellip;余下的人们&hellip;&hellip;利维亚坦在他们心灵中留下的创伤&hellip;&hellip;仍然需要抚慰&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "4adb4eec-0923-4162-93d4-39c1a4091d29": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>嘉贝莉娜：修会的教士们帮我们拖住了其他造物。抓住机会，直奔灾厄的源头吧。</p>\n<p>阿维狄亚：啊&hellip;&hellip;是你们啊&hellip;&hellip;</p>\n<p>阿维狄亚：抱歉&hellip;&hellip;竟然要让你们&hellip;&hellip;看到我这副丑陋的面貌&hellip;&hellip;</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "阿维狄亚……你为什么会变成这样？",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "2-2",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "狄萨莱海脊……为什么会变成这样？",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1",
+                  "4-2"
+                ],
+                "pid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "group": "3",
+                "title": "",
+                "content": "<p>阿维狄亚：文明之匣开启后，我也被卷入其中，被一道黑色的频率所裹挟，迷失在了里面。</p>\n<p>阿维狄亚：我看到了黎那汐塔的起源，也看到了许多&hellip;&hellip;黎那汐塔人的记忆。</p>\n<p>阿维狄亚：我还看见了&hellip;&hellip;卡利古拉，他有着和我一样的面孔&hellip;&hellip;他曾是我的过去，也是我的未来&hellip;&hellip;</p>\n<p>嘉贝莉娜：&hellip;&hellip;是利维亚坦利用黑潮的频率，强行给他植入了那段记忆。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "你说过要自己书写命运！",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-2",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "没有任何人能够决定你是谁！",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-1",
+                "cid": [],
+                "pid": [
+                  "4-1",
+                  "4-2"
+                ],
+                "group": "5",
+                "title": "",
+                "content": "<p>阿维狄亚：是啊，我曾说过&hellip;&hellip;要自己去撰写，去定义自己的&ldquo;存在&rdquo;&hellip;&hellip;</p>\n<p>阿维狄亚：离开那片空间后，我突然感知到了黑潮造物的动向，它们正在往狄萨莱海脊行进。我仍想&hellip;&hellip;做点什么，去阻止灾难的发生。</p>\n<p>阿维狄亚：可我又一次，在无意中，踏入了那条「混沌永恒的河流（命运）」：翡萨烈的古老记忆，因我的到来，而被提前唤醒了。</p>\n<p>阿维狄亚：无数黑潮造物因我而涌现&hellip;&hellip;我本想驱散它们，但&hellip;&hellip;我高估了我自己&hellip;&hellip;反而被它们侵蚀&hellip;&hellip;</p>\n<p>阿维狄亚：我所有的愿望&hellip;&hellip;所有的希冀与期盼，一切都是真实的&hellip;&hellip;可为何&hellip;&hellip;</p>\n<p>阿维狄亚：从七丘到拉古那，一切都是因为我&hellip;&hellip;也许，这就是无可逃避的命运&mdash;&mdash;卡利古拉，卡利古拉的命运在呼唤我。</p>\n<p>嘉贝莉娜：不好，他的意识，正在被卡利古拉的记忆覆盖&hellip;&hellip;</p>\n<p>阿维狄亚：这是命运要我承担的角色。命运注定要我成为疯王，我为何&hellip;&hellip;要拒绝它的加冕？</p>\n<p>阿维狄亚：因我是那个窥见&ldquo;命运&rdquo;之人&hellip;&hellip;我要将&ldquo;命运&rdquo;揭露给所有人&hellip;&hellip;</p>\n<p>阿维狄亚：但人们理解不了命运&hellip;&hellip;因此，我只好装扮成命运，换上神的那副，愚蠢又不可理解的面孔。</p>\n<p>疯王&middot;卡利古拉（阿维狄亚）：我即是&hellip;&hellip;手握非凡力量，自黑色浪潮中崛起的「王」&hellip;&hellip;我将平息汹涌的暗流与风波&hellip;&hellip;</p>\n<p>疯王&middot;卡利古拉（阿维狄亚）：并以旧王的血&hellip;&hellip;为无上的荣耀加冕。</p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "4d9630e4-8c32-4399-bae0-3dbe3a884757": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>坎特蕾拉：漂泊者？怎么突然回到了颠倒塔。</p>\n<p>漂泊者：我有些事情，需要找卡提希娅帮忙解决一下。</p>\n<p>漂泊者：颠倒塔这里，是出现什么异常了吗？</p>\n<p>坎特蕾拉：我才到不久，目前一切正常。我也并非是因为感知到异常才来到这里&hellip;&hellip;</p>\n<p>坎特蕾拉：有些事情，我也需要和卡提希娅确认一下&hellip;&hellip;</p>\n<p>砰&mdash;&mdash;！</p>\n<p>漂泊者：坎特蕾拉&hellip;&hellip;</p>\n<p>阿布：怎么会这样&hellip;&hellip;</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "……事情发生得太突然了。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "2-2",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "……我要她血债血偿！",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1",
+                  "4-2",
+                  "4-3",
+                  "4-4"
+                ],
+                "pid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "group": "3",
+                "title": "",
+                "content": "<p>漂泊者：那个人&hellip;&hellip;</p>\n<p>？？？：利维亚坦，我会为你献上&hellip;&hellip;&ldquo;她的死亡&rdquo;。</p>\n<p>漂泊者：（为什么&hellip;&hellip;眼前的这幅画面，也和我在&ldquo;那片梦境&rdquo;里看到的一模一样？）</p>\n<p>漂泊者：卡提希娅的声痕&hellip;&hellip;还在闪烁！坎特蕾拉，她&hellip;&hellip;</p>\n<p>坎特蕾拉：&hellip;&hellip;不，不对。卡提希娅的情况，有些奇怪&hellip;&hellip;我感知不到她的任何频率&hellip;&hellip;但&hellip;&hellip;</p>\n<p>坎特蕾拉：&hellip;&hellip;她仍在和什么保持着共鸣。</p>\n<p>阿布：一般情况下，共鸣者死去后，他的共鸣能力应该也会随着频率一同消失&hellip;&hellip;这太不符合常理了&hellip;&hellip;</p>\n<p>漂泊者：还有其他奇怪的地方&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "9-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "卡提希娅手中的剑……",
+                "content": "<p>漂泊者：方才，卡提希娅手中明明握着武器&hellip;&hellip;凭借她的实力，难道会无法战胜这样一个入侵者吗&hellip;&hellip;而且，她似乎没有做出任何抵抗的动作&hellip;&hellip;</p>\n<p>坎特蕾拉：「神权剑」，岁主曾在其中封存了自己「分离」的力量&hellip;&hellip;卡提希娅现在的状况，是分离的权能在起作用吗？</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-2",
+                "cid": [
+                  "9-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "被打碎的玻璃彩窗……",
+                "content": "<p>漂泊者：&hellip;&hellip;颠倒塔本身是一片被封印的索诺拉，除翡萨烈家族外，无人知晓它的存在。那个人&hellip;&hellip;又是如何找到这里的？</p>\n<p>漂泊者：她从外打破彩窗闯入，并非是&ldquo;撕裂空间&rdquo;之类的能力&hellip;&hellip;如今的颠倒塔由卡提希娅执掌，若有外人闯入，她会对此毫无察觉吗？</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-3",
+                "cid": [
+                  "9-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "地面上遗留的弹壳……",
+                "content": "<p>漂泊者：地上遗留的弹壳&hellip;&hellip;这个痕迹&hellip;&hellip;是黑潮的痕迹吗？</p>\n<p>阿布：是黑潮的气息，我绝不会认错！还有刚才那个突然冲出来的怪家伙，我在它的身上，也嗅到了一股子黑潮造物的频率&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-4",
+                "cid": [
+                  "7-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "这一切都有点蹊跷了……",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "7-1",
+                "cid": [
+                  "8-1",
+                  "8-2"
+                ],
+                "pid": [
+                  "4-4"
+                ],
+                "group": "7",
+                "title": "",
+                "content": "<p>漂泊者：&hellip;&hellip;坎特蕾拉，之前的事你还没有说完，你为什么会来到颠倒塔？</p>\n<p>坎特蕾拉：卡提希娅也是不久前突然联系到我，说是有要事需要商议。其中缘由，她并未对我做过多说明，只是嘱咐我一定要尽快赶来这里。</p>\n<p>坎特蕾拉：近来拉古那境内异闻与流言不断，我怀疑，会不会与黑潮或是利维亚坦的状况有关&hellip;&hellip;</p>\n<p>漂泊者：（我之前所经历的，真的只是一场梦境吗？为什么卡提希娅遇害的画面，转瞬便成为了事实&hellip;&hellip;）</p>\n<p>漂泊者：（刚才那个神秘人的力量，明显与黑潮有关，难道&hellip;&hellip;她也是&ldquo;黑潮的代行者&rdquo;？）</p>\n<p>漂泊者：&hellip;&hellip;无论如何，当下必须要先找到那个&ldquo;凶手&rdquo;，把一切问个清楚。</p>\n<p>坎特蕾拉：卡提希娅&hellip;&hellip;就交给我吧，我会将她带回家族的宅邸保护起来。追查凶手的事情，就拜托你了。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "8-1",
+                "cid": [
+                  "9-1"
+                ],
+                "pid": [
+                  "7-1"
+                ],
+                "group": "8",
+                "title": "阿布，能追踪凶手的频率吗？",
+                "content": "<p>阿布：<span class=\"playable-plot-text cursor-pointer\">放心吧，本布对黑潮的气味还是很敏感的！我们就循着黑潮的踪迹，去追那个凶手吧！</span></p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "8-2",
+                "cid": [
+                  "9-1"
+                ],
+                "pid": [
+                  "7-1"
+                ],
+                "group": "8",
+                "title": "阿布，能追踪黑潮的频率吗？",
+                "content": "<p>阿布：<span class=\"playable-plot-text cursor-pointer\">放心吧，本布对黑潮的气味还是很敏感的！我们就循着黑潮的踪迹，去追那个凶手吧！</span></p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "9-1",
+                "cid": [
+                  "10-1",
+                  "10-2"
+                ],
+                "pid": [
+                  "8-2",
+                  "8-1",
+                  "4-3",
+                  "4-2",
+                  "4-1"
+                ],
+                "group": "9",
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">阿布：<span class=\"playable-plot-text cursor-pointer\">奇怪&hellip;&hellip;气味就停在这里了呀&hellip;&hellip;怎么看不到人呢&hellip;&hellip;唔&hellip;&hellip;头有点晕晕的&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">漂泊者：<span class=\"playable-plot-text cursor-pointer\">和之前一样，黑潮的气息会让你不舒服，你先休息一下吧。我在这附近搜寻一下线索。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">漂泊者：<span class=\"playable-plot-text cursor-pointer\">阿布？这么快就睡着了&hellip;&hellip;嗜睡的症状应该早就解除了，是因为黑潮的影响吗？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">漂泊者：<span class=\"playable-plot-text cursor-pointer\">从颠倒塔出来开始&hellip;&hellip;拉古那的天空，为什么会变成这样？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">？？？：<span class=\"playable-plot-text cursor-pointer\">荣耀之枪&hellip;&hellip;贯穿吧！</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">？？？：<span class=\"playable-plot-text cursor-pointer\">竟然又让它逃掉了&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">阿维狄亚：<span class=\"playable-plot-text cursor-pointer\">以此枪为誓，我必守护我的盟友，击碎一切恶灵的胸膛。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">漂泊者：<span class=\"playable-plot-text cursor-pointer\">阿维狄亚，你怎么会在这里？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">阿维狄亚：<span class=\"playable-plot-text cursor-pointer\">只是在做一位七丘角斗士应做的事&mdash;&mdash;狩猎。</span></p>\n</div>\n<div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 align-middle text-neutral-400\">阿维狄亚：<span class=\"playable-plot-text cursor-pointer\">倒是阁下，上次不辞而别后，你这次还是这么行色匆匆啊？</span></p>\n</div>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "10-1",
+                "cid": [
+                  "11-1"
+                ],
+                "pid": [
+                  "9-1"
+                ],
+                "group": "10",
+                "title": "上次事情结束之后……",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "10-2",
+                "cid": [
+                  "11-1"
+                ],
+                "pid": [
+                  "9-1"
+                ],
+                "group": "10",
+                "title": "还是先说说你怎么在这里？",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "11-1",
+                "cid": [
+                  "12-1"
+                ],
+                "pid": [
+                  "10-1",
+                  "10-2"
+                ],
+                "group": "11",
+                "title": "",
+                "content": "<p>阿维狄亚：这些事说来话长，我们先说说更紧急的情况吧。阁下，也是为了追击那云闪之鳞而来？</p>\n<p>漂泊者：不，我在寻找另一个人，你有见过她吗？</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "12-1",
+                "cid": [
+                  "13-1"
+                ],
+                "pid": [
+                  "11-1"
+                ],
+                "group": "12",
+                "title": "（简要描述「凶手」的特征。）",
+                "content": "<p>阿维狄亚：银发紫瞳&hellip;&hellip;身上还燃烧着不祥的深色火焰&hellip;&hellip;阁下竟然也在寻找那位&ldquo;猎魔人（残象猎人）&rdquo;&hellip;&hellip;</p>\n<p>漂泊者：猎魔人&hellip;&hellip;听上去，你似乎知道一些她的情报？</p>\n<p>阿维狄亚：嗯，我也在尝试调查她。我怀疑，拉古那城爆发的残象潮，与她脱不了干系&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "13-1",
+                "cid": [
+                  "14-1"
+                ],
+                "pid": [
+                  "12-1"
+                ],
+                "group": "13",
+                "title": "等等，你说拉古那城遭到了残象潮袭击？",
+                "content": "<p>阿维狄亚：阁下似乎还不知道这件事&hellip;&hellip;？是不久前刚刚发生的事情。</p>\n<p>阿维狄亚：我本为寻找&ldquo;执笔之人&rdquo;前去拉古那城。当时我还在城中打听情报，大批残象&hellip;&hellip;准确说，是&ldquo;黑潮造物&rdquo;，突然出现在了城中&hellip;&hellip;</p>\n<p>阿维狄亚：不过残象潮现在已经被我们平息。只是&hellip;&hellip;由于起源信标遭到了破坏，公共声骸无法调用，拉古那城也不再安全。</p>\n<p>阿维狄亚：莫塔里家族和修会商议过后，决定将所有民众，往拥有私人声骸的埃弗拉德庇护所转移，集中保护。</p>\n<p>漂泊者：（残象潮是在我离开拉古那城后爆发的&hellip;&hellip;之前我还在城里的时候，也完全没有发觉任何征兆&hellip;&hellip;）</p>\n<p>阿维狄亚：云闪之鳞已经遁逃，道路已经安全了！</p>\n<p>埃格拉小镇居民：这里离埃弗拉德金库不远，我们可以保护好自己，一路上多谢你了，异乡的角斗士！</p>\n<p>阿维狄亚：我也是在协助埃格拉小镇居民转移时，从他们口中得知了一些，有关那位&ldquo;猎魔人&rdquo;的信息。</p>\n<p>阿维狄亚：她虽然自称为&ldquo;猎魔人&rdquo;，但有人却曾目睹过她与诸多残象为伴，率领它们一同行军的场面。</p>\n<p>阿维狄亚：而且，最近拉古那境内流言四起，灾异丛生。已有不少人证实，那些灾异和她出现的时间，地点，均有重合。</p>\n<p>阿维狄亚：前往拉古那的路上，我与她也有过一面之缘。而在她的身上，我发现了一股，你我都非常熟悉的，恶意的频率&mdash;&mdash;黑潮的频率。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "14-1",
+                "cid": [],
+                "pid": [
+                  "13-1"
+                ],
+                "group": "14",
+                "title": "我也是循着黑潮的频率来到了这里。",
+                "content": "<p>阿维狄亚：拉古那城出现的是黑潮造物，即使这场异变不是因她而起，二者也一定存在什么联系&hellip;&hellip;</p>\n<p>阿维狄亚：黑潮是黎那汐塔自古以来的大敌。如果阁下也在追查她，希望阁下，能够允许我与您同行，助您一臂之力。</p>\n<p>漂泊者：不过，你现在有什么可以追踪到她的线索吗？</p>\n<p>阿维狄亚：如果我的判断没错，方才我们所遭遇的云闪之鳞，同样身为黑潮的造物&hellip;&hellip;这是它遗留下来的频率。</p>\n<p>阿维狄亚：我们或许可以先行追踪它的下落，从而引出那猎魔人的踪迹。想要追猎黑潮，就用这个吧&hellip;&hellip;</p>\n<p>漂泊者：定向锚&hellip;&hellip;你居然还从七丘带了这个？</p>\n<p>阿维狄亚：哈哈&hellip;&hellip;算是巡猎时留下的习惯吧，阁下应该也很熟悉怎么使用了。</p>\n<p>阿维狄亚：看来，我能有幸再次与你一同狩猎了，漂泊者阁下。</p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "5245c7c8-fe58-4e83-beee-cef9d38a251e": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>吉尔贝：没用了，家主&hellip;&hellip;我的精神&hellip;&hellip;已经无法挽回了。将这些秘药，留着给更有希望被治愈的人用吧&hellip;&hellip;</p>\n<p>吉尔贝：我唯一不想的，就是以一个怪物的姿态死去，家主，拜托了&hellip;&hellip;别让我，成为利维亚坦的同谋&hellip;&hellip;</p>\n<p>吉尔贝：呃啊啊啊啊啊&hellip;&hellip;！我看到了&hellip;&hellip;末日&hellip;&hellip;天国&hellip;&hellip;终于要降临了&hellip;&hellip;</p>\n<p>坎特蕾拉：漂泊者&hellip;&hellip;她是&hellip;&hellip;你为什么，会和她在一起？</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "先相信我，之后和你解释……",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "2-2",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "先解决危机，之后和你解释……",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1",
+                  "4-2"
+                ],
+                "pid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "group": "3",
+                "title": "",
+                "content": "<p>嘉贝莉娜：&hellip;&hellip;翡萨烈家族与利维亚坦接触太深，那份久远深刻的恐惧被率先唤醒了。</p>\n<p>嘉贝莉娜：这才是进化后的黑潮真正恐怖的地方&hellip;&hellip;以人类绝望与悲伤的频率作为食粮，最终将人类的频率逆转为黑潮造物，化作真实存世。</p>\n<p>嘉贝莉娜：若是未被鸣式深度侵蚀，家族的&ldquo;解药&rdquo;尚能医治。但对那些，已经受到了深度侵蚀的人而言，他们的频率已无法再次逆转&hellip;&hellip;</p>\n<p>嘉贝莉娜：&hellip;&hellip;我们能做的，只有在他们彻底沦为怪物之前，替他们保留那一份至死为人的尊严。</p>\n<p>吉尔贝：家主&hellip;&hellip;请不要让我拖累到&hellip;&hellip;还留有希望的人&hellip;&hellip;</p>\n<p>嘉贝莉娜：翡萨烈的家主&hellip;&hellip;我理解，这是一个残酷的选择，如果无法下手的话&hellip;&hellip;就请让我来代行吧。</p>\n<p>坎特蕾拉：&hellip;&hellip;翡萨烈的血，只能由翡萨烈终结。</p>\n<p>吉尔贝：&hellip;&hellip;谢谢&hellip;&hellip;愿荣耀&hellip;&hellip;归于翡萨烈&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "吉尔贝……",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-2",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "坎特蕾拉……",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-1",
+                "cid": [],
+                "pid": [
+                  "4-1",
+                  "4-2"
+                ],
+                "group": "5",
+                "title": "",
+                "content": "<p>坎特蕾拉：&hellip;&hellip;逝者已逝，生者仍需继续前行&hellip;&hellip;翡萨烈，会永远铭记他们。</p>\n<p>坎特蕾拉：卡提希娅被我们保护在家族的密室，未见异常。是家族的圣像，突然开始在我们脑中散布低语&hellip;&hellip;黑潮造物也随之涌现。</p>\n<p>坎特蕾拉：那是利维亚坦的声音。祂&hellip;&hellip;似乎因某种存在的到来，被唤醒了。</p>\n<p>嘉贝莉娜：很可能是因为阿维狄亚，我们必须尽快找到他。</p>\n<p>坎特蕾拉：那位七丘的角斗士&hellip;&hellip;我们看见他向狄萨莱海脊的深处进发了。</p>\n<p>菲比：坎特蕾拉女士，漂泊者，我们来支援了！</p>\n<p>菲比：狄萨莱海脊竟然已经&hellip;&hellip;驱役所的成员，立刻架设临时信标，散播起源之光，阻止黑潮造物靠近！</p>\n<p>坚毅的教士：菲比大人，有一部分黑潮造物的频率，正在不断往狄萨莱海脊的深处聚集！</p>\n<p>嘉贝莉娜：漂泊者，阿维狄亚的事情，要交给我们了。</p>\n<p>坎特蕾拉：我会将家族的秘药，用共鸣能力尽可能地播撒出去，帮助你们减轻黑潮频率的影响。</p>\n<p>菲比：我们也会协助治疗其他伤员，守护好这片安全的阵地。修会的教士会为你们开路。拜托了，请一定要阻止这场灾难！</p>\n<p>坚毅的教士：无论岁主是否显圣，我们都将作为祂人间意志的化身，守护黎那汐塔！</p>\n<p>无畏的教士：起源之光啊，请庇佑我们：我们愿做岁主最为坚韧的兵士，起初如何，今日亦然！</p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "53d0cea4-cdab-4e4f-8770-26aef47520dc": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>嘉贝莉娜：空间崩塌的速度在加快，出口也在一点点关闭&hellip;&hellip;</p>\n<p>嘉贝莉娜：我们再快一些，马上就到了&hellip;&hellip;</p>\n<p>珂莱塔：漂泊者！还好&hellip;&hellip;看起来你没有遇上大麻烦。</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "我离开了多久？",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "2-2",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "我不在的时候，发生什么了？",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1",
+                  "4-2"
+                ],
+                "pid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "group": "3",
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">珂莱塔：<span class=\"playable-plot-text cursor-pointer\">自你被那道裂隙卷入，没有过去多少时间。先前那只幻化成&ldquo;芬莱克&rdquo;的造物被消灭后，其他黑潮造物基本都瓦解了。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">赞妮：<span class=\"playable-plot-text cursor-pointer\">这是最后一只。但凭借家族的「私人声骸」作为助力，完全足够抵御了。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">珂莱塔：<span class=\"playable-plot-text cursor-pointer\">也别小瞧了我们，拉古那人可没那么羸弱不堪。这些怪物，我们应付得来。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">嘉贝莉娜：<span class=\"playable-plot-text cursor-pointer\">飞廉之猩&hellip;&hellip;&ldquo;中枢&rdquo;被消灭后，这批黑潮造物已经消散。在下一批诞生前，金库这里已经安全了。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">嘉贝莉娜：<span class=\"playable-plot-text cursor-pointer\">以防万一，在周围架设起修会的终端，就能鉴别出那些拟作人形的黑潮造物，也能避免它们自金库内生成。</span></p>\n</div>\n<div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 align-middle text-neutral-400\">珂莱塔：<span class=\"playable-plot-text cursor-pointer\">这位，究竟是&hellip;&hellip;</span></p>\n</div>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "暂时的同盟助力。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-2",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "可以信任的伙伴。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-1",
+                "cid": [
+                  "6-1",
+                  "6-2"
+                ],
+                "pid": [
+                  "4-1",
+                  "4-2"
+                ],
+                "group": "5",
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">嘉贝莉娜：<span class=\"playable-plot-text cursor-pointer\">那位七丘的角斗士呢？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">赞妮：<span class=\"playable-plot-text cursor-pointer\">阿维狄亚先生，先于你们从那个异空间出来了。</span></p>\n</div>\n<div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 align-middle text-neutral-400\">赞妮：<span class=\"playable-plot-text cursor-pointer\">只是&hellip;&hellip;我们见他的精神状态，似乎并不是很好&hellip;&hellip;嘴里一直在念叨着&ldquo;要去解决危机&rdquo;之类的话，火急火燎地从这离开了。</span></p>\n</div>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "6-1",
+                "cid": [
+                  "7-1"
+                ],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "有办法追踪到他的去向吗？",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "6-2",
+                "cid": [
+                  "7-1"
+                ],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "这小子，怎么总爱到处乱跑……",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "7-1",
+                "cid": [
+                  "8-1",
+                  "8-2"
+                ],
+                "pid": [
+                  "6-1",
+                  "6-2"
+                ],
+                "group": "7",
+                "title": "",
+                "content": "<p>嘉贝莉娜：&hellip;&hellip;把手给我。</p>\n<p>嘉贝莉娜：先前战斗时，我在阿维狄亚身上留了一个标记。利用「巴罗尔（残象&ldquo;眼魔&rdquo;）」的力量，我可以共享他的视觉，寻找他的踪迹。</p>\n<p>阿维狄亚：必须&hellip;&hellip;尽快&hellip;&hellip;</p>\n<p>阿维狄亚：滚开！你们这些烦人的低语！</p>\n<p>阿维狄亚：我&hellip;&hellip;绝不承认，这样的命运&hellip;&hellip;</p>\n<p>阿维狄亚：这里&hellip;&hellip;一定还有我能做的事情&hellip;&hellip;</p>\n<p>阿维狄亚：我绝不会让同样的悲剧&hellip;&hellip;再次发生&hellip;&hellip;</p>\n<p>漂泊者：&hellip;&hellip;他去向了狄萨莱海脊。</p>\n<p>珂莱塔：联系不上坎特蕾拉&hellip;&hellip;那边的信标似乎被摧毁了。</p>\n<p>赞妮：黑云也正在往狄萨莱海脊聚集&hellip;&hellip;一定有什么异常发生了。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "8-1",
+                "cid": [
+                  "9-1"
+                ],
+                "pid": [
+                  "7-1"
+                ],
+                "group": "8",
+                "title": "我和她前去支援。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "8-2",
+                "cid": [
+                  "9-1"
+                ],
+                "pid": [
+                  "7-1"
+                ],
+                "group": "8",
+                "title": "你们在这守护好其他平民。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "9-1",
+                "cid": [],
+                "pid": [
+                  "8-1",
+                  "8-2"
+                ],
+                "group": "9",
+                "title": "",
+                "content": "<p>珂莱塔：&hellip;&hellip;好，这里交给我们。赞妮，去调用家族的运输声骸，协助漂泊者。</p>\n<p>嘉贝莉娜：用不着那么麻烦。将那些声骸，都投入到物资的运输工作里吧。</p>\n<p>嘉贝莉娜：跟上来，我们走空路。</p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "59e87bca-d912-4318-bf94-45f8ece7f989": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">漂泊者：<span class=\"playable-plot-text cursor-pointer\">怎么回事？阿维狄亚消失不见了？我们明明是同一时间跨越的入口。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">漂泊者：<span class=\"playable-plot-text cursor-pointer\">是那只云闪之鳞。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">黑潮造物&middot;云闪之鳞：<span class=\"playable-plot-text cursor-pointer\">&hellip;&hellip;开启&hellip;&hellip;门扉&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">？？？：<span class=\"playable-plot-text cursor-pointer\">竟然就这么径直闯了进来&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">漂泊者：<span class=\"playable-plot-text cursor-pointer\">这个声音是&hellip;&hellip;猎魔人？这里，是她布下的陷阱吗？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">漂泊者：<span class=\"playable-plot-text cursor-pointer\">幻觉又出现了&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">？？？：<span class=\"playable-plot-text cursor-pointer\">冷静点。你所处的只是一片幻境，它在利用你的战斗本能干扰你。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">？？？：<span class=\"playable-plot-text cursor-pointer\">坚定自己的信念，不要被它的低语影响。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">漂泊者：<span class=\"playable-plot-text cursor-pointer\">幻觉和痛觉都逐渐减轻了&hellip;&hellip;她是在帮助我？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">？？？：<span class=\"playable-plot-text cursor-pointer\">很好。看到场地中间的那个「茧」了吗？云闪之鳞只是个诱饵，那个「茧」才是这片领域的核心。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">？？？：<span class=\"playable-plot-text cursor-pointer\">把它清除掉，云闪之鳞也会随之消散，连同这片幻境一并破除。</span></p>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">漂泊者：<span class=\"playable-plot-text cursor-pointer\">成功了&hellip;&hellip;但&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">漂泊者：<span class=\"playable-plot-text cursor-pointer\">你到底是什么人！你究竟，对卡提希娅做了什么？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">？？？：<span class=\"playable-plot-text cursor-pointer\">&hellip;&hellip;问题还不到解答的时候。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">？？？：<span class=\"playable-plot-text cursor-pointer\">但我可以告诉你的是：我要找到黑潮的代行者，阻止更大的灾厄发生。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">漂泊者：<span class=\"playable-plot-text cursor-pointer\">她的声音彻底消失了&hellip;&hellip;先从这个地方离开吧。</span></p>\n</div>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "5adc89f2-5f4f-4be1-8a73-6ddb4f143775": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>漂泊者：这里是&hellip;&hellip;什么地方？</p>\n<p>漂泊者：进入前有听到克里斯托弗的声音&hellip;&hellip;又是他制造出的幻境吗？</p>\n<p>漂泊者：卜灵的铜镜没有反应&hellip;&hellip;阿布？</p>\n<p>漂泊者：&hellip;&hellip;阿布也没有回应。和七丘那次的情况有些不一样&hellip;&hellip;先往前走走看吧。</p>\n<p>克里斯托弗？：在循环往复，奔涌不息的浪潮里，她又一次跳入了命运的涡流。</p>\n<p>克里斯托弗？：很快，她将会戴上一顶崭新的冠冕&mdash;&mdash;那意旨注定的，永不容违逆。</p>\n<p>克里斯托弗？：她的结局早已昭然若揭，不过是&hellip;&hellip;偷得了片刻的安宁。</p>\n<p>克里斯托弗？：你所看到的这一切&hellip;&hellip;即是命运。</p>\n<p>克里斯托弗？：而现在，你的每一次迈步，都将牵引起一片潮汐。</p>\n<p>克里斯托弗？：究竟是命运主宰人，还是&hellip;&hellip;人主宰命运？</p>\n<p>克里斯托弗？：我期待着，由你来告诉我这个问题的答案&hellip;&hellip;</p>\n<p>漂泊者：这里&hellip;&hellip;究竟是&hellip;&hellip;</p>\n<p>石碑上的铭文：通过我，步入「璀璨擢升之途」&hellip;&hellip;通过我，进入「至福永恒之城」&hellip;&hellip;进入者&hellip;&hellip;需弃绝一切「希望」。</p>\n<p>漂泊者：（这些残象&hellip;&hellip;没有发动攻击？）</p>\n<p>苦信者集群：&hellip;&hellip;代行者&hellip;&hellip;请为我等开启&hellip;&hellip;天国的门扉&hellip;&hellip;</p>\n<p>？？？：回去吧，这里&hellip;&hellip;没有通往&ldquo;拯救&rdquo;的道路。</p>\n<p>？？？：利维亚坦，我会为你献上&hellip;&hellip;&ldquo;她的死亡&rdquo;。</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "5b3dcd64-58dd-42a6-9e33-c4f0628406ea": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">阿维狄亚：<span class=\"playable-plot-text cursor-pointer\">小心，有敌人出现了。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">阿维狄亚：<span class=\"playable-plot-text cursor-pointer\">&hellip;&hellip;是黑潮的造物。不必留情，给予它们应得的灭亡吧。</span></p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "618827f2-b588-4732-98ca-8cbbf148b877": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": ""
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "entryId": "1417172340329828352",
+            "linkType": 1
+          },
+          "nextLink": {
+            "entryId": "1423344971962478592",
+            "linkUrl": "暗潮将映的黎明",
+            "linkType": 1
+          },
+          "preLabel": "今夜，注定属于月亮",
+          "nextLabel": "暗潮将映的黎明"
+        },
+        "6c4549d4-9dec-429e-95bf-27c2a3006b99": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>翡萨烈的成员：是漂泊者阁下！太好了！</p>\n<p>漂泊者：这里发生什么了？</p>\n<p>翡萨烈的成员：这些黑潮造物突然在狄萨莱海脊涌现，我们被打了个措手不及&hellip;&hellip;</p>\n<p>嘉贝莉娜：交给我们。</p>\n<p>翡萨烈的成员：谢谢！家主大人还在前方拦截黑潮造物，漂泊者阁下，请您前去支援她吧！</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "70ba469f-74ef-4fa8-a872-5b5a6089770c": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>阿梅代奥：&ldquo;与众人一同前往，狂潮将诞的神国&hellip;&hellip;一切曾领受潮涌祝福者，也终将为潮涌所诅咒&hellip;&hellip;&rdquo;</p>\n<p>阿梅代奥：他用残缺的十四行诗诅咒拉古那人，不，不止&hellip;&hellip;他诅咒的是整个黎那汐塔&hellip;&hellip;如今，他的诅咒都要应验了&hellip;&hellip;</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "他这是怎么了……",
+                "content": "<p>夏空：漂泊者，你好呀。你有听说过，最近拉古那人开始&ldquo;做噩梦&rdquo;的事情吗？这位居民也出现了一样的情况&hellip;&hellip;</p>\n<p>阿梅代奥：我在梦中梦见了许多&hellip;&hellip;从未见过的怪物&hellip;&hellip;</p>\n<p>阿梅代奥：也许是因为有段时间，我经常研读那位&ldquo;神秘剧作家的残稿&rdquo;&hellip;&hellip;那些妖魔鬼怪的形象，都刻进了我的脑海&hellip;&hellip;</p>\n<p>阿梅代奥：我曾以为，那只是一个梦，是我的想象&hellip;&hellip;直到某天，我在野外&hellip;&hellip;亲眼看到了一只，与我梦中所见一模一样的残象！</p>\n<p>阿梅代奥：他用言语创造幻影，呼灵唤鬼，最终将想象化作现实&hellip;&hellip;这些都是他的词句，他的诅咒！</p>\n<p>阿梅代奥：只存在于诗文传说之中的鬼怪，如今都已登台&hellip;&hellip;他的伏笔&hellip;&hellip;早在几百年之前就埋下了&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "神秘的剧作家……",
+                "content": "<p>夏空：嗯&hellip;&hellip;是个不错的题材，故事里的那些鬼怪，我也挺想见识见识。</p>\n<p>阿梅代奥：夏空女士，您&hellip;&hellip;不害怕它们吗？</p>\n<p>夏空：我们的灵魂，跟它们同样永生不灭，它们又怎能加害得了我们呢？</p>\n<p>夏空：而且，既然他的剧本还没有完成，那这个结局，就该交给我们来书写了！</p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "7a01d655-2e1b-408a-9012-257c792d3e24": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">珂莱塔：<span class=\"playable-plot-text cursor-pointer\">赞妮，目前转移计划进展如何了？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">赞妮：<span class=\"playable-plot-text cursor-pointer\">拉古那百分之八十的居民均已完成转移。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">赞妮：<span class=\"playable-plot-text cursor-pointer\">但&hellip;&hellip;愚人剧团在接应黎乔利群岛的住民时，似乎在海上遇到了大风暴&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">珂莱塔：<span class=\"playable-plot-text cursor-pointer\">相信他们。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">莫塔里的成员：<span class=\"playable-plot-text cursor-pointer\">珂莱塔小姐！我们依照您的指令，已将藏区清空，可以容纳转运来的物资了！</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">珂莱塔：<span class=\"playable-plot-text cursor-pointer\">好，黎那汐塔最宝贵的财富，永远是创造它们的&ldquo;人&rdquo;。下一批云海列车也快抵达了，及时接应。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">莫塔里的成员：<span class=\"playable-plot-text cursor-pointer\">遵命！</span></p>\n</div>\n<div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 align-middle text-neutral-400\">珂莱塔：<span class=\"playable-plot-text cursor-pointer\">漂泊者。</span></p>\n</div>\n</div>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1",
+                  "3-2"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "这里有什么异常发生吗？",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">珂莱塔：<span class=\"playable-plot-text cursor-pointer\">如果你是指&hellip;&hellip;拉古那的异常的话&hellip;&hellip;你应该已经听说了，城中爆发了残象潮，公共声骸全部失控&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">赞妮：<span class=\"playable-plot-text cursor-pointer\">居民转移工作正在有序进行，目前埃弗拉德金库这边，还没有任何异常发生。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">赞妮：<span class=\"playable-plot-text cursor-pointer\">阿维狄亚先生，感谢您的协助，「庇护所」已经成功接收到埃格拉小镇的居民。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">阿维狄亚：<span class=\"playable-plot-text cursor-pointer\">分内之事。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">漂泊者：<span class=\"playable-plot-text cursor-pointer\">（奇怪&hellip;&hellip;我明明通过共感，察觉到黑潮造物出现在了埃弗拉德金库附近&hellip;&hellip;）</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\"><span class=\"\">砰&mdash;&mdash;！</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">赞妮：<span class=\"playable-plot-text cursor-pointer\">枪声&hellip;&hellip;有入侵者？</span></p>\n</div>\n<div>\n<div class=\"flex items-center align-center text-center w-full flex-row my-4 px-8 lg:px-16\" role=\"separator\" data-orientation=\"horizontal\">\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">？？？：<span class=\"playable-plot-text cursor-pointer\">黑潮的造物&hellip;&hellip;竟然已经进化到了这种程度。是突变，还是说&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">？？？：<span class=\"playable-plot-text cursor-pointer\">果然&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">赞妮：<span class=\"playable-plot-text cursor-pointer\">怀揣着杀意闯入了警戒区域，却没有触发周围的警报&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">珂莱塔：<span class=\"playable-plot-text cursor-pointer\">小心，她的能力，有些诡异&hellip;&hellip;</span></p>\n</div>\n<div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 align-middle text-neutral-400\">阿维狄亚：<span class=\"playable-plot-text cursor-pointer\">&hellip;&hellip;这些人，都是她杀的吗？</span></p>\n</div>\n</div>\n</div>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "光天化日之下，竟敢……",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-2",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "事情有些奇怪……先不要下定论。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "5-1",
+                  "5-2",
+                  "5-3"
+                ],
+                "pid": [
+                  "3-1",
+                  "3-2"
+                ],
+                "group": "4",
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">？？？：<span class=\"playable-plot-text cursor-pointer\">虚构与现实已经错乱，不要轻信于事物的表象。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">？？？：<span class=\"playable-plot-text cursor-pointer\">这才是&hellip;&hellip;他们的真正面目。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">阿维狄亚：<span class=\"playable-plot-text cursor-pointer\">黑潮能够腐化其他造物，你有着黑潮的力量&hellip;&hellip;我们怎么确信，这不是你的手段？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">？？？：<span class=\"playable-plot-text cursor-pointer\">那就选择你们愿意相信的。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">？？？：<span class=\"playable-plot-text cursor-pointer\">谨遵公正神明的一切律例，凡作恶者不得善终，唯行义者可享永生。邪恶必以兵刃灭绝，灾厄与其同盟必偕败亡&hellip;&hellip;</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">嘉贝莉娜，来自地狱的火魔&hellip;&hellip;这里，不欢迎你。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">漂泊者：<span class=\"playable-plot-text cursor-pointer\">（芬莱克？！他怎么会出现在这里？）</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">你残害我的子民，招致祸端灾殃，早已惹动神明的烈怒，必要将你赶回万劫地狱，才不再穷凶虏虐。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">像你这样的恶魔，理应在地狱中彻骨焚烧，在冥湖里痛哭悲号&hellip;&hellip;直到永远。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">嘉贝莉娜：<span class=\"playable-plot-text cursor-pointer\">好啊。若是你真能送我&ldquo;回到地狱&rdquo;，倒是省了我不少时间，我会对此感激不尽的。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">你的心中，对那庄严可畏的事物，竟无丝毫敬意，唯有&hellip;&hellip;亵渎与蔑视。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">恶魔，你的罪既长成，我将遵「至高神明」的旨意，消除你所造成的一切恶果，照你所行的予以审判。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">漂泊者：<span class=\"playable-plot-text cursor-pointer\">（她明明能够躲避这一记攻击&hellip;&hellip;是为了保护身后的平民？）</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">漂泊者：<span class=\"playable-plot-text cursor-pointer\">（而且芬莱克，他明明知道这里聚集着大量民众，却对此视若无睹，攻击没有任何收敛的迹象&hellip;&hellip;）</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">义人，我已为黎那汐塔诛灭邪叛的恶魔，为我的子民讨回血债。何故与我刀兵相向？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">黎那汐塔的未来危在旦夕，我等此时更应恪守「联结」与「拯救」之理。</span></p>\n</div>\n<div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 align-middle text-neutral-400\">芬莱克：<span class=\"playable-plot-text cursor-pointer\">得救之道，就在「文明之匣」中。义人，请将它托付予我，我会使用相应的权柄，打开&hellip;&hellip;通往神圣天国的大门。</span></p>\n</div>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-1",
+                "cid": [
+                  "6-1"
+                ],
+                "pid": [
+                  "4-1"
+                ],
+                "group": "5",
+                "title": "芬莱克，不可能出现在这里。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-2",
+                "cid": [
+                  "6-1"
+                ],
+                "pid": [
+                  "4-1"
+                ],
+                "group": "5",
+                "title": "我，从未和芬莱克提及过文明之匣。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-3",
+                "cid": [
+                  "6-1"
+                ],
+                "pid": [
+                  "4-1"
+                ],
+                "group": "5",
+                "title": "别人我不清楚，但我知道，你是代行者。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "6-1",
+                "cid": [],
+                "pid": [
+                  "5-1",
+                  "5-2",
+                  "5-3"
+                ],
+                "group": "6",
+                "title": "",
+                "content": "<p>漂泊者：除非&hellip;&hellip;你不是芬莱克。你&hellip;&hellip;到底是什么人？你的目的又是什么？</p>\n<p>芬莱克：&hellip;&hellip;流血，是避免不了的，流血必须引起流血。以不义开始的事业，也必须以罪恶使其巩固。</p>\n<p>芬莱克：&hellip;&hellip;我的目标，恒久统一而纯粹。一切，都是为了黎那汐塔最终能渡过那天劫，成为永无苦难的乐土。</p>\n<p>芬莱克：无需人来理解。仅须知：当一切似乎都无以为继的时候，我&hellip;&hellip;我们，即是最初，亦是最终的&ldquo;赦免与救赎&rdquo;。</p>\n<p>芬莱克：将文明之匣，交给我。</p>\n<p>嘉贝莉娜：&hellip;&hellip;你们的目标&hellip;&hellip;果然是「文明之匣」&hellip;&hellip;这就失去耐心了？</p>\n<p>芬莱克：&hellip;&hellip;死亡乃罪恶之果&hellip;&hellip;抗拒死亡，即是抗拒神明的旨意。</p>\n<p>嘉贝莉娜：就凭你们？你和你们的神明&hellip;&hellip;可杀不死我&hellip;&hellip;</p>\n<p>嘉贝莉娜：黑潮所造的伪物&hellip;&hellip;今日，该是你的受审之日。</p>\n<p>芬莱克：我是领受了神明赐福的「神启者」，是神明与命运一同，为我加上了冠冕。</p>\n<p>嘉贝莉娜：这么说，你就是这批造物的&ldquo;中枢&rdquo;了&hellip;&hellip;总算钓出来了。事到如今，还想要继续伪装下去吗？</p>\n<p>芬莱克：受命运嘲弄者，妖言惑众，为众人鄙弃的恶魔&hellip;&hellip;你驱使着黑潮的力量，又有何资格审判我？</p>\n<p>嘉贝莉娜：可惜，要审判&ldquo;你&rdquo;的，并非是我。既然黑潮的力量无法让人们相信&hellip;&hellip;那这样如何？</p>\n<p>嘉贝莉娜：&ldquo;定罪是众节使的工作，审判乃英白拉多的职责&rdquo;&hellip;&hellip;</p>\n<p>嘉贝莉娜：&mdash;&mdash;在英白拉多的光辉之下，忏悔吧。</p>\n<p>阿维狄亚：这是&hellip;&hellip;起源之光？</p>\n<p>嘉贝莉娜：看来，你们已经做出判断了。</p>\n<p>嘉贝莉娜：对这些虚伪的存在（黑潮造物），不需要有任何留手。</p>\n<p>嘉贝莉娜：还有，保护好你手中的文明之匣，这才是它们最终的目标。</p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "7e13c4d4-922b-4d81-80ca-6a79ddef6baa": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>克里斯托弗：多么令人动情的一幕。这可悲的，挣扎的，注定灭亡的人，竟然在最后一刻，超越了自己的命运。</p>\n<p>克里斯托弗：&hellip;&hellip;但很可惜，他的剧本早已拟定。在这一幕，注定要退场。</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "执笔之人……你终于肯现身了。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "2-2",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "阿维狄亚，是你创造出来的人物。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1",
+                  "4-2"
+                ],
+                "pid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "group": "3",
+                "title": "",
+                "content": "<p>克里斯托弗：谎言重复一千遍，便会成为真实。将记忆、过往、经历，结合在一起，亦能创造一个&ldquo;存在于他人认知中&rdquo;的人。</p>\n<p>克里斯托弗：但若想成为&ldquo;真实&rdquo;，他的路途依然遥远。我不过是为他捏造了一副躯壳，为他提供了足以行走世间的形体。</p>\n<p>克里斯托弗：而最终创造他的，只能是他自己。</p>\n<p>克里斯托弗：一个诞生于谎言的存在，若想为自己这无意义的生命重建价值，必须要追问自身存在的意义，并去迎接那些随之而来的折磨与苦难&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "你真是一个，残忍的造物者……",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-2",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "你对笔下的人物没有任何同情吗？",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-1",
+                "cid": [
+                  "6-1",
+                  "6-2"
+                ],
+                "pid": [
+                  "4-1",
+                  "4-2"
+                ],
+                "group": "5",
+                "title": "",
+                "content": "<p>克里斯托弗：理解他的欲望与追求，理解他的黑暗与软弱&hellip;&hellip;将人物的灵魂剖析得淋漓尽致，有时未必是出于一种残忍。</p>\n<p>克里斯托弗：人是命运嘲弄的牺牲品，我只是为他们揭示了命运，为他们点燃了如焚的饥渴，激发了他们的「自由意志」。</p>\n<p>克里斯托弗：在矛盾与冲突中挣扎，痛苦会令其蜕变，悲剧会使其崇高。只有这样，一个人才能真正得到超越与升华，直至触碰&hellip;&hellip;&ldquo;不朽&rdquo;的门阶。</p>\n<p>克里斯托弗：残忍&hellip;&hellip;感谢你的&ldquo;褒奖&rdquo;。至少，它足以证明，这个故事成功引起了你的&ldquo;怜悯与激愤&rdquo;&hellip;&hellip;如此，你已具有走入终幕的资格。</p>\n<p>克里斯托弗：那便前往七丘吧。终幕，即将在七丘上演&mdash;&mdash;我将以黑潮为墨，改写黎那汐塔的命运。</p>\n<p>克里斯托弗：是默然忍受命运暴虐的毒箭，还是挺身反抗人世无涯的苦难&hellip;&hellip;我同样期待，你最终给出的答案。</p>\n<p>嘉贝莉娜：你在黎那汐塔降下无数灾难，就想这样一走了之？</p>\n<p>克里斯托弗：我的舞台不在此处。在这一幕中，我的身份只是一个报幕者。</p>\n<p>克里斯托弗：但二位既然如此心切，我便再留下一个提示吧。故弄玄虚的戏剧性反讽，也并非我钟爱的手法。</p>\n<p>克里斯托弗：文明之匣已经被黑潮侵染，它的开启，并不再需要什么鸣式的权柄&hellip;&hellip;一滴黑潮所凝的甘露，便已足够。</p>\n<p>克里斯托弗：而一个以黑潮为质料，虚构出来的存在，怎么可能成为&ldquo;现实的锚点&rdquo;呢？</p>\n<p>克里斯托弗：记得留心，当黑暗的潮水退去，海面下隐藏的真相&hellip;&hellip;才会逐渐浮现。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "6-1",
+                "cid": [
+                  "7-1"
+                ],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "他说的话是什么意思？",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "6-2",
+                "cid": [
+                  "7-1"
+                ],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "阿维狄亚不是代行者？",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "7-1",
+                "cid": [
+                  "8-1",
+                  "8-2",
+                  "8-3"
+                ],
+                "pid": [
+                  "6-1",
+                  "6-2"
+                ],
+                "group": "7",
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">嘉贝莉娜：<span class=\"playable-plot-text cursor-pointer\">黑潮的代行者，是黑潮造物降世所需的「现实锚点」，必须是一个&ldquo;真实存在的个体&rdquo;。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">嘉贝莉娜：<span class=\"playable-plot-text cursor-pointer\">方才，在吸收黑潮造物时，我确实有感知到，阿维狄亚的本质&hellip;&hellip;同样是黑潮的造物。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">漂泊者：<span class=\"playable-plot-text cursor-pointer\">但&hellip;&hellip;先前&ldquo;英白拉多的光辉&rdquo;，为什么没有令他现出原形？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">嘉贝莉娜：<span class=\"playable-plot-text cursor-pointer\">他的那些愿望与话语，都是真实的。也许他终究不如太阳耀眼，但行走在阳光之下，多少也会受到太阳的垂耀。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">嘉贝莉娜：<span class=\"playable-plot-text cursor-pointer\">还有那份，至死不愿沦为黑暗爪牙的决心&hellip;&hellip;这些都让他构建出了，属于自己的「真实」。</span></p>\n</div>\n<div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 align-middle text-neutral-400\">嘉贝莉娜：<span class=\"playable-plot-text cursor-pointer\">也正是因此，他才会正中&ldquo;执笔之人&rdquo;的下怀，成为他掩盖真相的&ldquo;祭品&rdquo;。所有美好的愿望，都被尽数利用，如此荒诞的命运&hellip;&hellip;</span></p>\n</div>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "8-1",
+                "cid": [
+                  "9-1"
+                ],
+                "pid": [
+                  "7-1"
+                ],
+                "group": "8",
+                "title": "他遏制住了拉古那灾难的爆发。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "8-2",
+                "cid": [
+                  "9-1"
+                ],
+                "pid": [
+                  "7-1"
+                ],
+                "group": "8",
+                "title": "他仍然成功扭转了自己的命运。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "8-3",
+                "cid": [
+                  "9-1"
+                ],
+                "pid": [
+                  "7-1"
+                ],
+                "group": "8",
+                "title": "……那位剧作家才是始作俑者。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "9-1",
+                "cid": [],
+                "pid": [
+                  "8-1",
+                  "8-2",
+                  "8-3"
+                ],
+                "group": "9",
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">漂泊者：<span class=\"playable-plot-text cursor-pointer\">阿维狄亚，不该承受这样的命运&hellip;&hellip;我会继承他与命运斗争的决心，将那个充满希望的故事，续写下去。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">嘉贝莉娜：<span class=\"playable-plot-text cursor-pointer\">嗯。承他所愿&hellip;&hellip;我们必须要阻止更大的悲剧发生。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">嘉贝莉娜：<span class=\"playable-plot-text cursor-pointer\">我们先回坎特蕾拉那边，查看一下伤员的情况吧。代行者另有其人，一定还有什么我们遗漏的线索&hellip;&hellip;</span></p>\n</div>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "7e7b551b-b99d-49a6-9508-50e34bb1c34c": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>漂泊者：文明之匣里，竟然藏有一个空间&hellip;&hellip;</p>\n<p>漂泊者：但为什么文明之匣会突然开启&hellip;&hellip;是刚才阿维狄亚和我接触到它的时候&hellip;&hellip;</p>\n<p>？？？：御者&hellip;&hellip;</p>\n<p>漂泊者：是英白拉多的声音？英白拉多&hellip;&hellip;你还有想告诉我的事吗？</p>\n<p>英白拉多：检测到对应权限&mdash;&mdash;御者。</p>\n<p>英白拉多：正在为您，解除限制&mdash;&mdash;</p>\n<p>英白拉多：御者，这一时刻&hellip;&hellip;还是到来了&hellip;&hellip;</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1",
+                  "3-2"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "英白拉多……是你吗？",
+                "content": "<p>英白拉多：御者，很遗憾&hellip;&hellip;我只是一段根据开启者的不同，而自动选择触发的留言。</p>\n<p>英白拉多：这里的时间相对外界，几乎等同静止，我们尚有时间。</p>\n<p>英白拉多：利维亚坦，与我融合后，在攫取了我的部分智识的同时，也攫取了我一缕「分离的权能」。</p>\n<p>英白拉多：我虽未知晓祂全部的计划，但作为保险，我提前将一部分底层数据分离，凝聚为了这个空间&hellip;&hellip;文明之匣。</p>\n<p>英白拉多：这里记录着黎那汐塔文明的源起与诞生，封存着黎那汐塔人最为古老的一段记忆。</p>\n<p>英白拉多：我们曾为这海洋文明绘制了最初的蓝图（命运），但如今，我也已将它尘封于此。</p>\n<p>英白拉多：御者，请听我诉说吧&hellip;&hellip;那关于&hellip;&hellip;黎那汐塔的起源&hellip;&hellip;</p>\n<p>英白拉多：起初</p>\n<p>英白拉多：生命在浪潮中沉浮</p>\n<p>英白拉多：那流离失所的生民</p>\n<p>英白拉多：藉由我的指引</p>\n<p>英白拉多：迁徙至群岛之上</p>\n<p>英白拉多：我将「知识与技术（起源信标）」留于岛屿</p>\n<p>英白拉多：希冀人们走向自由的道路</p>\n<p>虔诚的民众：感谢您的指引&hellip;&hellip;</p>\n<p>崇拜的民众：我们将遵循您的旨意&hellip;&hellip;</p>\n<p>敬仰的民众：在这里建立自己的城邦&hellip;&hellip;</p>\n<p>英白拉多：&ldquo;凝聚与联结&rdquo;</p>\n<p>英白拉多：成为了文明最初的质料</p>\n<p>英白拉多：利维亚坦抓住了人们对&ldquo;联结的渴望&rdquo;</p>\n<p>英白拉多：化作文明的心魔降生</p>\n<p>英白拉多：祂假借我名</p>\n<p>英白拉多：伪造神迹</p>\n<p>英白拉多：虚构恩典</p>\n<p>英白拉多：欲从集中僵化的思想中汲取力量</p>\n<p>混乱的民众：我们领受着汪洋的赐福&hellip;&hellip;</p>\n<p>失常的民众：因您而&ldquo;联结&rdquo;</p>\n<p>失常的民众：因您而&ldquo;诞生&rdquo;</p>\n<p>疯癫的民众：从海中来的</p>\n<p>疯癫的民众：也终将归于海洋</p>\n<p>英白拉多：在文明建立之初</p>\n<p>英白拉多：祂已侵入了人们的精神与信仰</p>\n<p>英白拉多：我曾与之对抗</p>\n<p>英白拉多：却因此引发黑潮</p>\n<p>英白拉多：为黎那汐塔留下了累累创伤</p>\n<p>英白拉多：我&hellip;&hellip;重新开始思考</p>\n<p>英白拉多：自己的所为</p>\n<p>英白拉多：鸣式牵引着黎那汐塔的命运</p>\n<p>英白拉多：我亦曾引导黎那汐塔的走向</p>\n<p>英白拉多：我与祂的行为本质无异</p>\n<p>英白拉多：我们在以自己的意志塑造文明</p>\n<p>英白拉多：而这片土地上的人们</p>\n<p>英白拉多：却从未拥有主宰的机会</p>\n<p>英白拉多：文明注定与鸣式相伴而行</p>\n<p>英白拉多：不存在一劳永逸的长久之计</p>\n<p>英白拉多：我是否有权力</p>\n<p>英白拉多：决定他们的命运</p>\n<p>英白拉多：能塑造文明的</p>\n<p>英白拉多：应是&ldquo;人们自己&rdquo;</p>\n<p>英白拉多：也只有人，才能决定文明，最终该何去何从&hellip;&hellip;</p>\n<p>英白拉多：后来之事，您应已知晓。我最终允许了鸣式的存在，选择了与之共生，并以我来为鸣式添上枷锁。身染，并解析祂。</p>\n<p>英白拉多：我曾征询过您的意见，而您也给予了我&hellip;&hellip;选择的自由。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "换做现在，我也会做出同样的答复。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-2",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "你已经做得很好了，剩下的，交给我。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "5-1",
+                  "5-2"
+                ],
+                "pid": [
+                  "3-1",
+                  "3-2"
+                ],
+                "group": "4",
+                "title": "",
+                "content": "<p>漂泊者：我还有疑问&hellip;&hellip;文明之匣，为何需要鸣式的权柄才能打开？</p>\n<p>英白拉多：与利维亚坦融合后，我分离了祂的一段频率&hellip;&hellip;一段&ldquo;记忆&rdquo;，将其封存于此。</p>\n<p>英白拉多：文明之匣，理应交付于您手中。我本设想，它需您与那位，同时掌握我与利维亚坦两种力量的共鸣者一同开启。</p>\n<p>漂泊者：但如果&hellip;&hellip;这位共鸣者最后成为了鸣式的傀儡&hellip;&hellip;</p>\n<p>英白拉多：若是如此，那时黎那汐塔必然已经沦陷，这匣中的真相，也已无关紧要。</p>\n<p>英白拉多：而若是她与人类站在了一起，这对她与您而言，便是必要的真相。</p>\n<p>英白拉多：利维亚坦，因人们&ldquo;对联结的渴望&rdquo;而化作心魔诞生，因人们&ldquo;对大海的恐惧&rdquo;而呈现为&ldquo;巨鱼&rdquo;的形象。</p>\n<p>英白拉多：早在文明伊始，祂就已侵蚀了人们的思想，成为了潜伏在人们心灵深处的古老阴影。</p>\n<p>英白拉多：文明之匣的开启，将逐渐唤起黎那汐塔人最为古老的那段记忆。利维亚坦也必会尝试，借由我们最初拟定的蓝图，掌握黎那汐塔的命运。</p>\n<p>英白拉多：而黎那汐塔人&hellip;&hellip;若想走向一个&ldquo;没有神明的未来&rdquo;&hellip;&hellip;也必须要面对这段过去，直面心灵中&ldquo;最原始的那份恐惧&rdquo;，战胜&ldquo;文明的心魔&rdquo;。</p>\n<p>英白拉多：御者&hellip;&hellip;离别之时已至，请去联结起所有的希望吧&hellip;&hellip;若一切顺利，此后黎那汐塔，将不再有任何神明。</p>\n<p>英白拉多：待心中的阴霾驱散，黎那汐塔也将迎来，真正的黎明&hellip;&hellip;人类，一定能够到达，一个崭新的，不在我们记录中的未来&hellip;&hellip;</p>\n<p>？？？：正如信众们相信着英白拉多一样，英白拉多，也始终相信着人类。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-1",
+                "cid": [
+                  "6-1"
+                ],
+                "pid": [
+                  "4-1"
+                ],
+                "group": "5",
+                "title": "（拔剑）",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-2",
+                "cid": [
+                  "6-1"
+                ],
+                "pid": [
+                  "4-1"
+                ],
+                "group": "5",
+                "title": "（不拔剑）",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "6-1",
+                "cid": [
+                  "7-1",
+                  "7-2"
+                ],
+                "pid": [
+                  "5-1",
+                  "5-2"
+                ],
+                "group": "6",
+                "title": "",
+                "content": "<p>漂泊者：你曾在我的面前杀害圣女，拉古那的灾异也与你有着千丝万缕的联系&hellip;&hellip;这一切，我需要你给我一个解释。</p>\n<p>嘉贝莉娜：&hellip;&hellip;如果我说，我是为了&ldquo;救回卡提希娅&rdquo;在行动呢？</p>\n<p>嘉贝莉娜：这里有岁主力量保护，利维亚坦一时半会儿还窥视不到我们&hellip;&hellip;这个，可以交给你了。</p>\n<p>卡提希娅的频率留言：漂泊者，相信她，也相信我&hellip;&hellip;我们所做的一切&hellip;&hellip;都是为了&hellip;&hellip;击败&hellip;&hellip;利维亚坦&hellip;&hellip;</p>\n<p>漂泊者：的确是卡提希娅用自己的频率所留&hellip;&hellip;</p>\n<p>嘉贝莉娜：我需要你接受这个事实：卡提希娅，已经&ldquo;死了&rdquo;，她只是仍有&ldquo;归来&rdquo;的可能。但前提同样是&hellip;&hellip;我们能够击败利维亚坦。</p>\n<p>漂泊者：&hellip;&hellip;击败利维亚坦？祂不是已经被卡提希娅融合了吗？</p>\n<p>嘉贝莉娜：现在&hellip;&hellip;利维亚坦，即将&ldquo;重生&rdquo;了。</p>\n<p>嘉贝莉娜：利维亚坦攫取了岁主部分的权能，在你与圣女战斗之时，「分离」出了一缕频率，逃入了一枚「宝石」之中&mdash;&mdash;你应该也接触过它。</p>\n<p>嘉贝莉娜：那颗宝石，最终落入了残星会手中。而他们在黎那汐塔行动的最终目的，即是利用「宝石」培育利维亚坦，令其重获新生。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "7-1",
+                "cid": [
+                  "8-1"
+                ],
+                "pid": [
+                  "6-1"
+                ],
+                "group": "7",
+                "title": "又是残星会这群家伙……",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "7-2",
+                "cid": [
+                  "8-1"
+                ],
+                "pid": [
+                  "6-1"
+                ],
+                "group": "7",
+                "title": "没想到利维亚坦这么阴险……",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "8-1",
+                "cid": [
+                  "9-1",
+                  "9-2"
+                ],
+                "pid": [
+                  "7-1",
+                  "7-2"
+                ],
+                "group": "8",
+                "title": "",
+                "content": "<p>漂泊者：残星会竟然在暗中培育鸣式&hellip;&hellip;他们的计划，是从什么时候开始的&hellip;&hellip;</p>\n<p>嘉贝莉娜：也许比我们想象中还要久远。卡提希娅与你的交锋，可能也是「剧本」的一部分：为让利维亚坦从岁主的枷锁中，获得逃离的机会。</p>\n<p>漂泊者：连我和卡提希娅的那一战你都知道&hellip;&hellip;你到底是什么人？而且这么重要的事，卡提希娅为什么没有告诉我？</p>\n<p>嘉贝莉娜：就将我当成一位&hellip;&hellip;回来找利维亚坦寻仇的复仇者吧。至于其他的事情&hellip;&hellip;</p>\n<p>嘉贝莉娜：新一任「黑潮的代行者」已经出现了。在找到他之前&hellip;&hellip;我们必须保证计划的隐秘，以防最坏的情况发生。</p>\n<p>嘉贝莉娜：我们首要的任务也是找到他。否则，拉古那，随时都有可能出现爆发黑潮的风险。</p>\n<p>漂泊者：你的意思是，拉古那的黑潮造物，都是「代行者」带来的。</p>\n<p>嘉贝莉娜：并不全是。黑潮的代行者，只能与黎那汐塔人的负面情绪产生共鸣，作为黑潮造物的存世锚点，加速它们的生成。</p>\n<p>嘉贝莉娜：如果这类情绪足够强烈，而代行者又在附近&hellip;&hellip;黑潮造物，能够基于代行者的记忆与认知&ldquo;进化&rdquo;，变成更加具体的形象，甚至拟作人形。</p>\n<p>嘉贝莉娜：你应该已经注意到了。拉古那境内出现的黑潮造物，已经出现了拟人的态势，也就说明&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "9-1",
+                "cid": [
+                  "10-1"
+                ],
+                "pid": [
+                  "8-1"
+                ],
+                "group": "9",
+                "title": "代行者，目前就在拉古那。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "9-2",
+                "cid": [
+                  "10-1"
+                ],
+                "pid": [
+                  "8-1"
+                ],
+                "group": "9",
+                "title": "代行者，甚至可能就在我们附近。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "10-1",
+                "cid": [
+                  "11-1",
+                  "11-2"
+                ],
+                "pid": [
+                  "9-1",
+                  "9-2"
+                ],
+                "group": "10",
+                "title": "",
+                "content": "<p>嘉贝莉娜：没错。而我一直在狩猎的，都是黑潮的造物&mdash;&mdash;它们彼此共享着认知与记忆，我可以通过猎杀它们，获取它们的情报。</p>\n<p>嘉贝莉娜：它们正注视着你，企图开启你手中的「文明之匣」&hellip;&hellip;我想，只要继续关注你的动向，或许就能揪出这批造物的&ldquo;中枢&rdquo;，甚至是找到代行者。</p>\n<p>嘉贝莉娜：如果文明之匣，必须由岁主与鸣式的两股力量，同时作用才能开启&hellip;&hellip;而在你和那位角斗士，触碰到它的一瞬&hellip;&hellip;</p>\n<p>漂泊者：你在怀疑阿维狄亚。但&hellip;&hellip;你同样拥有能够驱使黑潮的力量&hellip;&hellip;</p>\n<p>嘉贝莉娜：保持警惕，对一位猎手而言是种美德。不错，这是来自于黑潮的力量不假&hellip;&hellip;但在利维亚坦眼中，我早就已经是个&ldquo;死人&rdquo;了。</p>\n<p>嘉贝莉娜：这份力量，现在由我驱使，该击向何人，也由我来决定。</p>\n<p>嘉贝莉娜：你也可以试着来阻止我，但我，决不会停止这场狩猎。</p>\n<p>嘉贝莉娜：灾难面前，我相信，你会清楚，自己的剑刃该指向何方。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "11-1",
+                "cid": [
+                  "12-1"
+                ],
+                "pid": [
+                  "10-1"
+                ],
+                "group": "11",
+                "title": "我暂时可以相信你。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "11-2",
+                "cid": [
+                  "12-1"
+                ],
+                "pid": [
+                  "10-1"
+                ],
+                "group": "11",
+                "title": "我相信卡提希娅的判断。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "12-1",
+                "cid": [],
+                "pid": [
+                  "11-1",
+                  "11-2"
+                ],
+                "group": "12",
+                "title": "",
+                "content": "<p>嘉贝莉娜：呵&hellip;&hellip;好，那便与我一同，展开这场狩猎吧&hellip;&hellip;直至为利维亚坦，献上一场，最盛大的死亡。</p>\n<p>嘉贝莉娜：岁主的频率彻底消失了，闲聊时间比我想象中短暂&hellip;&hellip;利维亚坦的力量已经开始蔓延，不久之后就会摧毁这片空间，我们先想办法离开这。</p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "83c86890-7958-4f27-8f83-4a2bae3b80f5": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>漂泊者：操控气流开辟风轨&hellip;&hellip;这是你的共鸣能力吗？</p>\n<p>嘉贝莉娜：算是其中之一。我的体内拥有残象「哈尔庇恩（鹰身女妖）」的力量。</p>\n<p>漂泊者：不是声骸，而是残象&hellip;&hellip;你能通过肉身吸收残象？</p>\n<p>嘉贝莉娜：可以这么说。「巴罗尔（残象&ldquo;眼魔&rdquo;）」也是其中之一。</p>\n<p>漂泊者：而且还不止一只&hellip;&hellip;我对你的能力和经历有些好奇了。</p>\n<p>嘉贝莉娜：有机会的话，我会慢慢讲给你听。但现在&hellip;&hellip;</p>\n<p>漂泊者：我们，需要尽快找到代行者&hellip;&hellip;还有什么识别他们的依据吗？</p>\n<p>嘉贝莉娜：被黑潮侵蚀，是成为代行者的先决条件。但这种侵蚀，有时并不会在外表上直接显现。</p>\n<p>嘉贝莉娜：我们只能通过与之关联的异象进行推测，尝试提前做好应对的准备。</p>\n<p>嘉贝莉娜：已经进入狄萨莱海脊的范围了。我能感知到，已经有黑潮造物出现了&hellip;&hellip;</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "ae70a236-58a6-404f-8511-692974e997f9": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1",
+                  "2-2",
+                  "2-3"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>布兰特：漂泊者&hellip;&hellip;漂泊者！</p>\n<p>洛可可：我们可以试试这个&hellip;&hellip;&ldquo;噩梦清醒仪&rdquo;&mdash;&mdash;</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "我醒了我醒了！",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "2-2",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "太好了，你们没事……",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "2-3",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "我好像看见了天堂……",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1",
+                  "2-2",
+                  "2-3"
+                ],
+                "group": "3",
+                "title": "",
+                "content": "<p>阿布：漂泊者！你终于醒了&hellip;&hellip;我刚才突然头晕了一下，然后就发现你昏倒在了地上&hellip;&hellip;</p>\n<p>漂泊者：我没事&hellip;&hellip;刚才&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "（讲述自己方才所见……）",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-1",
+                "cid": [
+                  "6-1",
+                  "6-2",
+                  "6-3"
+                ],
+                "pid": [
+                  "4-1"
+                ],
+                "group": "5",
+                "title": "",
+                "content": "<p>布兰特：嗯&hellip;&hellip;听起来，是和拉古那城里人相似的情况啊&hellip;&hellip;</p>\n<p>布兰特：据我们所知，很多拉古那人，最近都做起了一些奇怪的梦，剧团的成员也有过这种经历。</p>\n<p>布兰特：虽说梦境的内容不尽相同，但在那些诡异的梦中，人们最后都梦见了同一个画面&hellip;&hellip;黎那汐塔灭亡的景象。</p>\n<p>布兰特：而且，奇怪的事不止于&ldquo;梦境&rdquo;&hellip;&hellip;漂泊者，不知道你有没有听说，黎那汐塔，近来也出现了很多怪谈。</p>\n<p>布兰特：有人曾在野外，目睹到了许多本不属于黎那汐塔的残象，或是看见了自己已故祖先的魂灵&hellip;&hellip;据说就连七丘那边，也出现了类似的情况。</p>\n<p>洛可可：也是因为这些奇奇怪怪的事情，拉古那城的氛围都变得压抑了。</p>\n<p>洛可可：剧团今天之所以会在这演出，也是因为布兰特提议编排一出新戏，活络一下城中的气氛，给人们带去些许力量和鼓舞。</p>\n<p>布兰特：不过奇怪的是，似乎只有黎那汐塔人才会出现这样的梦境。外来的游客们都没受影响，你也不应该出现这种情况才对。</p>\n<p>&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "6-1",
+                "cid": [],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "你们有做过类似的梦吗？",
+                "content": "<p>洛可可：唔&hellip;&hellip;洛可可和布兰特都还没有做过类似的梦。倒是有位剧团成员，说是曾梦见自己坠入了一片，巨大的黑色海洋&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "6-2",
+                "cid": [],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "你们有遇到过类似的异象吗？",
+                "content": "<p>布兰特：最近风暴海中的残象，的确变得更加活跃了。最最诡异的是，我们听到那些&ldquo;海妖&rdquo;所唱的曲目，似乎都改换为了修会的「圣歌」&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "6-3",
+                "cid": [],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "我会想办法调查一下的。",
+                "content": "<p>布兰特：嗯，我们会尽可能再多收集一些情报。或者你也可以在城中打听一下，看看你们的经历有什么相合的地方。</p>\n<p>布兰特：黎那汐塔的海潮最近并不平静，漂泊者，注意安全。</p>\n<p>漂泊者：（幻境中的那些残象的呓语，到底是什么意思？天国的门扉，还有&ldquo;代行者&rdquo;&hellip;&hellip;会是&ldquo;黑潮的代行者&rdquo;吗？）</p>\n<p>漂泊者：（我唯一知晓的&ldquo;黑潮的代行者&rdquo;只有芬莱克，但他现在应该仍在隐海试验场中封印着黑潮&hellip;&hellip;）</p>\n<p>漂泊者：（还有那个奇怪的人影&hellip;&hellip;以及，我所看到的，卡提希娅遇害的画面&hellip;&hellip;）</p>\n<p>漂泊者：（我们本就是为找卡提希娅而回到拉古那，或许我该先去看看她的情况。在她那里，我可能会得到更为直接的答案&hellip;&hellip;）</p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "bd10c12c-4e99-426e-a200-85ad64218e86": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">阿维狄亚：<span class=\"playable-plot-text cursor-pointer\">定向锚的反应变强了，我们继续吧。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">阿维狄亚：<span class=\"playable-plot-text cursor-pointer\">指示的目标就在前方&hellip;&hellip;</span></p>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">阿维狄亚：<span class=\"playable-plot-text cursor-pointer\">一个异维无音区的入口&hellip;&hellip;？</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">阿维狄亚：<span class=\"playable-plot-text cursor-pointer\">拉古那的地理图志上，并没有记载这里会有异维无音区存在&hellip;&hellip;</span></p>\n</div>\n<div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 align-middle text-neutral-400\">阿维狄亚：<span class=\"playable-plot-text cursor-pointer\">里面散发着一股不祥的气息&hellip;&hellip;定向锚显示，云闪之鳞就躲藏在这里面。</span></p>\n<p class=\"plot-p-unit py-1 px-2 align-middle text-neutral-400\">&nbsp;</p>\n</div>\n</div>\n</div>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "做好准备，进去看看。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "2-2",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "我们也没有别的线索了。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [],
+                "pid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "group": "3",
+                "title": "",
+                "content": "<p>阿维狄亚：<span class=\"playable-plot-text cursor-pointer\">好，我与阁下一起。无论发生什么事情，我都会尽我所能，协助阁下。</span></p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "d17e91da-3a25-4732-a3f2-7e344f6371a5": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>漂泊者：这些都是&hellip;&hellip;黑潮的造物。</p>\n<p>嘉贝莉娜：文明之匣已经被黑潮侵染，我也是借着黑潮进入的这里。</p>\n<p>漂泊者：你能够进入黑潮&hellip;&hellip;难怪我们之前一直找不到你。</p>\n<p>嘉贝莉娜：不过黑潮之中频率混杂，我一路追踪着你的频率才成功与你汇合。</p>\n<p>嘉贝莉娜：你拥有核心数据层的权限，而阿维狄亚可能早已被频率洪流卷入，被送出了这里&hellip;&hellip;</p>\n<p>嘉贝莉娜：我们需要抓紧时间找到阿维狄亚，确认他的身份，预防下一批黑潮造物的诞生。</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "d3ebf0e3-c9fa-4ed4-81e7-6fcfbff3c930": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>薇薇安：菲比教士，&ldquo;天国&rdquo;，是的确存在的&hellip;&hellip;</p>\n<p>菲比：可是&hellip;&hellip;</p>\n<p>薇薇安：我全都梦到了&hellip;&hellip;那是岁主给予我的启示&hellip;&hellip;</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "岁主给予的启示……？",
+                "content": "<p>菲比：啊，你好，漂泊者，愿岁主庇佑。</p>\n<p>薇薇安：漂泊者&hellip;&hellip;您是狂欢节的桂冠，一定也听到过岁主的天音&hellip;&hellip;您可以帮我证明的，对吧！</p>\n<p>薇薇安：我的梦境，一定是祂的启示&hellip;&hellip;那&ldquo;至福永恒之城&rdquo;&hellip;&hellip;那&ldquo;璀璨擢升之途&rdquo;&hellip;&hellip;我在梦中都看见了&hellip;&hellip;</p>\n<p>薇薇安：那国度即是来生&hellip;&hellip;祂告诉我，若想进入，只需弃绝一切希望，然后呼唤，只要呼唤就好了&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "“真正的天国”应该并非谁人都能进入……",
+                "content": "<p>薇薇安：&hellip;&hellip;您提醒得对。我们万万不可遗忘岁主的教导，忘记在尘世行善。</p>\n<p>薇薇安：菲比教士，愿你我共勉，我们，一定都能进入那&ldquo;至福永恒的国度&rdquo;。</p>\n<p>菲比：我始终相信着&ldquo;天国&rdquo;的存在&hellip;&hellip;但&hellip;&hellip;</p>\n<p>菲比：&ldquo;天国&rdquo;明明该是一个美好、神圣的世界，为何那里，要人们&ldquo;弃绝一切希望呢&rdquo;&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "d43a6525-5832-4393-b221-d263f416b494": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>赞妮：那些黑潮造物，之前是利用了某种手段，幻化成了人形？</p>\n<p>阿维狄亚：从未听说过它们还有这种本领&hellip;&hellip;</p>\n<p>珂莱塔：既然它们的獠牙已经暴露，就先将它们尽数清除掉吧。</p>\n<p>嘉贝莉娜：那只幻化成修会主座的黑潮造物，是它们的中枢。将它击杀，其余造物也会随之崩解。</p>\n<p>赞妮：它还在召唤其他造物&hellip;&hellip;只能一边解决这些杂役，一边寻找机会了。</p>\n<p>为首的黑潮造物：那海中来的，终将行于陆地&hellip;&hellip;</p>\n<p>为首的黑潮造物：又行大奇事，叫人领受祂的烙印&hellip;&hellip;</p>\n<p>为首的黑潮造物：凡有耳的，皆当聆听&hellip;&hellip;</p>\n<p>？？？（伪作的神王）：阿维狄亚，你已接受过我主的赐福，理应侍奉于&hellip;&hellip;你的神明。</p>\n<p>阿维狄亚：我绝不会&hellip;&hellip;</p>\n<p>阿维狄亚：后退半步！</p>\n<p>阿维狄亚：漂泊者，接着！</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "da45bc2e-6a9f-4309-88e8-d2d6aa02ca83": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>漂泊者：阿维狄亚&hellip;&hellip;</p>\n<p>疯王&middot;卡利古拉（阿维狄亚）：空白之人，我已不再需要你的怜悯。</p>\n<p>疯王&middot;卡利古拉（阿维狄亚）：我将以至深的黑暗，与你的纯白为敌&mdash;&mdash;来见证，哪一种，才是为王的色彩。</p>\n<p>嘉贝莉娜：如果你也认为，他曾是一位荣耀的角斗士&hellip;&hellip;</p>\n<p>嘉贝莉娜：就用战斗&hellip;&hellip;让他回忆起自己究竟是谁吧。</p>\n<p>疯王&middot;卡利古拉（阿维狄亚）：我能书写自己的命运，亦能书写他人的命运。</p>\n<p>疯王&middot;卡利古拉（阿维狄亚）：我能缓解他们的饥渴，亦能点燃他们的盛怒。</p>\n<p>疯王&middot;卡利古拉（阿维狄亚）：我将摧毁这个虚伪可恨的世界，统领永恒的「真实」&hellip;&hellip;死亡。</p>\n<p>疯王&middot;卡利古拉（阿维狄亚）：我曾鄙视他人，现在却感到，自己的心灵也同样怯懦，多么可悲&hellip;&hellip;</p>\n<p>漂泊者：&hellip;&hellip;它的攻势慢下来了！</p>\n<p>嘉贝莉娜：阿维狄亚的意识，在黑潮中有所行动了，坚持下去。</p>\n<p>嘉贝莉娜：你所拥有的记忆与情感&hellip;&hellip;并不全是虚伪，回想起来，那些属于你的「真实」。</p>\n<p>嘉贝莉娜：停止攻击了，看来&hellip;&hellip;</p>\n<p>漂泊者：阿维狄亚，记住你是谁，记住你要成为什么样的人！</p>\n<p>疯王&middot;卡利古拉（阿维狄亚）：我是人类&hellip;&hellip;不是这些怪物的同类&hellip;&hellip;</p>\n<p>疯王&middot;卡利古拉（阿维狄亚）：这是我&hellip;&hellip;最后的荣耀&hellip;&hellip;</p>\n<p>漂泊者：阿维狄亚，记住你是谁，记住你要成为什么样的人&hellip;&hellip;</p>\n<p>黑潮的&ldquo;低语&rdquo;：黑潮之内即是命运&hellip;&hellip;没有人，可以逃出命运编织的罗网&hellip;&hellip;</p>\n<p>黑潮的&ldquo;低语&rdquo;：手执黑潮力量者，也必将为黑潮所吞噬&hellip;&hellip;</p>\n<p>黑潮的&ldquo;低语&rdquo;：回来吧&hellip;&hellip;回到我们的怀抱&hellip;&hellip;</p>\n<p>阿维狄亚：我与你们&hellip;&hellip;不是同类&hellip;&hellip;</p>\n<p>黑潮的&ldquo;低语&rdquo;：呵&hellip;&hellip;你&hellip;&hellip;要如何反抗我们？</p>\n<p>阿维狄亚：一定还有办法&hellip;&hellip;</p>\n<p>阿维狄亚：那个女孩&hellip;&hellip;也是被黑潮吞噬，来到了这里吗？</p>\n<p>阿维狄亚：喂！再往前走的话，你会被黑潮彻底吞噬的！</p>\n<p>落入黑潮的女孩：我知道&hellip;&hellip;黑潮吞噬一切，同化一切&hellip;&hellip;既然无法逃避，那就只好利用起来了&hellip;&hellip;</p>\n<p>落入黑潮的女孩：但现在，黑潮的力量在我体内&hellip;&hellip;为什么，我不能反过来使用它的力量？为什么&hellip;&hellip;不能是我来吞噬它们？</p>\n<p>落入黑潮的女孩：这些&ldquo;虚伪的频率&rdquo;，必须依靠我才能&ldquo;存活&rdquo;。如果这股力量&hellip;&hellip;不愿意乖乖听话&hellip;&hellip;</p>\n<p>落入黑潮的女孩：&hellip;&hellip;我会让它们知道，谁才是它们的主人。</p>\n<p>落入黑潮的女孩：命运这种&hellip;&hellip;既聒噪又无能的东西&hellip;&hellip;我&hellip;&hellip;绝不相信。</p>\n<p>阿维狄亚：只是一段黑潮中遗留的记忆吗&hellip;&hellip;</p>\n<p>阿维狄亚：但&hellip;&hellip;没错，在这场与命运对弈的战争中&hellip;&hellip;</p>\n<p>阿维狄亚：我，一定还能做些什么&hellip;&hellip;</p>\n<p>阿维狄亚：我也希望&hellip;&hellip;那是一个&hellip;&hellip;能够令人充满希望的故事。</p>\n<p>阿维狄亚：以我的长枪为誓，我必守护我的盟友&hellip;&hellip;</p>\n<p>阿维狄亚：击碎&hellip;&hellip;一切恶灵的胸膛。</p>\n<p>阿维狄亚：我会将这些黑潮造物尽数吸收&hellip;&hellip;</p>\n<p>阿维狄亚：杀死我，拉古那的危机就会过去。</p>\n<p>漂泊者：阿维狄亚！</p>\n<p>阿维狄亚：没时间了，漂泊者。</p>\n<p>阿维狄亚：猎魔人，我在黑潮中看到了你的过去，我知道你想要做什么&hellip;&hellip;</p>\n<p>阿维狄亚：连同我的力量，一并拿去&hellip;&hellip;去完成它。</p>\n<p>阿维狄亚：这也是，我的愿望。</p>\n<p>嘉贝莉娜：&hellip;&hellip;我答应你。</p>\n<p>嘉贝莉娜：将你的不甘&hellip;&hellip;都交付于我。</p>\n<p>嘉贝莉娜：我们必将&hellip;&hellip;夺还一切。</p>\n<p>？？？（克里斯托弗）：这可悲的人，竟然在最后一刻&hellip;&hellip;</p>\n<p>？？？（克里斯托弗）：超越了自己的命运&hellip;&hellip;</p>\n<p>？？？（克里斯托弗）：何必以仇隙向重逢致意？</p>\n<p>？？？（克里斯托弗）：在潮涌的命运之下，我们同是&hellip;&hellip;剧中之人。</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "e45baef0-e4c8-4a48-8133-d2530e2286ef": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "pid": [],
+                "title": "",
+                "content": "<p>漂泊者：前面那是&hellip;&hellip;坎特蕾拉？</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "e7db7eed-840b-43ee-83bc-8eb215fb1866": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1",
+                  "2-2",
+                  "2-3"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>布兰特：我们的几位朋友现在都在城中，她们似乎也在调查这类事件。</p>\n<p>布兰特：如有困惑，可以先找她们打听一下。我们也会继续收集情报的。</p>\n<p>阿布：好久不见呀！拉古那！</p>\n<p>阿布：嗯&mdash;&mdash;嗯&mdash;&mdash;大老远就能闻到玛格烈特餐厅的香气，真想现在就去饱餐一顿。</p>\n<p>漂泊者：等完成更重要的事后再说吧，不会亏待你的。</p>\n<p>阿布：知道啦，我们要去找卡提希娅嘛！</p>\n<p>阿布：不过没想到，我们之前在七丘拿到的那个岁主旧物，就连泰缇斯也打不开&hellip;&hellip;</p>\n<p>漂泊者：至少，我们知道了那个匣子叫做「文明之匣」，里面很可能封存了岁主留下的重要底层数据。</p>\n<p>阿布：就是像数据记录仪一样的东西吧？但泰缇斯告诉我们，想要打开它，还需要借助&hellip;&hellip;鸣式「利维亚坦」的力量。</p>\n<p>阿布：既然是岁主留下的东西，为什么需要鸣式的力量才能打开呢？</p>\n<p>漂泊者：也许是因为岁主与鸣式融合过的特殊情况&hellip;&hellip;</p>\n<p>阿布：总之就是因为这个原因，我们才回来拉古那，准备去找卡提希娅问问，看看她有没有什么办法&hellip;&hellip;</p>\n<p>阿布：出发前，黑海岸还说，最近拉古那周围的海域又出现了一些异常，要我们小心一些。</p>\n<p>阿布：我也觉得，拉古那城里的氛围&hellip;&hellip;有些怪怪的？感觉没有之前那么欢快了。</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "确实有些压抑了。",
+                "content": "<p>阿布：是呀，明明之前举办了那么盛大的一场狂欢节&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "2-2",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "可能是天气原因？",
+                "content": "<p>阿布：嗯&hellip;&hellip;你说的也有点道理。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "2-3",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "这如水的哀思……",
+                "content": "<p>阿布：呃&hellip;&hellip;你怎么突然开始触景生情了&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [],
+                "pid": [
+                  "2-1",
+                  "2-2",
+                  "2-3"
+                ],
+                "group": "3",
+                "title": "",
+                "content": "<p>洛可可：我看见大海再度激起风暴与暗云，幽魂环绕，此时，我听船长命令道&mdash;&mdash;</p>\n<p>阿布：你看，那不是布兰特和洛可可他们吗？喔&mdash;&mdash;愚人剧团正在演出呢！</p>\n<p>布兰特：扬帆！人类！绝巅和巨壑现在交混在一起了，你须走上一条崭新的伟大航道！</p>\n<p>布兰特：现在你们正临于绝地&mdash;&mdash;人类为自己决定命运的时候到了，人类栽种最高希望之芽的时候到了。</p>\n<p>洛可可：船长啊，你为何在你的火焰里独自燃烧？</p>\n<p>布兰特：假使你不首先成为灰烬，你怎能重新改造？</p>\n<p>布兰特：怀着你的泪与火，到你的孤寂里去吧。我爱那想创造、想超越自己，并如是而毁灭的&ldquo;人&rdquo;，他必会去往新生的海岛。</p>\n<p>洛可可：往彼端去是危险的，停在半途是危险的，向后瞧望也是危险的，战栗或不前，都是危险的。</p>\n<p>洛可可：我逐渐明白，是什么造就英雄的伟大&mdash;&mdash;去同时面对，人类最深的痛苦和最高的希望。</p>\n<p>布兰特：我爱那&ldquo;人&rdquo;，因在他受伤时，他的灵魂依然厚重而深邃。即使一个小冒险可以令他死灭，他也将毫不迟疑地跃入深渊。</p>\n<p>布兰特：即使今日你独自一人，仍然在万劫不复的黑暗中受苦。但今天的你，也仍然有着&mdash;&mdash;你全部的勇敢和希望。</p>\n<p>围观的群众：好！好！</p>\n<p>？？？：人生&hellip;&hellip;不过是一个行走的影子。</p>\n<p>？？？：一个在舞台上指手划脚的、拙劣的伶人，登场片刻，就在无声中悄然退下&hellip;&hellip;</p>\n<p>？？？：它就像是愚人们所讲的故事，慷慨激昂，满是喧哗与骚动，却没有任何意义&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "f0972119-bb7b-46d2-9f14-dbecaaa31db1": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1",
+                  "2-2",
+                  "2-3"
+                ],
+                "pid": [],
+                "title": "",
+                "content": "<p>阿维狄亚：&hellip;&hellip;虚伪的存在，又是谁&ldquo;书写&rdquo;了你们的妄念？</p>\n<p>漂泊者：说起来&hellip;&hellip;你刚刚有提到，你是为了寻找&ldquo;执笔之人&rdquo;才离开了四方殿，来到了拉古那？</p>\n<p>阿维狄亚：我等了他太久，决定不再等待。当我偶然听到了有关他在拉古那的事迹时，便决定自己过来找找。</p>\n<p>阿维狄亚：我仍未找到他的下落，但我同样发现，他似乎并没有在这里落笔，撰写有关我的诗句。</p>\n<p>阿维狄亚：拉古那的人们，不知我的名号，不知我的过往，更不知我曾背负的预言。在这里，人们对我的认知，同样是一片&hellip;&hellip;「完全的空白」。</p>\n<p>阿维狄亚：如果说，我曾经的&ldquo;存在&rdquo;，是被事先构建出的，一段&ldquo;符合七丘期待&rdquo;的英雄王的记忆&hellip;&hellip;</p>\n<p>阿维狄亚：这或许意味着，在拉古那，我可以自由地去撰写、去定义自己的&ldquo;存在&rdquo;，去构建属于自己的那份真实。</p>\n<p>阿维狄亚：我想，这比找到他更有意义&mdash;&mdash;我会跳出他的藩篱，成为自己的主宰。</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "说得不错。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "2-2",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "终于有点为王的样子了。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "2-3",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "我还是更喜欢你这副模样。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [],
+                "pid": [
+                  "2-1",
+                  "2-2",
+                  "2-3"
+                ],
+                "group": "3",
+                "title": "",
+                "content": "<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">漂泊者：<span class=\"playable-plot-text cursor-pointer\">我们要成为什么样的人，要将自己塑造成什么样子，最终都是由自己决定的。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">漂泊者：<span class=\"playable-plot-text cursor-pointer\">更没有人，能以命运这种荒唐的理由，来否定你的所行与理想。我相信，你会找到自己的「真实」的。</span></p>\n</div>\n<div>\n<p class=\"plot-p-unit py-1 px-2 text-neutral-400\">阿维狄亚：<span class=\"playable-plot-text cursor-pointer\">承蒙阁下指点，我定不负所望。</span></p>\n</div>",
+                "delEdgeChildren": []
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        }
+      }
+    },
+    "currentVersion": "4.0",
+    "onlineVersion": "4.0",
+    "browseCount": 8334,
+    "lastUpdateTime": "2025-11-09",
+    "lastEditUserName": "Sanma",
+    "userScoreList": [
+      {
+        "userId": 10020855,
+        "userName": "Sanma",
+        "headCode": "122",
+        "userHeadUrl": "https://prod-alicdn-community.kurobbs.com/newHead/aki/taoqi.png",
+        "status": 0,
+        "score": 60,
+        "userCenterUrl": "https://www.kurobbs.com/person-center?id=10020855",
+        "lastOperator": true
+      }
+    ],
+    "status": 2,
+    "checkStatus": 0
+  },
+  "traceId": "f85ed9b1-fd66-4b63-bfb5-c5a93eb76a77",
+  "success": true
+}

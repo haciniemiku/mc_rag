@@ -1,0 +1,2870 @@
+{
+  "code": 200,
+  "msg": "操作成功",
+  "data": {
+    "id": "1318681287772200960",
+    "name": "撞金止行阵",
+    "orgFullName": "剧情任务组 > 剧情线",
+    "orgTree": {
+      "id": 3,
+      "key": null,
+      "name": "全部",
+      "parentId": null,
+      "level": 0,
+      "sort": null,
+      "children": [
+        {
+          "id": 332,
+          "key": null,
+          "name": "剧情任务组",
+          "parentId": null,
+          "level": 1,
+          "sort": null,
+          "children": [
+            {
+              "id": 316,
+              "key": null,
+              "name": "剧情线",
+              "parentId": null,
+              "level": 2,
+              "sort": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    },
+    "orgId": 316,
+    "orgIdList": [
+      316,
+      332,
+      3
+    ],
+    "content": {
+      "mediaList": [],
+      "title": "撞金止行阵",
+      "modules": [
+        {
+          "title": "休息至第二天早晨（七点至十点）",
+          "components": [
+            {
+              "idx": "9e4d8f55-4407-414d-9857-25dd9154489c",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "前往攀花饭馆与炽霞见面",
+          "components": [
+            {
+              "idx": "02c3d620-2fdb-4b80-8b92-f8f2e1e6504c",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "前往城门，准备出城",
+          "components": [
+            {
+              "idx": "65f7f28d-4360-482b-9ea6-cf40c91dff4d",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "抵达城门处",
+          "components": [
+            {
+              "idx": "ed696bab-872b-4aeb-878c-28d33b070a0c",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "前往夜归营地",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "向军人打听关于致远的信息",
+          "components": [
+            {
+              "idx": "0478a832-ade8-453f-9713-a93e359fb1f2",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "使用 【探索工具】-【感知】 确认巡逻路线",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "跟随巡逻踪迹，找到侦查塔",
+          "components": [
+            {
+              "idx": "c696c122-2d9c-4093-991f-c5f60cc64075",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "打倒袭击的偷窃者",
+          "components": [
+            {
+              "idx": "d9b1f221-997a-4e20-a874-2ddad7ab4cf2",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "修复侦查塔",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "查看另一处侦查塔的情况",
+          "components": [
+            {
+              "idx": "c9f68daa-0296-4971-ae1e-054d3030c74b",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "使用 【探索工具】-【控物】 控制炸药苞清理荆棘",
+          "components": [
+            {
+              "idx": "6bf27110-d5ac-4c71-80bd-c20f6b368537",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "修复侦查塔",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "抵达伏波营的驻扎点",
+          "components": [
+            {
+              "idx": "9de2e7b2-c24d-421c-b7e3-ef606b85a775",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "向营地管理人员了解情况",
+          "components": [
+            {
+              "idx": "2130a9d8-5642-4cf8-aa38-65d1afc3eb9a",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "照看逞强的伤员",
+          "components": [
+            {
+              "idx": "19c35a85-0ce1-4d04-92cd-4fe17062190c",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "照看虚弱的伤员",
+          "components": [
+            {
+              "idx": "76f06792-f4b4-445c-aa15-1ad3defcd3f4",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "和医护人员交谈",
+          "components": [
+            {
+              "idx": "ed28893d-3467-48f1-b595-582b41721958",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "使用垂直电梯前往上层",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "呼叫电梯",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "等待电梯",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "乘坐电梯前往上层",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "抵达上层",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "向军需官了解情况",
+          "components": [
+            {
+              "idx": "cde328e4-3824-4c06-896e-864a4cddef2e",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "向鉴心询问寻人情况",
+          "components": [
+            {
+              "idx": "e94f917a-f9ff-4a7b-a442-b52998e5d6ba",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "和秧秧聊聊接下来的打算",
+          "components": [
+            {
+              "idx": "63c18ee1-f7ed-4d6a-ae31-b0cef985d106",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "死守战场，消灭所有残象",
+          "components": [
+            {
+              "idx": "0dd8c99b-fc7b-4464-b541-a0b7799e270e",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        }
+      ],
+      "story": {
+        "02c3d620-2fdb-4b80-8b92-f8f2e1e6504c": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1",
+                  "2-2",
+                  "2-3"
+                ],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：攀花姨，我带朋友来了！这次要三碗小面，加辣的！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：所以说&mdash;&mdash;早餐，来一碗热辣滚烫的小面，是真让人身心畅快！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：漂泊者吃得惯吗？</p>\n</div>\n</div>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "还没吃上第一口。",
+                "content": ""
+              },
+              {
+                "id": "2-2",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "太辣了。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "2-3",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "正正好是我的口味。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1",
+                  "4-2",
+                  "4-3",
+                  "4-4"
+                ],
+                "pid": [
+                  "2-1",
+                  "2-2",
+                  "2-3"
+                ],
+                "group": "3",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：白芷似乎把自己锁在研究院了，说是自打昨天就没出来过，看来得把那些数据资料研究透了才能见到她了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：哦，不对，漂泊者可能是特例，毕竟是数据样本来源之一，说不定绑在研究院门口&mdash;&mdash;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">炽霞：往外扯扯，能把华胥研究院所有人成串钓出来，最前头就是白芷，开口第一句就是问漂泊者情况！</p>\n</div>\n</div>"
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "倒也可以试试。",
+                "content": "<p>炽霞：是吧是吧！下次有急事，就出动漂泊者！</p>"
+              },
+              {
+                "id": "4-2",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "哈哈哈哈。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-3",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "不开这种玩笑。",
+                "content": "<p>炽霞：确实，这样说太不礼貌了，我有问题，该打！</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-4",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "倒也不必。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-1",
+                "cid": [
+                  "6-1",
+                  "6-2",
+                  "6-3",
+                  "6-4"
+                ],
+                "pid": [
+                  "4-1",
+                  "4-2",
+                  "4-3",
+                  "4-4"
+                ],
+                "group": "5",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：对了，昨儿不是说，糖丸和日晷都有眉目了，现在就剩奇怪的树叶跟一点也不奇怪的莽吉柿？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：没想到顺路一趟研究院就解决了两，该说漂泊者太聪明还是令尹确实没打算为难人。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：下一步，漂泊者打算怎么办？</p>\n</div>\n</div>"
+              },
+              {
+                "id": "6-1",
+                "cid": [
+                  "7-1"
+                ],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "先调查莽吉柿。",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：莽吉柿的话，不远的市集就有在贩卖出售？去问问看或许有什么线索？</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：莽吉柿并非今州本土的水果，应当是通过港口运输到今州城内的，或是先从源头寻起？</p>\n</div>\n</div>"
+              },
+              {
+                "id": "6-2",
+                "cid": [
+                  "8-1"
+                ],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "先调查有异常的树叶。",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：白芷说过，树叶上有残象频率波动的痕迹，树木生长的地方应当在无音区附近。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：如果要调查树叶，需要出城。</p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "6-3",
+                "cid": [
+                  "8-1"
+                ],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "还有两天，等着就可以了。",
+                "content": "<p>秧秧：静观其变，这也不失为一种办法，那余下两天，漂泊者打算？</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "6-4",
+                "cid": [
+                  "8-1"
+                ],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "我有其他打算。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "7-1",
+                "cid": [
+                  "8-1"
+                ],
+                "pid": [
+                  "6-1"
+                ],
+                "group": "7",
+                "title": "出城看看吧。",
+                "content": "<p>秧秧：漂泊者是认为，接下来的信物一定是引导出城吗？</p>"
+              },
+              {
+                "id": "8-1",
+                "cid": [
+                  "9-1",
+                  "9-2",
+                  "9-3"
+                ],
+                "pid": [
+                  "7-1",
+                  "6-2",
+                  "6-3",
+                  "6-4"
+                ],
+                "group": "8",
+                "title": "",
+                "content": ""
+              },
+              {
+                "id": "9-1",
+                "cid": [
+                  "10-2",
+                  "10-3"
+                ],
+                "pid": [
+                  "8-1"
+                ],
+                "group": "9",
+                "title": "（诉说一开始的梦境。）",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：星海&hellip;&hellip;黑发少女&hellip;&hellip;倒悬的天空海&hellip;&hellip;从手背声痕逸出的声弦&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：最近的方向是云陵谷和北落野&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：之前从未听漂泊者提起过这些。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "9-2",
+                "cid": [
+                  "13-1"
+                ],
+                "pid": [
+                  "8-1"
+                ],
+                "group": "9",
+                "title": "令尹给了我通行权限。",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：通行权限也是一种提示&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：城内并没有什么关口，除却边庭以外，是用不着什么通行权限的，除非一定要出城。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：这也能联系起来想到？也太厉害了吧！</p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "9-3",
+                "cid": [
+                  "10-1"
+                ],
+                "pid": [
+                  "8-1"
+                ],
+                "group": "9",
+                "title": "我的身体渴望战斗！",
+                "content": "<p>炽霞：也确实，昨天之后一直在费脑子，也该活动活动筋骨了！</p>"
+              },
+              {
+                "id": "10-1",
+                "cid": [
+                  "11-1"
+                ],
+                "pid": [
+                  "9-3"
+                ],
+                "group": "10",
+                "title": "我不知道我是谁。",
+                "content": ""
+              },
+              {
+                "id": "10-2",
+                "cid": [
+                  "11-2"
+                ],
+                "pid": [
+                  "9-1"
+                ],
+                "group": "10",
+                "title": "没找到合适的时机。",
+                "content": ""
+              },
+              {
+                "id": "10-3",
+                "cid": [
+                  "11-2"
+                ],
+                "pid": [
+                  "9-1"
+                ],
+                "group": "10",
+                "title": "我原以为那只是梦。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "11-1",
+                "cid": [
+                  "12-1"
+                ],
+                "pid": [
+                  "10-1"
+                ],
+                "group": "11",
+                "title": "也不知道我在哪里。",
+                "content": ""
+              },
+              {
+                "id": "11-2",
+                "cid": [
+                  "13-1"
+                ],
+                "pid": [
+                  "10-2",
+                  "10-3"
+                ],
+                "group": "11",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：天空海和声弦是存在的，而在漂泊者的描述里，声弦落下的地界，确确实实是云陵谷和北落野。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：或许&hellip;&hellip;那并不是梦。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：或许找到那个少女，是找回漂泊者记忆的关键，除去今令尹提供的信息，梦境的指向之一，是北落野。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：鸣式战争的战场，残象潮的发源地，也是，夜归军的前线驻地。</p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "12-1",
+                "cid": [
+                  "13-1"
+                ],
+                "pid": [
+                  "11-1"
+                ],
+                "group": "12",
+                "title": "但我知道我要大开杀戒！",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：喔！喔！手撕残象！喔！喔！好有气势！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：&hellip;&hellip;炽霞，漂泊者。</p>\n</div>"
+              },
+              {
+                "id": "13-1",
+                "cid": [
+                  "14-1",
+                  "14-2",
+                  "14-3",
+                  "14-4"
+                ],
+                "pid": [
+                  "12-1",
+                  "11-2",
+                  "9-2"
+                ],
+                "group": "13",
+                "title": "",
+                "content": "<p>炽霞：不过出城的话，我就没法再跟着了，怕耽误了值勤时间。秧秧要保护好漂泊者啊，有啥事报个信报个平安！</p>"
+              },
+              {
+                "id": "14-1",
+                "cid": [
+                  "15-1"
+                ],
+                "pid": [
+                  "13-1"
+                ],
+                "group": "14",
+                "title": "说反了吧。",
+                "content": ""
+              },
+              {
+                "id": "14-2",
+                "cid": [
+                  "15-1"
+                ],
+                "pid": [
+                  "13-1"
+                ],
+                "group": "14",
+                "title": "我很强的。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "14-3",
+                "cid": [
+                  "15-1"
+                ],
+                "pid": [
+                  "13-1"
+                ],
+                "group": "14",
+                "title": "等我们好消息。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "14-4",
+                "cid": [
+                  "15-1"
+                ],
+                "pid": [
+                  "13-1"
+                ],
+                "group": "14",
+                "title": "我会保护好秧秧的。",
+                "content": "<p>炽霞：好好，我相信漂泊者！</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "15-1",
+                "cid": [],
+                "pid": [
+                  "14-1",
+                  "14-2",
+                  "14-3",
+                  "14-4"
+                ],
+                "group": "15",
+                "title": "",
+                "content": "<p>秧秧：嗯，我会的。</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "0478a832-ade8-453f-9713-a93e359fb1f2": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">路过的夜归军人：你们是军人吗？怎么会这个时候在这里，前面就是残象潮的后方战场了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：我是夜归军下的踏白成员秧秧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧向其出示了夜归凭证，鉴心向其打听了所寻之人。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">路过的夜归军人：寻人&hellip;&hellip;致远&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">路过的夜归军人：你找的这个人，是个普通人对吧？不是共鸣者？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：是，军士是曾见过？他人可还平安？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">路过的夜归军人：是见过一面，他不是在役夜归军对吧，他似乎一直很想参军，好像从去年起就偷偷跟在夜归行军队伍后面，赶也赶不走。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">路过的夜归军人：后来应该是被伏波营的军需官带走了，如果他现在不在城内的话&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">路过的夜归军人：应当是在前方伏波营的驻扎点，再远了去，就是前方战场了，夜归是不会允许非军役的人以身犯险的。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "有消息了。",
+                "content": ""
+              },
+              {
+                "id": "2-2",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "鉴心小道长。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [],
+                "pid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "group": "3",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：谢谢军士！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">路过的夜归军人：如果你们是往那个方向去的话，我有事想请踏白的同僚相助。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">路过的夜归军人：在你们去的路上，我们有两个附近的侦查塔失联了，可以拜托去看看是什么情况吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：明白了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">路过的夜归军人：我把侦查塔的坐标发到你的终端上。</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "0dd8c99b-fc7b-4464-b541-a0b7799e270e": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "title": "",
+                "content": "<p>秧秧：刚才怎么了？有哪里不舒服吗？</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "我好像……出现幻觉了。",
+                "content": ""
+              },
+              {
+                "id": "2-2",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "我似乎与残象共感了。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1",
+                  "4-2"
+                ],
+                "pid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "group": "3",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：你吓了我一跳&hellip;&hellip;刚才突然呆呆地愣在原地，怎么跟你说话都没反应，你看见什么了？</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">漂泊者：我的视野似乎变成了残象的视角，看见了北落野的情景&hellip;&hellip;</p>\n</div>\n</div>"
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "（先描述青衣将军。）",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：你描述的那个男人&hellip;&hellip;率军的青龙具气吞四野，凌跃万军之势，那正是夜归的旌旗，也是独属于夜归军将领&hellip;&hellip;忌炎的象征。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：而就在不远处的战场前线上，忌炎正率领千军万马，抵御残象潮。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "4-2",
+                "cid": [
+                  "6-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "（先描述红衣女子。）",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：&hellip;&hellip;红衣，控制引导残象潮&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：残星会&hellip;&hellip;</p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-1",
+                "cid": [
+                  "6-1"
+                ],
+                "pid": [
+                  "4-1"
+                ],
+                "group": "5",
+                "title": "可我没见过忌炎。",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：会这么巧吗？我们来到战场附近，正巧镇戍军将领正率军冲锋陷阵，又凑巧正是此刻&hellip;&hellip;</p>\n</div>"
+              },
+              {
+                "id": "6-1",
+                "cid": [
+                  "7-1",
+                  "7-2"
+                ],
+                "pid": [
+                  "5-1",
+                  "4-2"
+                ],
+                "group": "6",
+                "title": "",
+                "content": "<p>秧秧：你跨越了空间，感知到了不远处的战场景象&hellip;&hellip;</p>"
+              },
+              {
+                "id": "7-1",
+                "cid": [
+                  "8-1"
+                ],
+                "pid": [
+                  "6-1"
+                ],
+                "group": "7",
+                "title": "是真实的。",
+                "content": ""
+              },
+              {
+                "id": "7-2",
+                "cid": [
+                  "8-1"
+                ],
+                "pid": [
+                  "6-1"
+                ],
+                "group": "7",
+                "title": "这一切很不对劲。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "8-1",
+                "cid": [
+                  "9-1",
+                  "9-2"
+                ],
+                "pid": [
+                  "7-1",
+                  "7-2"
+                ],
+                "group": "8",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：这场战事本身便是某种异动的征兆，或者二者兼有之。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：从北落野传来的流息，比以往所有时候，都更加压抑，令人窒息。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：此时此刻的战场上，一定存在某种东西，与你有着暂不明了的关联。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "9-1",
+                "cid": [
+                  "10-1"
+                ],
+                "pid": [
+                  "8-1"
+                ],
+                "group": "9",
+                "title": "我的身体里存在着东西。",
+                "content": "<p>秧秧：与残象共感&hellip;&hellip;？</p>"
+              },
+              {
+                "id": "9-2",
+                "cid": [
+                  "10-1"
+                ],
+                "pid": [
+                  "8-1"
+                ],
+                "group": "9",
+                "title": "一直有一个声音。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "10-1",
+                "cid": [
+                  "11-1",
+                  "11-2"
+                ],
+                "pid": [
+                  "9-1",
+                  "9-2"
+                ],
+                "group": "10",
+                "title": "",
+                "content": "<p>秧秧：我没感应到任何&hellip;&hellip;声音的频率。</p>"
+              },
+              {
+                "id": "11-1",
+                "cid": [
+                  "12-1"
+                ],
+                "pid": [
+                  "10-1"
+                ],
+                "group": "11",
+                "title": "不管祂是什么。",
+                "content": ""
+              },
+              {
+                "id": "11-2",
+                "cid": [
+                  "12-1"
+                ],
+                "pid": [
+                  "10-1"
+                ],
+                "group": "11",
+                "title": "或许我可以……",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "12-1",
+                "cid": [],
+                "pid": [
+                  "11-1",
+                  "11-2"
+                ],
+                "group": "12",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：漂泊者？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：之前白芷说过，树叶有残象频率波动。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：最后一件信物，树叶指向的方向，在那。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：&hellip;&hellip;那是，中曲台地，祈池村。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：有时强迫自己静下心审视自己的目标与计划，风中的讯息就会变得清晰，思维也会豁然开朗&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：不如漂泊者也来试试？</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "19c35a85-0ce1-4d04-92cd-4fe17062190c": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">穗禾：我说了这点小伤不用下来！放我回去！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：请冷静一下，你的伤口还没止血。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">穗禾：这点血算什么？！少条胳膊也拦不住我！</p>\n</div>\n</div>"
+              },
+              {
+                "id": "2-1",
+                "cid": [],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "别这时候逞强了。",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">穗禾：我没有逞强！我的共鸣能力是可以自行愈合伤口的，只不过这次慢了点而已！这些医疗支持去给更需要的人吧！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">医护人员：别动了，我们的检测不会出错的，来了就安心待着！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">医护人员：你们帮我摁好他。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：好&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">经过一番折腾，我们协助医护人员为伤员完成了治疗。</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "2130a9d8-5642-4cf8-aa38-65d1afc3eb9a": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">休兰：我知道今天来过一批物资，我已经清点过了，不够，还不够，你再去联系一下城里，让他们尽快补送些过来。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">运送士兵：可是审批还得&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">休兰：让城里人加急办，这里争分夺秒，慢一秒钟都有可能拖垮前线，他们心里还没数吗？给你，清单。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">休兰：实在不行，让他们直接联系我！去吧，快去！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">休兰：动作快，动作快，这些物资怎么还没搬完？！</p>\n</div>\n</div>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "你好。",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">休兰：怎么还有人来？你们也是来支援的吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">休兰：等等，你们不是夜归军吧？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：我是夜归军下踏白成员秧秧，这两位是&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧出示了夜归军的身份凭证。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">休兰：不好意思，稍等。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">休兰：小心！这箱子里都是药物，一会儿伤员下来要是没得用药，我看你还能不能在营里待下去。轻拿轻放啊！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">休兰：踏白？是支援人员对吧，这里马上会有一批前线伤员回来，正好&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">休兰：不好意思，我有一个通讯要接。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">休兰：是我，怎么了？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">休兰：有共鸣者超频了？好，好，马上转移，我这就来接应。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">休兰：麻烦了麻烦了&hellip;&hellip;那个&hellip;&hellip;你们先过来，帮我个忙。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">休兰：现在伤员已经在往下运输了，他们需要有人接应，但是我现在要去处理超频共鸣者的事情，所以，能麻烦你们接应一下伤员们吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：需要我们具体做什么吗？</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">休兰：你们只需要保证他们下来之后的安全就可以了，治疗的工作交给医护人员就好。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "好，放心吧，交给我们。",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">休兰：谢谢了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：原来军队里这么忙碌&hellip;&hellip;看起来，他们连喝口水的时间都没有。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：物资、医疗、维修、人员、后勤&hellip;&hellip;只有他们在繁忙中有条不紊，才能更好地支撑前线。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：原来，这个世界上正在发生的战争是这样的&hellip;&hellip;我竟然从来都不知道，局势如此严峻。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：其实大部分人都是接触不到这些景象的，所以不知道才是常态。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：我想，这也是军队想要看到的。他们想让人们能够无忧无虑地生活，而不是每个人都活得忧心忡忡、担惊受怕。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "4-1",
+                "cid": [],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "伤员到了，我们过去吧。",
+                "content": ""
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "63c18ee1-f7ed-4d6a-ae31-b0cef985d106": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1",
+                  "2-2",
+                  "2-3",
+                  "2-4"
+                ],
+                "title": "",
+                "content": "<p>秧秧：遇到鉴心小道长应当是意外，如果莽吉柿指向的是战争，今令尹想要说的究竟是什么呢？</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "世间由战生，因战苦。",
+                "content": ""
+              },
+              {
+                "id": "2-2",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "说不定，她想让我见到谁。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "2-3",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "也许只是暂时没有触发。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "2-4",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "只是给我一个契机。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1",
+                  "4-2",
+                  "4-3"
+                ],
+                "pid": [
+                  "2-1",
+                  "2-2",
+                  "2-3",
+                  "2-4"
+                ],
+                "group": "3",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：漂泊者想到了什么？</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">漂泊者：我觉得&hellip;&hellip;</p>\n</div>\n</div>"
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "（说起残象潮。）",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：漂泊者是认为，残象潮是令尹想要通过莽吉柿告诉漂泊者的重要信息吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：如潮水般涌来的残象，若是防线溃败，不仅仅是瑝珑之难&hellip;&hellip;</p>\n</div>"
+              },
+              {
+                "id": "4-2",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "（说起运输路线。）",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：漂泊者是认为，莽吉柿的运输路线是令尹想要通过莽吉柿告诉漂泊者的重要信息吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：刚刚军需官有提到，<span class=\"mc-ingame-Highlight\">南</span>线是水运路线。</p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-3",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "（说起将军。）",
+                "content": "<p>秧秧：漂泊者是认为，莽吉柿指向今州现在的战事情况，指向忌炎将军吗？</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-1",
+                "cid": [],
+                "pid": [
+                  "4-1",
+                  "4-2",
+                  "4-3"
+                ],
+                "group": "5",
+                "title": "",
+                "content": "<p>秧秧：尚是在战场后方，风中就已经充满了肃杀的气息&hellip;&hellip;紧张、不安，戍边的将士们&hellip;&hellip;</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "65f7f28d-4360-482b-9ea6-cf40c91dff4d": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：不论是共鸣者，还是共鸣者所配备的声骸，想要提升其能力，都需要投入特定的资源。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：如果需要提升能力，漂泊者随时可以去训练营寻找严彦教官进行对应的训练，获取提升所需资源。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：秧秧，你听到了吗&hellip;&hellip;我、我怎么感觉&hellip;&hellip;好像听到有人在哀嚎！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：那个方向&hellip;&hellip;是夜归军用于备战训练的训练营吧&hellip;&hellip;没有炽霞你说得那么夸张啦。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：负责训练夜归新兵的严彦教官确实比较严格，不过如果是漂泊者的话，大概那位教官也挑不出什么毛病吧&hellip;&hellip;</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "6bf27110-d5ac-4c71-80bd-c20f6b368537": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：居然真是被荆棘挡住了，甚是奇怪&hellip;&hellip;我们先想办法把它们清除掉吧，然后再修好，应该就没问题了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：只是这荆棘着实难以靠近，不如先找找看周围有没有什么能利用的东西&hellip;&hellip;</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "76f06792-f4b4-445c-aa15-1ad3defcd3f4": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">昕宇：呼&hellip;&hellip;呼&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：您还好吗？</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">昕宇：不用&hellip;&hellip;我就是&hellip;&hellip;感觉&hellip;&hellip;有点呼吸困难&hellip;&hellip;</p>\n</div>\n</div>"
+              },
+              {
+                "id": "2-1",
+                "cid": [],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "听起来很严重。",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">昕宇：没事&hellip;&hellip;没事&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：我去寻一下医护人员。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">将医护人员带领到伤员面前。</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "9de2e7b2-c24d-421c-b7e3-ef606b85a775": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：小道长，你还好吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：这是我第一次上战场，这里&hellip;&hellip;和城里的氛围完全不一样。</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "9e4d8f55-4407-414d-9857-25dd9154489c": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": ""
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "entryId": "1317978599912316928",
+            "linkType": 1
+          },
+          "nextLink": {
+            "entryId": "1319052342580748288",
+            "linkType": 1
+          },
+          "preLabel": "嘤鸣初相召",
+          "nextLabel": "奔策候残星"
+        },
+        "c696c122-2d9c-4093-991f-c5f60cc64075": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：前面便是侦查信标了？怎会围着那么多人？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：看起来不是军人&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：请问，你们在这里干什么呢？这里离战场很近，很危险的。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">奇怪的平民？：啊？我们&hellip;&hellip;我们没干什么，我们这不是南下进城呢。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1",
+                  "3-2"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "别藏了，你不会以为我看不到吧？",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：请问，这个侦查塔&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">奇怪的平民？：大家快跑！</p>\n</div>\n</div>"
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "有古怪。",
+                "content": ""
+              },
+              {
+                "id": "3-2",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "追。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-1",
+                "cid": [],
+                "pid": [
+                  "3-1",
+                  "3-2"
+                ],
+                "group": "4",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">胆小的平民？：哥，我走不动了&hellip;&hellip;太饿了&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">慌张的平民？：别，别抓我们！我们&hellip;&hellip;我们实在没办法了才偷东西的！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：你们是遇到什么困难了吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">胆小的平民？：这不是现在北边战事紧张吗，我们这些人没有物资实在活不下去了，想来想去还是打算回城过活。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">胆小的平民？：我们只是太久没吃东西了，身上的钱也用完了，很多人饿得都快要走不动路了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">胆小的平民？：我们路过这正好看到这里有些值钱设备，军队都去打仗了，现在这里也没什么人，所以才想趁机偷点东西去换钱。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：侦测塔的损坏可能会让这个方位突然出现残象潮入侵。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：你们有没有想过，如果真的发生了这种事情，前线将士们将陷入腹背受敌的境地。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">慌张的平民？：我们管不了那么多！要是不偷，残象潮还没来呢，我们就先饿死在这了！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：不可窃取公物，请把零件还回去。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：这里到今州城还有段距离，我这有锅盔，给你们吃吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：这饼你拿着吧，喏，这还有一些吃的，还有这些钱你们也拿着，这些应该足够你们走到今州城了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">胆小的平民？：这些&hellip;&hellip;都给我们？谢谢&hellip;&hellip;谢谢！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">慌张的平民？：你！你们别抢！别光顾着吃了！快来谢谢恩人啊！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：师父说过，常善救人，故无弃人。所以，不必客气！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：小心！</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "c9f68daa-0296-4971-ae1e-054d3030c74b": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<p>秧秧：小心！那边似乎有什么危险的气息...</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "cde328e4-3824-4c06-896e-864a4cddef2e": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1",
+                  "2-2",
+                  "2-3",
+                  "2-4"
+                ],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伏波营地军需官：库存确认了吗？备件清单呢？尽快把耗材统计好，通讯路线也要检查&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伏波营地军需官：来，小玥，把这份清单帮我送到上部阿瑟那边去&hellip;&hellip;哦，不是小玥啊，小玥呢&hellip;&hellip;你有什么事吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：叨扰了，我是夜归军属下踏白成员，这是漂泊者和来寻人的鉴心小道长。</p>\n</div>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "8-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "为什么这么忙？",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伏波营地军需官：今州是瑝珑的关口，荒石高地则是今州的第二道关口。若是这里的关口有失守的风险，可就远远不止是今州的事了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伏波营地军需官：残象不是人类，可不讲谈判休战那一套&hellip;&hellip;只要残象还存在一日，战争就不会停止。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伏波营地军需官：而面对不休不止的战争，补给对于军队而言就是最重要的血液，我的工作就是为军队输血，现在正是缺血的时候。</p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "2-2",
+                "cid": [
+                  "8-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "需要帮忙吗？",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伏波营地军需官：刚才看到你帮忙处理伤员，休兰那可能更需要支援。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伏波营地军需官：虽然感谢你的好意，但军需十分重要，我得亲自在这盯着。</p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "2-3",
+                "cid": [
+                  "8-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "（说明找人的事。）",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心向军需官询问了情况。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伏波营地军需官：致远&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伏波营地军需官：致远那小子竟然一次都没往家里报过信？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伏波营地军需官：夜归军近年来已经几乎不招收普通人了，致远那小子却是个犟的，去年战事还未像如今这么紧张，他就多次偷偷跟着伏波营行军，总想着往前线去。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伏波营地军需官：送回城内，劝回去，又跑了过来，索性我就收他在后方帮忙了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伏波营地军需官：但现今战事紧张，前线危险，我再留他也不合矩，我正想让他跟着此次物资运送回城，正好你们来了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伏波营地军需官：对了，他现在应该就在上部那。</p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "2-4",
+                "cid": [
+                  "3-1",
+                  "3-2"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "鉴心小道长要不要先去寻人？",
+                "content": "<p>鉴心：是，那小道先行离去寻人，晚点来找漂泊者、秧秧姑娘汇合。</p>"
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-4"
+                ],
+                "group": "3",
+                "title": "我们待会过去找你。",
+                "content": ""
+              },
+              {
+                "id": "3-2",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-4"
+                ],
+                "group": "3",
+                "title": "我们也要往上去。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1",
+                  "3-2"
+                ],
+                "group": "4",
+                "title": "",
+                "content": "<p>鉴心向大家行了一个礼，便先行离去了。</p>"
+              },
+              {
+                "id": "5-1",
+                "cid": [
+                  "6-1",
+                  "6-2"
+                ],
+                "pid": [
+                  "4-1"
+                ],
+                "group": "5",
+                "title": "（拿出莽吉柿。）",
+                "content": "<p>伏波营地军需官：这、你干什么！</p>"
+              },
+              {
+                "id": "6-1",
+                "cid": [
+                  "7-1"
+                ],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "怎么了？",
+                "content": ""
+              },
+              {
+                "id": "6-2",
+                "cid": [
+                  "7-1"
+                ],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "（摊开双手。）",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "7-1",
+                "cid": [
+                  "8-1"
+                ],
+                "pid": [
+                  "6-1",
+                  "6-2"
+                ],
+                "group": "7",
+                "title": "",
+                "content": "<p>伏波营地军需官：哦&hellip;&hellip;这，我错了眼，还以为你掏出了榴弹，哈哈&hellip;&hellip;这是&hellip;&hellip;莽吉柿？</p>"
+              },
+              {
+                "id": "8-1",
+                "cid": [
+                  "9-1",
+                  "9-2",
+                  "9-3"
+                ],
+                "pid": [
+                  "7-1",
+                  "2-1",
+                  "2-2",
+                  "2-3"
+                ],
+                "group": "8",
+                "title": "",
+                "content": ""
+              },
+              {
+                "id": "9-1",
+                "cid": [
+                  "10-1"
+                ],
+                "pid": [
+                  "8-1"
+                ],
+                "group": "9",
+                "title": "榴弹？",
+                "content": ""
+              },
+              {
+                "id": "9-2",
+                "cid": [],
+                "pid": [
+                  "8-1"
+                ],
+                "group": "9",
+                "title": "关于莽吉柿你有什么了解的吗？",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伏波营地军需官：嗯&hellip;&hellip;这并非今州本地的水果，需要从外进口，多以水运。最近残象潮频发，优先保障城内生活物资，这类水果得等北落野前线捷报，忌炎将军凯旋之后了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伏波营地军需官：现在仅开放水运路线，由今州城以<span class=\"mc-ingame-Highlight\">南</span>的怨鸟泽鲧巢港运输入口，由夜归调配伏波军士护送进城。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伏波营地军需官：嗯&hellip;&hellip;再有的话&hellip;&hellip;这种水果保鲜时间短，还有形似榴弹易于混淆的问题，一般不会作为军用补给。</p>\n</div>"
+              },
+              {
+                "id": "9-3",
+                "cid": [
+                  "10-1"
+                ],
+                "pid": [
+                  "8-1"
+                ],
+                "group": "9",
+                "title": "感谢，我知道了。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "10-1",
+                "cid": [],
+                "pid": [
+                  "9-1",
+                  "9-3"
+                ],
+                "group": "10",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伏波营地军需官：是一种旧式武器。悲鸣带来的巨大影响让整个世界都出现了科技倒退、资源短缺的问题。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伏波营地军需官：虽然那时已经研发出了一部分黑石武器，但人们对黑石的认知还并不全面，也因此造出了许多新旧结合的不稳定产物。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伏波营地军需官：榴弹也是其中之一，但如今黑石武器进展迅速，而军队改制规范，已经很少能见到这种武器了。</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "d9b1f221-997a-4e20-a874-2ddad7ab4cf2": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奇怪的平民？：嘁&hellip;&hellip;还是块硬骨头。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：小道好心相救，你为什么还要伤人？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奇怪的平民？：我们这么多人，你给的这点东西可不够，识相的话，就把你们身上所有值钱的东西和食物全部拿出来！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奇怪的平民？：我们也不想欺负你们三个年轻人，所以你们最好还是乖乖配合&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奇怪的平民？：否则，这么多人下手没轻没重的，到时候丢了命可别怪我们。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：不义之事，小道不从。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：两位恩人请后退，勿要被伤及。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奇怪的平民？：不给是吧，不给别怪我们不客气！</p>\n</div>\n<div class=\"\">\n<div class=\"flex items-center align-center text-center w-full flex-row my-4 px-16\">\n<div class=\"flex border-gray-200 dark:border-gray-800 w-full border-t border-solid\">&nbsp;</div>\n</div>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">慌张的平民？：停停停！我们认输！我们错了！别打了！真倒霉&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：我已经给了你们食物与钱，为什么还要抢劫？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：难道除了我们看到的这些人，你们还有其他同伴吗？</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：看装扮和身手&hellip;&hellip;你们应该不是普通百姓吧？</p>\n</div>\n</div>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1",
+                  "3-2"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "说！你们到底是谁！",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">年长的流放者：谁说我们不是普通百姓！我们是啊！只不过&hellip;&hellip;前段时间刚刚成为流放者而已。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">年长的流放者：本来是想出城躲开巡尉抓捕，谁能想到北边战事这么快就严重起来了，我们在营地里人还没认熟呢，老大的家底就被掏空了，我们想了想还是回城算了&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">胆小的流放者：我们走到半路，粮食和钱确实不够了，这才打起偷东西的主意的。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">胆小的流放者：要不是赶上军营这边没人，我们也不敢来偷军队的零件&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">胆小的流放者：对了，既然你们好心，不如再多给我们些盘缠吧。你看我们这么多人，现在又负伤一批，这点东西真的不够用啊&hellip;&hellip;</p>\n</div>\n</div>"
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "我们还有些物资。",
+                "content": "<p>鉴心：等等，刚才给的物资应该已经足够他们到今州城了，应当还有一些富余。</p>"
+              },
+              {
+                "id": "3-2",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "不能给。",
+                "content": "<p>鉴心：抱歉，刚才给的物资应该已经足够大家到今州城了。即使有这么多人，也有所富余。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1",
+                  "3-2"
+                ],
+                "group": "4",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：小道曾净身下山，知道一个人存活于世、行至今州需要多少物资。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">年长的流放者：嘿！你这丫头怎么回事！多给点怎么了，我看你们也不缺啊！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：贪欲多苦，知足者富。小道刚才所施只是为了你们可以顺利进城。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">胆小的流放者：不是，小姑娘你不知道，现在这时节钱也不好赚&hellip;&hellip;我们要是进城找不来活，那可难办啊&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：小道也是从山上而来，一路行至今州。小道愚钝，世事半知不解，亦能在今州得一口饭吃，诸位明明各有能耐，为何不行？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：若是入城后确实找不着活计，可以到六羡茶馆寻小道，小道名鉴心，可以同诸位一起找活，做活。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">年长的流放者：这！好吧，好吧，我们不要就是了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">年长的流放者：我们走，快走，我可不想再听这个小道士的说教了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：小道并非&hellip;&hellip;算了，请等一等，零件留下。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">年长的流放者：记性真好&hellip;&hellip;给给给！都在这了！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：你们只破坏了这一个侦查塔吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">年长的流放者：是啊！刚偷第一个就被你们撞见了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：但那边的侦查塔&hellip;&hellip;？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">年长的流放者：那可不关我们的事！那个看起来早就坏了，而且周围还有好多荆棘，我们想过去也过不去啊。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：好，我们知道了。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：夜归的后方营地也不远了，漂泊者，鉴心小道长，我们可以把这些侦查设备修好再过去吗？</p>\n</div>\n</div>"
+              },
+              {
+                "id": "5-1",
+                "cid": [],
+                "pid": [
+                  "4-1"
+                ],
+                "group": "5",
+                "title": "好。",
+                "content": ""
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "e94f917a-f9ff-4a7b-a442-b52998e5d6ba": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：鉴心小道长可寻到所要寻之人？</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">鉴心：是，小道已寻到致远小兄弟，接下来打算随伏波运送物资的队伍返回城内，先去与宗业爷爷报个平安。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1",
+                  "3-2",
+                  "3-3",
+                  "3-4"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "不是说致远不肯走？",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：致远本心纯朴，因受宗业爷爷的影响，对亲身行军作战有了执念，一直想出自己的一份力量。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：我与漂泊者、秧秧姑娘一路行来，所见所闻。此时此刻，不远处的前方应该远比我们这一路所看到的景象都更加艰难与激烈。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：这些世间百态由战而生，因战生苦。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：容父师父之前告诉过我，&ldquo;上士得道于三军，中士得道于都市，下士得道于山林。&rdquo;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：致远之心所想，小道并非完全无法体会。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">鉴心：但致远认为，从军夜归，那些严苛的训练考试并无必要，也不应区分普通人与共鸣者，他在战场，亦有自己能做之事，能对抗之敌。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "2-2",
+                "cid": [
+                  "8-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "那小道长，就此别过。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "我也这么认为。",
+                "content": ""
+              },
+              {
+                "id": "3-2",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "人人平等。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-3",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "力量不够就是添乱。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-4",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "按这么说，也无需非得是在战场。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "5-1",
+                  "5-2"
+                ],
+                "pid": [
+                  "3-1",
+                  "3-2",
+                  "3-3",
+                  "3-4"
+                ],
+                "group": "4",
+                "title": "",
+                "content": "<p>鉴心：小道觉得致远所说亦有其理所在，小道无法说服，于是，小道想起师父处事，在小道每行一事时，师父都要让我过一关，与师父切磋。</p>"
+              },
+              {
+                "id": "5-1",
+                "cid": [
+                  "6-1"
+                ],
+                "pid": [
+                  "4-1"
+                ],
+                "group": "5",
+                "title": "你打服他了？",
+                "content": ""
+              },
+              {
+                "id": "5-2",
+                "cid": [
+                  "6-1"
+                ],
+                "pid": [
+                  "4-1"
+                ],
+                "group": "5",
+                "title": "一力降十会。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "6-1",
+                "cid": [
+                  "7-1",
+                  "7-2"
+                ],
+                "pid": [
+                  "5-1",
+                  "5-2"
+                ],
+                "group": "6",
+                "title": "",
+                "content": "<p>鉴心：小道并非想要致远平白挨一顿打，师父常通过招式切磋告诉小道道理，小道亦有所得。此次切磋，漂泊者认为我是赢，还是输？</p>"
+              },
+              {
+                "id": "7-1",
+                "cid": [
+                  "8-1"
+                ],
+                "pid": [
+                  "6-1"
+                ],
+                "group": "7",
+                "title": "你应当是假意认输。",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：&ldquo;虚而不屈，动而愈出。多闻数穷，不若守中。&rdquo;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：漂泊者说的是，小道假意认输，却被致远看了出来。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：在切磋之后，致远意识到，他所在意的共鸣者与普通人的差别即使不存在，他也仍需努力，现在不过是空谈上阵杀敌。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：营内确有自己可做之事，但有可做之事，与为想做之事准备与努力并无半分冲突，上阵杀敌，需强健自身。</p>\n</div>"
+              },
+              {
+                "id": "7-2",
+                "cid": [
+                  "8-1"
+                ],
+                "pid": [
+                  "6-1"
+                ],
+                "group": "7",
+                "title": "你当然赢了他。",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：&ldquo;挫其锐，解其纷，和其光，同其尘。&rdquo;确是如此。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：小道承诺不以异能取胜，但致远尚不能接取一招。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：在落败后，致远了悟到残象非人，而自己尚无自保之力，只是空谈上阵杀敌。军营中确有自己可做之事，但不过是自欺欺人。</p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "8-1",
+                "cid": [
+                  "9-1",
+                  "9-2"
+                ],
+                "pid": [
+                  "7-1",
+                  "7-2",
+                  "2-2"
+                ],
+                "group": "8",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：小道听闻漂泊者与秧秧还有需要处理之事，若是漂泊者、秧秧姑娘之后得空，可来六羡茶馆一叙。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">鉴心：有缘遇见两位，甚幸之。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "9-1",
+                "cid": [],
+                "pid": [
+                  "8-1"
+                ],
+                "group": "9",
+                "title": "再会。",
+                "content": ""
+              },
+              {
+                "id": "9-2",
+                "cid": [],
+                "pid": [
+                  "8-1"
+                ],
+                "group": "9",
+                "title": "之后见。",
+                "content": ""
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "ed28893d-3467-48f1-b595-582b41721958": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1"
+                ],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">医护人员：谢谢你们的帮忙。累了吧？快来歇一会儿。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：他们看起来伤得挺重的&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">医护人员：别担心，都已经做了妥善处理和治疗，他们会慢慢恢复的。自从忌炎将军改制并成立了夜归军，伤员状况已经不像几十年前那样触目惊心了&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">医护人员：听前辈们说，以前军队里还有很多普通人，那时候的战场&hellip;&hellip;空气里凝聚的血腥味连大雨都无法洗刷。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">医护人员：相比于那种惨状，现在已经好过太多。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">医护人员：&hellip;&hellip;这些伤口背后，可是他们击溃了成千上万只凶猛残象的证明。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">医护人员：能进夜归军的共鸣者哪一个不是以一敌百，伤到这种程度下来的人，击杀数绝对不低于这个数。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1",
+                  "3-2"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "都是英雄。",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：助国救民，普济群生，这些将士做到了，相较而言，小道所做所为原来还远远不够。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">医护人员：也不要这么说嘛，要不是你们在，我们也不可能这么快处理完。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">医护人员：现在伤员都稳定的差不多了，如果你们还有事的话，可以先去忙。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：多有叨扰，小道来此是想找一下军需官。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">医护人员：军需官不在这，他在军营上部，现在应该正在指挥军需发放。你们要找他的话，从那架电梯上去就行。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：那我们&hellip;&hellip;？</p>\n</div>\n</div>"
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "先跟着小道长。",
+                "content": ""
+              },
+              {
+                "id": "3-2",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "也去找军需官。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-1",
+                "cid": [],
+                "pid": [
+                  "3-1",
+                  "3-2"
+                ],
+                "group": "4",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：这是些道馆里的食补方子，或许会对伤员恢复有帮助，请收下吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">医护人员：哦？好啊，谢谢了。</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "ed696bab-872b-4aeb-878c-28d33b070a0c": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：城门的戒备和防御都增强了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：回城那时并没有这种阵仗&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">守城的士兵：再往外走就出城了。除非有通行权限，现在北落野方向，不允许通行了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">轮岗的士兵：&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">轮岗的士兵：你这小道士，这城门岗已经换了几轮，你怎么还守在这儿？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？：您是昨天中午守城的军士，有幸再会。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？：小道是共鸣者，自小习武，有一定自保能力，想要出城寻人。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？：小道答应了失踪者的爷爷，必须寻回他。恳请二位军士通融。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">守城的士兵：尽管你是共鸣者，但现在我们也不能让你过去，请见谅。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？：明明城内一切运作正常，前线战事已经紧张到这个程度了吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">轮岗的士兵：正是为了让城内百姓能安心，才有必要做到这个地步。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">守城的士兵：况且，忌炎将军就带着兵在北落野，战场危险是危险，有忌炎将军在，他会看好每一个兵的。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">轮岗的士兵：我们早将你的情况上报了，你大可以舒舒服服在城内等通知，又何必在这跟我们风吹雨淋，苦苦相求。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？：小道也已向巡宁所投了案，各种方法也有尝试，应了他人的事，理应尽力而为。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？：明白军士难处。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？：小道并不欲军士为难，若是在这打扰到两位军士，小道可隐蔽身形，退往五丈开外，百丈外亦可，但以小道目力，千丈之外堪堪看清&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">轮岗的士兵：军行急捷，也没有准信，就算你在这等着，也不一定能在这等到夜归军回来，回来也不一定找得到你要找的人。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">轮岗的士兵：而前线危险，路途迢远，要等出去的机会，那通行权限也不会从天而降凭空出现&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">轮岗的士兵：权限核实无误&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">守城的士兵：两人同行，是吗？</p>\n</div>\n</div>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1",
+                  "3-2",
+                  "3-3",
+                  "3-4"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "是的。",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？：两位少侠，小道鉴心，有一事相求。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">鉴心：出城一事，小道想要出城寻人，但无权限，如若方便，可否应允小道伴随同行？</p>\n</div>\n</div>"
+              },
+              {
+                "id": "2-2",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "加上那边的小道长。",
+                "content": "<p>？？：少侠大义，鉴心先谢过二位少侠！</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "我答应你。",
+                "content": "<p>鉴心：少侠大义，小道先谢过！</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-2",
+                "cid": [
+                  "4-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "你能做什么。",
+                "content": "<p>鉴心：太极拳术、沏茶做饭、采集淬炼、护院跑腿、器械维修、畜牧护理&hellip;&hellip;小道做工皆有涉及，其余事项，小道亦能学习。</p>"
+              },
+              {
+                "id": "3-3",
+                "cid": [
+                  "4-2",
+                  "4-3"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "我有什么好处？",
+                "content": "<p>鉴心：明白，小道身上有锅盔三个、贝币三十四钱、云纹离邪镜一面，全数交予少侠。</p>"
+              },
+              {
+                "id": "3-4",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "2-1"
+                ],
+                "group": "3",
+                "title": "那得问问守卫了。",
+                "content": "<p>鉴心：是，当面请求，亦不欲偷摸行事，让军士为难。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-2"
+                ],
+                "group": "4",
+                "title": "好吧。",
+                "content": ""
+              },
+              {
+                "id": "4-2",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-3"
+                ],
+                "group": "4",
+                "title": "还挺清贫。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "4-3",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-3"
+                ],
+                "group": "4",
+                "title": "倒也不必。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-1",
+                "cid": [
+                  "6-1",
+                  "6-2"
+                ],
+                "pid": [
+                  "4-1",
+                  "3-1",
+                  "4-2",
+                  "4-3",
+                  "3-4",
+                  "2-2"
+                ],
+                "group": "5",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：两位军士，小道如此行事，是否有碍？</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">轮岗的士兵：这&hellip;&hellip;</p>\n</div>\n</div>"
+              },
+              {
+                "id": "6-1",
+                "cid": [
+                  "7-1"
+                ],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "可以吗？",
+                "content": ""
+              },
+              {
+                "id": "6-2",
+                "cid": [
+                  "7-1"
+                ],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "没问题吧。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "7-1",
+                "cid": [
+                  "8-1",
+                  "8-2"
+                ],
+                "pid": [
+                  "6-1",
+                  "6-2"
+                ],
+                "group": "7",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">守城的士兵：出示的权限等级显示是最高级别，在流程上是可以的。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">轮岗的士兵：（这个权限等级，带兵出城都可以了&hellip;&hellip;）</p>\n</div>\n</div>"
+              },
+              {
+                "id": "8-1",
+                "cid": [
+                  "9-1"
+                ],
+                "pid": [
+                  "7-1"
+                ],
+                "group": "8",
+                "title": "那我们走吧。",
+                "content": ""
+              },
+              {
+                "id": "8-2",
+                "cid": [
+                  "9-1"
+                ],
+                "pid": [
+                  "7-1"
+                ],
+                "group": "8",
+                "title": "小道长？",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "9-1",
+                "cid": [
+                  "10-1",
+                  "10-2",
+                  "10-3",
+                  "10-4",
+                  "10-5"
+                ],
+                "pid": [
+                  "8-1",
+                  "8-2"
+                ],
+                "group": "9",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：是！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心向我们讲述了出城的缘由和所寻之人情况。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：也就是说，小道长想前往荒石高地的夜归营地，寻找退役军士的亲人？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：秧秧姑娘说的是。</p>\n</div>"
+              },
+              {
+                "id": "10-1",
+                "cid": [],
+                "pid": [
+                  "9-1"
+                ],
+                "group": "10",
+                "title": "你和所寻之人什么关系？",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：小道与&ldquo;致远&rdquo;并不相识。小道是在下山的路途中，遇到了致远的亲人，宗业爷爷，当时他正独自寻找自己的孙子，但似乎自己也迷路了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：老人家独身在外实在危险，于是我护送他到最近的今州城里来，等安全了再做打算。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：完全不认识但是却一路保护，把老人家安全送到城内。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：小道长是个好人。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：我和宗业爷爷两人一路走到今州，也是多亏有许多好心人帮忙。</p>\n</div>"
+              },
+              {
+                "id": "10-2",
+                "cid": [],
+                "pid": [
+                  "9-1"
+                ],
+                "group": "10",
+                "title": "为什么执着寻人？",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：宗业爷爷有些糊涂，他独自出来寻找参军的孙子陷入了难处，小道理应出手帮助。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：老人家的情况小道也报过案，因城外情况，宗业爷爷心焦，常常趁人不意，独自四处找寻&hellip;&hellip;小道难安。</p>\n</div>"
+              },
+              {
+                "id": "10-3",
+                "cid": [
+                  "11-1",
+                  "11-2",
+                  "11-3",
+                  "11-4"
+                ],
+                "pid": [
+                  "9-1"
+                ],
+                "group": "10",
+                "title": "你对莽吉柿有了解吗？",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：这个莽吉柿&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">鉴心：叶片色泽鲜艳，果皮柔软回弹好，蒂瓣足有八片，果肉饱满，是个好果子。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "10-4",
+                "cid": [],
+                "pid": [
+                  "9-1"
+                ],
+                "group": "10",
+                "title": "你从哪里来的？",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：小道自小在道馆里长大的，大部分时间都在山上跟着师父们修道练武。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：后来师父说修道之人不能单纯地修炼方术、遁隐山林，入世生活也是一种不可或缺的修行。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：所以我就开始下山游历，世道人情，千端万绪，走过千山百城，目睹七情六欲，收获颇丰，但依旧有许多要学的东西。</p>\n</div>"
+              },
+              {
+                "id": "10-5",
+                "cid": [
+                  "12-1",
+                  "12-2",
+                  "12-3"
+                ],
+                "pid": [
+                  "9-1"
+                ],
+                "group": "10",
+                "title": "我知道了。",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：&hellip;&hellip;通过搜集的信息，得出宗业爷爷的孙儿极有可能在荒石高地。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">鉴心：而幸好遇到两位，现在方能出城。</p>\n</div>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "11-1",
+                "cid": [],
+                "pid": [
+                  "10-3"
+                ],
+                "group": "11",
+                "title": "学到了。",
+                "content": ""
+              },
+              {
+                "id": "11-2",
+                "cid": [],
+                "pid": [
+                  "10-3"
+                ],
+                "group": "11",
+                "title": "倒不是要学习挑选技巧。",
+                "content": ""
+              },
+              {
+                "id": "11-3",
+                "cid": [],
+                "pid": [
+                  "10-3"
+                ],
+                "group": "11",
+                "title": "你怎么还懂这个？",
+                "content": "<p>鉴心：啊，还有，底端不显眼处有一块淤青，此瓣果肉再不吃就坏了。</p>"
+              },
+              {
+                "id": "11-4",
+                "cid": [
+                  "12-1",
+                  "12-2",
+                  "12-3"
+                ],
+                "pid": [
+                  "10-3"
+                ],
+                "group": "11",
+                "title": "没有其他了？",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：&hellip;&hellip;通过搜集的信息，得出宗业爷爷的孙儿极有可能在荒石高地。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">鉴心：而幸好遇到两位，现在方能出城。</p>\n</div>\n</div>"
+              },
+              {
+                "id": "12-1",
+                "cid": [
+                  "13-1"
+                ],
+                "pid": [
+                  "11-4",
+                  "10-5"
+                ],
+                "group": "12",
+                "title": "我们也打算去荒石高地。",
+                "content": ""
+              },
+              {
+                "id": "12-2",
+                "cid": [
+                  "13-1"
+                ],
+                "pid": [
+                  "11-4",
+                  "10-5"
+                ],
+                "group": "12",
+                "title": "那就结伴而行吧。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "12-3",
+                "cid": [
+                  "13-1"
+                ],
+                "pid": [
+                  "11-4",
+                  "10-5"
+                ],
+                "group": "12",
+                "title": "小道长，可要保护我们。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "13-1",
+                "cid": [],
+                "pid": [
+                  "12-1",
+                  "12-2",
+                  "12-3"
+                ],
+                "group": "13",
+                "title": "",
+                "content": "<p>鉴心：明白。</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        }
+      }
+    },
+    "currentVersion": "3.0",
+    "onlineVersion": "3.0",
+    "browseCount": 4686,
+    "lastUpdateTime": "2025-02-25",
+    "lastEditUserName": "Sanma",
+    "userScoreList": [
+      {
+        "userId": 10020855,
+        "userName": "Sanma",
+        "headCode": "122",
+        "userHeadUrl": "https://prod-alicdn-community.kurobbs.com/newHead/aki/taoqi.png",
+        "status": 0,
+        "score": 42,
+        "userCenterUrl": "https://www.kurobbs.com/person-center?id=10020855",
+        "lastOperator": true
+      }
+    ],
+    "status": 2,
+    "checkStatus": 0
+  },
+  "traceId": "ae6c1c69-aaf2-43a9-871e-b167b1dbaf02",
+  "success": true
+}

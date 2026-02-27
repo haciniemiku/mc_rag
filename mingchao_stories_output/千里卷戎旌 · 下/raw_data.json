@@ -1,0 +1,1194 @@
+{
+  "code": 200,
+  "msg": "操作成功",
+  "data": {
+    "id": "1321240291303739392",
+    "name": "千里卷戎旌·下",
+    "orgFullName": "剧情任务组 > 剧情线",
+    "orgTree": {
+      "id": 3,
+      "key": null,
+      "name": "全部",
+      "parentId": null,
+      "level": 0,
+      "sort": null,
+      "children": [
+        {
+          "id": 332,
+          "key": null,
+          "name": "剧情任务组",
+          "parentId": null,
+          "level": 1,
+          "sort": null,
+          "children": [
+            {
+              "id": 316,
+              "key": null,
+              "name": "剧情线",
+              "parentId": null,
+              "level": 2,
+              "sort": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    },
+    "orgId": 316,
+    "orgIdList": [
+      316,
+      332,
+      3
+    ],
+    "content": {
+      "mediaList": [],
+      "title": "千里卷戎旌·下",
+      "modules": [
+        {
+          "title": "进入「北落峡谷」",
+          "components": [
+            {
+              "idx": "9f821e33-e4f1-455c-990c-b9323d510908",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "击败敌人",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "深入「北落峡谷」",
+          "components": [
+            {
+              "idx": "5f3dd43d-80d0-42c7-8f83-def13635dc21",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "击败敌人",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "继续前进",
+          "components": [
+            {
+              "idx": "b9ddbf16-a040-4ec7-8cec-4d8b2f77d702",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "滑下陡坡",
+          "components": [
+            {
+              "idx": "9b0c22a7-42bb-48b7-8ea7-c63cc88b9cf1",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "跃过断崖",
+          "components": [
+            {
+              "idx": "5611607f-95e4-440e-931f-ae7f65bca205",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "击败周围的敌人",
+          "components": [
+            {
+              "idx": "d1b69f4f-a332-47d3-bce4-f1d0a827389c",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "进入「悬浮废墟」",
+          "components": [
+            {
+              "idx": "f848424d-dabb-46c1-baa4-8be51d71a10b",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "寻找通路",
+          "components": [
+            {
+              "idx": "585839d5-e1d7-4855-ac2e-b7b08eaa2efc",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "深入「悬浮废墟」",
+          "components": [
+            {
+              "idx": "e309a4e4-bac2-49a7-9b32-c3a61fd521d0",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "继续前进",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "击败敌人",
+          "components": [
+            {
+              "idx": "32415ae4-1cd4-48eb-9b00-3d026833d4de",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "前往上层",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "前往「悬浮废墟」最高处",
+          "components": [
+            {
+              "idx": "70417481-a6dc-4777-8240-2bf56a561612",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "进入「天悬烽火」",
+          "components": [],
+          "titleDisabled": true
+        },
+        {
+          "title": "击败眼前的怪物",
+          "components": [
+            {
+              "idx": "df0c2d1a-eaa3-49f5-9c1d-3baaa7d9a5ca",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "击败「无冠者」",
+          "components": [
+            {
+              "idx": "e9950ca5-aced-47ab-97e8-426c2d6bef3c",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "击败敌人",
+          "components": [
+            {
+              "idx": "c7c02c7c-12dc-44bc-bb15-202c1aed9aa3",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "击败眼前的怪物",
+          "components": [
+            {
+              "idx": "e58ea82f-4ab6-4951-bfc0-60709bb53f20",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "击败眼前的敌人",
+          "components": [
+            {
+              "idx": "4da666b5-0c1f-489c-b926-74cbe89f21a2",
+              "size": "frameless",
+              "type": "story-component",
+              "title": "剧情组件-无边框",
+              "content": "",
+              "collapse": false,
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "transparent",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "离开「天悬烽火」",
+          "components": [],
+          "titleDisabled": true
+        }
+      ],
+      "story": {
+        "32415ae4-1cd4-48eb-9b00-3d026833d4de": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：连这种等级的残象都能创造出来&hellip;&hellip;但这可拦不住我们！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：果然，越靠近那尊雕像，出现的敌人也就越强大。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：二位，先前的战斗中有受伤吗？</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秧秧：我没有，倒是漂泊者&hellip;&hellip;</p>\n</div>\n</div>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "没有。",
+                "content": ""
+              },
+              {
+                "id": "2-2",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "有一点。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [],
+                "pid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "group": "3",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：&hellip;&hellip;手伸过来一下。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：嗯&hellip;&hellip;果然，刚才的战斗还是给你造成了一些擦伤。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：我这有一些简单的草药，你先拿去敷上。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：之后的战斗只会越来越凶险，如果受伤，莫要逞强，一定要及时告知我。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：我们继续前进吧。</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "4da666b5-0c1f-489c-b926-74cbe89f21a2": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "title": "",
+                "content": "<p>忌炎：身为战争的鸣式，不选择战斗到底&hellip;&hellip;反而选择了逃跑吗？</p>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "它看起来很虚弱。",
+                "content": ""
+              },
+              {
+                "id": "2-2",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "它在有意避战。",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [],
+                "pid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "group": "3",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？：呼&hellip;&hellip;呼&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：漂泊者，这是&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：这个地方要崩塌了&hellip;&hellip;我们先离开这里，其他事情出去再议。</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "5611607f-95e4-440e-931f-ae7f65bca205": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：漂泊者，没事吧？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：不要放松警惕，有残象攻过来了。</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "585839d5-e1d7-4855-ac2e-b7b08eaa2efc": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<p>忌炎：这面墙&hellip;&hellip;应该可以用使用钩索，通过「拉取」移开。</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "5f3dd43d-80d0-42c7-8f83-def13635dc21": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：又有残象包过来了！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：这样下去没完没了，没有时间和他们战斗了！</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "70417481-a6dc-4777-8240-2bf56a561612": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：道路完全被切断了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：漂泊者，凿空最后的轰击方位，由你来决定吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：为我们创造出一条新的道路。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：如此之多的残象&hellip;&hellip;凿空的能源又只能够支持一次支援&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：秧秧，你&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：受鸣式召唤而来的残象源源不断，必须有人留在最后肃清轰击空间，护送其他人进入雕像内部。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：将军，我明白你的想法。但相比于将军你&hellip;&hellip;我想，我是更合适的人选。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：击败鸣式，是我们所有人共同的愿望。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：将军，我知道你不想丢下任何一个人。但你我都清楚，你与漂泊者，才是最有希望直接战胜鸣式之人。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：达成这一愿望的机会，如今就摆在我的面前&hellip;&hellip;我，不想任其流失。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：&hellip;&hellip;呵，没错，这下反而显得我优柔寡断了。</p>\n</div>"
+              },
+              {
+                "id": "2-1",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "我明白了。",
+                "content": ""
+              },
+              {
+                "id": "2-2",
+                "cid": [
+                  "3-1"
+                ],
+                "pid": [
+                  "1"
+                ],
+                "group": "2",
+                "title": "秧秧……",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：这一路上，我已经见证了无数人的信念与意志。现在，是让我回应他们的时候了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：漂泊者，这里，就交给我吧。</p>\n</div>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "3-1",
+                "cid": [
+                  "4-1",
+                  "4-2"
+                ],
+                "pid": [
+                  "2-1",
+                  "2-2"
+                ],
+                "group": "3",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：既然如此&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：漂泊者，下令开炮吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：我会守住这里，防止鸣式从这些残象之上汲取更多频率。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：那边的战场，就交给你们了。</p>\n</div>"
+              },
+              {
+                "id": "4-1",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "就是那里！",
+                "content": ""
+              },
+              {
+                "id": "4-2",
+                "cid": [
+                  "5-1"
+                ],
+                "pid": [
+                  "3-1"
+                ],
+                "group": "4",
+                "title": "开炮！",
+                "content": "",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "5-1",
+                "cid": [
+                  "6-1",
+                  "6-2",
+                  "6-3",
+                  "6-4"
+                ],
+                "pid": [
+                  "4-1",
+                  "4-2"
+                ],
+                "group": "5",
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：果然，敌人的源头，就隐藏在这个雕像之中。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">忌炎：前面，就是和鸣式的战斗了&hellip;&hellip;漂泊者，你准备好了吗？</p>\n</div>\n</div>"
+              },
+              {
+                "id": "6-1",
+                "cid": [
+                  "7-1"
+                ],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "鸣式？打的就是鸣式！",
+                "content": "<p>忌炎：不错的气势。</p>"
+              },
+              {
+                "id": "6-2",
+                "cid": [
+                  "7-1"
+                ],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "没有退路可言。",
+                "content": "<p>忌炎：没错，我们已经走到了这里，没有理由再退缩了。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "6-3",
+                "cid": [
+                  "7-1"
+                ],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "不能辜负大家。",
+                "content": "<p>忌炎：嗯，我们已经背负了太多人的期望。</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "6-4",
+                "cid": [
+                  "7-1"
+                ],
+                "pid": [
+                  "5-1"
+                ],
+                "group": "6",
+                "title": "说实话，有点紧张。",
+                "content": "<p>忌炎：保持紧张，并非是一件完全的坏事，有时反而能使我们的精神更加集中。调整下呼吸，接下来&hellip;&hellip;</p>",
+                "delEdgeChildren": []
+              },
+              {
+                "id": "7-1",
+                "cid": [],
+                "pid": [
+                  "6-1",
+                  "6-2",
+                  "6-3",
+                  "6-4"
+                ],
+                "group": "7",
+                "title": "",
+                "content": "<p>忌炎：让这场战争，就此结束吧。</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "9b0c22a7-42bb-48b7-8ea7-c63cc88b9cf1": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：秧秧，漂泊者&hellip;&hellip;跟紧我！从这里滑下去！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：小心前面的断崖！</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "9f821e33-e4f1-455c-990c-b9323d510908": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：一点钟方向，注意落石！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：小心，有残象出现了！</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "entryId": "1321236014615425024",
+            "linkType": 1
+          },
+          "nextLink": {
+            "entryId": "1321239890227818496",
+            "linkType": 1
+          },
+          "preLabel": "千里卷戎旌·上",
+          "nextLabel": "行路遇新知"
+        },
+        "b9ddbf16-a040-4ec7-8cec-4d8b2f77d702": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：找机会从这里突围出去，在前方利用钩索甩掉后方残象！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：鉴心！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：此处残象来势汹汹，必须有人断后。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：诸位，小道就护送到这里了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：请各位，相信小道，继续前进吧。</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "c7c02c7c-12dc-44bc-bb15-202c1aed9aa3": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：那轮&ldquo;月亮&rdquo;吸收了无冠者的频率，又创造出了另一头怪物。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：它是&ldquo;弯刀之役&rdquo;那时的&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：休想&hellip;&hellip;靠近&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：这是&hellip;&hellip;夜归军的剑术&hellip;&hellip;荒谬！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：小心它的远程攻击，暂避锋芒，注意躲避！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：漂泊者，你注意到了吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：它的所有攻击都在有意避开身后的&ldquo;月亮&rdquo;&hellip;&hellip;那轮&ldquo;月亮&rdquo;，可能才是敌人的核心。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：它的攻势弱下来了。这些攻击，交给我来打破！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：漂泊者，等待机会，攻击它的核心！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：&hellip;&hellip;连我的龙枪都复制过去了吗？</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "d1b69f4f-a332-47d3-bce4-f1d0a827389c": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：前面就是悬浮废墟了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：这里的信标还能够使用&hellip;&hellip;防护功能也很完整，我们可以在这稍作整备。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：无相燹主的攻势果然激进，我们的主力部队也被阻断了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：接下来的战斗，只能靠我们自己了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：不知道鉴心那边&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：我已尝试过使用终端联络后方，但始终没有响应，想来也是受到了鸣式力量影响的缘故。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：事已至此，我们也只能选择相信他们，继续前进，将那头怪物消灭。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：前方，定然少不了一番恶战。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：如果准备好了，我们就进入悬浮废墟吧。</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "df0c2d1a-eaa3-49f5-9c1d-3baaa7d9a5ca": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：这里，竟然还藏着一轮&ldquo;月亮&rdquo;&hellip;&hellip;这究竟是&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：无冠者&hellip;&hellip;它的频率再次被鸣式重组了。</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "e309a4e4-bac2-49a7-9b32-c3a61fd521d0": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：果然，原有的道路都被破坏了&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：附近也没有敌人的身影&hellip;&hellip;可能有更强大的敌人在前方等着我们。</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "e58ea82f-4ab6-4951-bfc0-60709bb53f20": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">无妄者&middot;绝灭的兵刃：赐给你们&hellip;&hellip;同样的结局&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">无妄者&middot;绝灭的兵刃：母亲&hellip;&hellip;需要兵器&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">无妄者&middot;绝灭的兵刃：更多&hellip;&hellip;更强的&hellip;&hellip;兵器&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">无妄者&middot;绝灭的兵刃：必以鲜血&hellip;&hellip;偿还僭越&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">无妄者&middot;绝灭的兵刃：战火&hellip;&hellip;不会停息&hellip;&hellip;我们&hellip;&hellip;必将归来&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">无妄者&middot;绝灭的兵刃：把&hellip;&hellip;母亲的&hellip;&hellip;兵器&hellip;&hellip;还回&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">无妄者&middot;绝灭的兵刃：你&hellip;&hellip;必须&hellip;&hellip;偿还&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：当心！</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "e9950ca5-aced-47ab-97e8-426c2d6bef3c": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">无冠者：战斗&hellip;&hellip;吸收&hellip;&hellip;进化&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：它陷入了虚弱状态，好机会！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：被我们击散的频率&hellip;&hellip;在往&ldquo;月亮&rdquo;的方向汇集？</p>\n</div>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        },
+        "f848424d-dabb-46c1-baa4-8be51d71a10b": {
+          "v": "v1",
+          "flow": {
+            "raw": [
+              {
+                "id": "1",
+                "cid": [],
+                "title": "",
+                "content": "<p>忌炎：里面有些过于安静了，先四处探索一下吧，谨慎一些。</p>"
+              }
+            ],
+            "data": {},
+            "structure": {
+              "id": "1"
+            },
+            "individual": []
+          },
+          "title": "",
+          "branch": "1",
+          "content": "",
+          "preLink": {
+            "linkType": 1
+          },
+          "nextLink": {
+            "linkType": 1
+          },
+          "preLabel": "",
+          "nextLabel": ""
+        }
+      }
+    },
+    "currentVersion": "2.0",
+    "onlineVersion": "2.0",
+    "browseCount": 3994,
+    "lastUpdateTime": "2025-02-25",
+    "lastEditUserName": "Sanma",
+    "userScoreList": [
+      {
+        "userId": 10020855,
+        "userName": "Sanma",
+        "headCode": "122",
+        "userHeadUrl": "https://prod-alicdn-community.kurobbs.com/newHead/aki/taoqi.png",
+        "status": 0,
+        "score": 32,
+        "userCenterUrl": "https://www.kurobbs.com/person-center?id=10020855",
+        "lastOperator": true
+      }
+    ],
+    "status": 2,
+    "checkStatus": 0
+  },
+  "traceId": "f48abd45-46dc-414c-99da-80ded586ec09",
+  "success": true
+}

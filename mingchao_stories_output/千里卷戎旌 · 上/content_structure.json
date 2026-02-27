@@ -1,0 +1,2194 @@
+{
+  "mediaList": [],
+  "title": "千里卷戎旌·上",
+  "modules": [
+    {
+      "title": "千里卷戎旌·上",
+      "components": [
+        {
+          "idx": "166e7da6-c633-4b39-903b-d40910fc8f2a",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "检查营地",
+      "components": [
+        {
+          "idx": "d8ada3ac-94d0-451c-8e80-97d2547dc0c0",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "击败敌人",
+      "components": [
+        {
+          "idx": "ea0ce414-afbc-41f6-b5fd-30d3e0657e23",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "与神秘男子对话",
+      "components": [
+        {
+          "idx": "e9750f73-4df2-4e78-a1e7-785fda294831",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "寻找桃祈",
+      "components": [
+        {
+          "idx": "e575013c-a8b8-4094-9251-11af1027c8df",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "击退残象潮",
+      "components": [
+        {
+          "idx": "ea760ff6-7859-42bf-8ddd-121e521bb972",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "支援前哨",
+      "components": [
+        {
+          "idx": "be369fe0-0d7d-4b09-b41c-5daf1568df90",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "解救被围困的士兵",
+      "components": [
+        {
+          "idx": "94dbfe4d-c6ad-481b-8a4a-957c81fe2eb5",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "击败营地中的残象",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "击败来袭的残象",
+      "components": [
+        {
+          "idx": "4ccb5399-b56b-40a3-80de-6393273242cf",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往荒石高地无音区",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "击败沿路出现的残象",
+      "components": [
+        {
+          "idx": "2d846b2a-a712-48b8-98ec-b18e5325695c",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往荒石高地无音区",
+      "components": [
+        {
+          "idx": "534e7720-d998-4c47-8689-116b6e0bd0a3",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "检查受伤的士兵",
+      "components": [
+        {
+          "idx": "a3cd420a-23ce-4789-ad34-597ad5ec305a",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "击败云闪之鳞",
+      "components": [
+        {
+          "idx": "88649ad1-e55d-4082-bdc7-33cc742b43bd",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往军营",
+      "components": [
+        {
+          "idx": "2f75daea-fa0b-47f8-bf2c-5212e90b0602",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往指挥中心",
+      "components": [
+        {
+          "idx": "a2be6a48-76cd-4525-a9b4-c12262538e35",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "寻找夜归哨兵",
+      "components": [
+        {
+          "idx": "8d337e45-329e-45b1-8dd6-00be90949f27",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "乘坐电梯前往「凿空」",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "击败「凿空」周围的残象",
+      "components": [
+        {
+          "idx": "aff51c96-ccc1-479f-a47d-3989b6a9fffa",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "与幸存的士兵交谈",
+      "components": [
+        {
+          "idx": "7146063e-6818-49a0-89f8-b0e9ff7d56bd",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "击败来袭的残象，保护「凿空」",
+      "components": [
+        {
+          "idx": "bd098f3a-4c64-4bbc-8856-f3074b7b4f6b",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    }
+  ],
+  "story": {
+    "166e7da6-c633-4b39-903b-d40910fc8f2a": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：这场雨，终于还是来了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">夜归士兵：将军。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：嗯。先前我吩咐的事情，已经办置妥当了吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">夜归士兵：目前可战斗人员还剩五百人，均已服用了研究院配备的抗溯洄雨药剂，队员们幻觉感明显减少，也没有出现任何不良反应。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">夜归士兵：但还是有一些从伍多年的士兵，声称自己时不时还是能看到一些溯洄雨的&ldquo;幽灵&rdquo;&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：我知道了，一切按计划行事。继续加强警戒，如发现任何残象潮的征兆，立刻报告。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：等待雨停，即刻启程，进军北落野。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">夜归士兵：是！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：&ldquo;与降雨区关联越紧密的人，看到的幻觉越真实&rdquo;吗&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：再去巡察一遍营地吧，需要确保没有其他变数产生。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "entryId": "1321227794152878080",
+        "linkType": 1
+      },
+      "nextLink": {
+        "entryId": "1321240291303739392",
+        "linkType": 1
+      },
+      "preLabel": "欲知天将雨",
+      "nextLabel": "千里卷戎旌·下"
+    },
+    "2d846b2a-a712-48b8-98ec-b18e5325695c": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：果然，这里还有几只落单的残象&hellip;&hellip;迅速清理掉吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">那是&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：云闪之鳞？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：看来鸣式的复苏，对荒石高地周边的环境也产生了不可估量的影响&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：一路走来，野外的危险程度都高得吓人，越靠近北落野越是如此。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "2f75daea-fa0b-47f8-bf2c-5212e90b0602": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：那是&hellip;&hellip;！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：那是无相燹主利用兵器、建筑与岩石的残片拼凑出的雕像。长久以来，它如巨人般从高空睥睨着整个今州，昭示着无相燹主的野心。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：将军，你们回来了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：鉴心？你怎么&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：鉴心随补给队伍来到前线营地已有多日，她心性沉稳，帮我解决了不少麻烦事。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：将军过奖了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：小道也曾听闻，每到滂霈时分，北落野都会传出无数呜咽嘶嚎，有如百鬼夜哭&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：师父曾言，生死本有命，气化万物中，天地如巨室，魂去而复归。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">鉴心：无数战士们的灵魂，都被无相燹主囚禁在了北落野之中&hellip;&hellip;小道，也想帮助他们解脱。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：几位，请随我来。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：击败鸣式虽是这场战役的关键&hellip;&hellip;但在此前的几场战役中，北落野的残象潮都曾或多或少出现过异常状况。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：研究院对此已有结论。北落野的残象并非是一种原生残象，而是基于某种力量的灌输而突然诞生的存在。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：我曾分析过他们的形成规律，最后得出了一个结论：创造残象潮的力量源头，正是那尊雕像。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：如今无相燹主的力量尚未完全恢复，是破解这一秘密的最好机会。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：考虑到残象潮的威胁依然存在，军中也有不少伤员失去了作战能力，在正式进攻之前，我们需要先分配一下各自的职责以及任务。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：我希望，你可以与我一同参与这次战略的规划。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "4ccb5399-b56b-40a3-80de-6393273242cf": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">战斗的士兵：北门！又有残象冲过来了！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：敌人已是强弩之末，继续坚守！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">战斗的士兵：结束了！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：营地中的残象，都已经清理完毕了。不知今州城那边&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：今州城情况如何？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">桃祈（通讯中）：按照令尹的吩咐，已开启防护罩，所有居民也均已撤回安全区域。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">桃祈（通讯中）：研究院和天工也都已经进入战备状态，白芷在研究院管控监测，莫特斐已经到达天工。今州城这边，你可以放心。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">桃祈（通讯中）：还有那位漂泊者，她和秧秧一起，正在前往军营的路上。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：我知道了。破阵营这边，残象潮的攻势也已经平息。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：我会尽快前去接应他们。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：雨势越来越大了&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：无音区那边也出现了不少残象复苏的痕迹，高密度的频率波动仍然存在&hellip;&hellip;这是他们的必经之路。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：得快点为他们清出一条道路了。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "534e7720-d998-4c47-8689-116b6e0bd0a3": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：流息中弥漫着恐惧与血腥味&hellip;&hellip;荒石高地恐怕刚经历了一场大战。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：再往前，就是桃祈事务长先前所说的无音区了。只有穿过那片无音区，才能抵达忌炎将军所在的营地。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：不知在这场溯洄雨之下，会有怎样的异象在等待着我们&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：前面那是&hellip;&hellip;夜归的士兵？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：这些士兵&hellip;&hellip;是溯洄雨幽灵！小心，残象们包围过来了！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：溯洄雨形成的幽灵中蕴藏着高密度的回音能量，这些残象可能是因此被吸引过来的。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：降雨区正在不断扩大，流息也变得越来越紊乱了&hellip;&hellip;我们必须得抓紧时间了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：前面的这些夜归士兵&hellip;&hellip;很可能也是溯洄雨幽灵，小心一些。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：又有残象出现了！</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "7146063e-6818-49a0-89f8-b0e9ff7d56bd": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1"
+            ],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：威胁暂时解除了，我们快去查看一下那位士兵的情况吧&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">重伤的夜归士兵：将军&hellip;&hellip;是你吗&hellip;&hellip;</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1",
+              "3-2"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "我们是将军派来的救兵。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">重伤的夜归士兵：是吗&hellip;&hellip;太好了&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">重伤的夜归士兵：我们知道&hellip;&hellip;这门大炮&hellip;&hellip;意义重大&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">重伤的夜归士兵：我们一直坚守在这里&hellip;&hellip;没有让残象们占领&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧一直在尝试着为士兵进行治疗，但士兵的情况似乎已经不容乐观了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">重伤的夜归士兵：这是&hellip;&hellip;修复密钥&hellip;&hellip;请收好&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">重伤的夜归士兵：我可能没有办法坚持到胜利的那一刻了&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">重伤的夜归士兵：请&hellip;&hellip;一定要击败那头怪物&hellip;&hellip;</p>\n</div>\n</div>"
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1"
+            ],
+            "group": "3",
+            "title": "你们都是伟大的战士。",
+            "content": ""
+          },
+          {
+            "id": "3-2",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1"
+            ],
+            "group": "3",
+            "title": "我们一定会胜利。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-1",
+            "cid": [],
+            "pid": [
+              "3-1",
+              "3-2"
+            ],
+            "group": "4",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">重伤的夜归士兵：谢&hellip;&hellip;谢&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：&hellip;&hellip;我们一定会胜利，请安息吧。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "88649ad1-e55d-4082-bdc7-33cc742b43bd": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2",
+              "2-3",
+              "2-4"
+            ],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：&hellip;&hellip;云闪之鳞。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：只有击败他，我们才能继续前进了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：&hellip;&hellip;退散！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：成功了！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：云闪之鳞，是吞噬了此处万千阵亡将士残响的&ldquo;闪雷&rdquo;所化。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：只要这里仍有战士死去，云闪之鳞就会再次复苏。更何况&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：无数战士的英魂，都被困在了这场暴雨里。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：&hellip;&hellip;将军。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：抱歉，我来晚了。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">抱歉，我来晚了。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "久仰。",
+            "content": "<p>忌炎：客气了，漂泊者。或许，我才是该说&ldquo;久仰&rdquo;的那个人。</p>"
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "你就是那位将军？",
+            "content": "<p>忌炎：容我正式介绍一番，我正是夜归军的现任将军，忌炎。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "2-3",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "这位将军，我曾见过的。",
+            "content": "<p>忌炎：是吗？你身上的秘密确实很多，经历离奇，若是曾经有个一面之缘，我也不意外。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "2-4",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "你是溯洄雨幽灵吗？",
+            "content": "<p>忌炎：我想，&ldquo;只存在于过去的&rdquo;溯洄雨幽灵并不会认得你。如果可以，我也希望我能早些与你结识，漂泊者。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1",
+              "2-2",
+              "2-3",
+              "2-4"
+            ],
+            "group": "3",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：令尹与桃祈已经将你出城前来支援的事情告知于我，感谢你前来。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">忌炎：初次见面，本应是按瑝珑礼节招待，但眼下的情况已不允许我们耽搁，我会将我们的规划尽可能简洁地告知于你。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "直接和我聊军机吗？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：你的事迹，我已经从令尹那里得知了一些。她口中的你，是一位值得信任的人才。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：这是研究院配备的抗溯洄雨药剂，你们且先服下。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">忌炎：虽无法完全隔绝溯洄雨的影响，但至少能减轻因溯洄雨而产生的幻觉感。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1",
+              "6-2"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "你不怕我是溯洄雨幽灵？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：溯洄雨所形成的幽灵，其对象需要满足两个条件。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：其一，是该人曾经受到过溯洄雨的影响，其二，则需要该人与降雨区的联系足够紧密。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：你不久前刚从云陵谷苏醒，亦是初到今州，并不具备这两点条件。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：而且&hellip;&hellip;你有着与瑝珑传说中&ldquo;能够吸收鸣式的英雄&rdquo;相近的能力，角也曾亲口对我讲述了关于你的预言。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：在祂的预言之中，你会来到北落野。要从鸣式那里，取回你失去的力量。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">忌炎：我会尽可能地帮助你达成这一目的。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "6-1",
+            "cid": [
+              "7-1"
+            ],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "角的预言？",
+            "content": ""
+          },
+          {
+            "id": "6-2",
+            "cid": [
+              "7-1"
+            ],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "我失去的力量？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "7-1",
+            "cid": [
+              "8-1",
+              "8-2",
+              "8-3"
+            ],
+            "pid": [
+              "6-1",
+              "6-2"
+            ],
+            "group": "7",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：此事或许今汐并不知晓。我继任夜归将军之时，今汐尚未就任令尹。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：也正是在我继任夜归将军的那一日，角曾如此对我说&mdash;&mdash;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：&ldquo;月相完满之时，你将协助一位归来之人，直面鸣式，并从鸣式之中，取回击败鸣式的力量。&rdquo;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：如果你即是那位&ldquo;归来之人&rdquo;，我们这一次，也许真的能够一举消灭那头怪物。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：你们应该也注意到了这轮满月的异样，我们将这一现象称作&ldquo;虚影之月&rdquo;。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：当虚影之月完全形成，也就意味着&mdash;&mdash;代表战争的鸣式，无相燹主，就要苏醒了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：它是盘亘在这片土地上的古老阴影，能够吞噬兵器频率，将其化为自身力量的存在。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：北落野在经历了无数场战争之后，已经成为了一座&ldquo;万剑冢&rdquo;。它的力量相比之前，恐怕又要增强几分。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">忌炎：但如今&ldquo;虚影之月&rdquo;已现，若是再继续拖延下去，只会为它留出&ldquo;以战养战&rdquo;的喘息时间，积重难返。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "8-1",
+            "cid": [
+              "9-1"
+            ],
+            "pid": [
+              "7-1"
+            ],
+            "group": "8",
+            "title": "下一步计划是什么？",
+            "content": "<p>忌炎：能在此等状况之下保持冷静，你的心性，果然非同一般。</p>"
+          },
+          {
+            "id": "8-2",
+            "cid": [
+              "9-1"
+            ],
+            "pid": [
+              "7-1"
+            ],
+            "group": "8",
+            "title": "好，我上了！",
+            "content": "<p>忌炎：且慢！现在还不可操之过急！</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "8-3",
+            "cid": [
+              "9-1"
+            ],
+            "pid": [
+              "7-1"
+            ],
+            "group": "8",
+            "title": "希望我的葬礼能办得体面一些……",
+            "content": "<p>忌炎：不必如此悲观，敌人虽然强大，但却并非不可战胜。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "9-1",
+            "cid": [],
+            "pid": [
+              "8-1",
+              "8-2",
+              "8-3"
+            ],
+            "group": "9",
+            "title": "",
+            "content": "<p>忌炎：至于具体的事宜，我们回到营地再说吧。</p>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "8d337e45-329e-45b1-8dd6-00be90949f27": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">夜归哨兵：你们是&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：踏白小队，秧秧。忌炎将军派我们前来支援，现在情况怎么样？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">夜归哨兵：几分钟前，残象潮突然来袭，占领了下方的炮台。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">夜归哨兵：炮台处还有几位士兵在坚守，为了不让残象潮深入军营，他们让我们封锁了这片区域&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">夜归哨兵：我会为二位打开通道，拜托了，请快去支援他们吧！</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "94dbfe4d-c6ad-481b-8a4a-957c81fe2eb5": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2",
+              "2-3",
+              "2-4"
+            ],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">桃祈：呼&hellip;&hellip;终于&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">被解救的士兵：得救了！谢谢你们！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">桃祈：这里危险，我们先迅速撤出这里吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：这下&hellip;&hellip;总该结束了吧！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">炽霞：漂泊者，你的身手还是这么老练，这么多残象竟然都不在话下。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "唯手熟尔。",
+            "content": ""
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "多亏了大家。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "2-3",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "一天不打残象，我浑身难受。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "2-4",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "残象潮的攻势有些过于凶猛了。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1",
+              "2-2",
+              "2-3",
+              "2-4"
+            ],
+            "group": "3",
+            "title": "",
+            "content": "<p>秧秧：漂泊者，你看见了吗？</p>"
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1",
+              "5-2",
+              "5-3"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "月亮更模糊了。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">桃祈：此时的月亮，和三年前&ldquo;弯刀之役&rdquo;那时几乎一模一样了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">桃祈：恐怕，留给今州的时间已经不多了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐（通讯中）：战况如何？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">桃祈：报告令尹，防护罩已经修复完毕，居民也已全部回归城内，已将损伤控制在最小范围内。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">今汐（通讯中）：嗯，做得很好。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "好久不见。",
+            "content": ""
+          },
+          {
+            "id": "5-2",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "事情都还顺利吗？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-3",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "这也是提前录好的影像吗？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-1",
+            "cid": [
+              "7-1",
+              "7-2"
+            ],
+            "pid": [
+              "5-1",
+              "5-2",
+              "5-3"
+            ],
+            "group": "6",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐（通讯中）：好久不见了，漂泊者。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">今汐（通讯中）：事情的进展还算顺利。针对目前的状况，我已预先做好了对策。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "7-1",
+            "cid": [
+              "8-1"
+            ],
+            "pid": [
+              "6-1"
+            ],
+            "group": "7",
+            "title": "是角的指示？",
+            "content": ""
+          },
+          {
+            "id": "7-2",
+            "cid": [
+              "8-1"
+            ],
+            "pid": [
+              "6-1"
+            ],
+            "group": "7",
+            "title": "找到角了吗？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "8-1",
+            "cid": [
+              "9-1",
+              "9-2",
+              "9-3"
+            ],
+            "pid": [
+              "7-1",
+              "7-2"
+            ],
+            "group": "8",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐（通讯中）：今州情况危急，我身为令尹，也不能总是习惯依赖于角的力量。这是我的决定，也是我的职责所在。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐（通讯中）：此前我前往瑝都，已为今州申请到了一些实际性的援助。天工与研究院的几位，应该都已就位了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐（通讯中）：漂泊者，你还记得之前，角为你留下的信息吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐（通讯中）：溯洄的雨幕已经降下，夜归的将军，此刻正在北落野的前线，准备对战争的鸣式「无相燹主」，发起最后的进攻。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐（通讯中）：这应当就是角所说的那一时刻了。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">今汐（通讯中）：漂泊者，此去凶险，可能&hellip;&hellip;你将会与鸣式展开正面交锋。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "9-1",
+            "cid": [
+              "10-1"
+            ],
+            "pid": [
+              "8-1"
+            ],
+            "group": "9",
+            "title": "我已做好觉悟。",
+            "content": "<p>今汐（通讯中）：你的眼神，还是一如既往的坚定。</p>"
+          },
+          {
+            "id": "9-2",
+            "cid": [
+              "10-1"
+            ],
+            "pid": [
+              "8-1"
+            ],
+            "group": "9",
+            "title": "我没得选择。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐（通讯中）：我明白你此刻的心情，漂泊者。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐（通讯中）：我也同你一样，遇到过一些发生得过于突然，却又不得不面对的事情。</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "9-3",
+            "cid": [
+              "10-1"
+            ],
+            "pid": [
+              "8-1"
+            ],
+            "group": "9",
+            "title": "我愿意帮助今州。",
+            "content": "<p>今汐（通讯中）：我代表今州，由衷感谢你，漂泊者。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "10-1",
+            "cid": [
+              "11-1",
+              "11-2",
+              "11-3"
+            ],
+            "pid": [
+              "9-1",
+              "9-2",
+              "9-3"
+            ],
+            "group": "10",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐（通讯中）：此役之后，无论如何，你都将是帮助今州抵御外敌的英雄。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐（通讯中）：漂泊者，愿你穿越长夜，胜利归来。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">桃祈：漂泊者，我已将你即将前往前线的消息告知各地关卡，现在你可以在今州境内畅行无阻了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">桃祈：秧秧，你是踏白小队的成员，这一路就拜托你与漂泊者同行了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">桃祈：前往荒石兵营需要穿越一片无音区，路途凶险，请多加小心。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">炽霞：漂泊者，秧秧，我会担负好巡尉的责任，守护好今州城，等你们平安回来的！</p>\n</div>\n</div>"
+          },
+          {
+            "id": "11-1",
+            "cid": [
+              "12-1"
+            ],
+            "pid": [
+              "10-1"
+            ],
+            "group": "11",
+            "title": "加油，炽霞。",
+            "content": "<p>炽霞：嗯！我会加油的！</p>"
+          },
+          {
+            "id": "11-2",
+            "cid": [
+              "12-1"
+            ],
+            "pid": [
+              "10-1"
+            ],
+            "group": "11",
+            "title": "加油，马小芳。",
+            "content": "<p>炽霞：漂泊者！都说了不要叫我&hellip;&hellip;算了，这个时候，我就不计较这些了。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "11-3",
+            "cid": [
+              "12-1"
+            ],
+            "pid": [
+              "10-1"
+            ],
+            "group": "11",
+            "title": "加油，今州飞羽侠。",
+            "content": "<p>炽霞：呜呜呜&hellip;&hellip;谢谢你，漂泊者，没想到你还记得&hellip;&hellip;我一定不会辜负这个名号的！</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "12-1",
+            "cid": [],
+            "pid": [
+              "11-1",
+              "11-2",
+              "11-3"
+            ],
+            "group": "12",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">桃祈：看来，这场雨还要下上一段时间呢。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：今州城这边&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：放心吧，这里，有我们呢！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">渊武：嗯，有我。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">维里奈：我&hellip;&hellip;我也在！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">凌阳：有瑞狮团的各位！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">众士兵：还有我们！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">桃祈：呵呵&hellip;&hellip;你们也看到了。今州城的各位，可都在这里呢。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：漂泊者，秧秧，尽管放心去吧！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">桃祈：我也已将你们出城的消息告知忌炎将军，他会尽快赶来与你们汇合。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：愿你们穿越长夜，胜利归来！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：守住南门！残象潮的攻势正在减弱，这波残象潮，马上就要结束了！</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "a2be6a48-76cd-4525-a9b4-c12262538e35": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2",
+              "2-3"
+            ],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：目前，我将破阵营的兵力划分为了三股。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：分别为具有远距离火力打击能力的远程作战中队，擅长近距离作战的近战作战中队，以及&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：由我，漂泊者，秧秧与鉴心四人为代表所组成的突击小队。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：这位是空麟，负责率领破阵营远程作战中队。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：岳辉，破阵营近战作战中队队长。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：这是目前我们所探查到的北落野的地形图。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：受制于鸣式力量的影响，踏白小队成员所能抵达的最深处，仅止步于北落山谷与腹地交界处的断崖。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：&ldquo;弯刀之役&rdquo;是我们最深入的一场战役。从当时获取的情报来看，北落野腹地位置，有一片废墟悬浮其中。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：北落野入口处地形狭窄，两侧悬崖林立，状如绝涧，仅有中部谷地可供大部队行进。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：同样的，敌人也只能沿这一路径对我方发起进攻。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：另一方面，无相燹主拥有着不断重组被打散的残象频率的能力。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：这也就意味着，残象们的攻势只会源源不断，而我们的每一次战斗，都可能成为无相燹主的养分。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：这一局势，已不允许我们再进行长时间的持久战。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：因此，我们需要优先考虑的，是如何将中坚力量安全快速地送入战场腹地，使之取得登上雕像，消灭敌人源头的机会。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：漂泊者，现在我们需要针对各分队不同的特性，为其选择合适的策略，充分发挥其优势，赢下这场战役。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：首先是远程作战中队。远程作战中队的成员均已配备了支持远距离火力打击的武器。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：在进行火力部署时，应考虑到地形地势及敌方火力威胁等各因素。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：若能巧借地形之利，则可以有效提高我方远程作战单位的火力有效性与覆盖范围。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">忌炎：依你之见，该将远程作战中队部署在哪个位置？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "峡谷两侧山崖制高点。",
+            "content": "<p>忌炎：利用北落野峡谷的地形特征，事先将远程单位部署在制高点，为近战部队提供火力支援&hellip;&hellip;</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "峡谷底部正面战场后方。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（正面战场位于北落野峡谷底部，路径单一，视野狭窄。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（若是将远程火力部署在正面战场后方，远程分队在火力支援校准上会花费大量时间&hellip;&hellip;或许有更加合适的位置。）</p>\n</div>"
+          },
+          {
+            "id": "2-3",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "混合编制，与地面部队一起冲锋。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-2",
+              "2-3"
+            ],
+            "group": "3",
+            "title": "",
+            "content": "<p>漂泊者：（混合编制虽能适应战场的各种需要，但却会浪费掉远程分队本具有的的远距离优势&hellip;&hellip;或许有更加合适的位置。）</p>"
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1",
+              "5-2",
+              "5-3"
+            ],
+            "pid": [
+              "3-1",
+              "2-1"
+            ],
+            "group": "4",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：如此既能保证远程分队的安全，又能有效掩护我方近战部队，充分发挥了远程分队的远距离射程优势，不错的选择。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：接下来是近战作战中队。近战作战中队的队员们普遍装备了适合近距离战斗的武器，更适合与敌人进行正面搏杀。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：正面战场位于北落野谷地，敌我双方兵力均会在此处进行交汇，我们需要为其选择合理的进攻形式。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">忌炎：依你之见，近战作战中队该采取何种方式进行攻击？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "7-1"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "正面进攻。",
+            "content": "<p>忌炎：既然北落野的狭窄阵线已经决定了两军的正面交锋无可避免&hellip;&hellip;</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-2",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "侧翼包抄。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（分散部分兵力移动至敌方侧翼进行奇袭，打乱敌人阵型的同时使敌人无法集中兵力，以此取得优势&hellip;&hellip;）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（侧翼包抄的前提，是战场需要有足够宽阔的地形与合适的路径。如此狭隘的地形，看来并不支持这一战术。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（战场上瞬息万变，正面战场也可能因为兵力的分散而被敌人击溃&hellip;&hellip;或许还有更合适的进攻方式。）</p>\n</div>"
+          },
+          {
+            "id": "5-3",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "背面渗透。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-1",
+            "cid": [
+              "7-1"
+            ],
+            "pid": [
+              "5-2",
+              "5-3"
+            ],
+            "group": "6",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（渗透战术的核心，是利用小部分作战单位，从敌防御间隙渗透到对方的防御体系当中，从敌后由内而外瓦解敌人。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（但调动部队通过敌阵地需要相当长的时间，必须避开侦察与交战。峡谷之中，想要绕开敌方正面并非易事。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（这样一来，既限制了渗透部队的规模与强度，又难以直接击溃敌方。正面战场也可能因为兵力的分散而被敌人冲散。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（敌后区域更是被迷雾笼罩，最好不要贸然行事&hellip;&hellip;或许还有更合适的进攻方式。）</p>\n</div>"
+          },
+          {
+            "id": "7-1",
+            "cid": [
+              "8-1",
+              "8-2",
+              "8-3"
+            ],
+            "pid": [
+              "6-1",
+              "5-1"
+            ],
+            "group": "7",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：那么命我军进行冲阵，对敌人持续施加压力，使敌方出现防御缺口，为突击小队取得突破的机会&hellip;&hellip;是合理的决定。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：最后&hellip;&hellip;是突击小队。突击小队的各位，都是具有强大共鸣能力的共鸣者，具备更强的机动性与单兵作战能力。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：如果有机会&hellip;&hellip;消灭无相燹主的重任，也会落在突击小队身上。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">忌炎：依你之见，我们该选择何种战术？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "8-1",
+            "cid": [
+              "10-1"
+            ],
+            "pid": [
+              "7-1"
+            ],
+            "group": "8",
+            "title": "集中突破。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：集中战力，利用敌方防线中的缺口进行突入，直击腹地，摧毁其力量来源，只有这样，才能将敌人彻底击溃。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：此举或有风险，但却是目前状况下，最合适的一种方案。</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "8-2",
+            "cid": [
+              "9-1"
+            ],
+            "pid": [
+              "7-1"
+            ],
+            "group": "8",
+            "title": "迂回战术。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（迂回战术&hellip;&hellip;这一战术的目的是避免与敌人产生正面交锋，攻其薄弱，分散敌人，逐步击溃。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（但在鸣式力量的加持下，若不铲除敌人力量的源头，我们的战力反而可能被敌人源源不断的进攻消耗殆尽。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（当下的形势不允许我们主动拉长战斗时间&hellip;&hellip;或许还有更合适的战术。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（掩护跃进&hellip;&hellip;将小队拆分为两个小组，交替掩护彼此进行推进，以此保证小队整体能够安全迅速地抵达目标点。）</p>\n</div>"
+          },
+          {
+            "id": "8-3",
+            "cid": [
+              "9-1"
+            ],
+            "pid": [
+              "7-1"
+            ],
+            "group": "8",
+            "title": "掩护跃进。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "9-1",
+            "cid": [
+              "10-1"
+            ],
+            "pid": [
+              "8-2",
+              "8-3"
+            ],
+            "group": "9",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（掩护跃进&hellip;&hellip;将小队拆分为两个小组，交替掩护彼此进行推进，以此保证小队整体能够安全迅速地抵达目标点。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（但&hellip;&hellip;若是采用这一战术，仅由四人组成的先锋小队，更可能因为人员分散导致战斗力无法集中。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（一旦战斗开始，两军交火激烈，谷地之中也难以寻找适合提供掩护的中间地带。）</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：（在这种情况下，应当更审慎地考虑是否要采取掩护跃进的移动方式&hellip;&hellip;或许还有更合适的战术。)</p>\n</div>"
+          },
+          {
+            "id": "10-1",
+            "cid": [
+              "11-1",
+              "11-2",
+              "11-3"
+            ],
+            "pid": [
+              "9-1",
+              "8-1"
+            ],
+            "group": "10",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：感谢你，漂泊者。如此一来，整场战役的规划，又清晰了许多。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：那么，我总结一下本次战役的整体规划&mdash;&mdash;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：空麟，率领远程作战中队部署于两侧悬崖制高点，为正面战场提供火力支援。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：岳辉，率领近战作战中队对敌人发起冲阵，优先为突击小队提供掩护，制造敌方防线缺口。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">空麟&amp;岳辉：是！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：我将与漂泊者，秧秧，鉴心一同，带领突击小队突入腹地，为投入后续力量创造条件。全力以赴，消灭鸣式。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：好。如此一来，大家都应该明白各自的任务了吧？</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">忌炎：职能分配完毕，剩下的事情，就是夺回凿空，打开地波气障了。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "11-1",
+            "cid": [
+              "12-1"
+            ],
+            "pid": [
+              "10-1"
+            ],
+            "group": "11",
+            "title": "凿空？",
+            "content": ""
+          },
+          {
+            "id": "11-2",
+            "cid": [
+              "12-1"
+            ],
+            "pid": [
+              "10-1"
+            ],
+            "group": "11",
+            "title": "地波气障？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "11-3",
+            "cid": [
+              "12-1"
+            ],
+            "pid": [
+              "10-1"
+            ],
+            "group": "11",
+            "title": "奇怪的知识又要增加了……",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "12-1",
+            "cid": [
+              "13-1",
+              "13-2",
+              "13-3",
+              "13-4"
+            ],
+            "pid": [
+              "11-1",
+              "11-2",
+              "11-3"
+            ],
+            "group": "12",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：看到远处结界一样的屏障了吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：无相燹主为保证自己能够顺利吸收北落野残留武器的力量，建造出了这一层屏障。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：我们目前的首要任务之一，是夺回被残象侵略的裂解炮，凿空。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：那是今州建州之时建造出来用以对抗鸣式的装置。只有夺回了它，才能将这一结界打开，继续深入。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：更详细的，就由他来说明吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">莫特斐（通讯中）：将军，漂泊者。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：莫特斐，你们那边准备得怎么样了？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">莫特斐（通讯中）：好消息是，我已成功与凿空的控制终端建立了远程联系，天工这边已经万事俱备，只等你一声令下了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">莫特斐（通讯中）：坏消息则是&hellip;&hellip;我们发现凿空的充能装置遭到了破坏。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">莫特斐（通讯中）：简单来说，就是它&ldquo;没电了&rdquo;。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">莫特斐（通讯中）：但是好在，它还有备用的能源接口可以使用。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">莫特斐（通讯中）：想要使用凿空，我们得先修复那些备用能源接口，这样才能让凿空开始充能。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">莫特斐（通讯中）：还有什么疑问吗？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "13-1",
+            "cid": [
+              "14-1"
+            ],
+            "pid": [
+              "12-1"
+            ],
+            "group": "13",
+            "title": "可以用凿空直接轰击鸣式吗？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">莫特斐（通讯中）：理论上，可以。但实际上，很难。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">莫特斐（通讯中）：且不说无相燹主能不能躲避这一攻击，就算命中了，顶多也只能重创敌人，并不足以致命。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">莫特斐（通讯中）：鸣式的力量，比我们想象中要强大许多。但是用它撕裂地波气障，创造一个入口，还是足够了。</p>\n</div>"
+          },
+          {
+            "id": "13-2",
+            "cid": [
+              "14-1"
+            ],
+            "pid": [
+              "12-1"
+            ],
+            "group": "13",
+            "title": "怎么用的还是旧时代的能源？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "13-3",
+            "cid": [
+              "15-1"
+            ],
+            "pid": [
+              "12-1"
+            ],
+            "group": "13",
+            "title": "你能多造几个凿空吗？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "13-4",
+            "cid": [
+              "16-1"
+            ],
+            "pid": [
+              "12-1"
+            ],
+            "group": "13",
+            "title": "我没什么问题了。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "14-1",
+            "cid": [
+              "15-1"
+            ],
+            "pid": [
+              "13-1",
+              "13-2"
+            ],
+            "group": "14",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">莫特斐（通讯中）：那是因为&hellip;&hellip;凿空的创造年代至少要追溯到今州建州之时了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">莫特斐（通讯中）：能在那种科技水平之下造出这种武器，不得不说，能造出这家伙的工程师&hellip;&hellip;的确是位人才。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">莫特斐（通讯中）：要是用它对着今州城进行全功率输出，估计这今州城，都有可能被轰上天去，成为一座&ldquo;天城&rdquo;了。</p>\n</div>"
+          },
+          {
+            "id": "15-1",
+            "cid": [
+              "16-1"
+            ],
+            "pid": [
+              "14-1",
+              "13-3"
+            ],
+            "group": "15",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">莫特斐（通讯中）：&hellip;&hellip;也不是不行，但是需要时间。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">莫特斐（通讯中）：就算我再怎么全速制造&hellip;&hellip;今州都不可能撑到那个时候吧。</p>\n</div>"
+          },
+          {
+            "id": "16-1",
+            "cid": [],
+            "pid": [
+              "15-1",
+              "13-4"
+            ],
+            "group": "16",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">莫特斐（通讯中）：不过话说回来，这种需要严格战术规划的毁灭性武器&hellip;&hellip;瑝都那边，管控得应该很严格吧？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">莫特斐（通讯中）：它的使用权限，真的能够审批下来吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：此事已纳入我与令尹的规划之中，无需担忧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">莫特斐（通讯中）：好，那我们就静候佳音了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">莫特斐（通讯中）：另外，现在还有一个不太好的消息&hellip;&hellip;白芷。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷（通讯中）：我在。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷（通讯中）：漂泊者，我会在研究院对北落野的残象活动进行监测，为你指出一条相对安全的路线。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷（通讯中）：炮台处有位哨兵方才传来消息，已经有大批残象开始进攻凿空，士兵们正在拼命坚守。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷（通讯中）：目前看来，凿空的炮台附近已经盘踞了不少残象，其他残象也正在往炮台处缓慢移动。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷（通讯中）：夺回炮台之后，凿空的充能还需要一定的时间。在凿空充能的这段时间里，你们可能需要再坚持一下了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷（通讯中）：炮台和凿空备用能源接口的具体位置，我会通过终端发送给你。祝你们一切顺利，我们会等你们回来。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：情况各位应该已经清楚了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：漂泊者，秧秧，夺回凿空以及修复备用能源接口的任务，就交给你们了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：我去吸引其他残象的注意，尽可能帮你们减轻威胁。鉴心，你继续在这里，保护营地。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：兵贵神速，我们开始行动吧。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "a3cd420a-23ce-4789-ad34-597ad5ec305a": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：&hellip;&hellip;溯洄雨的影响还在不断加深，贸然深入可能会有更大的危险。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：那边，还有位受伤的夜归队员！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：流息逐渐稳定下来了，没有感应到异常&hellip;&hellip;对方不是溯洄雨幽灵，我们快过去看看吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奄奄一息的夜归士兵：你是&hellip;&hellip;秧秧？太好了&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：&hellip;&hellip;这里发生什么了？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奄奄一息的夜归士兵：是&hellip;&hellip;是云闪之鳞复苏了&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奄奄一息的夜归士兵：我是荒石高地物资运输队的一员&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奄奄一息的夜归士兵：荒石高地既是防线，也是前线的补给站，对于前线来说，补给线就是生命线&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奄奄一息的夜归士兵：想要抵达前线军营，就必须要穿过这片无音区&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奄奄一息的夜归士兵：但由于溯洄雨的影响，云闪之鳞突然复苏，将我们的运输队击溃，也将我们的补给线切断了&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奄奄一息的夜归士兵：我拼命逃了出来，只是&hellip;&hellip;已经没有继续行动的力气了&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">奄奄一息的夜归士兵：这片区域&hellip;&hellip;很危险&hellip;&hellip;二位&hellip;&hellip;小心&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：小心！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：是将军！</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "aff51c96-ccc1-479f-a47d-3989b6a9fffa": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<p>秧秧：这里已经被残象占领了&hellip;&hellip;那边，还有一位幸存的士兵！得赶紧把这些残象解决掉！</p>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "bd098f3a-4c64-4bbc-8856-f3074b7b4f6b": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：凿空已充能50%&hellip;&hellip;又有残象攻过来了，小心，漂泊者！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：凿空已充能80%！残象们的攻势减弱了，漂泊者，再坚持一下！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：凿空已充能完毕！漂泊者，我们一起，将最后这批残象全部清理掉吧！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：将军！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：辛苦你们了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：&hellip;&hellip;雨停了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">白芷（通讯中）：将军，溯洄雨的影响已经逐渐消退，监测到北落野残象数量正在急剧减少。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">莫特斐（通讯中）：凿空也充能完毕，随时可以发射，只是&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">莫特斐（通讯中）：凿空的发射需要动用大量能源，一旦空炮&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：&hellip;&hellip;这是我们唯一的机会了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐（通讯中）：各位，能听见吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐（通讯中）：我已用今令尹的身份与权限，争取到了凿空的发射许可。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐（通讯中）：动用凿空所需耗费的大量能源，空炮的可能，决策的合理与否&hellip;&hellip;将由我全权负责。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐（通讯中）：这场战役的结果，也都将由我一人承担。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐（通讯中）：将军，漂泊者，你们只管向前吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐（通讯中）：愿你们穿越长夜，胜利归来。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：&hellip;&hellip;感谢您的信任，令尹大人。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐（通讯中）：将军言重了。你我自始至终，都只有一个相同的目的&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">今汐（通讯中）：各部门，为漂泊者与忌炎将军无条件提供支援，允许发射凿空！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：目标，北落野。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎&amp;今汐：全力守卫今州！</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "be369fe0-0d7d-4b09-b41c-5daf1568df90": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<p>被解救的士兵：多谢你们！里面还有几位士兵在坚守，得把他们也解救出来！</p>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "d8ada3ac-94d0-451c-8e80-97d2547dc0c0": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1"
+            ],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">军士：啊，报告将军！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">军士：我军装备全部修理完毕，黑石武器校准也已经完成，已分发给了几位共鸣者，剩下的非共鸣者也已经准备就绪了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">军士：只是&hellip;&hellip;外面的雨势越来越大，我们是否应该暂时避战？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">军士：队内有位随行军医，坚持说这场雨不同寻常，建议我们不要贸然前进。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">军士：虽然他资历尚浅，但我相信将军您在先前的战斗中也已经见过了，他对局势的判断非常精准。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">军士：但&hellip;&hellip;属下也认为，这的确是我们进攻的唯一机会。</p>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "……这位军医，叫什么名字？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">军士：报告将军，军医名叫&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">军士：忌&hellip;&hellip;炎&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">军士：将军&hellip;&hellip;救&hellip;&hellip;救救我&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：那么你的结论，是什么呢？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：也许你的想法是对的。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：这场雨下得太过突然，太过不同寻常。但&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：这是我们唯一的机会。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：我们长久以来，一直渴望消灭的敌人，现在正大张旗鼓地出现在我们的面前。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：而你，却因为担心那些所谓的&ldquo;幽灵&rdquo;，要劝我止步不前？</p>\n</div>"
+          },
+          {
+            "id": "3-1",
+            "cid": [],
+            "pid": [
+              "2-1"
+            ],
+            "group": "3",
+            "title": "（沉默。）",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：保持沉默吗？还是在恐惧？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：是啊&hellip;&hellip;你也一样。我们都会恐惧，会流血，会痛苦，更会因为战斗而死。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：但当你看见曾经的同胞，亲人，战友&hellip;&hellip;在你面前接连死去时&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：难道你要以沉默，去回应我们肩负着的那些生命？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：你能做的，只有踏着无数尸体，不断发号施令，不断投身杀戮，直至消灭最后一个敌人。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：溯洄雨只可能复刻出昔日的景象。我绝不会允许我的士兵们，被区区溯洄雨幻觉所带来的恐惧所支配。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：任何妄图挡在我们面前的事物，全部格杀勿论。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：我会用我的异能，为所有人开路。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：这场战斗，即使付出更大的代价，十名，百名，千名&hellip;&hellip;我们，也必须胜利。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：忌炎，我很好奇，如果我们互换位置&hellip;&hellip;那时的你，会做出怎样的选择？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：&hellip;&hellip;但我，绝不会以懦弱与沉默，去回应我所肩负着的那些生命。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "e575013c-a8b8-4094-9251-11af1027c8df": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1"
+            ],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：防护罩的情况如何？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">桃祈：防护罩已经在加急修复了，但如果残象潮接连来袭，防护罩可能也支撑不了太久。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">桃祈：呀，是漂泊者啊。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1",
+              "3-2"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "您就是……",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">桃祈：嗯&hellip;&hellip;或许，我们先前见过？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">桃祈：不过还是容我正式自我介绍一下。我是天工的事务长，桃祈，负责处理一切与边防工事相关的事务。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">桃祈：感谢你们前来支援。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1"
+            ],
+            "group": "3",
+            "title": "防护罩是什么？",
+            "content": "<p>桃祈：防护罩是今州用于抵御溯洄雨的防御工事，能够帮助今州城隔绝溯洄雨的影响。</p>"
+          },
+          {
+            "id": "3-2",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1"
+            ],
+            "group": "3",
+            "title": "残象潮还没结束吗？",
+            "content": "<p>秋水：恐怕没这么简单。这波残象潮，是由溯洄雨造成的。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1",
+              "3-2"
+            ],
+            "group": "4",
+            "title": "",
+            "content": "<p>桃祈：若是用来抵御溯洄雨的防护罩受损，残象潮可能会直接从今州城之内诞生&hellip;&hellip;</p>"
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1",
+              "6-2"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "溯洄雨和残象潮有什么关系？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：漂泊者，还记得我之前和你提到过的吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：溯洄雨的本质，是来自天空海的高密度回音能量。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：仅仅是这些回音能量，就足以吸引各类残象大量聚集。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：另一方面，这些回音能量，又能使沾染溯洄雨的人看到昔日在此地发生过的一切事物的幻影。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：也就是我们经常提到的溯洄雨&ldquo;幽灵&rdquo;。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：它们的形成原理，与我们常说的&ldquo;共鸣&rdquo;类似。因而与降雨区关联越深的人，所能看到的幽灵也就越清晰，越真实。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秋水：除此之外，溯洄雨还有一种特性：在雨区较大的情况下，溯洄雨可以在同一时间内，复刻出多个人记忆中的影像&hellip;&hellip;</p>\n</div>\n</div>"
+          },
+          {
+            "id": "6-1",
+            "cid": [
+              "7-1"
+            ],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "代表战争的鸣式……",
+            "content": ""
+          },
+          {
+            "id": "6-2",
+            "cid": [
+              "7-1"
+            ],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "战争带来的牺牲……",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "7-1",
+            "cid": [
+              "8-1"
+            ],
+            "pid": [
+              "6-1",
+              "6-2"
+            ],
+            "group": "7",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：漂泊者，你的直觉很敏锐。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：今州是一片战场之地，要面对的是代表战争的鸣式，而战争，又意味着牺牲。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：一旦溯洄雨发展到最后阶段，那么复刻出的幽灵影像，应该有成千上万战斗着的士兵与残象。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">桃祈：这正是今州一直以来，埋藏着的最大隐患。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">桃祈：今州城的防护罩，就是令尹为应对这一情况而下令建造出来的。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "8-1",
+            "cid": [
+              "9-1",
+              "9-2"
+            ],
+            "pid": [
+              "7-1"
+            ],
+            "group": "8",
+            "title": "只是“幽灵”的话，没什么好怕的吧？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">桃祈：溯洄雨所形成的幽灵，只会机械般地重复某一瞬间的行为，且本不具备干涉现实的能力。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">桃祈：但在鸣式力量的影响下，溯洄雨的效果受到了大幅增强。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">桃祈：雨区中的&ldquo;幽灵&rdquo;也因而变得越来越真实，直至能够对人类造成实质性的伤害。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">桃祈：&ldquo;弯刀之役&rdquo;那一日，夜归军与北落野的原生残象，溯洄雨形成的残象&hellip;&hellip;以及无数士兵的&ldquo;幽灵&rdquo;，四方混战在一起。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">桃祈：被溯洄雨复现而出的残象与夜归士兵不断重复着攻击的行为，对周围进行无差别攻击。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">桃祈：分不清敌我，找不到方向&hellip;&hellip;那场无情的大雨，甚至连过去士兵们凄惨的死状都清晰地复现了出来。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">桃祈：北落野一时如同人间炼狱，时至今日，仍能听到那些绝望的回响&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：&ldquo;弯刀之役&rdquo;，那也是人类第一次如此近距离地观测到&ldquo;被鸣式力量所加强的溯洄雨&rdquo;。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：那位将军传回来的影像记录，是一份十分具有价值的资料，也正是因此，各国才能加速对溯洄雨屏障的研发。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">秋水：黑海岸的成员们还有一种推测：鸣式，月相与溯洄雨三者，很可能是绑定关系。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "9-1",
+            "cid": [
+              "10-1"
+            ],
+            "pid": [
+              "8-1"
+            ],
+            "group": "9",
+            "title": "溯洄雨的规模预示着月相的变化。",
+            "content": ""
+          },
+          {
+            "id": "9-2",
+            "cid": [
+              "10-1"
+            ],
+            "pid": [
+              "8-1"
+            ],
+            "group": "9",
+            "title": "月相对应着鸣式力量的强弱。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "10-1",
+            "cid": [
+              "11-1"
+            ],
+            "pid": [
+              "9-1",
+              "9-2"
+            ],
+            "group": "10",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：大致如此。但由于缺少足够的样本支撑，这也只是我们的一种猜测。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：但我们至今还没有摸清溯洄雨的规律，只是知道它的规模与鸣式的复苏紧密相连。接连而至的残象潮，也是一种预兆。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">桃祈：月相几乎是在一瞬之间完成了转变。如果黑海岸的猜想是真的，这就意味着&hellip;&hellip;</p>\n</div>\n</div>"
+          },
+          {
+            "id": "11-1",
+            "cid": [
+              "12-1",
+              "12-2"
+            ],
+            "pid": [
+              "10-1"
+            ],
+            "group": "11",
+            "title": "鸣式复苏的征兆提前了。",
+            "content": "<p>秋水：嗯。今州此时所处的境遇，或许与三年前无异了。</p>"
+          },
+          {
+            "id": "12-1",
+            "cid": [
+              "13-1"
+            ],
+            "pid": [
+              "11-1"
+            ],
+            "group": "12",
+            "title": "天意难测。",
+            "content": ""
+          },
+          {
+            "id": "12-2",
+            "cid": [
+              "13-1"
+            ],
+            "pid": [
+              "11-1"
+            ],
+            "group": "12",
+            "title": "事在人为。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "13-1",
+            "cid": [],
+            "pid": [
+              "12-1",
+              "12-2"
+            ],
+            "group": "13",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：鸣式的复苏绝非孤立的偶然事件，他们之间存在着某种深刻的血脉感应。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：今州鸣式的复苏，会引发一连串的连锁反应，其他国家也难以独善其身。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：我们现在必须要赶紧回到「泰缇斯」基地，重新校准悲鸣监测器，将今州发生的事情共享给其他国家，以做预警。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秋水：总之，各位，保重了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">安可：加油啊，大哥哥大姐姐们&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">桃祈：漂泊者，目前的情况，大抵就是这样了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">桃祈：只要溯洄雨没有停息，残象潮就随时都可能爆发，我们一刻也不能放松警惕。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">天工成员：报告！前方再次观测到残象潮来袭！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">桃祈：唉，还真是说什么来什么啊。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">桃祈：等这次战役结束后，我一定要好好睡上一觉。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">桃祈：立即启动防事工程！</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "e9750f73-4df2-4e78-a1e7-785fda294831": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2"
+            ],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：战斗，直到消灭最后一个敌人。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：哥舒临将军&hellip;&hellip;我们战斗的目的，是为了守护身边的一切。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：珍视身边之人，并不是出于懦弱或是恐惧，而是因为信任。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：将军，我无法保证，自己的选择就一定是正确的。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：但我们的胜利，绝不该建立在无止境的牺牲之上。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">哥舒临：哈哈，是吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">哥舒临：在我看来，你和我，本质上是一类人。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：也许吧，将军。至少，我和你有一点是相同的&mdash;&mdash;我也会为了自己的信念而拔刀，永不停息。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">军士：将军！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">军士：将军，您的脸色怎么看着不太好？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：无事。继续说下去吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">军士：方才，我们监测到前方无音区突然出现了高密度的频率反应。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">军士：那轮月相，也正如将军您所说的那样，逐渐变满了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">军士：此时的景象，和&ldquo;弯刀之役&rdquo;那时别无二致了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：是时候了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">军士：夜归全军已做好整备，随时可以出战。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：传令下去，全军列阵，准备迎接残象潮！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">军士：是！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：&ldquo;月相完满之时，漂泊之人归来&rdquo;&hellip;&hellip;「角」的预言，也马上就要应验了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：果然来了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：没有进攻&hellip;&hellip;是在防守？还是在等候指令？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">忌炎：如此大规模，具有组织性的残象潮，必然有人在背后指挥。难道&hellip;&hellip;</p>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "错觉吗？",
+            "content": ""
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "月相……",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1",
+              "2-2"
+            ],
+            "group": "3",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：月相逐渐变满了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">秧秧：还有这场溯洄雨&hellip;&hellip;漂泊者，这会不会就是令尹所说的&ldquo;那一时刻&rdquo;？</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">今汐（通讯中）：请各位不要慌乱，按照事前演练过的应急预案有序避险&hellip;&hellip;</p>\n</div>\n</div>"
+          },
+          {
+            "id": "4-1",
+            "cid": [],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "今汐？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：是事先录好的全域影像。令尹曾预料过这一局面的到来，早已安排忌炎将军做好了准备。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：这一波残象潮应该暂时过去了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：虽然提前准备过了，但是这批残象数量也太多了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：还好漂泊者你来得及时，不然我们可能还要和它们再打上好一阵子。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">炽霞：桃祈事务长也在城门那边，可以去找她确认一下具体情况&hellip;&hellip;</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "ea0ce414-afbc-41f6-b5fd-30d3e0657e23": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：向我证明自己吧，忌炎。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：猝不及防，是吗？就像那个雨夜&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：没错&hellip;&hellip;继续。继续战斗吧。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "ea760ff6-7859-42bf-8ddd-121e521bb972": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">桃祈：诸位，守住阵线！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">桃祈：这里的残象已经清理完毕了&hellip;&hellip;前哨还在遭受残象的围攻，我们一起前去支援！</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    }
+  }
+}

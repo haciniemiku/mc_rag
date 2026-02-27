@@ -1,0 +1,2820 @@
+{
+  "mediaList": [],
+  "title": "老人鱼海",
+  "modules": [
+    {
+      "title": "",
+      "components": [
+        {
+          "idx": "55b2359e-e5c1-4572-9093-fe52e5507f9d",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "寻找捕鱼人",
+      "components": [
+        {
+          "idx": "2ceb2582-e11c-41e6-b564-88591cf40987",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "寻找船工准备前往黎乔利群岛",
+      "components": [
+        {
+          "idx": "6e5817f2-8d01-46c3-b8dd-a8c307accb16",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "寻找老船长“亚哈”",
+      "components": [
+        {
+          "idx": "e1b9c999-a4c3-4f89-89b8-51c0a971ea28",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "和普朗克对话，准备出航",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "和普朗克交谈，升级船只科技",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "捕回了逃脱的鱼，与亚哈对话",
+      "components": [
+        {
+          "idx": "34d296df-7620-4784-aaf8-a0d4d19fba75",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往黎乔利港的集市",
+      "components": [
+        {
+          "idx": "a532eb96-a4d2-4ae3-9bc4-6c57953a7ed3",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往码头进行出航准备",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "完成委托，将捕鱼声誉提升至3级或更高",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "完成委托或解锁图鉴，将捕鱼声誉提升至3级或更高",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "在黎乔利港的码头附近寻找亚哈",
+      "components": [
+        {
+          "idx": "e5f4611c-e57e-46bb-8af2-c4b7fb803493",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "寻找修船工了解关于大船的事",
+      "components": [
+        {
+          "idx": "0275eae4-2f1c-4448-a1e0-032d0ed3e32c",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "将原木和材料交给魁格",
+      "components": [
+        {
+          "idx": "44f34699-b834-4780-976f-2a46ff641350",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往码头进行出航准备，前往舵盘村",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往舵盘村",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "寻找斯塔巴克斯",
+      "components": [
+        {
+          "idx": "9c6912ae-486c-4127-b60b-7336dbef6141",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往码头出航，寻找被遗弃的贡多拉",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往贡多拉被困的位置",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "炸掉碎石，解救贡多拉",
+      "components": [
+        {
+          "idx": "a4c26cbe-0b6c-47e2-a745-e95d86354731",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "完成委托或解锁图鉴，将捕鱼声誉提升至6级或更高",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "出航，完成所有重要委托",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "完成所有重要委托",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往码头出航，捕捞用于交换的大鱼",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "等到晚上（或调整时间至夜晚19:00-05:00）",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "在特殊的捕鱼位置捕捞大鱼",
+      "components": [
+        {
+          "idx": "6d3ca1f4-7719-45ff-9aa4-1dff9e9da7f8",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "回到舵盘村寻找斯塔巴克斯",
+      "components": [
+        {
+          "idx": "2fad2770-0d21-4815-ac98-e64ca0d5e881",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "用得到的钥匙点亮舵盘村的灯塔",
+      "components": [
+        {
+          "idx": "39c44e1b-e970-4a40-9592-18dd9de848cd",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "拿到了船只设计图，询问魁格修船的事",
+      "components": [
+        {
+          "idx": "9c23a8fa-4053-4ae6-8632-47adfa7d2cd3",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往码头进行出航准备，前往沉静湾",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往沉静湾",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "消灭残象",
+      "components": [
+        {
+          "idx": "91ee365c-62dd-41ce-a370-e84a2e035902",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "寻找沉静湾的码头，向普朗克询问情况",
+      "components": [
+        {
+          "idx": "256ce4f3-4c4d-4c61-aef5-a45214a8e6e5",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "完成普朗克提出的委托",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "完成委托，将捕鱼声誉提升至9级或更高",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "完成委托或解锁图鉴，将捕鱼声誉提升至9级或更高",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "出航，前往指定位置捕捞「钛合鲭」",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "点亮沉静湾的灯塔",
+      "components": [
+        {
+          "idx": "04429802-0c64-4d51-8b96-d9c70fe11e4c",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "拿到了新的船只设计图，到修船厂交给魁格",
+      "components": [
+        {
+          "idx": "5a9911d7-aa09-4b7e-a402-3b4a1842a706",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "寻找亚哈，了解有关最后一座岛的情报",
+      "components": [
+        {
+          "idx": "7529c294-72b3-4e1f-93a3-b54df98369c3",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "到码头出航，前往亚哈指定的小岛",
+      "components": [
+        {
+          "idx": "0cd5721c-193f-4ec7-b901-5db9d4f2ff70",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "与菲比谈谈关于这座岛，展开调查",
+      "components": [
+        {
+          "idx": "3491bc51-f733-4de4-8e78-13f185552ced",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "在灯塔周围寻找线索",
+      "components": [
+        {
+          "idx": "52225d5a-a4b7-472e-b950-c39cc3f82d0a",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "到码头出航，在海中寻求「馈赠」",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往第一处位置交付鱼",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "查看第一个幽灵指出的谜题",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往第二处位置交付鱼",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "查看第二个幽灵指出的谜题",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往第三处位置交付鱼",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "查看第三个幽灵指出的谜题",
+      "components": [
+        {
+          "idx": "21a0d9da-7ab3-4984-a34a-0363f6d3286a",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "点亮莱耶斯岛上的灯塔",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "寻找菲比，交换获得的线索",
+      "components": [
+        {
+          "idx": "dd147b43-2f07-4560-bb56-e3a1bd82290d",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "寻找亚哈",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "查看亚哈留下的字条",
+      "components": [
+        {
+          "idx": "da00411d-e43c-46ae-a742-60b464d96652",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "去「裴魁德」上寻找布兰特，准备出航",
+      "components": [
+        {
+          "idx": "281e241f-2404-4379-9111-edc5b1632ab9",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "等待菲比休息，将时间调整至上午4至9时",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "前往莱耶斯岛附近的小岛调查溯海之鲸",
+      "components": [
+        {
+          "idx": "8e82b77e-d002-449c-91aa-e440532d1890",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "完成委托或解锁图鉴，将捕鱼声誉提升至10级或更高",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "在黎乔利港找到伊什麦尔",
+      "components": [
+        {
+          "idx": "e2d09a44-c08d-4400-9fbd-288b0c441b2e",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    },
+    {
+      "title": "完成委托或解锁图鉴，将捕鱼声誉提升至12级或更高",
+      "components": [],
+      "titleDisabled": true
+    },
+    {
+      "title": "在黎乔利港找到伊什麦尔",
+      "components": [
+        {
+          "idx": "57958acb-722b-40b5-adbe-46083603a441",
+          "size": "frameless",
+          "type": "story-component",
+          "title": "剧情组件-无边框",
+          "content": "",
+          "collapse": false,
+          "titleStyle": {
+            "color": "#333",
+            "opacity": "100%",
+            "textAlign": "left",
+            "backgroundColor": "transparent",
+            "backgroundImage": "",
+            "backgroundPositionX": "100%",
+            "backgroundPositionY": "0",
+            "backgroundImageWidth": 0,
+            "backgroundImageHeight": 0
+          }
+        }
+      ],
+      "titleDisabled": true
+    }
+  ],
+  "story": {
+    "0275eae4-2f1c-4448-a1e0-032d0ed3e32c": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1"
+            ],
+            "pid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">魁格：漂泊者？亚哈说过你。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">魁格：拿木头来。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "什么？",
+            "content": "<p>魁格：木头，修船。</p>",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "04429802-0c64-4d51-8b96-d9c70fe11e4c": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "pid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：漂泊者！快看，是溯海之鲸！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：它朝着西边那座岛过去了！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：它身上的伤似乎好了些，但它的鸣叫声中，仍然充盈着怒火。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "0cd5721c-193f-4ec7-b901-5db9d4f2ff70": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1"
+            ],
+            "pid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：你看吧，船长，我怎么能骗你呢？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：这上面说，&ldquo;黎乔利，以灯火照亮海渊之星。莱耶斯之底沉眠的僭越者，为莱耶斯的后裔与大海中永存的游鱼，献上你的爱吧&rdquo;。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：这都什么意思&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：黎乔利对应着黎那汐塔星相学中的海渊星，因为这里有着整个黎那汐塔最深的海底区域。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：哟吼？帽子小姐连这个也知道呀？</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">菲比：这是每个黎那汐塔人都知道的事，在岁主英白拉多的传说中也有记载。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "后半句是什么意思呢？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：这&hellip;&hellip;我不知道。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：&ldquo;&hellip;&hellip;献上你的爱吧。&rdquo;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：意思是说，我们还得爱点儿什么？也太奇怪了吧！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：哼。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：哦！最最尊贵的莱耶斯的后裔啊，听我此言！我将为您献上我的爱慕！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：那个&hellip;&hellip;我将为您献上我的爱！生生世世，永不停歇的浪花就是我为您献上的忠诚！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：哎，我老啦！这都什么鬼要求，我做不来！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">亚哈：小伙子，你来试试！</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1"
+            ],
+            "group": "3",
+            "title": "我？",
+            "content": "<p>亚哈：这有什么的，几句话罢了，还要打个草稿？</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "最最尊贵的莱耶斯的后裔……",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-1",
+            "cid": [],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "我将为您献上我的——",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：哎呀！你们这都不对！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：爱怎么能是你这么表达的呢？不对！都不对！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：我来！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：哦，我的爱人，我的生命之光。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：风暴不能将我们阻隔，因为在你面前，我的爱足以令这风暴退却，因为我将比它更加猛烈！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：我的灵魂祈求着解脱，因为它已经找到了它的方向，却煎熬着无法前往&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：成了！成了！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：哦，我心爱着的人啊&mdash;&mdash;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：行了！快走，出发吧！不要再耽搁了。</p>\n</div>",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "21a0d9da-7ab3-4984-a34a-0363f6d3286a": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "pid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">神秘的灵体好像品尝到了鱼的美味，心满意足地离去了&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">神秘的灵体似乎受到了大海的感召而消散了&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">神秘的灵体望向那最后的灯塔，似乎在期盼着它能再次点亮&hellip;&hellip;</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "256ce4f3-4c4d-4c61-aef5-a45214a8e6e5": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "pid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">普朗克：&hellip;&hellip;&hellip;&hellip;！&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">大章鱼手舞足蹈着，递给你一份亚哈的消息。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：&ldquo;只要安全了，普朗克就可以游到「沉静湾」去了。&rdquo;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：&ldquo;斯塔巴克斯那边的灯塔点亮之后，我们又能正常出海了，全靠你和那位帽子小姐。&rdquo;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：&ldquo;溯海之鲸不在的这段时间，「沉静湾」聚集了很多怪物。&rdquo;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：&ldquo;据说「沉静湾」的灯塔钥匙已经失落了很长时间，只知道它存在于大海之中。&rdquo;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：&ldquo;你应该也会遇到一些&hellip;&hellip;奇怪的鱼。&rdquo;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：&ldquo;我也会继续调查，一有进展，我就让普朗克带消息给你。&rdquo;</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "281e241f-2404-4379-9111-edc5b1632ab9": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2"
+            ],
+            "pid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">布兰特：这艘船似乎不需要水手就能开动，却唯独需要一个船长。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">布兰特：怎么样，准备好出发了吗？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "准备好了！布兰特船长！",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "还没准备好。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [],
+            "pid": [
+              "2-1",
+              "2-2"
+            ],
+            "group": "3",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">布兰特：看来，「裴魁德号」还是没能逃脱它原本的命运啊&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">布兰特：不过，我代理船长的工作也已经完成了，再会了！朋友们！</p>\n</div>",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "2ceb2582-e11c-41e6-b564-88591cf40987": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2"
+            ],
+            "pid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伊什麦尔：叫我伊什麦尔就行。哦哦！您就是那位「桂冠」吧？您试过钓鱼吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伊什麦尔：钓鱼嘛，钩要弯，鱼饵不能太咸&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">伊什麦尔：要不要试试出海钓鱼？和狂欢节一样，这也是黎那汐塔许多流传至今的传统之一。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "我想成为捕鱼达人。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "我想试试。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [],
+            "pid": [
+              "2-1",
+              "2-2"
+            ],
+            "group": "3",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伊什麦尔：如果你想要试试的话，我倒是有个好去处，拉古那北边的那片黎乔利群岛，正好是风暴海寒暖洋流交汇的地方，鱼群都集中在那里了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伊什麦尔：而且只有你一个人行动的话，还是单船海钓更适合你，网捕还是太困难了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伊什麦尔：等您到了岛上，就去找一位叫做亚哈的老船长，他肯定乐意带着您试试。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伊什麦尔：我也刚好要回岛上，港口那边有一艘回群岛的船，您就说是要去群岛海钓的客人就好了！</p>\n</div>",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "2fad2770-0d21-4815-ac98-e64ca0d5e881": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2"
+            ],
+            "pid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：嘿嘿嘿&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：嗯？证婚人，你们看见我的未婚妻了嘛&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：嘿嘿嘿&hellip;&hellip;你们&hellip;&hellip;你们要干嘛！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：救&hellip;&hellip;救命啊！！！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：菲比！抓住尾巴！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：好、好滑！我来解除魅惑！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：贼！你们这些贼！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：唔&hellip;&hellip;你们&hellip;&hellip;头好疼啊&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：你们是谁啊？这鱼是咋回事儿&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：斯塔巴克斯先生，是亚哈船长委托我们来找你的。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">斯塔巴克斯：是亚哈老爷子啊&hellip;&hellip;不是，现在这到底是怎么回事。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "你对那条蓝色的鱼有什么印象吗？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "你还记得溯海之鲸的事吗？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1",
+              "2-2"
+            ],
+            "group": "3",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：我只记得，前阵子我出海捕鱼。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：一路上总能听到歌声，然后身体就像不受控制似的，开着船跟着这个歌声。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：等我回过神来的时候，就已经到「沉静湾」的外海了，那里原本是溯海之鲸沉眠的地方。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：那里，也有歌声，就像从海底传上来的一样。海里好像有溯海之鲸的影子&hellip;&hellip;还有另一条很大的鱼的影子。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：那影子，美得令人窒息&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：我抛了很多鱼饵，都钓不上来它，我把身上的东西几乎都当鱼饵丢出去了。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">斯塔巴克斯：直到有鱼咬了饵，歌声越来越大&hellip;&hellip;再然后，我就不记得了。</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "这条蓝色的鱼就是你钓上来的吗？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：是！就是它！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：等等！我身上&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：钥匙！钥匙&hellip;&hellip;钥匙怎么没了&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">斯塔巴克斯：钥匙&hellip;&hellip;就是鱼饵&hellip;&hellip;</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1",
+              "6-2"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "等等！你是说——",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯从蓝色大鱼的肚子里掏出了一把钥匙&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：啊，果然，找到了！就在它的肚子里！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：亚哈老爷子让我保管着的，你应该也需要它吧？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">一把锈迹斑斑的钥匙，看起来已经有些年头了&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：后面的事我虽然不记得了，但我能肯定，溯海之鲸前阵子确实在「沉静湾」出现了，错不了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：如果你们要找溯海之鲸，就去那里看看吧。也多谢了你们&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：那您&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：我今年四十七岁，在海上飘了这么多年，抓到的鱼，比我吃过的鱼还多。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：而属于我的人和鱼，都还没有遇见。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">斯塔巴克斯：哦那么，这位年轻貌美的小姐&mdash;&mdash;</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-1",
+            "cid": [
+              "7-1"
+            ],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "咳咳。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-2",
+            "cid": [
+              "7-1"
+            ],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "我们走吧，菲比。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "7-1",
+            "cid": [],
+            "pid": [
+              "6-1",
+              "6-2"
+            ],
+            "group": "7",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：再见啦，斯塔巴克斯先生。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：希望您一切安好！愿英白&hellip;&hellip;愿大海祝福您！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：啊，啊&hellip;&hellip;好吧&hellip;&hellip;</p>\n</div>",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "3491bc51-f733-4de4-8e78-13f185552ced": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "pid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：漂泊者，你有没有发现，亚哈船长似乎有点不对劲？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：但具体我也说不上来&hellip;&hellip;总觉得他有什么事情在瞒着我们。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：所以，我们分头调查吧！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：既然这座岛和溯海之鲸关系密切，又遍布着遗迹，我想，总能找到些线索。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：我可以辨认出这些黎那汐塔古文字，一定能发现真相。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：很好！风暴解除之后，普朗克也可以平稳游到这里了！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：不过魁格可能一时半会还过不来，已经修好了的「裴魁德号」需要等新船长抵达后才能开过来。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：去四周看看吧，关于莱耶斯的灯塔，我就一点头绪也没有了。总之，非得想办法把那海妖弄出来吊死在桅杆上不可。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：不过，漂泊者，你做得很好。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：不是所有人都能挺过大海的浪潮，它是仁慈的，也是凶狠的。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：哪怕是做梦，我都会梦到自己把刚磨好的标枪丢进大海里去，要沉寂，然后才能刺得又狠又准。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：我们虽然接受着它的恩赐，但也时刻将手里的标枪对准着它&hellip;&hellip;还有那家伙。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：搏斗，翻腾&hellip;&hellip;永无休止的斗争，这就是我们这些生活在海上的人的宿命。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：真好啊&hellip;&hellip;你知道吗，有些人在退潮中死了，有些人死在浅浅的一洼水里。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：有些人死在滔天的巨浪中，这会儿，我正觉得自己像是刚才那舔舐着风暴的巨浪。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：去吧，船长，做你该做和想做的事吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：唔，你好啊&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：哦，不过我也得谢谢你。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：要是没有你的话，我也不会走到这里。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：啊&hellip;&hellip;亚哈船长有他想要追求的东西，我也如此。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：哦，我的爱人，请你一定要等着我&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：然而，现在还不算太迟，也许正应该断了这些念想&hellip;&hellip;看啊！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：老爷子！不是它在找你，而是你，一直在找它啊！</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "34d296df-7620-4784-aaf8-a0d4d19fba75": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "pid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：嚯！真不错，还得是你啊！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：这么快就得心应手，是干我们这行的料！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：对了，有空的话，别忘了也去集市那边瞧瞧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：捕鱼人中最会掌舵的，也得是船长里最懂得做生意的。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "39c44e1b-e970-4a40-9592-18dd9de848cd": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "pid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：按照亚哈船长之前说的，去点亮这座岛上的灯塔吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：点亮之后，下一步就去斯塔巴克斯先生说的「沉静湾」看看好了。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "44f34699-b834-4780-976f-2a46ff641350": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "pid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">魁格：但是现在，不够。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">魁格：拿材料来，魁格可以修船。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "52225d5a-a4b7-472e-b950-c39cc3f82d0a": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "pid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：&ldquo;展示大海的三重馈赠，灯火将永燃不熄。&rdquo;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：意思是说&hellip;&hellip;在海中寻找三个馈赠，才能解除封印吗？</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "55b2359e-e5c1-4572-9093-fe52e5507f9d": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "title": "",
+            "content": ""
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "entryId": "1322907582504562688",
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "昔我悲伤，今却歌唱",
+      "nextLabel": ""
+    },
+    "57958acb-722b-40b5-adbe-46083603a441": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1"
+            ],
+            "pid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伊什麦尔：大海如此平静，漩涡也已消散。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伊什麦尔：一切都归于原貌&hellip;&hellip;漂泊者，其实，亚哈船长他们&hellip;&hellip;几十年前就已经葬身海底了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伊什麦尔：是他们凭借着对这片大海的热爱，以及他们与溯海之鲸的约定，才一直存于现世。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伊什麦尔：如今黎乔利这片平静的大海，就是他们的末路，这里，就是他们&ldquo;最后的港口&rdquo;。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伊什麦尔：但「拉结号」却没有消失，而且它似乎很喜欢你。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">伊什麦尔：我想，亚哈船长也希望你能继承他的衣钵吧&hellip;&hellip;</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "你呢？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伊什麦尔：我？我只是一个普通的水手和渔夫而已，我在这里出生，可能也会在这里结婚、生子，最后安眠于这片大海。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伊什麦尔：出发吧，漂泊者船长！你的目标，就在世界的尽头。</p>\n</div>",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "5a9911d7-aa09-4b7e-a402-3b4a1842a706": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "pid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">这艘大船看上去就快修好了&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">魁格：修好了，谢谢你。也是时候了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">魁格：裴魁德，必须要有一位船长。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">魁格：如果亚哈不再做船长，那&hellip;&hellip;也必须有一位船长。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "6d3ca1f4-7719-45ff-9aa4-1dff9e9da7f8": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "pid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">一条深灰色的大鱼主动跳上了船&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">这条鱼和斯塔巴克斯手里的那条有些相像，或许可以用它来换下他手里的鱼。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "6e5817f2-8d01-46c3-b8dd-a8c307accb16": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2"
+            ],
+            "pid": [],
+            "title": "",
+            "content": "<p>船夫：是要去往黎乔利群岛的客人吗？</p>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "是我，出发吧。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "我还有些别的事，先算了。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [],
+            "pid": [
+              "2-1",
+              "2-2"
+            ],
+            "group": "3",
+            "title": "",
+            "content": "<p>船夫：还请坐稳，那我们这就出发了！</p>",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "7529c294-72b3-4e1f-93a3-b54df98369c3": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "pid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：我老啦&hellip;&hellip;斯塔巴克斯&hellip;&hellip;我老了&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：让它把「信天翁」也撞沉吧&hellip;&hellip;这次让我来&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：嗯，你们来了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：溯海之鲸去往的那座岛，也叫莱耶斯遗迹群，据说藏着许多古老的秘密。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：像是在保护着那些秘密，风暴始终阻拦着想要登岛的人。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：不过别怕，我已经找到了解开风暴的方法。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：如果斯塔巴克斯没对我撒谎的话，那风暴和海妖也脱不了干系，正因如此&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：走吧，我们这就出发！你和帽子小姐一队，我和斯塔巴克斯一队。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：莱耶斯遗迹群东边一点的地方有一座小岛，我们就在那里汇合。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "8e82b77e-d002-449c-91aa-e440532d1890": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1"
+            ],
+            "pid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：溯海之鲸&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">溯海之鲸：&hellip;&hellip;&hellip;&hellip;！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿布：喂！大家伙！又见面啦！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">阿布：虽然上次你把我们的船弄翻了，不过，看在你刚刚把我们救上来的份上，我们就扯平啦！唔&hellip;&hellip;用今州的古话说，这应该叫&ldquo;大人不记小人过&rdquo;！</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "它可比你大多了哦。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">溯海之鲸：&hellip;&hellip;&hellip;&hellip;！&hellip;&hellip;&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿布：大家伙说，是那只&ldquo;海妖&rdquo;帮助治愈了它，但她因为替溯海之鲸吸收了太多的残响，被影响到失去了神志。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿布：所以刚才它也不忍心和那只&ldquo;海妖&rdquo;战斗，教训她一顿之后，也许她就知道错了吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：溯海之鲸，我想&hellip;&hellip;我想问一下！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：你已经恢复了吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">溯海之鲸：&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿布：当然啦！大家伙它这么生龙活虎的，怎么看都很健康吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：被那些人利用而出现在狂欢节上&hellip;&hellip;我知道只凭我一个教士没办法代替修会&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：但我还是想要向你道歉，溯海之鲸，哪怕就只能以我自己的身份。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">溯海之鲸：&hellip;&hellip;&hellip;&hellip;？&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">溯海之鲸：&hellip;&hellip;&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿布：大家伙说，它可没有怪你哦。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿布：你在一路上一直追寻着它的踪迹，既帮助着渔民们，也在自己接受着大海的馈赠，这就是它想要守护的东西。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿布：哦！它还在夸你钓上了好大的鱼呢！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">溯海之鲸：&hellip;&hellip;&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿布：&ldquo;做你自己就好，无论是付出还是收获，信念还是希望&rdquo;，这是它说的哦。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：嗯，我知道了！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">溯海之鲸：&hellip;&hellip;&hellip;&hellip;？！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">阿布：那是当然！我们两个从来都是所向披靡！</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1"
+            ],
+            "group": "3",
+            "title": "会不会有一天……",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-1",
+            "cid": [],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "我能把你也钓上来呢？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">溯海之鲸：&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿布：诶，大家伙，你怎么不说话？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">溯海之鲸：&hellip;&hellip;！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：它在&hellip;&hellip;笑？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿布：呜哇！！！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">阿布：你你你你给我等着！等我们把你钓上来那天，一定会加倍奉还！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">玫瑰蓓蕾：&hellip;&hellip;&hellip;&hellip;！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">这艘满载货物的贡多拉似乎在说&ldquo;请给我钱！我给你好东西！&rdquo;。</p>\n</div>",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "91ee365c-62dd-41ce-a370-e84a2e035902": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2"
+            ],
+            "pid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：菲比！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：别挡道！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">菲比：漂泊者！你没有受伤吧！</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "我没事。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "我的鱼……",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [],
+            "pid": [
+              "2-1",
+              "2-2"
+            ],
+            "group": "3",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：是溯海之鲸袭击了我们，不过人没事就好。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：快检查一下有没有什么东西遗失了！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">检查了一下随身的东西&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">身上多了一条奇怪颜色的鱼，它眼睛里还闪烁着诡异的光&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：东西倒是没丢，就是多了个这个&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：好奇怪的鱼&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：也许应该去问问普朗克先生？它应该知道这是什么。</p>\n</div>",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "9c23a8fa-4053-4ae6-8632-47adfa7d2cd3": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "pid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">原本的残骸如今已经初步有了一艘船的样子&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">魁格：就快修好了。谢谢。还差一半。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">魁格：船长的命令，就要生效了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">魁格：只要修好，就行了。一切就都好。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">魁格：另外，那条&ldquo;大鱼&rdquo;，就在沉静湾。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">魁格：我们失败了，你要小心。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">小船被溯海之鲸掀翻，你被巨浪冲到了岸边&hellip;&hellip;</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "9c6912ae-486c-4127-b60b-7336dbef6141": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2"
+            ],
+            "pid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：嘿嘿&hellip;&hellip;宝贝儿&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：他们都不知道&hellip;&hellip;只有咱们俩&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：我的&hellip;&hellip;未婚妻哟&hellip;&hellip;你可要好好地等着我啊&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：呃，斯塔巴克斯先生？请问您知道溯海之鲸相关的事吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：嗯？是我！是我！你是证婚人？来得正好！来得正好！快，按照习俗，必须有一位证婚人。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">菲比：证婚人吗？教理上讲，修会倒是也允许我们平时为拉古那的人们证婚。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "哪儿有和一条鱼结婚的！",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "感觉他确实不太正常……",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1",
+              "4-2"
+            ],
+            "pid": [
+              "2-1",
+              "2-2"
+            ],
+            "group": "3",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：嘿嘿&hellip;&hellip;嘿嘿嘿&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：难道是&hellip;&hellip;中了魅惑吗？我在修会的书上看到过这样的症状！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：英白拉多的赐福，注视于此&mdash;&mdash;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">漂泊者：等一下&mdash;&mdash;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：哎？修会里是这样记录的&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：诶呦！？你&hellip;&hellip;我是&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：白金色的&hellip;&hellip;水母&hellip;&hellip;黑色的&hellip;&hellip;大鱼&hellip;&hellip;嗯？你是人&hellip;&hellip;我是鱼&hellip;&hellip;不对&hellip;&hellip;我的鱼&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">斯塔巴克斯：嘶&hellip;&hellip;头有点疼&hellip;&hellip;你们是谁啊？</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "好像有用！",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-2",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "我来试试？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1",
+              "4-2"
+            ],
+            "group": "5",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：我的船呢？为什么我在这里&hellip;&hellip;嗯？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：鱼&hellip;&hellip;嘿嘿嘿&hellip;&hellip;在「沉静湾」的&hellip;&hellip;鱼&hellip;&hellip;嘿嘿嘿&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：再次被诱惑了！我，我再来一次！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">渔夫布偶：&hellip;&hellip;！&hellip;&hellip;&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：诶？是你？</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">菲比：你的腿已经没事了吗？</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-1",
+            "cid": [
+              "7-1",
+              "7-2"
+            ],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "你认识它吗？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：之前在集市上我遇到了它，它的腿似乎被贡多拉压断了，我就帮忙治好了它。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">渔夫布偶：&hellip;&hellip;&hellip;&hellip;！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：是&hellip;&hellip;科芬先生让你来的吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：它似乎是在说，斯塔巴克斯先生的贡多拉困在不远处的礁石里，那贡多拉似乎知道些什么。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：斯塔巴克斯先生这个样子，已经有两个星期了&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">渔夫布偶：&hellip;&hellip;！&hellip;&hellip;！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：要用它炸开石头？</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">菲比：漂泊者，我想，如果一直用修会的方法解除魅惑，斯塔巴克斯先生可能承受不住。</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "7-1",
+            "cid": [
+              "8-1"
+            ],
+            "pid": [
+              "6-1"
+            ],
+            "group": "7",
+            "title": "那一下感觉挺疼的。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "7-2",
+            "cid": [
+              "8-1"
+            ],
+            "pid": [
+              "6-1"
+            ],
+            "group": "7",
+            "title": "这也是为了他自己。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "8-1",
+            "cid": [
+              "9-1",
+              "9-2"
+            ],
+            "pid": [
+              "7-1",
+              "7-2"
+            ],
+            "group": "8",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：不过刚才斯塔巴克斯先生短暂恢复神志的时候，似乎提到了他的船，还有「沉静湾」这个地方。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">菲比：也许找到他的船，就能知道一些他遭受魅惑的原因，这样至少可以从源头解决。</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "9-1",
+            "cid": [
+              "10-1"
+            ],
+            "pid": [
+              "8-1"
+            ],
+            "group": "9",
+            "title": "有道理。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "9-2",
+            "cid": [
+              "10-1"
+            ],
+            "pid": [
+              "8-1"
+            ],
+            "group": "9",
+            "title": "那就出发吧！",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "10-1",
+            "cid": [],
+            "pid": [
+              "9-1",
+              "9-2"
+            ],
+            "group": "10",
+            "title": "",
+            "content": "<p>斯塔巴克斯：嘿嘿&hellip;&hellip;婚礼上肯定要有烟花&hellip;&hellip;&ldquo;甜美的烟花&rdquo;&hellip;&hellip;</p>",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "a4c26cbe-0b6c-47e2-a745-e95d86354731": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1"
+            ],
+            "pid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：就是那里！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：诶？为什么空气中会有一股甜味&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：那只贡多拉游回去了！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">被抛弃的贡多拉：&hellip;&hellip;&hellip;&hellip;！&hellip;&hellip;&hellip;&hellip;！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">被解放出来的贡多拉似乎在说些什么。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">菲比：你是说&hellip;&hellip;遇到了一只人身鱼尾的&ldquo;海妖&rdquo;！？</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "“罗蕾莱”？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1"
+            ],
+            "group": "3",
+            "title": "她不是生活在氤柔水境吗？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：难道还会有另一个&ldquo;她&rdquo;吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">被抛弃的贡多拉：&hellip;&hellip;&hellip;&hellip;？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：那条鱼，也许就和所谓的&ldquo;海妖&rdquo;有关。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：这也能印证为什么它能过去几个星期还不腐烂。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">菲比：所以还是要把斯塔巴克斯先生手里的鱼拿下来才行。</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1",
+              "5-2"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "既然这样的话……",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "狸猫换太子。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-2",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "再钓一只差不多的鱼不就行了？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-1",
+            "cid": [
+              "7-1"
+            ],
+            "pid": [
+              "5-1",
+              "5-2"
+            ],
+            "group": "6",
+            "title": "",
+            "content": "<p>菲比：真的能行么？</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "7-1",
+            "cid": [
+              "8-1"
+            ],
+            "pid": [
+              "6-1"
+            ],
+            "group": "7",
+            "title": "现在也没什么更好的办法。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "8-1",
+            "cid": [],
+            "pid": [
+              "7-1"
+            ],
+            "group": "8",
+            "title": "都是鱼，应该可以吧？",
+            "content": "<p>菲比：既然漂泊者这么说，那我们就试试好了。</p>",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "a532eb96-a4d2-4ae3-9bc4-6c57953a7ed3": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1"
+            ],
+            "pid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">水产商人：&hellip;&hellip;喂，我们这里可没有给修会交税的传统，哪儿凉快上哪儿呆着去。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">年轻渔民：可是，科芬大叔，她刚才不是还把你家布偶治好了么&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">水产商人：肯定是没安好心！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">卖货的老妇：哎呀，科芬，少说两句吧，这姑娘就找你问个路，至于吗&hellip;&hellip;</p>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1",
+              "3-2"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "菲比？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：抱歉&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：我只是想找到溯海之鲸的下落，毕竟它之前在拉古那受了伤&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">卖货的老妇：溯海之鲸啊&hellip;&hellip;这可&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">科芬：这里不欢迎修会！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">年轻渔民：喂，你看那个人，是不是就是前阵子拉古那城里来的那个共鸣者，那个「桂冠」&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：行啦！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：修会多少年来也没插手过我们这里的事了，要是真想插手，怎么会只派个女孩儿来？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：我们的行当受溯海之鲸和大海祝福而存在，大海包容万物，你难道要说，我们连个戴着教士帽子的小女孩儿都接受不了吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：再者说，修会派来的人，会给你帮忙？我们这儿可没有以怨报德的白眼狼，你说对吧？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">科芬：可是亚哈老爷子&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：行啦，少说几句吧。最近生意本来就不好做，散了散了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：再有什么事，还有我呢，行了吧？散吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：谢谢二位。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：我来这里，是想要和村民询问一下关于溯海之鲸的事，狂欢节之后，就再也没见到过它了&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">亚哈：小伙子，你认识她？</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1"
+            ],
+            "group": "3",
+            "title": "我们是老熟人了！",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-2",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1"
+            ],
+            "group": "3",
+            "title": "有过一面之缘。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1",
+              "3-2"
+            ],
+            "group": "4",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：好吧&hellip;&hellip;不过，修会曾默许黎乔利群岛可以不受他们的指引，所以这里的人也不怎么欢迎戴着修会这顶帽子登岛的人。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：帽子？唔&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：总之，你只说自己是以个人名义来的就好了。我听你说想要找到溯海之鲸吗？巧了，我也在找它&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：是的！不久前狂欢节上的种种迹象表明，溯海之鲸的状态并不正常。我也能隐约感知到它的痛苦和愤怒&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：只要在这片海域航行，就有可能会见到它。不过也有更简单直接的方法&hellip;&hellip;看到那里的灯塔了吗？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：像这样的灯塔在黎乔利群岛一共有四座，只要灯亮着，溯海之鲸就能回应我们的祈求，温和如初。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：也就是前阵子它消失的那段时间，另外三座灯塔都熄灭了。只要能再次点亮它们，就应该能见到溯海之鲸。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：正巧，漂泊者你不如带上这位帽子小姐，一块儿出海吧。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">菲比：出海？</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "捕鱼！",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：诶！？可是我也只是在修会的书上读到过黎乔利群岛的捕鱼产业，从来没有出过海啊&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：不拥抱大海，又怎能期望大海能回应你呢？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：哦，别忘了，这一路上，只要你戴着&ldquo;自己&rdquo;的帽子就好啦。后面再有什么事，来找我就是了。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">菲比：漂泊者，那位老先生说的帽子，是什么意思？我的帽子&hellip;&hellip;很奇怪吗？</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-1",
+            "cid": [],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "做你自己最重要！",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：这样吗&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：为了找到溯海之鲸，出海捕鱼的事，我会尽力帮忙的！</p>\n</div>",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "da00411d-e43c-46ae-a742-60b464d96652": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2"
+            ],
+            "pid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈的留言：你这杀人不眨眼却又无法征服的家伙&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈的留言：我老了，你对我的诅咒到今天就该结束了&hellip;&hellip;我依然要和你搏斗到底。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈的留言：即便是到了地狱，我也要和你拼命！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈的留言：波涛啊，尽管从四面八方排山倒海地来吧！在我奔赴死亡道路上的浪潮上再加上一层吧！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈的留言：裴魁德的船员们！我向你们许诺过的安息今日就要来临了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈的留言：那曾杀死我的漩涡，那曾吹起我风帆的风暴啊！我召唤你们！也一并将那家伙召唤至此！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈的留言：来啊！今天让我们将那捆在我们身上的绳索挑断，投身于地狱，与它搏斗到底！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">伊什麦尔：漂泊者！你回来了！</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "伊什麦尔？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "亚哈船长他们呢？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1",
+              "2-2"
+            ],
+            "group": "3",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伊什麦尔：我听说「裴魁德号」修好了，就一块跟着过来看看。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伊什麦尔：但我过来之后，岸边却一个人也没有，只有普朗克在。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">？？？：哟吼，漂泊者，这次航行的大副是你？</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "布兰特？！",
+            "content": "<p>布兰特（通讯中）：这艘船还真是不错，就是有点旧了。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "那可是我一针一线缝出来的！",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">布兰特（通讯中）：看来这艘船也和你有着不小的缘分啊。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">布兰特（通讯中）：前几天，亚哈托我来当这艘大船的掌舵人&hellip;&hellip;</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-1",
+            "cid": [],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "那亚哈船长人呢？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">布兰特（通讯中）：这我还真没看到，诶？不过，你现在在哪儿啊？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">布兰特（通讯中）：我怎么看到你的那艘捕鱼贡多拉，在往海里开啊？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">布兰特（通讯中）：喂！喂！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：我的爱人！我这就来见你！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伊什麦尔：是斯塔巴克斯！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伊什麦尔：这家伙竟然自己把小船开跑了！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">布兰特（通讯中）：停下，快停下！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">斯塔巴克斯：我的爱足以令这风暴退却，因为我将比它更加猛烈！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">布兰特（通讯中）：那边&hellip;&hellip;是暴风雨！快上来！这家伙疯了！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">普朗克：噜&hellip;&hellip;&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">普朗克似乎在害怕着什么，没办法做生意&hellip;&hellip;</p>\n</div>",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "dd147b43-2f07-4560-bb56-e3a1bd82290d": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2"
+            ],
+            "pid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：漂泊者，现在四座灯塔都已经点亮了！</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">菲比：你听到溯海之鲸的声音了吗？它似乎不再像过去那样因悲伤和痛苦而愤怒了。</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "菲比有什么发现吗？",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "鲸鱼的声音确实情感丰富。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1"
+            ],
+            "pid": [
+              "2-1",
+              "2-2"
+            ],
+            "group": "3",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：我破译了一些莱耶斯遗迹里的石碑文本。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：溯海之鲸&hellip;&hellip;可能确实和岁主英白拉多，有些联系。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：记录了这些事件的石碑，有些甚至比修会本身还要古老。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：除了溯海之鲸，我还找到了之前和斯塔巴克斯先生有关的那个&ldquo;海妖&rdquo;的线索。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：它应该是一种生活在黎乔利海渊，也就是群岛海底的回音生物，也可以说和我们之前在氤柔水境遇到的罗蕾莱是相同的生物。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：大概是因为溯海之鲸之前离开这里，没有被溯海之鲸引导的&ldquo;亡者&rdquo;们的残响就累积在了她的身上，实则是那些&ldquo;亡者&rdquo;们在促使她诱惑着渔民们。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：她和溯海之鲸是一种共生关系，不过她应该还很弱小，没有发育完全，远不如罗蕾莱。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：溯海之鲸身上的伤口，应该也就是她治愈的&hellip;&hellip;</p>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "还是一样需要让她恢复正常才行。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：在氤柔水境我们已经有过这样的经验了，这次一定没问题。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：不过&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">菲比：漂泊者，你会和鲸鱼说话吗？</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-1",
+            "cid": [],
+            "pid": [
+              "4-1"
+            ],
+            "group": "5",
+            "title": "也许阿布可以和它交流。",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：等事情结束之后，我们一起去和它说说话吧。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">菲比：但是眼下，我们回去找亚哈船长吧，漂泊者。</p>\n</div>",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "e1b9c999-a4c3-4f89-89b8-51c0a971ea28": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1",
+              "2-2"
+            ],
+            "pid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">船夫：您是要找亚哈老爷子是吧？他应该就在那边的码头上。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">船夫：他呀，跟别人都不一样，您一眼就能认出他。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：呼&hellip;&hellip;呼&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：嗯？嗯&hellip;&hellip;行啦&hellip;&hellip;我知道&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：哎！哎呦！鱼！鱼！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：小伙子！别愣着呀，来搭把手！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">？？？：哎！哎！等等&mdash;&mdash;</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">？？？：肯定是条大鱼&hellip;&hellip;</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "可惜，鱼跑了……",
+            "content": "<p>？？？：只要是大鱼，迟早还会被我钓上来的，问题不大。</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "2-2",
+            "cid": [
+              "3-1"
+            ],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "你没事吧？",
+            "content": "<p>？？？：嗯？就这？年轻的时候我一个人能追着一条鲸鱼直到天涯海角！</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "3-1",
+            "cid": [
+              "4-1",
+              "4-2"
+            ],
+            "pid": [
+              "2-1",
+              "2-2"
+            ],
+            "group": "3",
+            "title": "",
+            "content": "<p>？？？：你莫不是&hellip;&hellip;伊什麦尔说的那个年轻人？</p>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-1",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "我是来成为捕鱼达人的。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "4-2",
+            "cid": [
+              "5-1"
+            ],
+            "pid": [
+              "3-1"
+            ],
+            "group": "4",
+            "title": "我想试试海捕。",
+            "content": "",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "5-1",
+            "cid": [
+              "6-1"
+            ],
+            "pid": [
+              "4-1",
+              "4-2"
+            ],
+            "group": "5",
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：好啊，那你算是找对地方了，我叫亚哈，和这里的码头是老相识了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：那边那位章鱼商人，它叫普朗克，出海捕鱼要用到的东西，还有整备修葺船只这样的小事，它都能一站式帮你解决。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">亚哈：不过&hellip;&hellip;我看你好像没有船？这个好办！就用我的吧！</p>\n</div>\n</div>",
+            "delEdgeChildren": []
+          },
+          {
+            "id": "6-1",
+            "cid": [],
+            "pid": [
+              "5-1"
+            ],
+            "group": "6",
+            "title": "竟然也是贡多拉？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：我们捕鱼用的贡多拉可和城里那些人的不一样，对出海捕鱼的我们来说，船是要和我们同生共死的家人。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：它是「拉结号」，虽说老了点，但它可是威风不减当年。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：退下来之后，我也有一阵子没有和它一同与那惊涛骇浪搏斗了，它应该也很想念出海捕鱼的日子。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：怎么说我们也是钓过同一条鱼的人，也算是朋友了。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：&hellip;&hellip;既然这样，就出发吧！去把那条从我们手里跑掉的大家伙捉回来吧！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：我倒要看看，是什么样的鱼能从老亚哈手里跑掉！</p>\n</div>",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "e2d09a44-c08d-4400-9fbd-288b0c441b2e": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [
+              "2-1"
+            ],
+            "pid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伊什麦尔：唔&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伊什麦尔：漂泊者，不知道你发现没有。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伊什麦尔：你们让溯海之鲸和这片海域恢复正常之后，亚哈船长，还有斯塔巴克斯先生，还有魁格先生，他们就都不见了&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伊什麦尔：我现在正在研究亚哈船长留下来的手册，他们一直在寻找&ldquo;最后的港口&rdquo;。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伊什麦尔：亚哈船长把他的一生都花在了大海上，他曾是这片海域里最厉害的船长和捕鱼人。</p>\n</div>\n<div class=\"\">\n<div>\n<p class=\"py-1 px-2\">伊什麦尔：如果循着亚哈船长的道路，以他为目标的话，或许能发现些什么，或者找到亚哈船长留下的宝藏之类的&hellip;&hellip;</p>\n</div>\n</div>"
+          },
+          {
+            "id": "2-1",
+            "cid": [],
+            "pid": [
+              "1"
+            ],
+            "group": "2",
+            "title": "能钓上溯海之鲸吗？",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伊什麦尔：也有可能。亚哈船长一直对溯海之鲸有着很强的执念，但不知道究竟是什么原因。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">伊什麦尔：既然这样的话，就以此为目标继续前进吧。</p>\n</div>",
+            "delEdgeChildren": []
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    },
+    "e5f4611c-e57e-46bb-8af2-c4b7fb803493": {
+      "v": "v1",
+      "flow": {
+        "raw": [
+          {
+            "id": "1",
+            "cid": [],
+            "pid": [],
+            "title": "",
+            "content": "<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：腿&hellip;&hellip;我的腿哪儿去了&hellip;&hellip;拿标枪来&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：&hellip;&hellip;大副&hellip;&hellip;油&hellip;&hellip;我的油在哪儿&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：哟吼吼，怎样，收获颇丰？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：溯海之鲸的事也有了些眉目，你们去「舵盘村」那边找一个叫&hellip;&hellip;什么来着&hellip;&hellip;</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：哦哦！斯塔巴克斯！</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：那小子最近几个星期脑子都不太灵光，有人说他是因为见过溯海之鲸才变成这样的，去找他的时候，你就说是我让你去的就行。</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：另外，那边那艘船，你应该也看到了吧？</p>\n</div>\n<div class=\"\">\n<p class=\"py-1 px-2 align-middle\">亚哈：如果想要钓到真正的&ldquo;大鱼&rdquo;，那艘船必不可少。不过它现在亟待修葺，关于这件事，那里的船工会跟你详细说明的。</p>\n</div>"
+          }
+        ],
+        "data": {},
+        "structure": {
+          "id": "1"
+        },
+        "individual": []
+      },
+      "title": "",
+      "branch": "1",
+      "content": "",
+      "preLink": {
+        "linkType": 1
+      },
+      "nextLink": {
+        "linkType": 1
+      },
+      "preLabel": "",
+      "nextLabel": ""
+    }
+  }
+}
