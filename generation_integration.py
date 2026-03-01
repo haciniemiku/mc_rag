@@ -62,14 +62,33 @@ class GenerationIntegrationModule:
         # 构建 LCEL 链
         full_chain = rewrite_prompt | self.llm | StrOutputParser()
 
-        try:
-            # 执行推理
-            rewritten_query = full_chain.invoke({"query": query})
-            print(f"🔄 查询重写：{query} → {rewritten_query}")
-            return rewritten_query
-        except Exception as e:
-            print(f"❌ 查询重写失败: {e}")
-            return query
+        # 添加重试机制
+        import time
+        max_retries = 3
+        retry_delay = 2
+        
+        for attempt in range(max_retries):
+            try:
+                # 执行推理
+                rewritten_query = full_chain.invoke({"query": query})
+                print(f"🔄 查询重写：{query} → {rewritten_query}")
+                return rewritten_query
+            except Exception as e:
+                error_msg = str(e)
+                if "429" in error_msg or "overloaded" in error_msg.lower():
+                    print(f"⚠️ API限流，等待{retry_delay}秒后重试... (尝试 {attempt + 1}/{max_retries})")
+                    if attempt < max_retries - 1:
+                        time.sleep(retry_delay)
+                        retry_delay *= 2
+                        continue
+                    else:
+                        print(f"❌ 查询重写失败，返回原始查询")
+                        return query
+                else:
+                    print(f"❌ 查询重写失败: {e}")
+                    return query
+        
+        return query
 
     def query_router(self, query: str) -> str:
         """
@@ -107,24 +126,43 @@ class GenerationIntegrationModule:
         # 2. 构建 LCEL 链
         full_chain = router_prompt | self.llm | StrOutputParser()
 
-        try:
-            # 3. 执行推理
-            result = full_chain.invoke({"query": query})
+        # 添加重试机制
+        import time
+        max_retries = 3
+        retry_delay = 2
+        
+        for attempt in range(max_retries):
+            try:
+                # 3. 执行推理
+                result = full_chain.invoke({"query": query})
 
-            # 4. 清洗结果
-            cleaned_result = result.strip().lower().replace("'", "").replace('"', '').replace('.', '')
+                # 4. 清洗结果
+                cleaned_result = result.strip().lower().replace("'", "").replace('"', '').replace('.', '')
 
-            # 5. 验证结果
-            valid_categories = ['factual', 'inferential', 'general']
-            if cleaned_result in valid_categories:
-                return cleaned_result
-            else:
-                print(f"⚠️ 路由分类结果异常: '{result}', 默认归类为 'general'")
-                return 'general'
+                # 5. 验证结果
+                valid_categories = ['factual', 'inferential', 'general']
+                if cleaned_result in valid_categories:
+                    return cleaned_result
+                else:
+                    print(f"⚠️ 路由分类结果异常: '{result}', 默认归类为 'general'")
+                    return 'general'
 
-        except Exception as e:
-            print(f"❌ 路由分类失败: {e}")
-            return 'general'
+            except Exception as e:
+                error_msg = str(e)
+                if "429" in error_msg or "overloaded" in error_msg.lower():
+                    print(f"⚠️ API限流，等待{retry_delay}秒后重试... (尝试 {attempt + 1}/{max_retries})")
+                    if attempt < max_retries - 1:
+                        time.sleep(retry_delay)
+                        retry_delay *= 2
+                        continue
+                    else:
+                        print(f"❌ 路由分类失败，默认返回 'general'")
+                        return 'general'
+                else:
+                    print(f"❌ 路由分类失败: {e}")
+                    return 'general'
+        
+        return 'general'
 
     def extract_character_name(self, query: str) -> str:
         """
@@ -199,22 +237,41 @@ JSON格式示例:
 
         full_chain = extract_prompt | self.llm | StrOutputParser()
 
-        try:
-            result = full_chain.invoke({"query": query}).strip()
-            print(f"🎯 LLM提取的结构化实体: {result}")
-            
-            # 尝试解析JSON
-            import json
+        # 添加重试机制
+        import time
+        max_retries = 3
+        retry_delay = 2
+        
+        for attempt in range(max_retries):
             try:
-                entities = json.loads(result)
-                return entities
-            except json.JSONDecodeError:
-                print(f"⚠️ JSON解析失败，返回空字典")
-                return {}
+                result = full_chain.invoke({"query": query}).strip()
+                print(f"🎯 LLM提取的结构化实体: {result}")
                 
-        except Exception as e:
-            print(f"❌ 结构化实体提取失败: {e}")
-            return {}
+                # 尝试解析JSON
+                import json
+                try:
+                    entities = json.loads(result)
+                    return entities
+                except json.JSONDecodeError:
+                    print(f"⚠️ JSON解析失败，返回空字典")
+                    return {}
+                    
+            except Exception as e:
+                error_msg = str(e)
+                if "429" in error_msg or "overloaded" in error_msg.lower():
+                    print(f"⚠️ API限流，等待{retry_delay}秒后重试... (尝试 {attempt + 1}/{max_retries})")
+                    if attempt < max_retries - 1:
+                        time.sleep(retry_delay)
+                        retry_delay *= 2  # 指数退避
+                        continue
+                    else:
+                        print(f"❌ 达到最大重试次数，返回空字典")
+                        return {}
+                else:
+                    print(f"❌ 结构化实体提取失败: {e}")
+                    return {}
+        
+        return {}
 
     def generate(self, question: str, context: str, system_prompt: str, stream: bool = False) -> str:
         """生成最终回答"""
@@ -230,12 +287,30 @@ JSON格式示例:
         # 构建完整的链
         full_chain = generation_prompt | self.llm | StrOutputParser()
 
-        try:
-            response = full_chain.invoke({
-                "system_prompt": system_prompt,
-                "context": context,
-                "question": question
-            })
-            return response
-        except Exception as e:
-            return f"❌ 生成回答时出错: {str(e)}"
+        # 添加重试机制
+        import time
+        max_retries = 3
+        retry_delay = 2
+        
+        for attempt in range(max_retries):
+            try:
+                response = full_chain.invoke({
+                    "system_prompt": system_prompt,
+                    "context": context,
+                    "question": question
+                })
+                return response
+            except Exception as e:
+                error_msg = str(e)
+                if "429" in error_msg or "overloaded" in error_msg.lower():
+                    print(f"⚠️ API限流，等待{retry_delay}秒后重试... (尝试 {attempt + 1}/{max_retries})")
+                    if attempt < max_retries - 1:
+                        time.sleep(retry_delay)
+                        retry_delay *= 2
+                        continue
+                    else:
+                        return f"❌ API服务繁忙，请稍后再试。"
+                else:
+                    return f"❌ 生成回答时出错: {str(e)}"
+        
+        return "❌ 生成回答失败，请稍后再试。"

@@ -16,6 +16,30 @@ st.set_page_config(
 st.title("🎮 鸣潮剧情RAG助手")
 st.markdown("---")
 
+# API密钥输入
+with st.expander("🔑 设置API密钥", expanded=False):
+    api_key = st.text_input(
+        "Moonshot API密钥",
+        type="password",
+        placeholder="sk-...",
+        help="输入你的Moonshot API密钥，不会被保存"
+    )
+    
+    if api_key:
+        os.environ["MOONSHOT_API_KEY"] = api_key
+        st.success("✅ API密钥已设置")
+        st.info("⚠️ 密钥仅在当前会话有效，刷新页面后需要重新输入")
+    else:
+        st.warning("⚠️ 请设置API密钥以使用本应用")
+        st.markdown("""
+        **如何获取API密钥：**
+        1. 访问 https://platform.moonshot.cn
+        2. 注册/登录账号
+        3. 进入API密钥页面
+        4. 创建新密钥
+        5. 复制密钥到此处
+        """)
+
 @st.cache_resource
 def initialize_rag_system():
     try:
@@ -27,13 +51,20 @@ def initialize_rag_system():
         st.error(f"❌ RAG系统初始化失败: {e}")
         return None
 
-if 'rag_system' not in st.session_state:
+# 检查是否有API密钥
+has_api_key = bool(os.getenv("MOONSHOT_API_KEY"))
+
+if not has_api_key:
+    st.warning("⚠️ 请先设置API密钥才能使用问答功能")
+    st.stop()
+
+if 'rag_system' not in st.session_state or not st.session_state.rag_system:
     with st.spinner("🔄 正在初始化RAG系统，请稍候..."):
         st.session_state.rag_system = initialize_rag_system()
         if st.session_state.rag_system:
             st.success("✅ RAG系统初始化成功！")
         else:
-            st.error("❌ RAG系统初始化失败，请检查配置")
+            st.error("❌ RAG系统初始化失败，请检查API密钥")
 
 if 'chat_history' not in st.session_state:
     st.session_state.chat_history = []
