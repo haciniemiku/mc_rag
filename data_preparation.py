@@ -1,4 +1,4 @@
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Tuple
 from langchain_core.documents import Document
 from pathlib import Path
 import uuid
@@ -280,6 +280,33 @@ class DataPreparationModule:
 
         return parent_docs
 
+    def extract_graph_data(self, output_dir: str = "graph_data", batch_size: int = 5) -> Tuple[str, str, str]:
+        from graph_data_extractor import GraphDataExtractor
+        
+        print("\n" + "="*60)
+        print("🕸️ 开始图数据提取...")
+        print("="*60)
+        
+        extractor = GraphDataExtractor(
+            model_name="moonshot-v1-8k",
+            output_dir=output_dir
+        )
+        
+        nodes, relationships = extractor.extract_from_documents(self.documents, batch_size=batch_size)
+        
+        nodes_file, relationships_file = extractor.save_to_csv()
+        cypher_file = extractor.generate_neo4j_cypher()
+        
+        print("\n" + "="*60)
+        print("🎉 图数据提取完成！")
+        print("="*60)
+        print(f"📊 生成的文件：")
+        print(f"   - 节点数据: {nodes_file}")
+        print(f"   - 关系数据: {relationships_file}")
+        print(f"   - Neo4j脚本: {cypher_file}")
+        
+        return str(nodes_file), str(relationships_file), str(cypher_file)
+
 
 # ==========================================
 # 🧪 自动化测试单元 (Main)
@@ -375,6 +402,15 @@ if __name__ == "__main__":
         print(f"   - 父文档数：{len(docs)}")
         print(f"   - 子片段数：{len(chunks)}")
         print(f"   - 平均每个文档切分：{len(chunks) / len(docs):.2f} 个片段")
+        
+        print("\n" + "=" * 50)
+        print("🕸️ 是否执行图数据提取？(y/n): ", end="")
+        try:
+            user_input = input().strip().lower()
+            if user_input == 'y':
+                loader.extract_graph_data(batch_size=3)
+        except:
+            print("跳过图数据提取")
 
     except AssertionError as e:
         print("\n" + "=" * 50)

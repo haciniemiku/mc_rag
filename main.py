@@ -1,6 +1,6 @@
 import os
 from pathlib import Path
-from typing import List
+from typing import List, Dict
 from dotenv import load_dotenv
 
 from data_preparation import DataPreparationModule
@@ -8,6 +8,7 @@ from index_construction import IndexConstructionModule
 from retrieval_optimization import RetrievalOptimizationModule
 from generation_integration import GenerationIntegrationModule
 from config import RAGConfig, DEFAULT_CONFIG
+from graph_neo4j_retrieval import Neo4jGraphRetrieval
 
 load_dotenv()
 
@@ -21,6 +22,7 @@ class RAGSystem:
         self.index_module = None
         self.retrieval_module = None
         self.generation_module = None
+        self.neo4j_retriever = None  # Neo4j 图检索器
 
         # 检查数据路径和 API 密钥
         if not Path(self.config.data_path).exists():
@@ -48,6 +50,13 @@ class RAGSystem:
             temperature=self.config.temperature,
             max_tokens=self.config.max_tokens
         )
+
+        # 4. 初始化 Neo4j 图检索器
+        self.neo4j_retriever = Neo4jGraphRetrieval()
+        if self.neo4j_retriever.driver:
+            print("✅ Neo4j 图检索器初始化成功")
+        else:
+            print("⚠️ Neo4j 图检索器初始化失败，将使用本地图构建器")
 
         print("✅ 系统模块初始化完成。")
 
@@ -100,6 +109,25 @@ class RAGSystem:
         time = entities.get('time', '')
         
         print(f"🔍 角色名称: {character_name}, 地点: {location}, 章节: {chapter}, 动作: {action}, 时间: {time}")
+        
+        # 优先使用 Neo4j 图数据库进行查询
+        if character_name and self.neo4j_retriever and self.neo4j_retriever.driver:
+            # 检查是否是角色关系查询
+            is_relationship_query = any(keyword in question for keyword in ['关系', '认识', '朋友', '敌人', '互动', '联系'])
+            if is_relationship_query:
+                print(f"🔍 使用 Neo4j 查询角色关系: {character_name}")
+                relationship_info = self._query_character_relationships_neo4j(character_name)
+                if relationship_info:
+                    return relationship_info
+            
+            # 检查是否是角色首次/最后出现的问题
+            is_character_occurrence = (action in ['出现', '登场'] and time in ['首次', '第一次', '最后一次', '最后'])
+            if is_character_occurrence:
+                occurrence_type = "first" if time in ["首次", "第一次"] else "last"
+                print(f"🔍 使用 Neo4j 查询角色出现: {character_name}, 类型: {occurrence_type}")
+                occurrence_info = self._query_character_occurrence_neo4j(character_name, occurrence_type)
+                if occurrence_info:
+                    return occurrence_info
         
         # 检查是否是角色首次/最后出现的问题
         is_character_occurrence = (action in ['出现', '登场'] and time in ['首次', '第一次', '最后一次', '最后'])
@@ -187,6 +215,129 @@ class RAGSystem:
 
         return response
 
+    def _query_character_relationships_neo4j(self, character_name: str) -> str:
+        """使用 Neo4j 查询角色的关系网络"""
+        if not self.neo4j_retriever or not self.neo4j_retriever.driver:
+            return ""
+        
+        try:
+            network = self.neo4j_retriever.query_character_network(character_name)
+            if not network:
+                return ""
+            
+            # 构建关系描述
+            result_parts = [f"🎭 **{character_name}的关系网络**\n"]
+            
+            # 基本信息
+            if network.get("info"):
+                info = network["info"]
+                result_parts.append(f"\n📋 **基本信息**:")
+                result_parts.append(f"   • 描述: {info.get('description', '暂无')}")
+                result_parts.append(f"   • 首次出现: {info.get('first_seen_chapter', '未知')} {info.get('first_seen_act', '未知')}")
+                result_parts.append(f"   • 出现次数: {info.get('occurrence_count', 0)}")
+            
+            # 关系网络
+            if network.get("relationships"):
+                result_parts.append(f"\n🔗 **关系网络** (共 {len(network['relationships'])} 个关系):")
+                for rel in network["relationships"][:10]:
+                    rel_type = rel.get("relationship_type", "unknown")
+                    target = rel.get("target_name", "unknown")
+                    target_type = rel.get("target_type", "unknown")
+                    context = rel.get("context", "")
+                    result_parts.append(f"   • {rel_type} → {target_type}: {target}")
+                    if context:
+                        result_parts.append(f"     {context}")
+            
+            # 互动角色
+            if network.get("interactions"):
+                result_parts.append(f"\n💬 **互动角色** (共 {len(network['interactions'])} 个):")
+                for interaction in network["interactions"][:5]:
+                    char = interaction.get("character_name", "unknown")
+                    context = interaction.get("context", "")
+                    result_parts.append(f"   • {char}")
+                    if context:
+                        result_parts.append(f"     {context}")
+            
+            # 敌人
+            if network.get("enemies"):
+                result_parts.append(f"\n⚔️ **敌人** (共 {len(network['enemies'])} 个):")
+                for enemy in network["enemies"][:5]:
+                    enemy_name = enemy.get("enemy_name", "unknown")
+                    context = enemy.get("context", "")
+                    result_parts.append(f"   • {enemy_name}")
+                    if context:
+                        result_parts.append(f"     {context}")
+            
+            # 盟友
+            if network.get("allies"):
+                result_parts.append(f"\n🤝 **盟友** (共 {len(network['allies'])} 个):")
+                for ally in network["allies"][:5]:
+                    ally_name = ally.get("ally_name", "unknown")
+                    context = ally.get("context", "")
+                    result_parts.append(f"   • {ally_name}")
+                    if context:
+                        result_parts.append(f"     {context}")
+            
+            # 出现地点
+            if network.get("locations"):
+                result_parts.append(f"\n📍 **出现地点** (共 {len(network['locations'])} 个):")
+                for loc in network["locations"][:5]:
+                    name = loc.get("location_name", "unknown")
+                    times = loc.get("times", 0)
+                    result_parts.append(f"   • {name} (出现 {times} 次)")
+            
+            # 物品
+            if network.get("items"):
+                result_parts.append(f"\n🎒 **拥有的物品** (共 {len(network['items'])} 个):")
+                for item in network["items"][:5]:
+                    item_name = item.get("item_name", "unknown")
+                    context = item.get("context", "")
+                    result_parts.append(f"   • {item_name}")
+                    if context:
+                        result_parts.append(f"     {context}")
+            
+            # 组织
+            if network.get("organizations"):
+                result_parts.append(f"\n🏢 **所属组织** (共 {len(network['organizations'])} 个):")
+                for org in network["organizations"][:5]:
+                    org_name = org.get("organization_name", "unknown")
+                    context = org.get("context", "")
+                    result_parts.append(f"   • {org_name}")
+                    if context:
+                        result_parts.append(f"     {context}")
+            
+            return "\n".join(result_parts)
+            
+        except Exception as e:
+            print(f"⚠️ Neo4j 查询角色关系时出错: {e}")
+            return ""
+    
+    def _query_character_occurrence_neo4j(self, character_name: str, occurrence_type: str) -> str:
+        """使用 Neo4j 查询角色首次/最后出现"""
+        if not self.neo4j_retriever or not self.neo4j_retriever.driver:
+            return ""
+        
+        try:
+            if occurrence_type == "first":
+                info = self.neo4j_retriever.query_character_first_appearance(character_name)
+                occurrence_desc = "首次"
+            else:
+                info = self.neo4j_retriever.query_character_last_appearance(character_name)
+                occurrence_desc = "最后一次"
+            
+            if not info:
+                return ""
+            
+            chapter_name = info.get("chapter_name", "未知")
+            chapter_number = info.get("chapter_number", 0)
+            act_number = info.get("act_number", 0)
+            
+            return f"{character_name}游戏中{occurrence_desc}出现是在第{chapter_number}章《{chapter_name}》的第{act_number}幕。"
+            
+        except Exception as e:
+            print(f"⚠️ Neo4j 查询角色出现时出错: {e}")
+            return ""
+    
     def _format_context(self, chunks: List, mode: str = "general") -> str:
         """将 Document 列表格式化为字符串上下文"""
         formatted_lines = []

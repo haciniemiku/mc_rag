@@ -10,6 +10,14 @@
 - 💬 对话历史：保存和查看对话记录
 - 🚀 实时响应：支持Enter键快速提问
 
+## 🚀 在线体验
+
+### Streamlit Cloud部署
+访问：[https://your-app.streamlit.app](https://your-app.streamlit.app)
+
+### Hugging Face Spaces
+访问：[https://huggingface.co/spaces/your-username/your-app](https://huggingface.co/spaces/your-username/your-app)
+
 ## 📦 本地部署
 
 ### 环境要求
@@ -37,7 +45,13 @@ venv\Scripts\activate  # Windows
 pip install -r requirements.txt
 ```
 
-4. **准备数据**
+4. **配置环境变量**
+```bash
+cp .env.example .env
+# 编辑.env文件，填入你的MOONSHOT_API_KEY
+```
+
+5. **准备数据**
 将剧情数据文件放入`md_output/`目录
 
 6. **启动应用**
@@ -50,15 +64,8 @@ streamlit run streamlit_app.py
 
 ## 🔧 配置说明
 
-### API密钥
-- 在应用界面中输入Moonshot API密钥
-- 密钥仅在当前会话有效，刷新页面后需要重新输入
-- 如何获取API密钥：
-  1. 访问 https://platform.moonshot.cn
-  2. 注册/登录账号
-  3. 进入API密钥页面
-  4. 创建新密钥
-  5. 复制密钥到应用中
+### 环境变量
+- `MOONSHOT_API_KEY`: Moonshot AI API密钥（必需）
 
 ### 数据目录
 - `md_output/`: 剧情数据文件目录
@@ -82,7 +89,21 @@ streamlit run streamlit_app.py
 - **剧情检索**：检索特定章节的事件和对话
 - **推理分析**：分析角色关系和情感倾向
 
+## 🌐 部署到云端
 
+### Streamlit Cloud（推荐）
+1. 将代码上传到GitHub
+2. 访问 https://share.streamlit.io
+3. 连接GitHub账号并选择仓库
+4. 配置环境变量`MOONSHOT_API_KEY`
+5. 点击部署
+
+### Hugging Face Spaces
+1. 创建Hugging Face账号
+2. 新建Space，选择Streamlit
+3. 上传代码文件
+4. 在Settings中配置Secrets
+5. 自动部署
 
 ## 📝 技术栈
 
