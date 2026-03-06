@@ -38,15 +38,28 @@ class RetrievalOptimizationModule:
             logger.error(f"❌ 检索器初始化失败: {e}")
             raise
 
-    def hybrid_search(self, query: str, top_k: int = 3) -> List[Document]:
-        """混合检索 - 结合向量检索和BM25检索，使用RRF重排"""
+    def hybrid_search(self, query: str, top_k: int = 3,
+                      vector_weight: float = 0.5, bm25_weight: float = 0.5) -> List[Document]:
+        """混合检索 - 结合向量检索和BM25检索，使用加权RRF重排
+
+        Args:
+            query: 查询字符串
+            top_k: 返回结果数量
+            vector_weight: 向量检索权重 (0.0-1.0)，默认0.5
+            bm25_weight: BM25检索权重 (0.0-1.0)，默认0.5
+
+        Returns:
+            重排后的文档列表
+        """
         try:
             # 分别获取向量检索和BM25检索结果
             vector_docs = self.vector_retriever.invoke(query)
             bm25_docs = self.bm25_retriever.invoke(query)
 
-            # 使用RRF重排
-            reranked_docs = self._rrf_rerank(vector_docs, bm25_docs)
+            # 使用加权RRF重排
+            reranked_docs = self._weighted_rrf_rerank(
+                vector_docs, bm25_docs, vector_weight, bm25_weight
+            )
             logger.info(f"✅ 混合检索完成，返回 {min(top_k, len(reranked_docs))} 个结果")
             return reranked_docs[:top_k]
         except Exception as e:
@@ -55,19 +68,35 @@ class RetrievalOptimizationModule:
 
     def _rrf_rerank(self, vector_results: List[Document], bm25_results: List[Document]) -> List[Document]:
         """RRF (Reciprocal Rank Fusion) 重排"""
-        # RRF融合算法
+        return self._weighted_rrf_rerank(vector_results, bm25_results, vector_weight=0.5, bm25_weight=0.5)
+
+    def _weighted_rrf_rerank(self, vector_results: List[Document], bm25_results: List[Document],
+                             vector_weight: float, bm25_weight: float) -> List[Document]:
+        """加权RRF (Reciprocal Rank Fusion) 重排
+
+        Args:
+            vector_results: 向量检索结果
+            bm25_results: BM25检索结果
+            vector_weight: 向量检索权重
+            bm25_weight: BM25检索权重
+
+        Returns:
+            重排后的文档列表
+        """
         rrf_scores = {}
         k = 60  # RRF参数
 
-        # 计算向量检索的RRF分数
+        # 计算向量检索的加权RRF分数
         for rank, doc in enumerate(vector_results):
             doc_id = id(doc)
-            rrf_scores[doc_id] = rrf_scores.get(doc_id, 0) + 1 / (k + rank + 1)
+            score = vector_weight * (1 / (k + rank + 1))
+            rrf_scores[doc_id] = rrf_scores.get(doc_id, 0) + score
 
-        # 计算BM25检索的RRF分数
+        # 计算BM25检索的加权RRF分数
         for rank, doc in enumerate(bm25_results):
             doc_id = id(doc)
-            rrf_scores[doc_id] = rrf_scores.get(doc_id, 0) + 1 / (k + rank + 1)
+            score = bm25_weight * (1 / (k + rank + 1))
+            rrf_scores[doc_id] = rrf_scores.get(doc_id, 0) + score
 
         # 合并所有文档并按RRF分数排序
         all_docs = {id(doc): doc for doc in vector_results + bm25_results}

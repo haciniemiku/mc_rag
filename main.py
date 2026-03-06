@@ -143,39 +143,50 @@ class RAGSystem:
         if route_type == 'general':
             return "我是鸣潮剧情RAG助手，专门回答关于鸣潮游戏剧情的问题。我可以帮你查询角色信息、剧情事件、章节内容等。请问我关于鸣潮剧情的问题！"
 
-        # 5. 检索相关子块
-        relevant_chunks = self.retrieval_module.hybrid_search(
-            rewritten_question,
-            top_k=self.config.top_k,
-        )
-
-        if not relevant_chunks:
-            return "😕 抱歉，我在知识库中没有找到相关信息。"
-
-        # 6. 根据路由类型后处理上下文
+        # 5. 根据意图类型采用不同的检索策略
         context_text = ""
         system_prompt = ""
+        relevant_chunks = []
 
         if route_type == 'factual':
-            # 📋 事实性问题：直接基于检索结果回答
+            # 📋 事实性问题：精确匹配优先，使用更高的BM25权重
+            print(f"🔍 事实性检索策略：BM25权重高(0.7)，向量权重低(0.3)，top_k={self.config.top_k}")
+            relevant_chunks = self.retrieval_module.hybrid_search(
+                rewritten_question,
+                top_k=self.config.top_k,
+                vector_weight=0.3,    # 降低向量检索权重
+                bm25_weight=0.7       # 提高BM25权重（关键词精确匹配）
+            )
             system_prompt = "你是一个剧情问答助手。请根据提供的剧本片段，准确回答用户的问题。只回答明确在剧本中出现的信息，不要进行推测或编造。"
             context_text = self._format_context(relevant_chunks, mode="factual")
 
         elif route_type == 'inferential':
-            # 🧠 推理性问题：需要基于剧情进行分析和推理
-            # 对于推理性问题，增加检索的top_k值
+            # 🧠 推理性问题：语义相似优先，使用更高的向量权重，获取更多上下文
+            print(f"🔍 推理性检索策略：向量权重高(0.7)，BM25权重低(0.3)，top_k={self.config.top_k * 2}")
             relevant_chunks = self.retrieval_module.hybrid_search(
                 rewritten_question,
                 top_k=self.config.top_k * 2,  # 获取更多上下文
+                vector_weight=0.7,            # 提高向量检索权重（语义相似）
+                bm25_weight=0.3               # 降低BM25权重
             )
-            
             system_prompt = "你是一个剧情分析助手。请根据提供的剧本片段，分析角色关系、情感倾向和可能的剧情发展。基于已有信息进行合理推理，但明确区分事实和推测。"
             context_text = self._format_context(relevant_chunks, mode="inferential")
 
         else:  # general
             # 🌐 通用模式
+            print(f"🔍 通用检索策略：权重均衡(0.5/0.5)，top_k={self.config.top_k}")
+            relevant_chunks = self.retrieval_module.hybrid_search(
+                rewritten_question,
+                top_k=self.config.top_k,
+                vector_weight=0.5,
+                bm25_weight=0.5
+            )
             system_prompt = "你是一个博学的助手。请根据提供的背景知识回答用户问题。如果知识库中没有答案，请诚实告知，不要编造。"
             context_text = self._format_context(relevant_chunks, mode="general")
+
+        # 6. 检查检索结果
+        if not relevant_chunks:
+            return "😕 抱歉，我在知识库中没有找到相关信息。"
 
         # 7. 调用 LLM 生成回答
         response = self.generation_module.generate(
