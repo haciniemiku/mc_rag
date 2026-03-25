@@ -2,6 +2,26 @@ import os
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_openai import ChatOpenAI
+from pydantic import BaseModel, Field
+from typing import Optional, Literal, Dict, Any
+
+
+class EntityInfo(BaseModel):
+    character: str = Field(description="角色名称，如果没有则为空字符串")
+    location: str = Field(description="地点名称，如果没有则为空字符串")
+    chapter: str = Field(description="章节信息，如果没有则为空字符串")
+    action: str = Field(description="动作类型，如'出现'、'战斗'等")
+    time: str = Field(description="时间信息，如'第一次'、'最后'等")
+
+
+class QueryAnalysisResult(BaseModel):
+    rewritten_query: str = Field(description="重写后的查询，用于向量检索，需包含关键实体")
+    entities: EntityInfo
+    route_type: Literal['factual', 'inferential', 'general'] = Field(description="意图类型")
+    is_character_occurrence: bool = Field(description="是否是角色出现查询")
+    character_name: str = Field(description="提取到的主要角色名，若无则为空")
+    action: str = Field(description="主要动作")
+    time: str = Field(description="主要时间词")
 
 
 class GenerationIntegrationModule:
@@ -239,3 +259,140 @@ JSON格式示例:
             return response
         except Exception as e:
             return f"❌ 生成回答时出错: {str(e)}"
+
+    def analyze_query(self, query: str, conversation_history: str = "") -> dict:
+        """
+        统一查询分析 - 一次大模型调用完成查询重写、结构化信息提取、意图判断
+        
+        返回:
+            dict: 包含以下字段
+                - rewritten_query: 重写后的查询
+                - entities: 结构化实体信息
+                - route_type: 意图类型 ('factual', 'inferential', 'general')
+                - is_character_occurrence: 是否是角色出现查询
+                - character_name: 角色名称
+                - action: 动作类型
+                - time: 时间信息
+        """
+        if not self.llm:
+            return self._get_default_result(query)
+
+        analysis_prompt = ChatPromptTemplate.from_template("""
+你是一个专业的查询分析引擎。请严格按照以下步骤处理用户输入：
+
+【步骤 1：实体提取】
+首先从查询和对话历史中精确提取实体（角色、地点、章节、动作、时间）。
+- 如果用户说"他"或"她"，请根据【对话历史】解析为具体角色名。
+- 动作和时间必须精确匹配原文词汇。
+
+【步骤 2：意图分类】
+基于提取的实体，判断意图：
+- 'factual': 询问明确的事实（时间、地点、事件）。
+- 'inferential': 需要推理（关系、原因、情感）。
+- 'general': 闲聊或系统问题。
+
+【步骤 3：查询重写】
+结合实体和意图，将查询重写为一个独立的、包含完整上下文的句子，用于向量检索。
+- 必须将代词（他/她/它）替换为具体实体名。
+- 必须保留时间和动作限定词。
+
+【输入数据】
+对话历史：{conversation_history}
+当前查询：{query}
+
+【输出要求】
+请直接输出符合 Schema 定义的 JSON 对象，不要包含任何 Markdown 标记，不要包含任何解释性文字。
+""")
+
+        try:
+            structured_llm = self.llm.with_structured_output(QueryAnalysisResult)
+            chain = analysis_prompt | structured_llm
+            
+            result = chain.invoke({
+                "conversation_history": conversation_history,
+                "query": query
+            })
+            
+            if isinstance(result, BaseModel):
+                return result.model_dump()
+            
+        except Exception as e:
+            print(f"⚠️ 结构化输出失败，使用降级方案: {e}")
+            return self._analyze_query_fallback(query, conversation_history)
+        
+        return self._get_default_result(query)
+    
+    def _analyze_query_fallback(self, query: str, conversation_history: str = "") -> dict:
+        """降级方案：使用原来的 StrOutputParser + json.loads 逻辑"""
+        analysis_prompt = ChatPromptTemplate.from_template("""
+你是一个专业的查询分析引擎。请严格按照以下步骤处理用户输入：
+
+【步骤 1：实体提取】
+首先从查询和对话历史中精确提取实体（角色、地点、章节、动作、时间）。
+
+【步骤 2：意图分类】
+- 'factual': 询问明确的事实（时间、地点、事件）。
+- 'inferential': 需要推理（关系、原因、情感）。
+- 'general': 闲聊或系统问题。
+
+【步骤 3：查询重写】
+将查询重写为一个独立的、包含完整上下文的句子，用于向量检索。
+
+【对话历史】
+{conversation_history}
+
+【当前查询】
+{query}
+
+请返回 JSON 格式的分析结果：
+""")
+        
+        import json
+        import time
+        
+        max_retries = 3
+        retry_delay = 2
+        
+        for attempt in range(max_retries):
+            try:
+                chain = analysis_prompt | self.llm | StrOutputParser()
+                result = chain.invoke({
+                    "conversation_history": conversation_history,
+                    "query": query
+                }).strip()
+                
+                clean_result = result.replace("```json", "").replace("```", "").strip()
+                analysis_result = json.loads(clean_result)
+                
+                analysis_result.setdefault('rewritten_query', query)
+                analysis_result.setdefault('entities', {})
+                analysis_result.setdefault('route_type', 'general')
+                analysis_result.setdefault('is_character_occurrence', False)
+                analysis_result.setdefault('character_name', '')
+                analysis_result.setdefault('action', '')
+                analysis_result.setdefault('time', '')
+                
+                return analysis_result
+                
+            except Exception as e:
+                error_msg = str(e)
+                if "429" in error_msg or "overloaded" in error_msg.lower():
+                    if attempt < max_retries - 1:
+                        time.sleep(retry_delay)
+                        retry_delay *= 2
+                        continue
+                print(f"❌ 降级方案分析失败: {e}")
+        
+        return self._get_default_result(query)
+    
+    def _get_default_result(self, query: str) -> dict:
+        """提取默认值逻辑，避免代码重复"""
+        return {
+            'rewritten_query': query,
+            'entities': {},
+            'route_type': 'general',
+            'is_character_occurrence': False,
+            'character_name': '',
+            'action': '',
+            'time': ''
+        }

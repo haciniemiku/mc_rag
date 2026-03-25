@@ -1,0 +1,6425 @@
+{
+  "processed_chunk_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180
+  ],
+  "qa_pairs": [
+    {
+      "question": "炽霞和秧秧所在的“云陵谷”隶属于哪个城市管辖？",
+      "answer": "今州城",
+      "type": "factual",
+      "key_entities": [
+        "云陵谷",
+        "今州城",
+        "瑝珑"
+      ],
+      "source_chunk_id": 0,
+      "source_info": "万象新声 · 上.md"
+    },
+    {
+      "question": "为什么炽霞说“葫芦（盘古终端）也失去信号了”？",
+      "answer": "因为天空海正在聚拢、即将生成新的无音区，其影响导致终端收不到信号，也无法联络任何人。",
+      "type": "logical",
+      "key_entities": [
+        "炽霞",
+        "天空海",
+        "无音区",
+        "盘古终端"
+      ],
+      "source_chunk_id": 0,
+      "source_info": "万象新声 · 上.md"
+    },
+    {
+      "question": "片段中是否提到“白芷”此时就在云陵谷内？",
+      "answer": "否，片段只提到炽霞说他们得尽快跟白芷在“约定的地方”会合，并未说明白芷就在谷内。",
+      "type": "negative",
+      "key_entities": [
+        "白芷",
+        "云陵谷"
+      ],
+      "source_chunk_id": 0,
+      "source_info": "万象新声 · 上.md"
+    },
+    {
+      "question": "今州岁主“角”的雕像呈现什么外形？",
+      "answer": "龙形",
+      "type": "factual",
+      "key_entities": [
+        "今州岁主“角”",
+        "雕像"
+      ],
+      "source_chunk_id": 1,
+      "source_info": "万象新声 · 上.md"
+    },
+    {
+      "question": "为什么秧秧判断漂泊者可能是岁主的共鸣者？",
+      "answer": "因为漂泊者声称自己与真实的岁主“角”对面而立，且距离极近；按秧秧的说法，这种近距离只有岁主的共鸣者才可能实现，而今州岁主的共鸣者正是今州令尹。",
+      "type": "logical",
+      "key_entities": [
+        "秧秧",
+        "漂泊者",
+        "今州岁主“角”"
+      ],
+      "source_chunk_id": 1,
+      "source_info": "万象新声 · 上.md"
+    },
+    {
+      "question": "片段中是否提到炽霞拥有治疗相关的共鸣能力？",
+      "answer": "没有提到，治疗相关的能力是白芷的共鸣能力，炽霞并未表现出这种能力。",
+      "type": "negative",
+      "key_entities": [
+        "炽霞",
+        "白芷"
+      ],
+      "source_chunk_id": 1,
+      "source_info": "万象新声 · 上.md"
+    },
+    {
+      "question": "炽霞说“城里是最安全的地方了”，这座城叫什么名字？",
+      "answer": "今州城",
+      "type": "factual",
+      "key_entities": [
+        "炽霞",
+        "今州城"
+      ],
+      "source_chunk_id": 2,
+      "source_info": "万象新声 · 上.md"
+    },
+    {
+      "question": "秧秧解释“蛰伏期与无音区形成时间的关系”时提到，无音区形成时间越短，蛰伏期就越长，但为什么蛰伏期越长反而越危险？",
+      "answer": "因为蛰伏期越长，无音区内部孕育生成的残象就会变得越加强大，最终苏醒时威胁更大。",
+      "type": "logical",
+      "key_entities": [
+        "秧秧",
+        "蛰伏期",
+        "残象"
+      ],
+      "source_chunk_id": 2,
+      "source_info": "万象新声 · 上.md"
+    },
+    {
+      "question": "片段中炽霞和秧秧提到今州城拥有中枢信标防护罩与天工防御工事，但有没有说明这些防御是否能阻止无音区在城边瞬间生成？",
+      "answer": "片段中并未提及今州城的防御系统能否阻止无音区在城边瞬间生成。",
+      "type": "negative",
+      "key_entities": [
+        "今州城",
+        "无音区"
+      ],
+      "source_chunk_id": 2,
+      "source_info": "万象新声 · 上.md"
+    },
+    {
+      "question": "炽霞在发现白芷时，白芷独自处于无音区的哪个位置？",
+      "answer": "无音区中央",
+      "type": "factual",
+      "key_entities": [
+        "炽霞",
+        "白芷",
+        "无音区中央"
+      ],
+      "source_chunk_id": 3,
+      "source_info": "万象新声 · 上.md"
+    },
+    {
+      "question": "为什么白芷会说“这里不是说话的地方”？",
+      "answer": "因为该区域是蛰伏期的无音区，环境危险且不宜久留，随时可能出现残象或其他危险，需要尽快转移到安全地带再详细交流。",
+      "type": "logical",
+      "key_entities": [
+        "白芷",
+        "无音区"
+      ],
+      "source_chunk_id": 3,
+      "source_info": "万象新声 · 上.md"
+    },
+    {
+      "question": "片段中炽霞有没有提到她本人曾在无音区里受过伤？",
+      "answer": "没有提到",
+      "type": "negative",
+      "key_entities": [
+        "炽霞"
+      ],
+      "source_chunk_id": 3,
+      "source_info": "万象新声 · 上.md"
+    },
+    {
+      "question": "炽霞和白芷最初被困在了哪里？",
+      "answer": "屏障外，进不去云陵谷",
+      "type": "factual",
+      "key_entities": [
+        "炽霞",
+        "白芷",
+        "屏障",
+        "云陵谷"
+      ],
+      "source_chunk_id": 4,
+      "source_info": "万象新声 · 上.md"
+    },
+    {
+      "question": "为什么说云陵谷这次出现异常残象的情况并不寻常？",
+      "answer": "秧秧提到“云陵谷并非如此危险的区域”，暗示正常情况下这里不会出现怒涛级残象，因此此次事件违背了常理",
+      "type": "logical",
+      "key_entities": [
+        "秧秧",
+        "云陵谷",
+        "怒涛级残象"
+      ],
+      "source_chunk_id": 4,
+      "source_info": "万象新声 · 上.md"
+    },
+    {
+      "question": "片段中是否出现任何角色尝试用物理武器直接打破屏障？",
+      "answer": "没有，炽霞只描述了屏障“穿不透锤不破打不烂”，但没有提及任何人使用具体武器或技能尝试击破",
+      "type": "negative",
+      "key_entities": [
+        "炽霞",
+        "屏障"
+      ],
+      "source_chunk_id": 4,
+      "source_info": "万象新声 · 上.md"
+    },
+    {
+      "question": "炽霞承诺要为谁寻找可吸收的残象？",
+      "answer": "漂泊者",
+      "type": "factual",
+      "key_entities": [
+        "炽霞",
+        "漂泊者"
+      ],
+      "source_chunk_id": 5,
+      "source_info": "万象新声 · 下.md"
+    },
+    {
+      "question": "炽霞为什么决定立即开始地毯式搜捕残象？",
+      "answer": "因为她之前答应过漂泊者要为其找到可吸收的残象，现在想兑现承诺。",
+      "type": "logical",
+      "key_entities": [
+        "炽霞",
+        "地毯式搜捕"
+      ],
+      "source_chunk_id": 5,
+      "source_info": "万象新声 · 下.md"
+    },
+    {
+      "question": "片段中是否提到炽霞已经捕获到残象？",
+      "answer": "否，片段只提到她准备开始地毯式搜捕，未提及已捕获。",
+      "type": "negative",
+      "key_entities": [
+        "炽霞"
+      ],
+      "source_chunk_id": 5,
+      "source_info": "万象新声 · 下.md"
+    },
+    {
+      "question": "炽霞在对话中提出了几种关于残象吸收的假设？",
+      "answer": "三种：厉害的残象漂泊者才能肉身吸收、特定种类、用终端试试。",
+      "type": "factual",
+      "key_entities": [
+        "炽霞",
+        "残象漂泊者"
+      ],
+      "source_chunk_id": 6,
+      "source_info": "万象新声 · 下.md"
+    },
+    {
+      "question": "白芷摇头和说“没有感觉”暗示了当前实验失败的可能原因是什么？",
+      "answer": "当前实验对象（或条件）缺乏之前那种被牵引的感受，意味着触发残象吸收需要更特殊的个体或条件，而非普通手段。",
+      "type": "logical",
+      "key_entities": [
+        "白芷",
+        "残象吸收"
+      ],
+      "source_chunk_id": 6,
+      "source_info": "万象新声 · 下.md"
+    },
+    {
+      "question": "片段中是否提到击败坚岩斗士后获得了具体的残象结晶或掉落物？",
+      "answer": "没有提及任何残象结晶或掉落物的信息。",
+      "type": "negative",
+      "key_entities": [
+        "坚岩斗士",
+        "残象结晶"
+      ],
+      "source_chunk_id": 6,
+      "source_info": "万象新声 · 下.md"
+    },
+    {
+      "question": "炽霞使用的是什么终端来吸收残响并获得声骸？",
+      "answer": "漂泊者的终端",
+      "type": "factual",
+      "key_entities": [
+        "炽霞",
+        "漂泊者",
+        "终端"
+      ],
+      "source_chunk_id": 7,
+      "source_info": "万象新声 · 下.md"
+    },
+    {
+      "question": "炽霞为什么说“看来一样好用”？",
+      "answer": "因为尽管终端外观样式不明，但成功完成了吸收残响并获得声骸的操作，功能表现正常",
+      "type": "logical",
+      "key_entities": [
+        "炽霞",
+        "吸收残响"
+      ],
+      "source_chunk_id": 7,
+      "source_info": "万象新声 · 下.md"
+    },
+    {
+      "question": "片段中是否提到炽霞对漂泊者终端的品牌或制造商？",
+      "answer": "否，片段仅说明“看不出样式”，没有提及任何品牌或制造商",
+      "type": "negative",
+      "key_entities": [
+        "炽霞"
+      ],
+      "source_chunk_id": 7,
+      "source_info": "万象新声 · 下.md"
+    },
+    {
+      "question": "炽霞在片段中提到的“终端”与他们的终端相比，在功能上有什么结论？",
+      "answer": "功能基本上差不多",
+      "type": "factual",
+      "key_entities": [
+        "炽霞",
+        "终端"
+      ],
+      "source_chunk_id": 8,
+      "source_info": "万象新声 · 下.md"
+    },
+    {
+      "question": "炽霞为什么会在观察到样式不同的终端后得出“功能差不多”的结论？",
+      "answer": "因为她实际使用后，发现尽管外表样式不同，但操作和功能表现与他们原先使用的终端基本一致。",
+      "type": "logical",
+      "key_entities": [
+        "炽霞",
+        "终端",
+        "功能"
+      ],
+      "source_chunk_id": 8,
+      "source_info": "万象新声 · 下.md"
+    },
+    {
+      "question": "片段中是否提到炽霞对终端的颜色或材质发表了评价？",
+      "answer": "没有，片段只提到她注意到终端样式不同，并未涉及颜色或材质的评价。",
+      "type": "negative",
+      "key_entities": [
+        "炽霞",
+        "终端"
+      ],
+      "source_chunk_id": 8,
+      "source_info": "万象新声 · 下.md"
+    },
+    {
+      "question": "秧秧准备前往边庭办理什么手续？",
+      "answer": "秧秧准备前往边庭办理“漂泊者的会面手续”，以便面见令尹。",
+      "type": "factual",
+      "key_entities": [
+        "秧秧",
+        "边庭",
+        "漂泊者"
+      ],
+      "source_chunk_id": 9,
+      "source_info": "万象新声 · 下.md"
+    },
+    {
+      "question": "为什么白芷建议漂泊者去研究院而不是普通医馆做检查？",
+      "answer": "因为今州平常的医馆药铺“应当处理不了”漂泊者的特殊情况，研究院拥有更专业的设施和团队，可以优先排查病变并记录体征数据，普通医馆无法胜任。",
+      "type": "logical",
+      "key_entities": [
+        "白芷",
+        "研究院",
+        "医馆",
+        "漂泊者"
+      ],
+      "source_chunk_id": 9,
+      "source_info": "万象新声 · 下.md"
+    },
+    {
+      "question": "片段中炽霞有没有提到要立刻带漂泊者去看“英雄戏”？",
+      "answer": "没有。炽霞只是在列举今州城内的有趣项目时提到了“英雄戏”，并未明确说要立刻带漂泊者去看；她当时的首要计划是先去“中枢信标登记”，然后再“到处逛逛”。",
+      "type": "negative",
+      "key_entities": [
+        "炽霞",
+        "英雄戏",
+        "漂泊者"
+      ],
+      "source_chunk_id": 9,
+      "source_info": "万象新声 · 下.md"
+    },
+    {
+      "question": "在狩猎者营地中，哪位老者提到他的儿子名叫伊桑，并且已经失踪三年？",
+      "answer": "心情沉重的老者",
+      "type": "factual",
+      "key_entities": [
+        "心情沉重的老者",
+        "伊桑"
+      ],
+      "source_chunk_id": 3,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "为什么荣誉加身的角斗士最终把徽章借给了小卡尤斯？",
+      "answer": "因为小卡尤斯在“你”的帮助下答出了“握稳如老鹰擒蛇的悬停，握紧如饿虎锁喉的力道”，角斗士认可了他的回答，同时也想让他明白荣誉之外还有更重要的东西。",
+      "type": "logical",
+      "key_entities": [
+        "荣誉加身的角斗士",
+        "小卡尤斯",
+        "徽章"
+      ],
+      "source_chunk_id": 4,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中是否提到商贩早上有顾客因喝雪酒而真的冻掉了别人的脚趾？",
+      "answer": "否，商贩只是说“有个兄弟连喝了好几杯，说喷出的寒气能冻掉对面人的脚趾头”，并未真正发生冻掉脚趾的事件。",
+      "type": "negative",
+      "key_entities": [
+        "热情的商贩",
+        "雪酒"
+      ],
+      "source_chunk_id": 7,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "本次庆典的礼官叫什么名字？",
+      "answer": "布里奥",
+      "type": "factual",
+      "key_entities": [
+        "礼官布里奥"
+      ],
+      "source_chunk_id": 11,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "为什么布里奥会说“非七丘本地的筹花人，你还是第一个”？",
+      "answer": "因为主人公在战场上劈开黑潮迷障，又帮助大家击败神王，被七丘人共同推选为最受崇敬、最为了不起的代表之一，尽管并非七丘本地居民，仍被邀请成为筹花人。",
+      "type": "logical",
+      "key_entities": [
+        "礼官布里奥",
+        "主人公",
+        "七丘人"
+      ],
+      "source_chunk_id": 11,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中是否提到庆典具体在什么时间开始或持续多久？",
+      "answer": "没有提到具体开始时间或持续时间。",
+      "type": "negative",
+      "key_entities": [
+        "庆典"
+      ],
+      "source_chunk_id": 11,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中豪爽的角斗士让漂泊者去旁听谁的诵读？",
+      "answer": "谕女的诵读",
+      "type": "factual",
+      "key_entities": [
+        "豪爽的角斗士",
+        "漂泊者",
+        "谕女"
+      ],
+      "source_chunk_id": 12,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "从对话推断，漂泊者为什么对“这次是谁主持”心中有数？",
+      "answer": "因为漂泊者意识到一直未见到的某人正是在庆典上负责诵读的人，从而猜到主持者身份。",
+      "type": "logical",
+      "key_entities": [
+        "漂泊者",
+        "庆典诵读"
+      ],
+      "source_chunk_id": 12,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中有没有提到漂泊者最终喝了哪种酒水？",
+      "answer": "没有提到漂泊者最终喝了哪种酒水，甚至漂泊者都没有去挑选酒水。",
+      "type": "negative",
+      "key_entities": [
+        "漂泊者"
+      ],
+      "source_chunk_id": 12,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "在片段中，谁将花瓣分给了两位贵族？",
+      "answer": "漂泊者",
+      "type": "factual",
+      "key_entities": [
+        "漂泊者",
+        "热心的贵族",
+        "忧愁的贵族"
+      ],
+      "source_chunk_id": 13,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "为什么热心的贵族认为“这次的筹花人里一定有你（漂泊者）”？",
+      "answer": "因为漂泊者来得早，并主动给两位贵族分发花瓣，显示出他正是参与筹花并提前准备花瓣的人。",
+      "type": "logical",
+      "key_entities": [
+        "热心的贵族",
+        "漂泊者",
+        "筹花人"
+      ],
+      "source_chunk_id": 13,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中是否提到奥古斯塔会收集不同筹花人送的花瓣并策划一场花瓣雨？",
+      "answer": "否，片段中没有提到奥古斯塔会这样做，只有热心的贵族提出“如果我是他们”时会攒花瓣制造惊喜，随后提到尤诺才有可能这么做，并未提及奥古斯塔。",
+      "type": "negative",
+      "key_entities": [
+        "奥古斯塔",
+        "尤诺",
+        "花瓣雨"
+      ],
+      "source_chunk_id": 13,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "沉静的谕女提到的“七丘预言”中，是谁用剑斩开了黑潮？",
+      "answer": "空白之人（漂泊者）",
+      "type": "factual",
+      "key_entities": [
+        "沉静的谕女",
+        "漂泊者",
+        "黑潮"
+      ],
+      "source_chunk_id": 14,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "为什么沉静的谕女会坚称现世谕女中并没有尤诺这个名字？",
+      "answer": "因为她作为现任谕女之一，确认四方殿内所有谕女的姓名与身份中都不存在“尤诺”，并认为谕女几乎焰光一同幽居在四方殿内，不可能参与狩猎；因此她推断漂泊者记错了或把人弄混了。",
+      "type": "logical",
+      "key_entities": [
+        "沉静的谕女",
+        "尤诺",
+        "四方殿"
+      ],
+      "source_chunk_id": 14,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中有没有任何人提到尤诺在四方殿外还有其他身份或职业？",
+      "answer": "没有，片段中没有任何人提到尤诺在四方殿外还有别的身份或职业。",
+      "type": "negative",
+      "key_entities": [
+        "尤诺"
+      ],
+      "source_chunk_id": 14,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "老者向漂泊者提出的关于尤诺的哪种解释？",
+      "answer": "老者认为漂泊者是因为过度接触黑潮导致的“解离症”才出现了对尤诺的记忆错乱：尤诺从未出现过，只是黑潮干扰造成的幻觉与臆想。",
+      "type": "factual",
+      "key_entities": [
+        "卓识的老者",
+        "漂泊者",
+        "解离症"
+      ],
+      "source_chunk_id": 15,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "为什么奥古斯塔认为仅凭记忆不足以证明尤诺的真实存在？",
+      "answer": "因为黑潮曾用神王呓语在她耳边编造只有她能感知的臆想，所以她需要“除去情绪、记忆、感知”之外、能留下客观痕迹的实物证据（如武器或镯子）来确认真相。",
+      "type": "logical",
+      "key_entities": [
+        "奥古斯塔",
+        "神王呓语",
+        "镯子"
+      ],
+      "source_chunk_id": 15,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中是否提到尤诺曾经佩戴过眠音装置？",
+      "answer": "否，片段只提到尤诺向奥古斯塔索取一套莫塔里家族带回的眠音装置，并未提及她已实际佩戴或使用过。",
+      "type": "negative",
+      "key_entities": [
+        "尤诺",
+        "眠音装置"
+      ],
+      "source_chunk_id": 15,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中漂泊者发现殿内缺少哪些人物？",
+      "answer": "莉莉贝婆婆和其他谕女都不在，殿内一个人都没有。",
+      "type": "factual",
+      "key_entities": [
+        "漂泊者",
+        "莉莉贝婆婆",
+        "谕女",
+        "殿内"
+      ],
+      "source_chunk_id": 16,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "为什么尤诺的手镯发出的光亮会指向一堵墙？",
+      "answer": "片段未给出直接解释，但可以推测这堵墙可能隐藏了暗门、机关或空间异常，手镯的光芒被用来指引漂泊者发现隐藏之处。",
+      "type": "logical",
+      "key_entities": [
+        "漂泊者",
+        "尤诺的手镯",
+        "光亮",
+        "墙"
+      ],
+      "source_chunk_id": 16,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中是否提到漂泊者在殿外遇到任何守卫或其他人？",
+      "answer": "没有，片段只说明殿内一个人都没有，并未提及殿外的情况或是否有守卫。",
+      "type": "negative",
+      "key_entities": [
+        "漂泊者",
+        "守卫",
+        "殿外"
+      ],
+      "source_chunk_id": 16,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "莉莉贝找到的关于尤诺的记录显示她死于何时何地？",
+      "answer": "三年前，葬身在黑潮吞噬清泉之处。",
+      "type": "factual",
+      "key_entities": [
+        "莉莉贝",
+        "尤诺",
+        "黑潮",
+        "清泉"
+      ],
+      "source_chunk_id": 17,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "为什么莉莉贝说“死亡”与“消失”无法并存？",
+      "answer": "如果尤诺三年前真的死亡，就不可能三年后仍作为伙伴存在；反之，若她今天才消失，那么三年前的死亡记录只能是虚构。两条因果链互相排斥，因此无法并存。",
+      "type": "logical",
+      "key_entities": [
+        "莉莉贝",
+        "尤诺",
+        "因果链"
+      ],
+      "source_chunk_id": 17,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中有提到是谁或什么力量在三年前实际杀害了尤诺吗？",
+      "answer": "没有，记录上未写明具体死因或凶手。",
+      "type": "negative",
+      "key_entities": [
+        "尤诺"
+      ],
+      "source_chunk_id": 17,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "在对话中，谁提出要“前往记录中尤诺死去的地方”？",
+      "answer": "莉莉贝",
+      "type": "factual",
+      "key_entities": [
+        "莉莉贝",
+        "尤诺"
+      ],
+      "source_chunk_id": 18,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "为什么莉莉贝说“若真要只身面对混沌，再怎么准备都不为过”？",
+      "answer": "因为“只身面对混沌”极其危险，她认为多准备才能提高生存与成功的可能。",
+      "type": "logical",
+      "key_entities": [
+        "莉莉贝",
+        "混沌"
+      ],
+      "source_chunk_id": 18,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中有没有提到尤诺死亡的具体时间或年代？",
+      "answer": "没有提到尤诺死亡的具体时间或任何年代信息。",
+      "type": "negative",
+      "key_entities": [
+        "尤诺"
+      ],
+      "source_chunk_id": 18,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "莉莉贝与漂泊者到达的地点与尤诺的死亡有什么关联？",
+      "answer": "这是三年前记录中尤诺死亡发生的具体地点。",
+      "type": "factual",
+      "key_entities": [
+        "莉莉贝",
+        "漂泊者",
+        "尤诺"
+      ],
+      "source_chunk_id": 19,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "漂泊者执意要“再修正一点遗憾”的根本原因是什么？",
+      "answer": "漂泊者认为用尤诺的死亡换来预言之外的胜利不公平，她付出了所有却不被记得，漂泊者想要一个“有她和大家一起的未来”，不愿再失去任何已拥有的。",
+      "type": "logical",
+      "key_entities": [
+        "漂泊者",
+        "尤诺",
+        "死亡",
+        "混沌",
+        "锚定"
+      ],
+      "source_chunk_id": 19,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中有没有提到莉莉贝曾质疑漂泊者对尤诺的判断？",
+      "answer": "没有提到；片段里莉莉贝明确说“我从未怀疑过你对尤诺的判断”。",
+      "type": "negative",
+      "key_entities": [
+        "莉莉贝",
+        "漂泊者"
+      ],
+      "source_chunk_id": 19,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "漂泊者提到的“莉莉贝”是谁？",
+      "answer": "莉莉贝是向漂泊者描述“生与死、消失与存在的混沌”的人。",
+      "type": "factual",
+      "key_entities": [
+        "漂泊者",
+        "莉莉贝"
+      ],
+      "source_chunk_id": 20,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "漂泊者为什么说自己“看不见尽头，也看不清在哪”？",
+      "answer": "因为漂泊者正处于莉莉贝所描述的“生与死、消失与存在的混沌”之中，环境混沌不可辨，使他既看不见尽头，也分辨不清自身位置。",
+      "type": "logical",
+      "key_entities": [
+        "漂泊者",
+        "混沌"
+      ],
+      "source_chunk_id": 20,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中提到漂泊者携带了任何武器或工具吗？",
+      "answer": "没有，片段中没有提及漂泊者携带任何武器或工具。",
+      "type": "negative",
+      "key_entities": [
+        "漂泊者"
+      ],
+      "source_chunk_id": 20,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "漂泊者说“中间的那个”指的是谁？",
+      "answer": "尤诺",
+      "type": "factual",
+      "key_entities": [
+        "漂泊者",
+        "尤诺"
+      ],
+      "source_chunk_id": 21,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "为什么漂泊者能够确认“中间的那个”就是尤诺？",
+      "answer": "因为月光提供了清晰的指引，使得漂泊者在所观察的场景中辨认出尤诺位于中间位置。",
+      "type": "logical",
+      "key_entities": [
+        "漂泊者",
+        "月光",
+        "尤诺"
+      ],
+      "source_chunk_id": 21,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中是否提到尤诺此时的具体动作或台词？",
+      "answer": "否，片段中只提到“中间的那个……是尤诺”，并未描述尤诺的任何具体动作或说出的话语。",
+      "type": "negative",
+      "key_entities": [
+        "尤诺"
+      ],
+      "source_chunk_id": 21,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "在片段中，尤诺最初是怎么称呼漂泊者的？",
+      "answer": "她先说“空白”两个字，然后连起来叫“空白”。",
+      "type": "factual",
+      "key_entities": [
+        "尤诺",
+        "漂泊者"
+      ],
+      "source_chunk_id": 22,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "漂泊者为什么说“唯一将她与我与现世系在一起的绳，已经在我手中了”？",
+      "answer": "因为漂泊者成功找到并唤醒了残存的尤诺，只要他不松手，尤诺就不会继续消散，从而与现世重新建立联系。",
+      "type": "logical",
+      "key_entities": [
+        "漂泊者",
+        "尤诺"
+      ],
+      "source_chunk_id": 22,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段里有没有提到尤诺为何最初会“快消散”？",
+      "answer": "没有，片段并未说明尤诺“快消散”的具体原因。",
+      "type": "negative",
+      "key_entities": [
+        "尤诺"
+      ],
+      "source_chunk_id": 22,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "莉莉贝婆婆昨夜告诉奥古斯塔的最新“七丘预言”内容是什么？",
+      "answer": "未知的灾厄降世，七丘将被终结；画面模糊，谕女们无法得知灾厄的原因，也没在画面中找到英雄王。",
+      "type": "factual",
+      "key_entities": [
+        "莉莉贝婆婆",
+        "奥古斯塔",
+        "七丘预言"
+      ],
+      "source_chunk_id": 23,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "为什么奥古斯塔认为即使预言准确，她仍然感到“很不爽”？",
+      "answer": "因为她原本坚信自己才是人生的主宰、能够不依赖任何人达成目标，而预言的应验却让她感到自己的一切都被命运安排，仿佛野性被驯服，从原野上的鬣狗变成被饲养的兔子。",
+      "type": "logical",
+      "key_entities": [
+        "奥古斯塔",
+        "预言"
+      ],
+      "source_chunk_id": 23,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中有没有提到本次新“七丘预言”中出现了任何关于灾厄具体原因或英雄王的线索？",
+      "answer": "没有出现。片段明确指出画面模糊，谕女们既无法得知灾厄的原因，也没在画面中找到英雄王。",
+      "type": "negative",
+      "key_entities": [
+        "七丘预言",
+        "灾厄",
+        "英雄王"
+      ],
+      "source_chunk_id": 23,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中说话的角色是谁？",
+      "answer": "尤诺",
+      "type": "factual",
+      "key_entities": [
+        "尤诺"
+      ],
+      "source_chunk_id": 24,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "从“挤过缝隙，持续前行”与尤诺的台词“就快......到了”可以推断出他们目前处于什么样的状态？",
+      "answer": "他们正身处一个狭窄的通道或缝隙中，持续移动，且距离目的地已经很近。",
+      "type": "logical",
+      "key_entities": [
+        "尤诺",
+        "挤过缝隙",
+        "持续前行"
+      ],
+      "source_chunk_id": 24,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中是否提到尤诺在说话前停下脚步或回头？",
+      "answer": "没有提到尤诺停下脚步或回头。",
+      "type": "negative",
+      "key_entities": [
+        "尤诺"
+      ],
+      "source_chunk_id": 24,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "在这段对话中，谁提到了“月石金枝”？",
+      "answer": "漂泊者",
+      "type": "factual",
+      "key_entities": [
+        "漂泊者",
+        "月石金枝"
+      ],
+      "source_chunk_id": 25,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "根据对话，尤诺为什么用“……嗯”来回应漂泊者？",
+      "answer": "因为漂泊者把铁匠提到的“月石金枝”与尤诺后来用的那把弓进行了关联，尤诺默认了这种关联，但情绪复杂，所以先用省略号表示迟疑，再用“嗯”予以确认。",
+      "type": "logical",
+      "key_entities": [
+        "尤诺",
+        "漂泊者",
+        "月石金枝",
+        "铁匠"
+      ],
+      "source_chunk_id": 25,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段里有没有提到铁匠目前在哪个地点？",
+      "answer": "没有提到铁匠所在的地点",
+      "type": "negative",
+      "key_entities": [
+        "铁匠"
+      ],
+      "source_chunk_id": 25,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "尤诺和漂泊者坐下休息的地点具体叫什么名字？",
+      "answer": "月石金枝",
+      "type": "factual",
+      "key_entities": [
+        "尤诺",
+        "漂泊者",
+        "月石金枝"
+      ],
+      "source_chunk_id": 26,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "尤诺为什么坚持“休息”才能“显化”已找到的锚定之物？",
+      "answer": "因为只有通过休息，才能将已锚定的经历真正变成自身的一部分，从而容纳更多、找到更完整的自己。",
+      "type": "logical",
+      "key_entities": [
+        "尤诺",
+        "显化",
+        "锚定"
+      ],
+      "source_chunk_id": 26,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中是否提到尤诺的母亲具体是谁或她的姓名？",
+      "answer": "否，片段中只出现了尤诺母亲这一模糊的称呼，没有提供姓名或更多身份信息。",
+      "type": "negative",
+      "key_entities": [
+        "尤诺的母亲"
+      ],
+      "source_chunk_id": 26,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "在片段中，究竟是哪位角色做出了与尤诺相同的选择？",
+      "answer": "漂泊者",
+      "type": "factual",
+      "key_entities": [
+        "漂泊者",
+        "尤诺"
+      ],
+      "source_chunk_id": 27,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "为什么漂泊者会“再一次”重复尤诺当初的选择？",
+      "answer": "漂泊者希望重现或体验尤诺曾走过的路径，暗示他对尤诺的经历有深切共鸣或追寻。",
+      "type": "logical",
+      "key_entities": [
+        "漂泊者",
+        "尤诺"
+      ],
+      "source_chunk_id": 27,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中有没有提到这次牵手发生的具体时间或地点？",
+      "answer": "没有提到具体的时间或地点。",
+      "type": "negative",
+      "key_entities": [
+        "尤诺",
+        "漂泊者"
+      ],
+      "source_chunk_id": 27,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "在片段结尾，尤诺提议要去的具体地点是什么？",
+      "answer": "以忒诺广场的集市",
+      "type": "factual",
+      "key_entities": [
+        "尤诺",
+        "以忒诺广场的集市"
+      ],
+      "source_chunk_id": 28,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "为什么漂泊者说「锚定」还在继续，而先前又说「锚定」无法继续？",
+      "answer": "因为片段开头描述的是“成为谕女前的抉择”这段记忆，那时的“锚定”因选择未定而中断；结尾处漂泊者确认这段记忆来自成为谕女之后，因此当前的“锚定”仍在继续，表明故事已切换到后续时间线。",
+      "type": "logical",
+      "key_entities": [
+        "漂泊者",
+        "锚定"
+      ],
+      "source_chunk_id": 28,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中是否提到尤诺的任何外貌特征或衣着细节？",
+      "answer": "否，片段没有提到尤诺的外貌特征或衣着细节。",
+      "type": "negative",
+      "key_entities": [
+        "尤诺"
+      ],
+      "source_chunk_id": 28,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "在片段中，尤诺说“那里面，是我的占卜台”，这里的“那里面”指的是哪里？",
+      "answer": "广场中心的占卜台",
+      "type": "factual",
+      "key_entities": [
+        "尤诺",
+        "占卜台",
+        "广场中心"
+      ],
+      "source_chunk_id": 29,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "漂泊者说“那时候的你，似乎并不介意给出预言”，根据上下文推断，“那时候”与现在相比最大的差别是什么？",
+      "answer": "那时候大家对待尤诺更加亲近，而后来可能因预言带来疏离或恐惧，使尤诺不再愿意随意给出预言。",
+      "type": "logical",
+      "key_entities": [
+        "漂泊者",
+        "尤诺",
+        "预言"
+      ],
+      "source_chunk_id": 29,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中是否提到尤诺对占卜台进行过任何修缮或改动？",
+      "answer": "否，片段中完全没有提及尤诺对占卜台进行修缮或改动的信息。",
+      "type": "negative",
+      "key_entities": [
+        "尤诺",
+        "占卜台"
+      ],
+      "source_chunk_id": 29,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "在这段对话中，是谁对谁说“再一次地，休息吧”？",
+      "answer": "漂泊者对一个未具名的对象说的。",
+      "type": "factual",
+      "key_entities": [
+        "漂泊者"
+      ],
+      "source_chunk_id": 30,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "漂泊者为什么要说“将已经『锚定』的回忆和联系，真正变成你的一部分”？",
+      "answer": "漂泊者希望对方把已稳固（锚定）的回忆与联系彻底内化，成为自身不可分割的一部分，以达到真正意义上的“休息”或结束漂泊。",
+      "type": "logical",
+      "key_entities": [
+        "漂泊者",
+        "锚定的回忆",
+        "休息"
+      ],
+      "source_chunk_id": 30,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中是否提到“太阳”或“白昼”？",
+      "answer": "否，片段中完全没有提到“太阳”或“白昼”。",
+      "type": "negative",
+      "key_entities": [
+        "太阳",
+        "白昼"
+      ],
+      "source_chunk_id": 30,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "在片段中，尤诺和谁一起坐在月石金枝旁？",
+      "answer": "空白（“你”）",
+      "type": "factual",
+      "key_entities": [
+        "尤诺",
+        "空白",
+        "月石金枝"
+      ],
+      "source_chunk_id": 31,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "根据尤诺的自述，她为何决定“睁大眼睛不顾一切地去看”？",
+      "answer": "因为在最关键的时刻她下意识闭上了眼睛，导致既没能看清因果，也失去了阻止悲剧的机会，她因此决心不再回避，要弥补那次失误。",
+      "type": "logical",
+      "key_entities": [
+        "尤诺",
+        "闭眼事件",
+        "看清因果"
+      ],
+      "source_chunk_id": 31,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段里是否提到尤诺曾经给出过“完美且能规避开所有不幸”的预言？",
+      "answer": "否。片段中没有提到尤诺曾经给出这样完美的预言，反而借角斗士哈维尔之口表达了对这种完美预言的“要是……就好了”的惋惜。",
+      "type": "negative",
+      "key_entities": [
+        "尤诺",
+        "角斗士哈维尔"
+      ],
+      "source_chunk_id": 31,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中，是谁向“你”提出了“独自直视那七丘的终焉”的挑战？",
+      "answer": "奥古斯塔",
+      "type": "factual",
+      "key_entities": [
+        "奥古斯塔"
+      ],
+      "source_chunk_id": 32,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "奥古斯塔为何在挑战中强调“没有任何方向、任何头绪，甚至是任何相关物件”？",
+      "answer": "她想测试“你”是否敢于在完全未知、毫无线索的条件下直面七丘的终焉，从而证明“你”是否有能力带回足够的因与果。",
+      "type": "logical",
+      "key_entities": [
+        "奥古斯塔",
+        "七丘的终焉",
+        "因与果"
+      ],
+      "source_chunk_id": 32,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中明确提到“你”已经拥有七丘终焉的地图或相关线索了吗？",
+      "answer": "没有，片段中只说“没有任何方向、任何头绪，甚至是任何相关物件”，并未提及地图或任何具体线索。",
+      "type": "negative",
+      "key_entities": [
+        "七丘的终焉"
+      ],
+      "source_chunk_id": 32,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "在对话中，尤诺提到那个地方“更亮一些，就像一切开始的地方”时，她对“那个地方”使用了什么形容词来形容它目前的状态？",
+      "answer": "破败、安静",
+      "type": "factual",
+      "key_entities": [
+        "尤诺",
+        "那个地方"
+      ],
+      "source_chunk_id": 33,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "根据尤诺的描述，为什么她认为“刚刚我们走过的其他地方”都没有“那个地方”给她的感觉更强烈？",
+      "answer": "因为她认定自己曾去过那里并发生过重要的事，这份记忆与情感联结在别处都没有出现，使她对那里产生独特且更强烈的熟悉与安全感。",
+      "type": "logical",
+      "key_entities": [
+        "尤诺",
+        "那个地方",
+        "其他地方"
+      ],
+      "source_chunk_id": 33,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中完全没有提到尤诺或叙述者在到达“那个地方”之前曾经遇到过任何什么？",
+      "answer": "任何其他活人、具体的战斗场景或金枝的确切位置",
+      "type": "negative",
+      "key_entities": [
+        "尤诺",
+        "那个地方"
+      ],
+      "source_chunk_id": 33,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中是谁首先认出“混沌”的存在？",
+      "answer": "尤诺",
+      "type": "factual",
+      "key_entities": [
+        "尤诺"
+      ],
+      "source_chunk_id": 34,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "尤诺说“它察觉到我们了”暗示了什么？",
+      "answer": "暗示混沌具有感知能力，并且已经发现尤诺及其同伴的所在位置，可能即将对他们采取行动。",
+      "type": "logical",
+      "key_entities": [
+        "尤诺",
+        "混沌"
+      ],
+      "source_chunk_id": 34,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中是否提到尤诺使用任何武器或法术对抗混沌？",
+      "answer": "没有提到",
+      "type": "negative",
+      "key_entities": [
+        "尤诺"
+      ],
+      "source_chunk_id": 34,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "「尤诺」在片段中提到的“那里”指的是什么地方？",
+      "answer": "开始的地方，也是结束的终点",
+      "type": "factual",
+      "key_entities": [
+        "尤诺",
+        "开始的地方",
+        "结束的终点"
+      ],
+      "source_chunk_id": 35,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "为什么漂泊者必须在“被淹没前”尽快行动？",
+      "answer": "因为黑潮正在漫过来，不及时行动就会被淹没，无法前往尤诺所说的“那里”。",
+      "type": "logical",
+      "key_entities": [
+        "漂泊者",
+        "黑潮",
+        "淹没",
+        "那里"
+      ],
+      "source_chunk_id": 35,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中没有提到「尤诺」是否成功逃离黑潮，对吗？",
+      "answer": "对，片段只提到「尤诺」让漂泊者“别管我……跑……”，并未说明她本人是否逃离。",
+      "type": "negative",
+      "key_entities": [
+        "尤诺",
+        "逃离",
+        "黑潮"
+      ],
+      "source_chunk_id": 35,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中，谁被混沌的化身带走？",
+      "answer": "尤诺",
+      "type": "factual",
+      "key_entities": [
+        "尤诺",
+        "混沌的化身"
+      ],
+      "source_chunk_id": 36,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "漂泊者认为那些光可能是谁留下的指引？",
+      "answer": "尤诺",
+      "type": "logical",
+      "key_entities": [
+        "漂泊者",
+        "尤诺",
+        "光"
+      ],
+      "source_chunk_id": 36,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中没有提到漂泊者是否已经成功离开遗迹废墟，对吗？",
+      "answer": "对，片段没有提及漂泊者是否已离开遗迹废墟。",
+      "type": "negative",
+      "key_entities": [
+        "漂泊者",
+        "遗迹废墟"
+      ],
+      "source_chunk_id": 36,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中提到角斗士奥罗拉抱怨的“定向锚”是被谁毁掉的？",
+      "answer": "被“那些该死的造物”毁掉。",
+      "type": "factual",
+      "key_entities": [
+        "角斗士奥罗拉",
+        "定向锚",
+        "造物"
+      ],
+      "source_chunk_id": 37,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "根据对话，为什么伊桑认为哈维尔会对这次行动感到后悔？",
+      "answer": "因为“全军覆没”，且一切希望（定向锚）已被毁，行动失败，哈维尔当初决定前来导致团队覆灭。",
+      "type": "logical",
+      "key_entities": [
+        "角斗士伊桑",
+        "哈维尔",
+        "全军覆没",
+        "定向锚"
+      ],
+      "source_chunk_id": 37,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中有没有提到任何角斗士成功启动了定向锚？",
+      "answer": "没有，片段只提到“定向锚来不及激活就被它们毁了”。",
+      "type": "negative",
+      "key_entities": [
+        "定向锚"
+      ],
+      "source_chunk_id": 37,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "尤诺在数百个日夜中窥见的未来里，七丘城是否存在？",
+      "answer": "不存在，尤诺直言“千万次直视终焉……可那样多的画面里，却没有一个七丘存在的未来”。",
+      "type": "factual",
+      "key_entities": [
+        "尤诺",
+        "七丘"
+      ],
+      "source_chunk_id": 38,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "既然尤诺已经“清清楚楚”看见七丘注定的覆灭，为什么她仍决定拿起弓抵御黑潮？",
+      "answer": "因为她拒绝接受命运给出的确定性结局，认为“不被估量才是我们的尊严所在”，她要以行动证明所谓的结局并非不可改变。",
+      "type": "logical",
+      "key_entities": [
+        "尤诺",
+        "黑潮"
+      ],
+      "source_chunk_id": 38,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中是否提到尤诺向其他七丘人传达了她所见的“既定覆灭”后，民众具体做出了哪些反应？",
+      "answer": "没有，文本只提到尤诺质疑“然后告诉其他七丘人，一起等待它、接受它、甚至对它心怀感激”，但并未描述民众的真实反应。",
+      "type": "negative",
+      "key_entities": [
+        "尤诺",
+        "七丘人"
+      ],
+      "source_chunk_id": 38,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "锻弓的铁匠自称是谁？",
+      "answer": "一个早已离世的武器锻造师、一位女儿的父亲、一片来自她的混沌对过往的映射。",
+      "type": "factual",
+      "key_entities": [
+        "锻弓的铁匠"
+      ],
+      "source_chunk_id": 39,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "为什么锻弓的铁匠笃定漂泊者正在进行“锚定”？",
+      "answer": "因为他认为一个存在于现世的人来到混沌，除了“锚定”并带回某物外没有其他目的；同时漂泊者手上佩戴的东西一直联系着某（尤诺），只有“锚定”才能解释这种现象。",
+      "type": "logical",
+      "key_entities": [
+        "锻弓的铁匠",
+        "漂泊者",
+        "锚定",
+        "尤诺"
+      ],
+      "source_chunk_id": 39,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中有没有提到锻弓的铁匠的姓名？",
+      "answer": "没有，片段里始终没有透露锻弓的铁匠的具体姓名。",
+      "type": "negative",
+      "key_entities": [
+        "锻弓的铁匠"
+      ],
+      "source_chunk_id": 39,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "哈维尔口中的“谕女”是谁？",
+      "answer": "尤诺",
+      "type": "factual",
+      "key_entities": [
+        "哈维尔",
+        "谕女",
+        "尤诺"
+      ],
+      "source_chunk_id": 40,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "为什么说虚弱的角斗士“还能站着已经是勉强了”？",
+      "answer": "因为他刚刚承受了黑潮造物的冲击或战斗，导致身体极度虚弱，濒临崩溃，但尚未倒下，所以尤诺认为他仅仅是站着都已经很勉强。",
+      "type": "logical",
+      "key_entities": [
+        "虚弱的角斗士",
+        "黑潮造物",
+        "尤诺"
+      ],
+      "source_chunk_id": 40,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中是否提到尤诺决定放弃治疗角斗士，立即独自前往爆发点？",
+      "answer": "否，片段中尤诺明确表示“先把你们的伤处理完，支援的事交给我”，说明她并未放弃治疗而独自行动。",
+      "type": "negative",
+      "key_entities": [
+        "尤诺",
+        "角斗士",
+        "爆发点"
+      ],
+      "source_chunk_id": 40,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中说话阻止负伤角斗士继续前进的角色是谁？",
+      "answer": "尤诺",
+      "type": "factual",
+      "key_entities": [
+        "尤诺",
+        "负伤的角斗士"
+      ],
+      "source_chunk_id": 41,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "尤诺为何决定代替负伤的角斗士去做某事？",
+      "answer": "因为角斗士伤势严重，尤诺不想让对方冒险，也不想让角斗士的同伴为他担心，所以主动承担任务。",
+      "type": "logical",
+      "key_entities": [
+        "尤诺",
+        "负伤的角斗士",
+        "代替行动"
+      ],
+      "source_chunk_id": 41,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中是否提到尤诺具体要代替角斗士去哪里或完成什么任务？",
+      "answer": "否，片段没有提及具体地点或任务内容。",
+      "type": "negative",
+      "key_entities": [
+        "尤诺"
+      ],
+      "source_chunk_id": 41,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中说话的角色是谁？",
+      "answer": "尤诺",
+      "type": "factual",
+      "key_entities": [
+        "尤诺"
+      ],
+      "source_chunk_id": 42,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "从尤诺的台词推断，那些被斥责的“见不得光的家伙”此时最可能处于什么环境？",
+      "answer": "他们正隐藏在被称为“黑潮”的黑暗环境中，并且与尤诺处于对立状态。",
+      "type": "logical",
+      "key_entities": [
+        "尤诺",
+        "黑潮",
+        "见不得光的家伙"
+      ],
+      "source_chunk_id": 42,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中是否提到尤诺使用了任何武器或具体招式？",
+      "answer": "否，片段中没有提及尤诺使用任何武器或具体招式。",
+      "type": "negative",
+      "key_entities": [
+        "尤诺"
+      ],
+      "source_chunk_id": 42,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "在片段中，哪位角斗士向尤诺表达了感谢？",
+      "answer": "角斗士哈维尔",
+      "type": "factual",
+      "key_entities": [
+        "角斗士哈维尔",
+        "尤诺"
+      ],
+      "source_chunk_id": 43,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "从尤诺“不要再忍受”和“不要就这么结束”的表态，可以推断她对当前局势的感受与意图是什么？",
+      "answer": "她极度抗拒过去的痛苦经历再次发生，决意守护同伴、不让悲剧收场，即使已身心俱疲也不愿放弃抗争。",
+      "type": "logical",
+      "key_entities": [
+        "尤诺",
+        "结束",
+        "忍受"
+      ],
+      "source_chunk_id": 43,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段里有没有提到月亮或月光当前的天空状态？",
+      "answer": "没有，片段中并未出现关于月亮或月光状态的具体描述。",
+      "type": "negative",
+      "key_entities": [
+        "月亮",
+        "月光"
+      ],
+      "source_chunk_id": 43,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "在这段剧情片段中，是谁宣称要“以自身为箭”清剿黑潮造物？",
+      "answer": "尤诺",
+      "type": "factual",
+      "key_entities": [
+        "尤诺",
+        "黑潮造物"
+      ],
+      "source_chunk_id": 44,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "尤诺提到“不是能被黑潮吞没的月亮”，可推知黑潮此前可能具有什么能力？",
+      "answer": "黑潮具备吞噬月亮或侵蚀月亮的能力",
+      "type": "logical",
+      "key_entities": [
+        "尤诺",
+        "黑潮",
+        "月亮"
+      ],
+      "source_chunk_id": 44,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中是否提到尤诺清剿黑潮造物的具体地点？",
+      "answer": "否，片段未提及具体地点",
+      "type": "negative",
+      "key_entities": [
+        "尤诺"
+      ],
+      "source_chunk_id": 44,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "尤诺说“我们已经从生与死、存在与消失的混沌中，走出来了”，他们走出来的是什么状态？",
+      "answer": "生与死、存在与消失的混沌",
+      "type": "factual",
+      "key_entities": [
+        "尤诺"
+      ],
+      "source_chunk_id": 45,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "根据尤诺的描述，为什么“空白”不是一无所有，而是“无所不能”？",
+      "answer": "因为空白代表着无限的可能性，不再受命运或既定轨迹的束缚，而是允许他们自己做出选择，从而拥有创造任何未来的潜力。",
+      "type": "logical",
+      "key_entities": [
+        "尤诺",
+        "空白"
+      ],
+      "source_chunk_id": 45,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中是否提及他们离开这片空白后要去往哪里？",
+      "answer": "否，片段只提到“是时候离开这里了”，但并未说明目的地。",
+      "type": "negative",
+      "key_entities": [
+        "尤诺"
+      ],
+      "source_chunk_id": 45,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "在回到现世后，漂泊者第一个询问的人是谁？",
+      "answer": "尤诺",
+      "type": "factual",
+      "key_entities": [
+        "漂泊者",
+        "尤诺"
+      ],
+      "source_chunk_id": 46,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "漂泊者怀疑自己是否改变了结局的依据有哪些？",
+      "answer": "1. 只有他自己回到现世，尤诺不见踪影；2. 混沌入口消失，莉莉贝婆婆不在；3. 他认为自己与尤诺已走到最后，却发现「锚定」似乎未成功。",
+      "type": "logical",
+      "key_entities": [
+        "漂泊者",
+        "尤诺",
+        "混沌入口",
+        "莉莉贝婆婆",
+        "锚定"
+      ],
+      "source_chunk_id": 46,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中是否提到漂泊者是如何离开混沌之间的具体过程？",
+      "answer": "否，片段中没有描述漂泊者离开混沌之间的具体过程或方法。",
+      "type": "negative",
+      "key_entities": [
+        "漂泊者",
+        "混沌之间"
+      ],
+      "source_chunk_id": 46,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "主角搭乘的交通工具名称是什么？",
+      "answer": "高天讯使",
+      "type": "factual",
+      "key_entities": [
+        "高天讯使"
+      ],
+      "source_chunk_id": 47,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "主角为何会产生“是真实还是一场梦”的恍惚感？",
+      "answer": "因为那些和尤诺一起经历的事情，让人难以分辨其真实性，从而产生了是否只是梦境的怀疑。",
+      "type": "logical",
+      "key_entities": [
+        "主角",
+        "尤诺",
+        "梦"
+      ],
+      "source_chunk_id": 47,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中是否明确提到主角返回狩猎者营地的具体时间？",
+      "answer": "没有，片段并未提及返回狩猎者营地的具体时间。",
+      "type": "negative",
+      "key_entities": [
+        "狩猎者营地"
+      ],
+      "source_chunk_id": 47,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中漂泊者打算向谁询问莉莉贝婆婆的下落？",
+      "answer": "谕女们",
+      "type": "factual",
+      "key_entities": [
+        "漂泊者",
+        "莉莉贝婆婆",
+        "谕女们"
+      ],
+      "source_chunk_id": 48,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "为什么漂泊者决定去找谕女们而不是继续自己寻找？",
+      "answer": "因为他/她“没看到莉莉贝婆婆的身影”，于是推断向附近的谕女们打听更有效。",
+      "type": "logical",
+      "key_entities": [
+        "漂泊者",
+        "没看到莉莉贝婆婆的身影",
+        "谕女们"
+      ],
+      "source_chunk_id": 48,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中有没有提到莉莉贝婆婆目前所处的具体位置？",
+      "answer": "没有提到",
+      "type": "negative",
+      "key_entities": [
+        "莉莉贝婆婆",
+        "位置"
+      ],
+      "source_chunk_id": 48,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "莉莉贝婆婆被谁叫去了庆典？",
+      "answer": "一个蓝黑色头发的双马尾女孩",
+      "type": "factual",
+      "key_entities": [
+        "莉莉贝婆婆",
+        "蓝黑色双马尾女孩",
+        "庆典"
+      ],
+      "source_chunk_id": 49,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "为何两位谕女对阿维狄亚“是否被收押”的说法不一致？",
+      "answer": "一位谕女是新人，对狩原的情况并不熟悉；另一位则强调阿维狄亚是自愿留下，随时可以离开，并未被关押，因此两人掌握的信息存在差异。",
+      "type": "logical",
+      "key_entities": [
+        "谕女",
+        "阿维狄亚"
+      ],
+      "source_chunk_id": 49,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "礼官布里奥有没有说自己见过尤诺？",
+      "answer": "没有，布里奥明确表示对这个名字没有更多印象。",
+      "type": "negative",
+      "key_entities": [
+        "礼官布里奥",
+        "尤诺"
+      ],
+      "source_chunk_id": 49,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "尤诺提到的“三年前”发生的关键事件是什么？",
+      "answer": "三年前，尤诺在清泉尽头被黑潮吞噬时，以谕女的身份亵渎命运、斩断流迹，把自己做成了射向命运本身的箭矢。",
+      "type": "factual",
+      "key_entities": [
+        "尤诺",
+        "清泉尽头",
+        "黑潮"
+      ],
+      "source_chunk_id": 50,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "为什么尤诺特别强调“第二次不能拒绝”那只手镯？",
+      "answer": "因为这已经是她第二次把这只手镯送给玩家；第一次被接受后发生了后续事件，第二次的赠送意味着含义已升级——它现在不仅是信物，也是“秘密相处的见证”，并且尤诺宣称玩家通过这只手镯能够“锚定”她，因此拒绝会否定两人之间新建立的特殊关系。",
+      "type": "logical",
+      "key_entities": [
+        "尤诺",
+        "手镯",
+        "玩家"
+      ],
+      "source_chunk_id": 50,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "片段中是否提到尤诺与黑潮源头“神王”或“天国”有过直接战斗？",
+      "answer": "片段没有提到尤诺已与神王或天国进行过直接战斗，只说明她和奥古斯塔计划从源头摧毁黑潮的降临。",
+      "type": "negative",
+      "key_entities": [
+        "尤诺",
+        "神王",
+        "天国"
+      ],
+      "source_chunk_id": 50,
+      "source_info": "今夜，注定属于月亮.md"
+    },
+    {
+      "question": "在《冰原下的星炬》的片段中，星炬被埋藏在哪一条冰原之下？",
+      "answer": "原文未提及具体名称的冰原，只描述为“冰原之下”。",
+      "type": "factual",
+      "key_entities": [
+        "星炬"
+      ],
+      "source_chunk_id": 1,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "根据片段内容，可以推测星炬在被埋藏前最可能用于什么目的？",
+      "answer": "被称为“星炬”，其名称暗示它曾作为信号或灯塔，为远航者或文明提供指引或能量，因此在被埋藏前最可能用于导航或星际通讯。",
+      "type": "logical",
+      "key_entities": [
+        "星炬"
+      ],
+      "source_chunk_id": 1,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中是否提到星炬是被哪位具体人物或组织故意埋藏的？",
+      "answer": "片段中没有提到任何人物或组织将星炬故意埋藏。",
+      "type": "negative",
+      "key_entities": [
+        "星炬"
+      ],
+      "source_chunk_id": 1,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "在星炬学院，新生在没有频录装置之前需要去哪里登记终端才能暂时获得通行和使用载具的权利？",
+      "answer": "中枢信标",
+      "type": "factual",
+      "key_entities": [
+        "漂泊者",
+        "琳奈",
+        "中枢信标"
+      ],
+      "source_chunk_id": 52,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "琳奈为什么谎称自己出现在虚诞虫活跃区是为了收集生态数据或测试摩托性能，而不是逃课飙车？",
+      "answer": "因为她担心被老师们发现她逃课飙车，从而再被记一笔处分，所以她试图用研究或测试摩托的理由掩盖真实目的。",
+      "type": "logical",
+      "key_entities": [
+        "琳奈",
+        "虚诞虫活跃区",
+        "逃课飙车"
+      ],
+      "source_chunk_id": 52,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中有没有提到琳奈最终是否完成了带漂泊者去医务室的承诺？",
+      "answer": "没有提到；片段止于琳奈匆忙离开去处理阿莱谢夫教授的小组作业汇报，未交代她之后是否回到医务室。",
+      "type": "negative",
+      "key_entities": [
+        "琳奈",
+        "医务室"
+      ],
+      "source_chunk_id": 52,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "发出“这里的学生......生活还真是丰富多彩......”这句感叹的人是谁？",
+      "answer": "漂泊者",
+      "type": "factual",
+      "key_entities": [
+        "漂泊者"
+      ],
+      "source_chunk_id": 53,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "漂泊者为什么说“这里的学生......生活还真是丰富多彩......”？",
+      "answer": "漂泊者观察到学生们的生活场景或活动后，认为其内容多样、丰富，因而发出感叹。",
+      "type": "logical",
+      "key_entities": [
+        "漂泊者"
+      ],
+      "source_chunk_id": 53,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中是否提到学生们正在上哪一门具体课程？",
+      "answer": "否，片段没有提到任何具体课程名称或上课细节。",
+      "type": "negative",
+      "key_entities": [
+        "学生"
+      ],
+      "source_chunk_id": 53,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "千咲通过空间隧道后，与漂泊者分别了多少年？",
+      "answer": "对千咲来说是数月，对她的家人来说她已失踪二十多年。",
+      "type": "factual",
+      "key_entities": [
+        "千咲",
+        "漂泊者",
+        "空间隧道",
+        "家人"
+      ],
+      "source_chunk_id": 55,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "为什么说只有漂泊者被拉入了“那个奇怪的空间”？",
+      "answer": "因为千咲提到穿过隧道时除了头晕外没有异常，而漂泊者却经历了频率被虚诞虫夺走等异象，说明只有漂泊者进入了特殊空间。",
+      "type": "logical",
+      "key_entities": [
+        "漂泊者",
+        "千咲",
+        "奇怪的空间",
+        "虚诞虫"
+      ],
+      "source_chunk_id": 55,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中有没有提到星炬学院的正式教师或校长出现？",
+      "answer": "没有，片段中未提及任何教师的姓名或校长的存在。",
+      "type": "negative",
+      "key_entities": [
+        "星炬学院",
+        "教师",
+        "校长"
+      ],
+      "source_chunk_id": 55,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "在医务室中，N.A.N.A.最初以为是谁需要检查身体？",
+      "answer": "她以为是琳奈需要检查身体，因为问琳奈“又需要我给你开假条了吗？”。",
+      "type": "factual",
+      "key_entities": [
+        "N.A.N.A.",
+        "琳奈",
+        "医务室"
+      ],
+      "source_chunk_id": 56,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "为什么琳奈坚持要在医务室等待检查结果？",
+      "answer": "因为她对漂泊者的安危非常在意，之前“立刻就过来了”并“必须看到完整的检查报告才能安心”，显示出她强烈的不放心。",
+      "type": "logical",
+      "key_entities": [
+        "琳奈",
+        "检查结果"
+      ],
+      "source_chunk_id": 56,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中有没有提到漂泊者是否已正式入学？",
+      "answer": "没有提到漂泊者已正式入学，反而明确说明“漂泊者还没入学……所以还没拿到磁带”。",
+      "type": "negative",
+      "key_entities": [
+        "漂泊者"
+      ],
+      "source_chunk_id": 56,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "校医室的值班医生叫什么名字？",
+      "answer": "陆·赫斯",
+      "type": "factual",
+      "key_entities": [
+        "陆·赫斯",
+        "校医室"
+      ],
+      "source_chunk_id": 57,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "为什么赫斯医生会提醒新生“最好还是不要什么防护都不做就往虚质磁暴里冲”？",
+      "answer": "因为他刚刚接诊了几名为了研究数据而忽视安全、在虚质磁暴中受伤的学生，担心新生也重蹈覆辙。",
+      "type": "logical",
+      "key_entities": [
+        "陆·赫斯",
+        "虚质磁暴",
+        "研究数据",
+        "新生",
+        "学生受伤"
+      ],
+      "source_chunk_id": 57,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中是否提到新生已经完成了磁带的刻录？",
+      "answer": "没有提到；相反，琳奈表示刻录磁带需要先正式办理入学，新生尚未办理入学。",
+      "type": "negative",
+      "key_entities": [
+        "磁带",
+        "新生",
+        "琳奈"
+      ],
+      "source_chunk_id": 57,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "沃斯老师在确认新生身份时提到，这位新生是由哪个地区或机构推荐入学的？",
+      "answer": "黑海岸",
+      "type": "factual",
+      "key_entities": [
+        "教师沃斯",
+        "漂泊者",
+        "黑海岸"
+      ],
+      "source_chunk_id": 58,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "根据片段中教师们的对话，为什么年长教师认为必须尽快恢复防御阵列和诱捕装置的远程控制？",
+      "answer": "因为如果不恢复远程控制，在最坏情况下就只能派“合适的共鸣者”去虚诞虫栖息地手动处理，而这会对师生安全造成极大危险。",
+      "type": "logical",
+      "key_entities": [
+        "年长的教师",
+        "防御阵列",
+        "诱捕装置",
+        "虚诞虫",
+        "共鸣者"
+      ],
+      "source_chunk_id": 58,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中有没有提到琳奈同学已经补上了所有文化通识课的缺席？",
+      "answer": "没有提到。",
+      "type": "negative",
+      "key_entities": [
+        "琳奈"
+      ],
+      "source_chunk_id": 58,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "新入学且通过适格者测试的学生会被分配到哪个学部？",
+      "answer": "拉贝尔学部",
+      "type": "factual",
+      "key_entities": [
+        "琳奈",
+        "拉贝尔学部",
+        "适格者测试"
+      ],
+      "source_chunk_id": 59,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "为什么琳奈告诉主角“不需要穿校服”？",
+      "answer": "因为主角是中途入学，很多东西还没来得及准备好，校服尚未到位；琳奈以自己当初也是同样情况作为安慰。",
+      "type": "logical",
+      "key_entities": [
+        "琳奈",
+        "校服",
+        "中途入学"
+      ],
+      "source_chunk_id": 59,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中是否提到琳奈为拍照准备了背景布景或摄影师？",
+      "answer": "否，片段中没有提到背景布景或摄影师的任何信息。",
+      "type": "negative",
+      "key_entities": [
+        "琳奈",
+        "背景布景",
+        "摄影师"
+      ],
+      "source_chunk_id": 59,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "在星炬学院里，如果学生把那张多功能卡弄丢了，他们会失去哪些具体的便利？",
+      "answer": "无法进出门禁、无法在食堂用餐、连热水澡都洗不了，同时还会失去进入模拟驾驶舱的资格。",
+      "type": "factual",
+      "key_entities": [
+        "学生",
+        "多功能卡",
+        "星炬学院",
+        "模拟驾驶舱"
+      ],
+      "source_chunk_id": 60,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "琳奈为什么在被S.I.G.M.A.指出擅自改装载具后，立刻用“咳哼”打断并转移话题？",
+      "answer": "因为S.I.G.M.A.提到她二十天内有十三次高速驾驶记录，并且改装已接近违规的灰色地带，她试图用“带新同学领取载具”这一正当事由掩盖自己的违规行为，避免进一步被追责。",
+      "type": "logical",
+      "key_entities": [
+        "琳奈",
+        "S.I.G.M.A.",
+        "载具改装",
+        "高速驾驶记录"
+      ],
+      "source_chunk_id": 60,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中有没有提到“黑海岸”这个组织对星炬学院模拟驾驶舱项目的资金来源或技术细节进行公开说明？",
+      "answer": "没有。片段只提到“黑海岸”在前期评估了安全性，并未说明资金来源或具体技术细节。",
+      "type": "negative",
+      "key_entities": [
+        "黑海岸",
+        "模拟驾驶舱"
+      ],
+      "source_chunk_id": 60,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "琳奈在星炬学院读几年级？",
+      "answer": "预科二年级",
+      "type": "factual",
+      "key_entities": [
+        "琳奈",
+        "星炬学院"
+      ],
+      "source_chunk_id": 61,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "琳奈为什么把飙车与“自由”联系起来？",
+      "answer": "引擎的呼啸声、掠过身体的风让她感觉自己是有方向和选择的，这种掌控感象征着她对自由的渴望与追求。",
+      "type": "logical",
+      "key_entities": [
+        "琳奈",
+        "飙车"
+      ],
+      "source_chunk_id": 61,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中有没有提到星炬学院的创始人是谁？",
+      "answer": "片段中没有提到星炬学院的创始人是谁。",
+      "type": "negative",
+      "key_entities": [
+        "星炬学院"
+      ],
+      "source_chunk_id": 61,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "琳奈在隧道里发现了什么异常情况，并打算向哪里报告？",
+      "answer": "她发现了隧道里出现障碍物，路况异常，打算向学院报告这一情况。",
+      "type": "factual",
+      "key_entities": [
+        "琳奈",
+        "隧道",
+        "学院"
+      ],
+      "source_chunk_id": 62,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "为什么琳奈会觉得隧道里出现障碍物“有点奇怪”？",
+      "answer": "因为按照惯例，平时出现这种障碍物时，很快就会由专门的机械来清理并恢复秩序，但这次并没有出现机械处理，所以让她感到不对劲。",
+      "type": "logical",
+      "key_entities": [
+        "琳奈",
+        "隧道",
+        "障碍物"
+      ],
+      "source_chunk_id": 62,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中有没有提到“研究院”派出了维修机械来处理隧道障碍物？",
+      "answer": "没有，片段中没有提到研究院或任何维修机械被派来处理隧道障碍物。",
+      "type": "negative",
+      "key_entities": [
+        "研究院",
+        "维修机械"
+      ],
+      "source_chunk_id": 62,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "目前所有前往地上的星炬列车除了必要的补给班次外都采取了什么措施？",
+      "answer": "全部暂时停运，所有列车在抵达研究院之后就会回返。",
+      "type": "factual",
+      "key_entities": [
+        "星炬列车",
+        "地上冰原",
+        "研究院"
+      ],
+      "source_chunk_id": 63,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "为什么琳奈最终没有陪漂泊者一起进入研究院？",
+      "answer": "因为她下午还有课，实在不能再翘课了。",
+      "type": "logical",
+      "key_entities": [
+        "琳奈",
+        "漂泊者",
+        "下午的课程"
+      ],
+      "source_chunk_id": 63,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中有没有提到任何关于莫宁教授的外貌或着装细节？",
+      "answer": "没有提及任何关于莫宁教授的外貌或着装细节。",
+      "type": "negative",
+      "key_entities": [
+        "莫宁教授"
+      ],
+      "source_chunk_id": 63,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "忙碌的研究员提到要前往磁带存储间应该走哪一个传送门？",
+      "answer": "顺着旁边的那个传送门走",
+      "type": "factual",
+      "key_entities": [
+        "忙碌的研究员",
+        "磁带存储间",
+        "传送门"
+      ],
+      "source_chunk_id": 64,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "从对话内容推断，忙碌的研究员为什么一开始没有注意到主角的询问？",
+      "answer": "因为他正全神贯注地思考、核对“赫利俄斯”的参数和虚质磁暴的读数，以至于数据几乎要从脑子里溢出，注意力高度集中在科研数据上，从而忽视了外界提问。",
+      "type": "logical",
+      "key_entities": [
+        "忙碌的研究员",
+        "赫利俄斯",
+        "虚质磁暴"
+      ],
+      "source_chunk_id": 64,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中是否提到研究员今天已经完成并提交了“赫利俄斯”的正式实验报告？",
+      "answer": "否，片段中没有提到研究员已完成并提交了“赫利俄斯”的正式实验报告，只提及他在处理昨天的报告和头疼的数据问题。",
+      "type": "negative",
+      "key_entities": [
+        "忙碌的研究员",
+        "赫利俄斯"
+      ],
+      "source_chunk_id": 64,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "莫宁教授隶属于哪个机构？",
+      "answer": "深空联合研究院",
+      "type": "factual",
+      "key_entities": [
+        "莫宁",
+        "深空联合研究院",
+        "星炬学院"
+      ],
+      "source_chunk_id": 65,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "为什么莫宁要求“漂泊者”先停下与服务器组的“共鸣”？",
+      "answer": "因为继续下去会导致服务器过载，可能造成设备或数据损坏。",
+      "type": "logical",
+      "key_entities": [
+        "莫宁",
+        "漂泊者",
+        "服务器组",
+        "过载"
+      ],
+      "source_chunk_id": 65,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中有没有提到莫宁教授具体的研究方向或领域？",
+      "answer": "没有提到莫宁教授具体的研究方向或领域。",
+      "type": "negative",
+      "key_entities": [
+        "莫宁"
+      ],
+      "source_chunk_id": 65,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "莫宁提到的“磁带”是为了应对什么现象而研制的？",
+      "answer": "为了应对拉海洛地区始终处于虚质磁暴笼罩下、虚无鸣式流溢会消解一切有生之物频率的现象。",
+      "type": "factual",
+      "key_entities": [
+        "莫宁",
+        "拉海洛",
+        "磁带",
+        "虚质磁暴"
+      ],
+      "source_chunk_id": 66,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "为什么研究员会说“刚才那段噪音不是数据错误”？",
+      "answer": "因为该频率编码与系统数据库内的一条记录完全一致，说明确实存在一份与漂泊者频率完全相同的旧磁带，而非随机的数据错误。",
+      "type": "logical",
+      "key_entities": [
+        "研究员",
+        "漂泊者频率",
+        "噪音",
+        "数据冲突"
+      ],
+      "source_chunk_id": 66,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中有没有提到莫宁教授曾经亲自进入虚质磁暴中心进行实验？",
+      "answer": "没有提到。片段只说明莫宁教授了解磁暴的危险，并警告漂泊者不要主动陷入险境，但未提及他本人进入磁暴中心的经历。",
+      "type": "negative",
+      "key_entities": [
+        "莫宁",
+        "虚质磁暴"
+      ],
+      "source_chunk_id": 66,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "在通讯中，研究员向莫宁教授提到这是本月第几次因为炉芯发射流程而发生两位教授的争执？",
+      "answer": "第二次",
+      "type": "factual",
+      "key_entities": [
+        "莫宁",
+        "研究员",
+        "炉芯发射流程"
+      ],
+      "source_chunk_id": 67,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "为什么莫宁教授说“我过去也没有什么用”，却仍然决定立刻前往现场？",
+      "answer": "尽管他认为自己可能无法真正解决两位教授的争执，但研究员和其他人无法插话，现场情况紧急且研究员明显感到害怕，他出于责任感和安抚对方情绪的需要，只能亲自过去处理。",
+      "type": "logical",
+      "key_entities": [
+        "莫宁",
+        "研究员",
+        "炉芯发射流程争执"
+      ],
+      "source_chunk_id": 67,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中是否提到莫宁教授最终与星炬学院的学员一起抵达了炉芯实验室？",
+      "answer": "否，片段只提到莫宁邀请学员“如果之后没有急事，就和我一起来”，并未描述他们是否已经到达现场。",
+      "type": "negative",
+      "key_entities": [
+        "莫宁",
+        "星炬学院学员",
+        "炉芯实验室"
+      ],
+      "source_chunk_id": 67,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "魏尔伦教授目前在这所人工太阳车间里担任什么职务？",
+      "answer": "车间主管",
+      "type": "factual",
+      "key_entities": [
+        "魏尔伦",
+        "人工太阳车间"
+      ],
+      "source_chunk_id": 68,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "为什么魏尔伦仍然坚持在“下一次窗口期”执行换日仪式，即使安瑟姆教授对罗伊人的符文推算提出质疑？",
+      "answer": "因为罗伊人推算出数十年内都不会再有这么契合的发射窗口，错过这次机会将长期无法再次出现同样的条件；魏尔伦相信罗伊人的合作伙伴身份与推算能力，并认为之前演习失败只是需要校准而非放弃。",
+      "type": "logical",
+      "key_entities": [
+        "魏尔伦",
+        "安瑟姆",
+        "换日仪式",
+        "罗伊人",
+        "发射窗口"
+      ],
+      "source_chunk_id": 68,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "在片段中，魏尔伦教授有没有向漂泊者透露这所车间内具体哪个房间贴有“禁止进入”标识？",
+      "answer": "没有，他只提到“除了贴有禁止进入标识的房间”，并未指出具体哪一间。",
+      "type": "negative",
+      "key_entities": [
+        "魏尔伦",
+        "漂泊者",
+        "禁止进入标识"
+      ],
+      "source_chunk_id": 68,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "在人工太阳车间里，巨大的培养仓中种植的植物来自哪里？",
+      "answer": "罗伊冰原之下沉睡的种子",
+      "type": "factual",
+      "key_entities": [
+        "漂泊者",
+        "人工太阳车间",
+        "罗伊冰原",
+        "古老植物"
+      ],
+      "source_chunk_id": 69,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "为什么深空联合在点燃炉心后，会把罗伊冰原下的种子带到人工太阳车间培养？",
+      "answer": "因为在求索前行的过程中，他们仍不忘复兴或利用这些曾经沉睡的生命，以“一滴水、一粒种子、一束炬火”的方式让生命找到出路，体现了对生态与文明延续的关怀与希望。",
+      "type": "logical",
+      "key_entities": [
+        "深空联合",
+        "炉心",
+        "罗伊冰原",
+        "人工太阳车间"
+      ],
+      "source_chunk_id": 69,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中有没有提到这些古老植物在地表曾被成功种植的记录？",
+      "answer": "没有提到古老植物在地表曾被成功种植的记录，只提到它们在地表未曾见过。",
+      "type": "negative",
+      "key_entities": [
+        "古老植物",
+        "地表"
+      ],
+      "source_chunk_id": 69,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "在检测到虚质磁暴反应时，研究人员最先提到的“源头”是哪个探测器？",
+      "answer": "海维夏探测器",
+      "type": "factual",
+      "key_entities": [
+        "车间研究员",
+        "海维夏探测器",
+        "虚质磁暴"
+      ],
+      "source_chunk_id": 70,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "为什么莫宁教授会认为“这种时候”海维夏探测器出状况格外棘手？",
+      "answer": "因为海维夏不仅为检测炉芯状态提供数据，更要为即将举行的“换日仪式”进行数据校准；一旦它失控，换日仪式可能受阻，研究院也成为攻击目标，危机与仪式时间点重合。",
+      "type": "logical",
+      "key_entities": [
+        "莫宁",
+        "海维夏探测器",
+        "换日仪式",
+        "研究院"
+      ],
+      "source_chunk_id": 70,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中是否提到琳奈在现场实际看见或接触过漂泊者本人？",
+      "answer": "否，片段仅呈现琳奈的心理独白，没有描述她与漂泊者的任何直接见面或交流。",
+      "type": "negative",
+      "key_entities": [
+        "琳奈",
+        "漂泊者"
+      ],
+      "source_chunk_id": 70,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中被称为“联络人”的人声称自己可能是什么身份？",
+      "answer": "“可怜的残星会联络人”或“一个无辜的研究员”",
+      "type": "factual",
+      "key_entities": [
+        "联络人",
+        "残星会"
+      ],
+      "source_chunk_id": 71,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "为什么“联络人”认为琳奈如果选择告发他将无法全身而退？",
+      "answer": "因为琳奈当前的公开身份是“无名的逃亡者”，与“联络人”有牵连，若向深空联合告发，她自己的身份与过往也会暴露，从而无法全身而退。",
+      "type": "logical",
+      "key_entities": [
+        "联络人",
+        "琳奈",
+        "深空联合",
+        "无名的逃亡者"
+      ],
+      "source_chunk_id": 71,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中没有提到任何角色具体正在操作或靠近哪种“奇怪的仪器”，对吗？",
+      "answer": "对，片段仅提到“调查奇怪的仪器”的场景标题，但并未描述仪器的种类、外形或谁在操作它。",
+      "type": "negative",
+      "key_entities": [
+        "奇怪的仪器"
+      ],
+      "source_chunk_id": 71,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "魏尔伦主任提到“之前那次数据库受到入侵的事件”时，具体指的是哪一次事件？",
+      "answer": "安保系统被发现存在漏洞的那次入侵",
+      "type": "factual",
+      "key_entities": [
+        "魏尔伦",
+        "学院教师",
+        "数据库入侵事件"
+      ],
+      "source_chunk_id": 72,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "为什么魏尔伦会质疑琳奈“假期一直选择住校”的行为？",
+      "answer": "魏尔伦意图暗示琳奈假期留校可能有与事故相关的隐藏目的，从而将她与新联邦背景联系起来，质疑她的动机",
+      "type": "logical",
+      "key_entities": [
+        "魏尔伦",
+        "琳奈",
+        "假期住校"
+      ],
+      "source_chunk_id": 72,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中有没有提到琳奈在假期回过新联邦探望父母？",
+      "answer": "没有，片段只提到她“在允许的时候都有和父母通话”，并未提及她回过新联邦",
+      "type": "negative",
+      "key_entities": [
+        "琳奈",
+        "新联邦"
+      ],
+      "source_chunk_id": 72,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "在对话中，琳奈最羡慕的是什么？",
+      "answer": "能在这座学院念书的人。",
+      "type": "factual",
+      "key_entities": [
+        "琳奈",
+        "学院"
+      ],
+      "source_chunk_id": 73,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "为什么琳奈会说自己“不是你这样的人”？",
+      "answer": "因为她认为漂泊者虽然有太多目的、责任和复杂思考方式难以说出口，而她自己比漂泊者更渴望抛弃这些，成为一个单纯的学生，所以她与漂泊者本质不同。",
+      "type": "logical",
+      "key_entities": [
+        "琳奈",
+        "漂泊者"
+      ],
+      "source_chunk_id": 73,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中有没有提到琳奈曾经真正在这座学院读过书？",
+      "answer": "没有提到。",
+      "type": "negative",
+      "key_entities": [
+        "琳奈"
+      ],
+      "source_chunk_id": 73,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "琳奈声称自己长大的地方被称为“无法地带”，其危险程度大约是怎样的？",
+      "answer": "平均每活三天就要见一次血。",
+      "type": "factual",
+      "key_entities": [
+        "琳奈",
+        "无法地带",
+        "新联邦"
+      ],
+      "source_chunk_id": 74,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "琳奈为何认为制造可疑仪器的人很可能仍然潜伏在学院内部？",
+      "answer": "因为那台仪器的制式看上去像是学院的，且能够轻松使用工学部器材制造它的人通常具备学院内部权限，加上一直在暗处给她下达命令的“发信人”仍未露面，所以她推断制造者可能就在学院。",
+      "type": "logical",
+      "key_entities": [
+        "琳奈",
+        "可疑仪器",
+        "发信人",
+        "工学部"
+      ],
+      "source_chunk_id": 74,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中，琳奈是否提到自己曾在入学前与真正的琳奈见过面？",
+      "answer": "没有提及。",
+      "type": "negative",
+      "key_entities": [
+        "琳奈"
+      ],
+      "source_chunk_id": 74,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "琳奈最先找到的是什么记录？",
+      "answer": "有关这个仪器的制造记录",
+      "type": "factual",
+      "key_entities": [
+        "琳奈",
+        "制造记录"
+      ],
+      "source_chunk_id": 75,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "为什么琳奈在覆写仪器权限前要先让漂泊者帮忙？",
+      "answer": "因为覆写过程会重新启动仪器一次，可能导致周围的机械受到影响，需要漂泊者阻止它们",
+      "type": "logical",
+      "key_entities": [
+        "琳奈",
+        "漂泊者",
+        "覆写权限"
+      ],
+      "source_chunk_id": 75,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中是否提到琳奈已经把仪器上交学院？",
+      "answer": "没有提到，琳奈明确表示在查明“发信人”身份之前，她不会让仪器离开自己的视线",
+      "type": "negative",
+      "key_entities": [
+        "琳奈",
+        "学院"
+      ],
+      "source_chunk_id": 75,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "琳奈提到的“主动防御阵列重启的最长时间”是多少秒？",
+      "answer": "28秒",
+      "type": "factual",
+      "key_entities": [
+        "琳奈",
+        "主动防御阵列"
+      ],
+      "source_chunk_id": 76,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "为什么琳奈能够在不修改海维夏校准数据的情况下留下警告？",
+      "answer": "因为她只是往数据里加入了几个表情符号，并没有实际篡改数值，从而既提醒研究院提高加密等级，又避免对系统造成实质性破坏，但还是被当作入侵的把柄。",
+      "type": "logical",
+      "key_entities": [
+        "琳奈",
+        "海维夏校准数据"
+      ],
+      "source_chunk_id": 76,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中是否提到琳奈曾经使用过“管理者级别权限”去访问学院机械或虚质防壁的数据？",
+      "answer": "否，片段只提到“管理者级别权限”被用于异常访问，并未说明使用者是琳奈。",
+      "type": "negative",
+      "key_entities": [
+        "琳奈",
+        "学院机械",
+        "虚质防壁"
+      ],
+      "source_chunk_id": 76,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "I.R.I.S. 在深空文献中心担任什么职务？",
+      "answer": "她是深空文献中心的检索 AI，负责全部资料的索引。",
+      "type": "factual",
+      "key_entities": [
+        "I.R.I.S.",
+        "深空文献中心"
+      ],
+      "source_chunk_id": 77,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "为什么 I.R.I.S. 看起来“没精神”？",
+      "answer": "因为深空文献中心之前发生过一次数据泄露，她正在同步进行系统维护。",
+      "type": "logical",
+      "key_entities": [
+        "I.R.I.S.",
+        "数据泄露",
+        "系统维护"
+      ],
+      "source_chunk_id": 77,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中有没有提到“I.R.I.S. 已经修复了数据泄露造成的全部漏洞”？",
+      "answer": "没有提到，只说她“正在同步进行系统维护”，并未说明已完全修复。",
+      "type": "negative",
+      "key_entities": [
+        "I.R.I.S.",
+        "数据泄露",
+        "漏洞修复"
+      ],
+      "source_chunk_id": 77,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "漂泊者正在阅读的论文标题是什么？",
+      "answer": "《基于同步加速器的隧群污染阈值测定-虚质磁暴的频率张量重整化》",
+      "type": "factual",
+      "key_entities": [
+        "漂泊者",
+        "论文标题"
+      ],
+      "source_chunk_id": 78,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "为什么漂泊者能够将琳奈查到的波形与论文中的数据进行匹配？",
+      "answer": "因为漂泊者虽然看不懂论文内容，但可以仅通过波形与论文数据的对应关系，识别出该现象与“虚诞虫”相关。",
+      "type": "logical",
+      "key_entities": [
+        "漂泊者",
+        "琳奈",
+        "虚诞虫"
+      ],
+      "source_chunk_id": 78,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中是否提到了琳奈亲自出现在现场？",
+      "answer": "否，片段中没有提到琳奈亲自出现在现场。",
+      "type": "negative",
+      "key_entities": [
+        "琳奈"
+      ],
+      "source_chunk_id": 78,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "漂泊者提到的制造指南全名是什么？",
+      "answer": "《虚质磁暴勘测仪增幅模组制造指南（v3.12）》",
+      "type": "factual",
+      "key_entities": [
+        "漂泊者",
+        "虚质磁暴勘测仪增幅模组制造指南"
+      ],
+      "source_chunk_id": 79,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "为什么漂泊者认为这份制造记录“说不定会有用”？",
+      "answer": "因为这份记录是琳奈拿到的那个仪器本来的制造记录，可能包含对当前调查有帮助的关键技术或背景信息。",
+      "type": "logical",
+      "key_entities": [
+        "漂泊者",
+        "琳奈",
+        "虚质磁暴勘测仪",
+        "制造记录"
+      ],
+      "source_chunk_id": 79,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中是否提到琳奈亲自阅读了这份制造指南？",
+      "answer": "否，片段中没有提到琳奈亲自阅读这份制造指南。",
+      "type": "negative",
+      "key_entities": [
+        "琳奈",
+        "制造指南"
+      ],
+      "source_chunk_id": 79,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "琳奈提到的“深空联合”在虚诞虫的活跃区设置了什么？",
+      "answer": "防御设施和专门的束缚装置。",
+      "type": "factual",
+      "key_entities": [
+        "琳奈",
+        "深空联合",
+        "虚诞虫"
+      ],
+      "source_chunk_id": 80,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "根据对话，为什么琳奈需要把仪器的功率增幅到原本的两到三倍？",
+      "answer": "为了在残星会启动仪器将虚诞虫引向研究院时，能用功率更大的仪器把虚诞虫反向引到深空联合的防御设施和束缚装置处，从而阻止它继续袭击研究院。",
+      "type": "logical",
+      "key_entities": [
+        "琳奈",
+        "虚诞虫",
+        "残星会",
+        "研究院"
+      ],
+      "source_chunk_id": 80,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "以下哪一项在本次对话中没有提到：A. 琳奈曾亲眼目睹海维夏失控；B. 残星会计划使用印造台；C. 研究院拥有能够消灭虚诞虫的武器；D. 琳奈已经覆写了仪器的权限？",
+      "answer": "C. 研究院拥有能够消灭虚诞虫的武器。",
+      "type": "negative",
+      "key_entities": [
+        "琳奈",
+        "残星会",
+        "研究院",
+        "虚诞虫"
+      ],
+      "source_chunk_id": 80,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "校方对琳奈进行二次问询的原因是什么？",
+      "answer": "有关海维夏失控事件",
+      "type": "factual",
+      "key_entities": [
+        "琳奈",
+        "校方",
+        "海维夏失控事件"
+      ],
+      "source_chunk_id": 81,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "琳奈为什么说“这件事与漂泊者无关”？",
+      "answer": "因为漂泊者是今天才入学的新生，没有参与海维夏失控事件，也不了解琳奈的过往，所以要为他开脱责任。",
+      "type": "logical",
+      "key_entities": [
+        "琳奈",
+        "漂泊者",
+        "海维夏失控事件"
+      ],
+      "source_chunk_id": 81,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中有没有提到校方已经确认“琳奈”存在伪造入学履历的行为？",
+      "answer": "没有，校方只是收到匿名举报并怀疑有伪造入学履历的嫌疑，尚未确认。",
+      "type": "negative",
+      "key_entities": [
+        "校方",
+        "琳奈"
+      ],
+      "source_chunk_id": 81,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "陆·赫斯在学院的正式身份是什么？",
+      "answer": "校医师",
+      "type": "factual",
+      "key_entities": [
+        "陆·赫斯",
+        "星炬学院"
+      ],
+      "source_chunk_id": 82,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "漂泊者为何会把“残星会在学院有内应、计划袭击研究院”这一情报首先告知陆·赫斯？",
+      "answer": "漂泊者推断陆·赫斯早已暗中掌握自己的背景（如黑海岸执花身份），且在自己匆忙离院后替其善后，因此判断陆·赫斯既非残星会成员，又具备足够能力，故而选择信任他。",
+      "type": "logical",
+      "key_entities": [
+        "漂泊者",
+        "陆·赫斯",
+        "残星会",
+        "黑海岸执花"
+      ],
+      "source_chunk_id": 82,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中是否提到莫宁教授此刻身在何处？",
+      "answer": "否，片段只说“莫宁教授不在”，但并未说明他具体的位置或去向。",
+      "type": "negative",
+      "key_entities": [
+        "莫宁教授"
+      ],
+      "source_chunk_id": 82,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "宿舍前台告诉漂泊者琳奈去了哪里？",
+      "answer": "前台只说琳奈似乎接到了学院的临时通知，但不清楚具体去了哪儿。",
+      "type": "factual",
+      "key_entities": [
+        "宿舍前台",
+        "琳奈",
+        "漂泊者",
+        "学院"
+      ],
+      "source_chunk_id": 83,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "为什么前台会说“很少见到她那么低落的样子”？",
+      "answer": "因为琳奈离开时情绪低落，前台凭此推测她可能遇到了麻烦或接到了令她不安的学院通知。",
+      "type": "logical",
+      "key_entities": [
+        "琳奈",
+        "前台",
+        "学院临时通知"
+      ],
+      "source_chunk_id": 83,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中有没有提到琳奈离开的具体时间？",
+      "answer": "没有提到琳奈离开的具体时间。",
+      "type": "negative",
+      "key_entities": [
+        "琳奈"
+      ],
+      "source_chunk_id": 83,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "琳奈被告知退学后，将被遣返到哪里？",
+      "answer": "新联邦",
+      "type": "factual",
+      "key_entities": [
+        "琳奈",
+        "新联邦"
+      ],
+      "source_chunk_id": 84,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "为什么琳奈说自己“已经没法证明我是我自己了”？",
+      "answer": "因为她在伪造死亡后，新联邦官方会销毁“佣兵琳奈”的档案，现在留下的只是残星会的“琳奈”记录，两个身份均已无法与真实自我对应。",
+      "type": "logical",
+      "key_entities": [
+        "琳奈",
+        "佣兵档案",
+        "残星会记录"
+      ],
+      "source_chunk_id": 84,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中是否提及琳奈在星炬学院就读的具体学科或专业？",
+      "answer": "没有提及",
+      "type": "negative",
+      "key_entities": [
+        "琳奈",
+        "星炬学院"
+      ],
+      "source_chunk_id": 84,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "莫宁在通讯中告诉漂泊者，研究院对虚诞虫的防御阵列一共有几座？",
+      "answer": "三座",
+      "type": "factual",
+      "key_entities": [
+        "莫宁",
+        "漂泊者",
+        "防御阵列"
+      ],
+      "source_chunk_id": 85,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "为什么漂泊者认为自己“或许有办法”把虚诞虫再次吸引到特定地点？",
+      "answer": "因为虚诞虫曾经吞噬过漂泊者的频率，他可以利用共感再次吸引虚诞虫的注意。",
+      "type": "logical",
+      "key_entities": [
+        "漂泊者",
+        "虚诞虫",
+        "共感"
+      ],
+      "source_chunk_id": 85,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中是否提到琳奈目前身在何处？",
+      "answer": "没有，片段仅提到漂泊者怀疑“琳奈……真的离开了吗？”，并未说明她确切的位置。",
+      "type": "negative",
+      "key_entities": [
+        "琳奈"
+      ],
+      "source_chunk_id": 85,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "在片段中，记者称呼主角团队的外号是什么？",
+      "answer": "黑色闪电",
+      "type": "factual",
+      "key_entities": [
+        "记者",
+        "主角团队"
+      ],
+      "source_chunk_id": 86,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "教务处教师为何决定让琳奈“重新走一遍入学流程”而不是直接恢复学籍？",
+      "answer": "因为琳奈已不再是星炬学院的学生，需要以“真实身份”重新获得学籍，学院既要合规又肯定她的贡献，所以安排入学考试作为正式回归途径。",
+      "type": "logical",
+      "key_entities": [
+        "教务处教师",
+        "琳奈",
+        "入学考试"
+      ],
+      "source_chunk_id": 86,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中有没有提到琳奈的入学考试具体科目或考试形式？",
+      "answer": "没有，片段只提到需要“进行一次入学考试”，并未说明具体科目或形式。",
+      "type": "negative",
+      "key_entities": [
+        "琳奈",
+        "入学考试"
+      ],
+      "source_chunk_id": 86,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "被袭击的虚诞虫目前存放在哪里？",
+      "answer": "已经被回收，现在研究院正在进行拆解",
+      "type": "factual",
+      "key_entities": [
+        "虚诞虫",
+        "研究院"
+      ],
+      "source_chunk_id": 87,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "琳奈为什么说“反而有点不知所措”？",
+      "answer": "因为她以前总觉得迟早要离开，所以只关注眼前；现在发现自己真的可以留在星炬学院选择想要的未来，反而不知道该怎样规划",
+      "type": "logical",
+      "key_entities": [
+        "琳奈",
+        "星炬学院",
+        "未来"
+      ],
+      "source_chunk_id": 87,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中有没有提到琳奈已经通过了星炬学院的入学测验？",
+      "answer": "没有提到，她仅表示“最重要的是通过入学测验”，说明尚未通过",
+      "type": "negative",
+      "key_entities": [
+        "琳奈",
+        "入学测验"
+      ],
+      "source_chunk_id": 87,
+      "source_info": "冰原下的星炬.md"
+    },
+    {
+      "question": "片段中提到的可战斗人员还剩多少人？",
+      "answer": "五百人",
+      "type": "factual",
+      "key_entities": [
+        "夜归士兵",
+        "忌炎"
+      ],
+      "source_chunk_id": 88,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "为什么忌炎决定“等待雨停，即刻启程，进军北落野”？",
+      "answer": "因为抗溯洄雨药剂已使队员幻觉减轻且未见不良反应，部队已具备在雨停后继续行军、避免残象潮威胁的条件；同时雨停可减少“与降雨区关联”的幻觉风险，确保进军北落野的行动安全。",
+      "type": "logical",
+      "key_entities": [
+        "忌炎",
+        "抗溯洄雨药剂",
+        "北落野"
+      ],
+      "source_chunk_id": 88,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "片段中是否提到研究院对服用抗溯洄雨药剂的士兵进行了何种长期副作用检测？",
+      "answer": "没有提到研究院对长期副作用进行任何检测",
+      "type": "negative",
+      "key_entities": [
+        "研究院"
+      ],
+      "source_chunk_id": 88,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "在片段中，军士报告的军医叫什么名字？",
+      "answer": "忌炎",
+      "type": "factual",
+      "key_entities": [
+        "军士",
+        "忌炎"
+      ],
+      "source_chunk_id": 89,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "根据对话，为什么将军认为即使雨势异常、溯洄雨可能带来昔日幻觉，也必须立即进攻？",
+      "answer": "因为敌人正大张旗鼓地出现在他们面前，这是“唯一的机会”；将军认为无法再以懦弱和沉默回应肩负的生命，必须用杀戮开路、直至消灭最后一个敌人，即使付出更大代价也要胜利。",
+      "type": "logical",
+      "key_entities": [
+        "将军",
+        "溯洄雨",
+        "敌人"
+      ],
+      "source_chunk_id": 89,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "片段中是否提到军士已经向将军汇报黑石武器的具体型号或数量？",
+      "answer": "没有提到黑石武器的具体型号或数量，只提及“全部修理完毕”“已分发给了几位共鸣者，剩下的非共鸣者也已经准备就绪”。",
+      "type": "negative",
+      "key_entities": [
+        "军士",
+        "黑石武器"
+      ],
+      "source_chunk_id": 89,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "在对话中，被称呼“忌炎”的人是谁？",
+      "answer": "在片段中，被称呼“忌炎”的人就是当前正在战斗的“？？？”，具体身份未给出。",
+      "type": "factual",
+      "key_entities": [
+        "忌炎",
+        "？？？"
+      ],
+      "source_chunk_id": 90,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "从对话推断，说话者提到的“那个雨夜”与当前战斗有什么关联？",
+      "answer": "说话者把当下战斗的“猝不及防”与“那个雨夜”类比，暗示两者在突然性、情感冲击或关键转折点上高度相似，说明“那个雨夜”曾令忌炎措手不及，如今战斗同样考验其应变。",
+      "type": "logical",
+      "key_entities": [
+        "那个雨夜",
+        "猝不及防",
+        "忌炎"
+      ],
+      "source_chunk_id": 90,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "片段中是否提到“那个雨夜”发生的具体日期或具体地点？",
+      "answer": "片段中完全没有提到“那个雨夜”发生的具体日期或具体地点。",
+      "type": "negative",
+      "key_entities": [
+        "那个雨夜"
+      ],
+      "source_chunk_id": 90,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "忌炎将军下令全军列阵准备迎战的敌人是什么？",
+      "answer": "残象潮",
+      "type": "factual",
+      "key_entities": [
+        "忌炎",
+        "军士",
+        "残象潮"
+      ],
+      "source_chunk_id": 91,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "为什么忌炎判断这次残象潮的背后必然有人指挥？",
+      "answer": "因为残象潮展现出“如此大规模，具有组织性”的特征，与以往的混乱残象不同，这表明存在统一的指挥者。",
+      "type": "logical",
+      "key_entities": [
+        "忌炎",
+        "残象潮"
+      ],
+      "source_chunk_id": 91,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "在片段中，是否有任何角色提到“弯刀之役”的具体伤亡数字？",
+      "answer": "没有提及具体伤亡数字",
+      "type": "negative",
+      "key_entities": [
+        "弯刀之役"
+      ],
+      "source_chunk_id": 91,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "今州城为应对溯洄雨而建造的大型防御工事名称是什么？",
+      "answer": "防护罩",
+      "type": "factual",
+      "key_entities": [
+        "今州城",
+        "防护罩",
+        "溯洄雨"
+      ],
+      "source_chunk_id": 92,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "为什么说一旦防护罩受损，残象潮可能会“直接从今州城之内”爆发？",
+      "answer": "因为防护罩的作用是隔绝溯洄雨，若防护罩破损，溯洄雨将在城内降下，其所携带的高密度回音能量会吸引残象聚集，甚至复现出昔日战斗的“幽灵”残象，从而导致城内部出现残象潮。",
+      "type": "logical",
+      "key_entities": [
+        "防护罩",
+        "残象潮",
+        "溯洄雨"
+      ],
+      "source_chunk_id": 92,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "片段中是否提到“泰缇斯”基地位于今州城内部？",
+      "answer": "否，片段只提到“回到「泰缇斯」基地”，并未说明该基地位于今州城内部还是外部。",
+      "type": "negative",
+      "key_entities": [
+        "泰缇斯基地",
+        "今州城"
+      ],
+      "source_chunk_id": 92,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "发出“守住阵线！”指令的人是谁？",
+      "answer": "桃祈",
+      "type": "factual",
+      "key_entities": [
+        "桃祈"
+      ],
+      "source_chunk_id": 93,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "桃祈为什么在当前区域被清理完后，仍号召大家前往前哨？",
+      "answer": "因为前哨仍在遭受残象围攻，需要支援。",
+      "type": "logical",
+      "key_entities": [
+        "桃祈",
+        "前哨",
+        "残象"
+      ],
+      "source_chunk_id": 93,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "片段中是否提到桃祈带领的队伍采用了何种战斗策略或武器？",
+      "answer": "否，片段中并未提及桃祈的队伍使用了何种具体战斗策略或武器。",
+      "type": "negative",
+      "key_entities": [
+        "桃祈"
+      ],
+      "source_chunk_id": 93,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "被解救的士兵提到目前仍在什么地方坚守的士兵还有几位？",
+      "answer": "“里面”还有几位士兵在坚守，具体人数未说明，只说“几位”。",
+      "type": "factual",
+      "key_entities": [
+        "被解救的士兵",
+        "几位士兵",
+        "里面"
+      ],
+      "source_chunk_id": 94,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "被解救的士兵为何请求主角一行继续深入救援？",
+      "answer": "因为他知道还有几位士兵仍在“里面”坚守，尚未脱困，所以需要主角一行将他们一起解救出来。",
+      "type": "logical",
+      "key_entities": [
+        "被解救的士兵",
+        "几位士兵",
+        "主角一行"
+      ],
+      "source_chunk_id": 94,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "片段中是否提及“几位士兵”的具体姓名或军衔？",
+      "answer": "没有，片段只提到“几位士兵”，并未给出他们的姓名或军衔。",
+      "type": "negative",
+      "key_entities": [
+        "几位士兵"
+      ],
+      "source_chunk_id": 94,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "桃祈在汇报今州战况时，向哪位令尹报告了“防护罩已经修复完毕，居民也已全部回归城内”？",
+      "answer": "今汐",
+      "type": "factual",
+      "key_entities": [
+        "桃祈",
+        "今汐",
+        "今州"
+      ],
+      "source_chunk_id": 95,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "为什么今汐特别强调“我身为令尹，也不能总是习惯依赖于角的力量”？",
+      "answer": "因为今州当前情况危急，她必须承担起令尹的职责，独立做出决策并申请实际援助，而不是被动等待角的指示或依赖角的力量。",
+      "type": "logical",
+      "key_entities": [
+        "今汐",
+        "角",
+        "令尹职责"
+      ],
+      "source_chunk_id": 95,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "片段中有没有提到角是否亲自现身与漂泊者见面？",
+      "answer": "没有提到角是否亲自现身，只提到角留下了信息，并通过今汐转述相关指示。",
+      "type": "negative",
+      "key_entities": [
+        "角"
+      ],
+      "source_chunk_id": 95,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "在通讯中，桃祈提到研究院和天工分别由谁负责管控？",
+      "answer": "白芷在研究院管控监测，莫特斐已经到达天工。",
+      "type": "factual",
+      "key_entities": [
+        "桃祈",
+        "白芷",
+        "莫特斐",
+        "研究院",
+        "天工"
+      ],
+      "source_chunk_id": 96,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "根据忌炎与桃祈的对话，为什么忌炎需要“尽快清出一条道路”去接应漂泊者和秧秧？",
+      "answer": "因为无音区出现了大量残象复苏并伴随高密度频率波动，这是漂泊者和秧秧前往军营的必经之路，忌炎必须提前清除障碍以确保他们的安全。",
+      "type": "logical",
+      "key_entities": [
+        "忌炎",
+        "漂泊者",
+        "秧秧",
+        "无音区",
+        "残象复苏",
+        "道路"
+      ],
+      "source_chunk_id": 96,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "片段中是否提到北门外的残象潮是否由某个特定首领指挥？",
+      "answer": "片段中并未提及北门外的残象潮有特定首领指挥。",
+      "type": "negative",
+      "key_entities": [
+        "北门",
+        "残象潮"
+      ],
+      "source_chunk_id": 96,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "秧秧提到越靠近哪个区域，野外的危险程度就越高？",
+      "answer": "北落野",
+      "type": "factual",
+      "key_entities": [
+        "秧秧",
+        "北落野"
+      ],
+      "source_chunk_id": 97,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "根据秧秧的推论，荒石高地周边危险度骤升的根本原因是什么？",
+      "answer": "鸣式的复苏对环境产生了不可估量的影响",
+      "type": "logical",
+      "key_entities": [
+        "秧秧",
+        "鸣式的复苏",
+        "荒石高地"
+      ],
+      "source_chunk_id": 97,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "片段中有没有提到忌炎或秧秧已经击败了“云闪之鳞”？",
+      "answer": "没有提到",
+      "type": "negative",
+      "key_entities": [
+        "忌炎",
+        "秧秧",
+        "云闪之鳞"
+      ],
+      "source_chunk_id": 97,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "秧秧一行若要抵达忌炎将军所在的营地，必须先穿过哪片区域？",
+      "answer": "无音区",
+      "type": "factual",
+      "key_entities": [
+        "秧秧",
+        "忌炎将军",
+        "无音区"
+      ],
+      "source_chunk_id": 98,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "为什么残象会被夜归士兵的幽灵形态吸引过来？",
+      "answer": "因为溯洄雨幽灵体内蕴藏着高密度的回音能量，这种能量对残象具有强烈吸引力。",
+      "type": "logical",
+      "key_entities": [
+        "秧秧",
+        "残象",
+        "溯洄雨幽灵",
+        "回音能量"
+      ],
+      "source_chunk_id": 98,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "片段中是否提到秧秧等人已经实际与夜归士兵幽灵交战的细节？",
+      "answer": "没有提到；片段仅提示要小心并说明残象包围过来，未描述任何实际交战过程。",
+      "type": "negative",
+      "key_entities": [
+        "秧秧",
+        "夜归士兵幽灵"
+      ],
+      "source_chunk_id": 98,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "奄奄一息的夜归士兵所属的部队是什么？",
+      "answer": "荒石高地物资运输队",
+      "type": "factual",
+      "key_entities": [
+        "夜归士兵",
+        "荒石高地物资运输队"
+      ],
+      "source_chunk_id": 99,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "为什么溯洄雨会间接导致前线补给线被切断？",
+      "answer": "溯洄雨的影响导致云闪之鳞复苏，云闪之鳞击溃了运输队，从而切断了补给线。",
+      "type": "logical",
+      "key_entities": [
+        "溯洄雨",
+        "云闪之鳞",
+        "运输队",
+        "补给线"
+      ],
+      "source_chunk_id": 99,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "片段中是否提及秧秧为受伤士兵进行了治疗？",
+      "answer": "否，片段中只提到秧秧检查士兵的流息稳定，没有提及她为士兵进行治疗。",
+      "type": "negative",
+      "key_entities": [
+        "秧秧",
+        "受伤士兵"
+      ],
+      "source_chunk_id": 99,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "忌炎将北落野称为什么样的地方？",
+      "answer": "“万剑冢”",
+      "type": "factual",
+      "key_entities": [
+        "忌炎",
+        "北落野"
+      ],
+      "source_chunk_id": 100,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "为什么忌炎判断漂泊者不可能是溯洄雨幽灵？",
+      "answer": "因为溯洄雨幽灵的形成需要满足两个条件：一是曾经受溯洄雨影响，二是与降雨区联系紧密；漂泊者新近苏醒、初到今州，两项条件都不具备。",
+      "type": "logical",
+      "key_entities": [
+        "忌炎",
+        "漂泊者"
+      ],
+      "source_chunk_id": 100,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "片段中是否提到忌炎通过战斗亲手击杀了云闪之鳞？",
+      "answer": "未提及。片段仅说“成功了”，但未描述忌炎亲自出手击杀的细节。",
+      "type": "negative",
+      "key_entities": [
+        "忌炎",
+        "云闪之鳞"
+      ],
+      "source_chunk_id": 100,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "鉴心是通过什么途径来到前线营地的？",
+      "answer": "随补给队伍来到前线营地，并已多日。",
+      "type": "factual",
+      "key_entities": [
+        "鉴心",
+        "前线营地",
+        "补给队伍"
+      ],
+      "source_chunk_id": 101,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "忌炎为什么认为“现在”是破解雕像秘密的最好时机？",
+      "answer": "因为无相燹主的力量尚未完全恢复，威胁相对较小，可利用此空档进行调查与破坏。",
+      "type": "logical",
+      "key_entities": [
+        "忌炎",
+        "雕像",
+        "无相燹主",
+        "力量尚未完全恢复"
+      ],
+      "source_chunk_id": 101,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "在片段中，秧秧是否明确表达了她对北落野雕像的看法或感受？",
+      "answer": "没有，片段中秧秧只说了一句“那是……！”后未再发表任何具体看法或感受。",
+      "type": "negative",
+      "key_entities": [
+        "秧秧",
+        "北落野雕像"
+      ],
+      "source_chunk_id": 101,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "北落野入口处两侧的地形特征是什么？",
+      "answer": "两侧悬崖林立，状如绝涧，仅有中部谷地可供大部队行进。",
+      "type": "factual",
+      "key_entities": [
+        "北落野入口",
+        "悬崖",
+        "谷地"
+      ],
+      "source_chunk_id": 102,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "忌炎为何认为必须避免长时间持久战？",
+      "answer": "因为无相燹主拥有不断重组被打散残象频率的能力，残象攻势会源源不断，而我方每一战都可能成为其养分，时间越长对我方越不利。",
+      "type": "logical",
+      "key_entities": [
+        "忌炎",
+        "无相燹主",
+        "残象",
+        "持久战"
+      ],
+      "source_chunk_id": 102,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "片段中是否提到忌炎安排“空军支援”或“空中部队”参与本次作战？",
+      "answer": "否。片段只提到远程、近战两支中队以及由忌炎、漂泊者、秧秧与鉴心组成的突击小队，并未出现“空军支援”或“空中部队”相关描述。",
+      "type": "negative",
+      "key_entities": [
+        "空军支援",
+        "空中部队",
+        "忌炎"
+      ],
+      "source_chunk_id": 102,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "支援小队由谁派遣，其队长自称什么名字？",
+      "answer": "忌炎将军派遣，队长自称秧秧。",
+      "type": "factual",
+      "key_entities": [
+        "忌炎将军",
+        "秧秧",
+        "踏白小队"
+      ],
+      "source_chunk_id": 103,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "为什么夜归哨兵愿意立即为秧秧打开通道？",
+      "answer": "因为炮台处仍有士兵坚守，且封锁区域就是为了防止残象潮深入军营，秧秧等人的支援正是打破僵局的关键。",
+      "type": "logical",
+      "key_entities": [
+        "夜归哨兵",
+        "残象潮",
+        "封锁区域"
+      ],
+      "source_chunk_id": 103,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "片段中是否提到忌炎将军亲自来到炮台前线指挥？",
+      "answer": "没有，片段只提到忌炎将军派踏白小队支援，他本人并未出现。",
+      "type": "negative",
+      "key_entities": [
+        "忌炎将军"
+      ],
+      "source_chunk_id": 103,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "秧秧在「凿空」附近发现了哪些人？",
+      "answer": "一位幸存的士兵",
+      "type": "factual",
+      "key_entities": [
+        "秧秧",
+        "幸存的士兵",
+        "凿空"
+      ],
+      "source_chunk_id": 104,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "为什么秧秧认为必须马上解决残象？",
+      "answer": "因为现场还有一位幸存的士兵，处境危险，需要立即救援。",
+      "type": "logical",
+      "key_entities": [
+        "秧秧",
+        "解决残象",
+        "幸存士兵"
+      ],
+      "source_chunk_id": 104,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "片段中是否提到士兵已经受伤或失去意识？",
+      "answer": "没有提到",
+      "type": "negative",
+      "key_entities": [
+        "士兵"
+      ],
+      "source_chunk_id": 104,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "重伤士兵在临终前把什么物品交给了秧秧一行？",
+      "answer": "修复密钥",
+      "type": "factual",
+      "key_entities": [
+        "重伤的夜归士兵",
+        "秧秧",
+        "修复密钥"
+      ],
+      "source_chunk_id": 105,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "为什么士兵们明知伤势严重仍坚持守在炮位？",
+      "answer": "因为这门大炮意义重大，他们不能让残象占领",
+      "type": "logical",
+      "key_entities": [
+        "重伤的夜归士兵",
+        "大炮",
+        "残象"
+      ],
+      "source_chunk_id": 105,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "片段中是否提到这位士兵的具体姓名或军衔？",
+      "answer": "没有提到，只称他为“重伤的夜归士兵”",
+      "type": "negative",
+      "key_entities": [
+        "重伤的夜归士兵"
+      ],
+      "source_chunk_id": 105,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "今汐以什么身份与权限争取到了凿空的发射许可？",
+      "answer": "今令尹",
+      "type": "factual",
+      "key_entities": [
+        "今汐",
+        "凿空"
+      ],
+      "source_chunk_id": 106,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "为什么今汐愿意独自承担动用凿空所需能源的巨大风险？",
+      "answer": "因为今汐和忌炎自始至终都只有一个相同的目的——全力守卫今州，她选择信任并支援前线，确保漂泊者和忌炎将军能抓住这唯一的机会。",
+      "type": "logical",
+      "key_entities": [
+        "今汐",
+        "忌炎",
+        "凿空",
+        "今州"
+      ],
+      "source_chunk_id": 106,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "片段中是否提及凿空实际发射后对北落野造成的具体破坏情况？",
+      "answer": "否。片段只提到发射许可已获准、即将发射，但未描述发射后的具体破坏情况。",
+      "type": "negative",
+      "key_entities": [
+        "凿空",
+        "北落野"
+      ],
+      "source_chunk_id": 106,
+      "source_info": "千里卷戎旌 · 上.md"
+    },
+    {
+      "question": "在“北落峡谷”的这段剧情中，是谁提醒队友“一点钟方向，注意落石”？",
+      "answer": "忌炎",
+      "type": "factual",
+      "key_entities": [
+        "忌炎",
+        "北落峡谷",
+        "落石"
+      ],
+      "source_chunk_id": 107,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "为什么秧秧会在忌炎提醒落石之后，紧接着警告“有残象出现了”？",
+      "answer": "因为残象的出现可能与落石同时发生，或落石的声响引来了残象，秧秧需及时提醒队友新的威胁出现。",
+      "type": "logical",
+      "key_entities": [
+        "秧秧",
+        "残象",
+        "落石"
+      ],
+      "source_chunk_id": 107,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "在这段对话中，有没有任何人提到“北落峡谷”之外的其他地点？",
+      "answer": "没有，片段中没有提及北落峡谷之外的任何地点。",
+      "type": "negative",
+      "key_entities": [
+        "北落峡谷"
+      ],
+      "source_chunk_id": 107,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "在片段中，秧秧警告说逼近的是什么东西？",
+      "answer": "残象包",
+      "type": "factual",
+      "key_entities": [
+        "秧秧",
+        "残象包"
+      ],
+      "source_chunk_id": 108,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "忌炎为什么说“这样下去没完没了”？",
+      "answer": "因为他们不断遭遇新的残象包，敌人似乎无穷无尽，无法彻底消灭，导致宝贵的时间被持续消耗，无法继续前进或完成原本的任务。",
+      "type": "logical",
+      "key_entities": [
+        "忌炎",
+        "残象包",
+        "时间"
+      ],
+      "source_chunk_id": 108,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "片段中是否提到忌炎已经下令撤退？",
+      "answer": "否，片段里没有提到忌炎下达撤退命令，只提到他意识到没有时间继续战斗。",
+      "type": "negative",
+      "key_entities": [
+        "忌炎"
+      ],
+      "source_chunk_id": 108,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "鉴心表示自己将在此处做什么？",
+      "answer": "断后，护送众人继续前进",
+      "type": "factual",
+      "key_entities": [
+        "鉴心"
+      ],
+      "source_chunk_id": 109,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "忌炎建议众人突围后该怎么做，才能甩掉后方残象？",
+      "answer": "在前方利用钩索甩掉后方残象",
+      "type": "logical",
+      "key_entities": [
+        "忌炎",
+        "残象",
+        "钩索"
+      ],
+      "source_chunk_id": 109,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "片段中是否提到鉴心会使用钩索突围？",
+      "answer": "否，片段没有提到鉴心使用钩索突围",
+      "type": "negative",
+      "key_entities": [
+        "鉴心",
+        "钩索"
+      ],
+      "source_chunk_id": 109,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "在片段中，忌炎提醒秧秧和漂泊者小心前方的什么地形？",
+      "answer": "断崖",
+      "type": "factual",
+      "key_entities": [
+        "忌炎",
+        "秧秧",
+        "漂泊者",
+        "断崖"
+      ],
+      "source_chunk_id": 110,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "为什么忌炎要发出“从这里滑下去”的指令？",
+      "answer": "因为他们在一段陡坡上，需要迅速下山，而滑下是最直接的方式。",
+      "type": "logical",
+      "key_entities": [
+        "忌炎",
+        "陡坡",
+        "滑下"
+      ],
+      "source_chunk_id": 110,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "片段中是否提到忌炎使用武器来开路或防御？",
+      "answer": "没有提到忌炎使用武器的任何细节。",
+      "type": "negative",
+      "key_entities": [
+        "忌炎"
+      ],
+      "source_chunk_id": 110,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "在跃过断崖的场景中，是谁首先关心“漂泊者”是否安全？",
+      "answer": "秧秧",
+      "type": "factual",
+      "key_entities": [
+        "秧秧",
+        "漂泊者"
+      ],
+      "source_chunk_id": 111,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "根据忌炎“不要放松警惕，有残象攻过来了”这句话，可以推断出当前局势发生了什么变化？",
+      "answer": "他们刚刚越过断崖，就立即遭遇到残象的袭击，形势变得紧急，需要立刻进入战斗准备状态",
+      "type": "logical",
+      "key_entities": [
+        "忌炎",
+        "残象",
+        "断崖"
+      ],
+      "source_chunk_id": 111,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "片段中有没有提到“漂泊者”对秧秧的关心作出任何回应？",
+      "answer": "没有，片段中完全没有提到“漂泊者”是否回应了秧秧的关心",
+      "type": "negative",
+      "key_entities": [
+        "漂泊者"
+      ],
+      "source_chunk_id": 111,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "忌炎判断悬浮废墟的信标是否还能使用？",
+      "answer": "可以使用，而且防护功能也很完整。",
+      "type": "factual",
+      "key_entities": [
+        "忌炎",
+        "悬浮废墟",
+        "信标"
+      ],
+      "source_chunk_id": 112,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "为什么忌炎认为接下来只能依靠小队自己作战，而无法得到主力部队支援？",
+      "answer": "因为无相燹主的激进攻势阻断了主力部队，同时终端联络后方也无响应，推测是鸣式力量干扰所致，导致他们与后方失去联系。",
+      "type": "logical",
+      "key_entities": [
+        "忌炎",
+        "无相燹主",
+        "鸣式力量",
+        "主力部队"
+      ],
+      "source_chunk_id": 112,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "片段中是否提到忌炎已经成功联络到鉴心？",
+      "answer": "否。片段中只提到忌炎尝试用终端联络后方但无响应，并未确认他与鉴心取得联系。",
+      "type": "negative",
+      "key_entities": [
+        "忌炎",
+        "鉴心"
+      ],
+      "source_chunk_id": 112,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "在当前片段里，建议“先四处探索一下，谨慎一些”的角色是谁？",
+      "answer": "忌炎",
+      "type": "factual",
+      "key_entities": [
+        "忌炎"
+      ],
+      "source_chunk_id": 113,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "忌炎认为“里面有些过于安静了”可能暗示了什么潜在危险或异常？",
+      "answer": "环境过于安静往往意味着敌人可能已经埋伏、机关尚未触发，或该区域被某种力量刻意清空，这些情况都需要提高警觉并谨慎探查。",
+      "type": "logical",
+      "key_entities": [
+        "忌炎",
+        "悬浮废墟"
+      ],
+      "source_chunk_id": 113,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "片段中是否提到忌炎或其他角色已经遭遇敌人或触发机关？",
+      "answer": "否，片段中没有任何关于遭遇敌人或触发机关的描述。",
+      "type": "negative",
+      "key_entities": [
+        "忌炎"
+      ],
+      "source_chunk_id": 113,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "在寻找通路时，是谁提出可以使用钩索“拉取”移开那面墙？",
+      "answer": "忌炎",
+      "type": "factual",
+      "key_entities": [
+        "忌炎"
+      ],
+      "source_chunk_id": 114,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "忌炎认为墙可以被钩索“拉取”移开，他做出这一判断的依据可能是什么？",
+      "answer": "墙的结构或材质允许通过外力拉取而移动，例如有可钩取的着力点或墙体并非固定死。",
+      "type": "logical",
+      "key_entities": [
+        "忌炎",
+        "墙"
+      ],
+      "source_chunk_id": 114,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "片段中有没有提到忌炎实际已经用钩索把墙拉开？",
+      "answer": "没有提到忌炎已经用钩索把墙拉开，只是提出这面墙“应该可以用钩索，通过拉取移开”。",
+      "type": "negative",
+      "key_entities": [
+        "忌炎"
+      ],
+      "source_chunk_id": 114,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "在片段中，忌炎提到“原有的道路都被破坏了”，请问他们所处的具体地点名称是什么？",
+      "answer": "悬浮废墟",
+      "type": "factual",
+      "key_entities": [
+        "忌炎",
+        "悬浮废墟"
+      ],
+      "source_chunk_id": 115,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "根据忌炎的观察，“附近没有敌人的身影”与“可能有更强大的敌人在前方等着我们”之间存在怎样的推理关系？",
+      "answer": "当前区域缺乏敌人意味着敌人可能已撤退或集中于更深处，因此推断前方可能出现更强大的敌人。",
+      "type": "logical",
+      "key_entities": [
+        "忌炎",
+        "敌人"
+      ],
+      "source_chunk_id": 115,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "片段中是否提到忌炎在“悬浮废墟”里发现了其他队员的踪迹？",
+      "answer": "否，片段中没有提及忌炎发现其他队员的踪迹。",
+      "type": "negative",
+      "key_entities": [
+        "忌炎"
+      ],
+      "source_chunk_id": 115,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "忌炎提到的“弯刀之役”是什么时期的敌人？",
+      "answer": "“弯刀之役”那时的敌人",
+      "type": "factual",
+      "key_entities": [
+        "忌炎",
+        "弯刀之役"
+      ],
+      "source_chunk_id": 116,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "为什么忌炎判断那轮“月亮”可能是敌人的核心？",
+      "answer": "因为怪物的所有攻击都在有意避开身后的“月亮”，表明它在保护月亮，从而推断月亮才是核心。",
+      "type": "logical",
+      "key_entities": [
+        "忌炎",
+        "月亮",
+        "怪物"
+      ],
+      "source_chunk_id": 116,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "片段中是否提到忌炎用龙枪直接摧毁了那轮“月亮”？",
+      "answer": "否，片段仅提到忌炎发现自己的龙枪被复制，并未提及他摧毁月亮。",
+      "type": "negative",
+      "key_entities": [
+        "忌炎",
+        "龙枪",
+        "月亮"
+      ],
+      "source_chunk_id": 116,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "在前往「悬浮废墟」最高处时，最终决定留下肃清轰击空间并阻止鸣式从残象汲取频率的人是谁？",
+      "answer": "秧秧",
+      "type": "factual",
+      "key_entities": [
+        "秧秧",
+        "悬浮废墟"
+      ],
+      "source_chunk_id": 117,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "为什么秧秧坚持自己留下而不是让忌炎留下？",
+      "answer": "因为秧秧认为相比于忌炎，自己是更合适的人选；她相信忌炎与漂泊者才是最有希望直接战胜鸣式之人，因此应由他们去雕像内部面对鸣式，而自己负责肃清轰击空间并护送他们进入。",
+      "type": "logical",
+      "key_entities": [
+        "秧秧",
+        "忌炎",
+        "漂泊者",
+        "鸣式"
+      ],
+      "source_chunk_id": 117,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "片段中是否提到凿空有其他备用能源或额外支援次数？",
+      "answer": "没有，片段明确指出凿空的能源只能够支持一次支援，没有提及备用能源或额外支援次数。",
+      "type": "negative",
+      "key_entities": [
+        "凿空"
+      ],
+      "source_chunk_id": 117,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "在无妄者·绝灭说出“把......母亲的......兵器......还回”之后，是谁出声提醒“当心！”？",
+      "answer": "忌炎",
+      "type": "factual",
+      "key_entities": [
+        "无妄者·绝灭",
+        "忌炎"
+      ],
+      "source_chunk_id": 118,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "根据无妄者·绝灭多次提到“兵器”“母亲”“必将归来”等语，可以推断它把玩家角色视为什么？",
+      "answer": "视其为“僭越者”——夺取了“母亲”所拥有或制造的兵器，因此需要“以鲜血偿还”并将兵器归还的人",
+      "type": "logical",
+      "key_entities": [
+        "无妄者·绝灭",
+        "玩家角色"
+      ],
+      "source_chunk_id": 118,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "片段中是否有任何台词提及无妄者·绝灭具体“母亲”的身份或名字？",
+      "answer": "没有，片段仅提到“母亲”这一称呼，未给出其具体身份或名字",
+      "type": "negative",
+      "key_entities": [
+        "无妄者·绝灭",
+        "母亲"
+      ],
+      "source_chunk_id": 118,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "片段中“无冠者”在战斗过程中反复提到的三个关键词是什么？",
+      "answer": "战斗、吸收、进化",
+      "type": "factual",
+      "key_entities": [
+        "无冠者"
+      ],
+      "source_chunk_id": 119,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "为什么忌炎会说“好机会”？",
+      "answer": "因为无冠者在战斗后陷入了虚弱状态，给了他们击败它的绝佳时机。",
+      "type": "logical",
+      "key_entities": [
+        "忌炎",
+        "无冠者"
+      ],
+      "source_chunk_id": 119,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "片段中是否提到忌炎等人成功彻底消灭了“无冠者”？",
+      "answer": "否，片段只提到击散了无冠者的频率，并未提及是否彻底消灭。",
+      "type": "negative",
+      "key_entities": [
+        "忌炎",
+        "无冠者"
+      ],
+      "source_chunk_id": 119,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "在片段中，忌炎对“战争的鸣式”最初提出了什么质疑？",
+      "answer": "他质疑对方身为战争的鸣式却没有选择战斗到底，反而选择了逃跑。",
+      "type": "factual",
+      "key_entities": [
+        "忌炎",
+        "战争的鸣式"
+      ],
+      "source_chunk_id": 120,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "结合片段内容，推测忌炎最终决定“先离开这里”的直接原因是什么？",
+      "answer": "因为现场出现了“这个地方要崩塌了”的紧急情况，战斗或追击的风险被塌方取代，必须立即撤离。",
+      "type": "logical",
+      "key_entities": [
+        "忌炎",
+        "崩塌",
+        "撤离"
+      ],
+      "source_chunk_id": 120,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "片段中是否提到忌炎或漂泊者成功击败了“战争的鸣式”？",
+      "answer": "否，片段中未提及任何一方被击败，只提到对方“看起来很虚弱”“有意避战”以及现场即将崩塌。",
+      "type": "negative",
+      "key_entities": [
+        "忌炎",
+        "漂泊者",
+        "战争的鸣式"
+      ],
+      "source_chunk_id": 120,
+      "source_info": "千里卷戎旌 · 下.md"
+    },
+    {
+      "question": "片段标题“抵达今州城”直接对应的是哪个章节？",
+      "answer": "《嘤鸣初相召》",
+      "type": "factual",
+      "key_entities": [
+        "今州城",
+        "嘤鸣初相召"
+      ],
+      "source_chunk_id": 121,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "从标题“抵达今州城”可以推断，抵达今州城这一事件在《嘤鸣初相召》中处于什么位置？",
+      "answer": "抵达今州城是《嘤鸣初相召》这一章节的开头或重要节点，标志着故事场景转换到今州城。",
+      "type": "logical",
+      "key_entities": [
+        "今州城",
+        "嘤鸣初相召"
+      ],
+      "source_chunk_id": 121,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "片段中是否提到了抵达今州城的具体时间（如日期、时辰）？",
+      "answer": "没有提到具体的时间信息。",
+      "type": "negative",
+      "key_entities": [
+        "今州城"
+      ],
+      "source_chunk_id": 121,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "炽霞称今州的中枢信标是今州最大的什么？",
+      "answer": "最大的服务器、集成中心",
+      "type": "factual",
+      "key_entities": [
+        "炽霞",
+        "今州",
+        "中枢信标",
+        "服务器"
+      ],
+      "source_chunk_id": 122,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "为什么炽霞说把终端放上去后地图信息会同步到终端？",
+      "answer": "因为信标与信标之间的数据是互通的，激活中枢信标后，小型信标的数据会同步到终端",
+      "type": "logical",
+      "key_entities": [
+        "炽霞",
+        "终端",
+        "信标",
+        "地图信息同步"
+      ],
+      "source_chunk_id": 122,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "片段中炽霞有没有提到中枢信标由谁建造？",
+      "answer": "没有，炽霞没有提到中枢信标的建造者",
+      "type": "negative",
+      "key_entities": [
+        "炽霞",
+        "中枢信标"
+      ],
+      "source_chunk_id": 122,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "炽霞是否被秧秧请求带漂泊者前往边庭？",
+      "answer": "是的，秧秧在对话中询问炽霞：‘炽霞现在方便带漂泊者来边庭这边吗？’",
+      "type": "factual",
+      "key_entities": [
+        "炽霞",
+        "秧秧",
+        "漂泊者",
+        "边庭"
+      ],
+      "source_chunk_id": 123,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "秧秧为何要先确认手续已办完，再让炽霞带漂泊者到边庭？",
+      "answer": "从对话逻辑推断，秧秧先确认手续办完，说明手续与漂泊者能否进入边庭直接相关；只有手续齐备，炽霞带漂泊者前往边庭才不会受阻。",
+      "type": "logical",
+      "key_entities": [
+        "秧秧",
+        "手续",
+        "边庭"
+      ],
+      "source_chunk_id": 123,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "片段中是否提到炽霞拒绝带漂泊者前往边庭？",
+      "answer": "没有，片段中仅出现秧秧询问是否“方便”，并未给出炽霞的任何回应或拒绝。",
+      "type": "negative",
+      "key_entities": [
+        "炽霞",
+        "漂泊者",
+        "边庭"
+      ],
+      "source_chunk_id": 123,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "在边庭门前被“散华大人”一句话劝返的来访者，大多是在哪个环节被近卫劝回的？",
+      "answer": "在最初办手续时就被好声劝回了。",
+      "type": "factual",
+      "key_entities": [
+        "散华",
+        "近卫",
+        "边庭"
+      ],
+      "source_chunk_id": 124,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "为什么秧秧认为令尹几乎无法离开今州境内？",
+      "answer": "因为令尹作为州主，与州土为“同运一体”，除公务或州有险情外不可擅离属地。",
+      "type": "logical",
+      "key_entities": [
+        "秧秧",
+        "令尹",
+        "今州"
+      ],
+      "source_chunk_id": 124,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "片段中是否提及散华亲自开口劝返来访者的原话内容？",
+      "answer": "否，片段只说来访者“被一句话劝返”，但未给出散华具体说了什么。",
+      "type": "negative",
+      "key_entities": [
+        "散华"
+      ],
+      "source_chunk_id": 124,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "片段中说话的人是谁？",
+      "answer": "接引人",
+      "type": "factual",
+      "key_entities": [
+        "接引人"
+      ],
+      "source_chunk_id": 125,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "根据接引人说“请随我来”，可以推断他接下来会做什么？",
+      "answer": "他会带领对方进入“边庭”",
+      "type": "logical",
+      "key_entities": [
+        "接引人",
+        "边庭"
+      ],
+      "source_chunk_id": 125,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "片段中是否提到接引人的姓名？",
+      "answer": "没有提到",
+      "type": "negative",
+      "key_entities": [
+        "接引人"
+      ],
+      "source_chunk_id": 125,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "片段中是谁对“您”说“请上座”？",
+      "answer": "接引人",
+      "type": "factual",
+      "key_entities": [
+        "接引人",
+        "您"
+      ],
+      "source_chunk_id": 126,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "从接引人的这句“您请上座”可以推断，他此刻最可能的意图是什么？",
+      "answer": "引导“您”入座，以示礼貌或安排接下来的会面/仪式",
+      "type": "logical",
+      "key_entities": [
+        "接引人",
+        "您",
+        "请上座"
+      ],
+      "source_chunk_id": 126,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "片段中有没有提到“上座”具体位于哪个房间或建筑？",
+      "answer": "没有提到",
+      "type": "negative",
+      "key_entities": [
+        "上座"
+      ],
+      "source_chunk_id": 126,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "令尹的近卫叫什么名字？",
+      "answer": "散华。",
+      "type": "factual",
+      "key_entities": [
+        "令尹",
+        "散华"
+      ],
+      "source_chunk_id": 127,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "为什么令尹只能用“三日为期”来确保与漂泊者见面？",
+      "answer": "因为令尹无法预知、也无法确定漂泊者的具体来去时间，而三日已是她能够独自支撑的极限，所以才设下“三天内无论何种方式都会见面”的期限。",
+      "type": "logical",
+      "key_entities": [
+        "令尹",
+        "三日为期",
+        "漂泊者"
+      ],
+      "source_chunk_id": 127,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "在片段中，令尹是否说明了目前她所在的具体地点？",
+      "answer": "没有，令尹的具体位置在片段中完全没有被透露。",
+      "type": "negative",
+      "key_entities": [
+        "令尹"
+      ],
+      "source_chunk_id": 127,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "令尹交予漂泊者的信物里，哪种物品被炽霞认出是她小时候吃过的糖果？",
+      "answer": "糖丸（圆圆的糖果）",
+      "type": "factual",
+      "key_entities": [
+        "炽霞",
+        "糖丸"
+      ],
+      "source_chunk_id": 128,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "根据秧秧对小型日晷的描述，为什么在没有太阳光光源的情况下，这个信物将毫无用处？",
+      "answer": "因为它是一种利用太阳的投影方向来测定时刻的计时仪器，需要阳光才能显示时间和方位刻度。",
+      "type": "logical",
+      "key_entities": [
+        "秧秧",
+        "小型日晷",
+        "太阳光"
+      ],
+      "source_chunk_id": 128,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "片段中是否提到漂泊者在这三天内打算去见白芷？",
+      "answer": "否。片段中仅炽霞随口说了句“是不是还得去找白芷来着？”，但随后并未提及漂泊者已把见白芷列入三天计划。",
+      "type": "negative",
+      "key_entities": [
+        "漂泊者",
+        "白芷"
+      ],
+      "source_chunk_id": 128,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "小孩子摊开手掌时，掌心里的是什么？",
+      "answer": "一颗小小的糖果",
+      "type": "factual",
+      "key_entities": [
+        "小孩子"
+      ],
+      "source_chunk_id": 129,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "小孩子为什么决定把自己仅有的一颗糖果送给来访者？",
+      "answer": "因为令尹姐姐告诉过他要对来今州的客人好好的",
+      "type": "logical",
+      "key_entities": [
+        "小孩子",
+        "令尹姐姐",
+        "客人"
+      ],
+      "source_chunk_id": 129,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "片段里有没有提到令尹姐姐同时出现在现场？",
+      "answer": "没有提到令尹姐姐在现场",
+      "type": "negative",
+      "key_entities": [
+        "令尹姐姐"
+      ],
+      "source_chunk_id": 129,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "炽霞提到的“今州飞羽侠”需要具备哪种功能才能快速赶到求助者身边？",
+      "answer": "钩锁功能，通过终端中的探索工具调出钩锁实现飞檐走壁",
+      "type": "factual",
+      "key_entities": [
+        "炽霞",
+        "今州飞羽侠",
+        "钩锁功能",
+        "终端",
+        "探索工具"
+      ],
+      "source_chunk_id": 130,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "为什么炽霞在听到“马小芳”这三个字后立刻改口说“还是别喊了”？",
+      "answer": "“马小芳”可能是炽霞的真名或她不愿被公开的外号，被当众喊出会让她尴尬，所以她急忙制止",
+      "type": "logical",
+      "key_entities": [
+        "炽霞",
+        "马小芳"
+      ],
+      "source_chunk_id": 130,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "片段中有没有提到炽霞具体是因为什么紧急任务或案件去值勤？",
+      "answer": "没有，片段只提到有人找炽霞、有人失踪，但未说明失踪者身份或案件细节",
+      "type": "negative",
+      "key_entities": [
+        "炽霞",
+        "失踪案件"
+      ],
+      "source_chunk_id": 130,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "在片段中，白芷为什么没有回复秧秧的通讯？",
+      "answer": "秧秧推测白芷可能正在实验室里忙着，因此没有回复通讯。",
+      "type": "factual",
+      "key_entities": [
+        "秧秧",
+        "白芷",
+        "实验室"
+      ],
+      "source_chunk_id": 131,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "从秧秧的犹豫语气和“现在似乎不是时候”可以推断出莫特斐先生此时可能处于什么状态？",
+      "answer": "可以推测莫特斐先生此刻正忙于处理安全科的紧急事务或处于不便被打扰的工作状态，因此不是向之求助的恰当时机。",
+      "type": "logical",
+      "key_entities": [
+        "秧秧",
+        "莫特斐",
+        "安全科"
+      ],
+      "source_chunk_id": 131,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "片段中是否提到白芷的实验室具体位于研究所的哪一层或哪个区域？",
+      "answer": "片段中没有提及白芷实验室的具体楼层或区域信息。",
+      "type": "negative",
+      "key_entities": [
+        "白芷",
+        "实验室",
+        "研究所"
+      ],
+      "source_chunk_id": 131,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "在这段对话中，白芷此刻最有可能在哪个房间进行工作？",
+      "answer": "数据分析室",
+      "type": "factual",
+      "key_entities": [
+        "白芷",
+        "数据分析室",
+        "莫特斐"
+      ],
+      "source_chunk_id": 132,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "从莫特斐的发言可以推断，他对“资本家”持何种态度，并说明他为何愿意亲自承担外界压力？",
+      "answer": "他极度反感并拒绝纵容资本家“敲骨吮血、异想天开”的天才想法；他认为与其让潜心研发、需要顾及情态的人被外界指责，不如把火力集中到自己一个人身上，这样反而更容易一并处理。",
+      "type": "logical",
+      "key_entities": [
+        "莫特斐",
+        "资本家",
+        "外界压力"
+      ],
+      "source_chunk_id": 132,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "在片段给出的对话中，莫特斐有没有提到他来自新联邦？",
+      "answer": "没有，这是秧秧在旁白中补充的背景信息，莫特斐本人并未在对话里提及自己来自新联邦。",
+      "type": "negative",
+      "key_entities": [
+        "莫特斐",
+        "新联邦"
+      ],
+      "source_chunk_id": 132,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "在片段中，白芷提到前三样信物可以在哪个科室完成化验？",
+      "answer": "回音科",
+      "type": "factual",
+      "key_entities": [
+        "白芷",
+        "回音科"
+      ],
+      "source_chunk_id": 133,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "莫特斐说“二十分钟后来取回物品，分析报告晚五分钟出”的意图是什么？",
+      "answer": "他暗示自己将在20分钟内完成射线检测，并在5分钟内生成书面报告，以高效地协助主角一行尽快拿到检测结果。",
+      "type": "logical",
+      "key_entities": [
+        "莫特斐",
+        "射线检测",
+        "分析报告"
+      ],
+      "source_chunk_id": 133,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "片段中有没有提到“令尹”是否亲自陪同主角前往研究院进行检测？",
+      "answer": "没有提到令尹亲自陪同主角前往研究院，片中仅提及面见令尹并呈上信物，其后情节已转至研究院，令尹未再出现。",
+      "type": "negative",
+      "key_entities": [
+        "令尹"
+      ],
+      "source_chunk_id": 133,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "白芷提到残象的危险等级由低到高依次有哪些？",
+      "answer": "轻波级、巨浪级、怒涛级、海啸级，以及特殊存在鸣式。",
+      "type": "factual",
+      "key_entities": [
+        "白芷",
+        "残象危险等级",
+        "鸣式"
+      ],
+      "source_chunk_id": 134,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "为什么白芷判断漂泊者的超频风险极低？",
+      "answer": "因为漂泊者的波形检测图显示稳定性非常高，比白芷见过的所有共鸣者都高，因此可以预知其超频风险极低。",
+      "type": "logical",
+      "key_entities": [
+        "白芷",
+        "漂泊者",
+        "超频风险",
+        "波形检测图"
+      ],
+      "source_chunk_id": 134,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "片段中是否提到无冠者的具体外貌或形态？",
+      "answer": "否，片段中并未描述无冠者的具体外貌或形态。",
+      "type": "negative",
+      "key_entities": [
+        "无冠者",
+        "外貌",
+        "形态"
+      ],
+      "source_chunk_id": 134,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "莫特斐明确提到日晷内部缺少的是什么类型的部件？",
+      "answer": "一个能让晷面上两轮轮盘结构转动的关键配件，但其具体构造形态尚不明确。",
+      "type": "factual",
+      "key_entities": [
+        "莫特斐",
+        "日晷",
+        "关键配件"
+      ],
+      "source_chunk_id": 135,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "为什么莫特斐一开始说“找研究院里通晓机关术的家伙”可以，后来又改口“我能帮你搞定”？",
+      "answer": "表面原因是莫特斐想亲自思考解决方案；深层原因可能是他在接到一通神秘通讯后心情变好，态度变得积极且愿意主动承担任务。",
+      "type": "logical",
+      "key_entities": [
+        "莫特斐",
+        "机关术专家",
+        "通讯"
+      ],
+      "source_chunk_id": 135,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "片段中是否提到莫特斐已经知道或找到那节纸质卷轴的具体内容？",
+      "answer": "否，片段只说明卷轴存在于日晷夹层中，但未透露其内容或莫特斐是否看过。",
+      "type": "negative",
+      "key_entities": [
+        "莫特斐",
+        "纸质卷轴"
+      ],
+      "source_chunk_id": 135,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "莫特斐绘制日晷缺失配件的图纸后，相关组装配件存放在谁的工作室？",
+      "answer": "相里的工作室",
+      "type": "factual",
+      "key_entities": [
+        "莫特斐",
+        "相里",
+        "工作室"
+      ],
+      "source_chunk_id": 136,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "根据莫特斐的描述，为什么他不愿意亲自前往相里的工作间取配件？",
+      "answer": "他认为相里的工作间极度混乱，进入后大脑额叶区都会隐隐作痛，环境危险性堪比无人造访的原始森林，对有条理的文明人暗藏杀机。",
+      "type": "logical",
+      "key_entities": [
+        "莫特斐",
+        "相里",
+        "工作间"
+      ],
+      "source_chunk_id": 136,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "在片段中，有没有提到莫特斐曾经成功进入过相里的工作间？",
+      "answer": "没有提到",
+      "type": "negative",
+      "key_entities": [
+        "莫特斐",
+        "相里"
+      ],
+      "source_chunk_id": 136,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "秧秧在工作室里找到并打算带回给谁的是哪个物品？",
+      "answer": "她要带回给莫特斐先生的是一个“看起来沉甸甸”的配件箱。",
+      "type": "factual",
+      "key_entities": [
+        "秧秧",
+        "莫特斐先生",
+        "配件箱"
+      ],
+      "source_chunk_id": 137,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "为什么秧秧会觉得现场“比莫特斐先生形容的要好上不少”？",
+      "answer": "因为莫特斐先生之前的描述让秧秧以为工作室会更混乱或糟糕，而实际状况相对较好，所以秧秧感到意外。",
+      "type": "logical",
+      "key_entities": [
+        "秧秧",
+        "莫特斐先生",
+        "工作室现场"
+      ],
+      "source_chunk_id": 137,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "片段中有没有提到莫特斐先生亲自来到工作室？",
+      "answer": "没有提到莫特斐先生亲自来到工作室，他只被秧秧提到要“回去给他看看”。",
+      "type": "negative",
+      "key_entities": [
+        "莫特斐先生",
+        "工作室"
+      ],
+      "source_chunk_id": 137,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "白芷对紫色树叶的初步推测结论是什么？",
+      "answer": "树叶的来源地点应该是受到过「海蚀」的影响。",
+      "type": "factual",
+      "key_entities": [
+        "白芷",
+        "紫色树叶",
+        "海蚀"
+      ],
+      "source_chunk_id": 138,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "为什么众人最终选择通过「十二支文字记序」去定位糖丸档案，而不是直接暴力拆解机关盒？",
+      "answer": "因为莫特斐指出暴力拆解会摧毁盒内信息，而白芷提到院内公共档案室同样采用十二支文字作为时间索引进行分类，与机关盒需要的「地支为时间、四象为方位」原理一致，因此可以通过档案的时间序列反推正确方位，从而安全打开机关盒。",
+      "type": "logical",
+      "key_entities": [
+        "莫特斐",
+        "白芷",
+        "机关盒",
+        "十二支文字记序"
+      ],
+      "source_chunk_id": 138,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "在片段中，没有任何角色提到「莽吉柿」曾引发今州儿童疫病，对吗？",
+      "answer": "对，片段只提到糖丸（过期疫苗）可能与二十多年前今州儿童疫病有关，并未将莽吉柿与疫病关联。",
+      "type": "negative",
+      "key_entities": [
+        "莽吉柿",
+        "今州儿童疫病"
+      ],
+      "source_chunk_id": 138,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "秧秧查到的资料位于哪一列？",
+      "answer": "“未”字列",
+      "type": "factual",
+      "key_entities": [
+        "秧秧",
+        "未字列"
+      ],
+      "source_chunk_id": 139,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "为什么秧秧在查到资料后需要把列名告诉对话者？",
+      "answer": "因为秧秧查到的列名“未”字列是对方需要的关键信息，她通过“查到了……是「未」字列”这一句话，直接告知了具体位置，方便对方继续后续操作或确认。",
+      "type": "logical",
+      "key_entities": [
+        "秧秧",
+        "未字列"
+      ],
+      "source_chunk_id": 139,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "片段中是否提到秧秧开始查询的具体时间？",
+      "answer": "片段中没有提到秧秧开始查询的具体时间，只呈现了她查到结果后的回应。",
+      "type": "negative",
+      "key_entities": [
+        "秧秧"
+      ],
+      "source_chunk_id": 139,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "在资料库门口，秧秧口中依次报出的五个时辰分别是什么？",
+      "answer": "卯、辰、巳、午、未",
+      "type": "factual",
+      "key_entities": [
+        "秧秧",
+        "资料库",
+        "漂泊者"
+      ],
+      "source_chunk_id": 140,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "从秧秧报时的顺序和最终找到漂泊者这一结果来看，她使用报时方式的意图最可能是什么？",
+      "answer": "她可能正在用十二时辰作为搜索坐标或口令，依次排查，以定位并确认漂泊者的位置。",
+      "type": "logical",
+      "key_entities": [
+        "秧秧",
+        "漂泊者",
+        "报时"
+      ],
+      "source_chunk_id": 140,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "片段中没有提到秧秧在报时时携带了任何工具或设备，对吗？",
+      "answer": "对，片段中没有提及她携带任何工具或设备。",
+      "type": "negative",
+      "key_entities": [
+        "秧秧"
+      ],
+      "source_chunk_id": 140,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "秧秧提到的强大残象名称是什么？",
+      "answer": "无冠者",
+      "type": "factual",
+      "key_entities": [
+        "秧秧",
+        "无冠者"
+      ],
+      "source_chunk_id": 141,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "根据秧秧的陈述，今州建州、边庭、华胥研究院落成的时间顺序如何推断？",
+      "answer": "三者皆在同一年——未年——落成，没有先后之分。",
+      "type": "logical",
+      "key_entities": [
+        "秧秧",
+        "今州",
+        "边庭",
+        "华胥研究院",
+        "未年"
+      ],
+      "source_chunk_id": 141,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "片段中是否提及襁褓中婴儿的名字或性别？",
+      "answer": "否，片段既没有提到婴儿的名字，也没有提到婴儿的性别。",
+      "type": "negative",
+      "key_entities": [
+        "婴儿"
+      ],
+      "source_chunk_id": 141,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "今州是瑝珑建州最晚的州府，它位于关内还是关外？",
+      "answer": "今州位于关外。",
+      "type": "factual",
+      "key_entities": [
+        "今州",
+        "瑝珑",
+        "关外"
+      ],
+      "source_chunk_id": 142,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "根据秧秧的推测，今令尹通过“糖丸”指向的线索想要告诉漂泊者的可能是什么？",
+      "answer": "线索可能并非直接揭示漂泊者的身份，而是提示“未”字列资料中暗藏的、与漂泊者相关的信息；或者暗示漂泊者过去所在的地方也曾有过类似今州疫病与残象潮的境遇。",
+      "type": "logical",
+      "key_entities": [
+        "今令尹",
+        "糖丸",
+        "漂泊者",
+        "未"
+      ],
+      "source_chunk_id": 142,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "片段中没有提到哪位角色亲自参与了糖丸的研发试验？",
+      "answer": "片段中没有提到今令尹亲自参与了糖丸的研发试验。",
+      "type": "negative",
+      "key_entities": [
+        "今令尹"
+      ],
+      "source_chunk_id": 142,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "炽霞今晚登记了哪两类案件？",
+      "answer": "一起走失案和一起因猫引发的纠纷（老张叔的三花猫上树踩到陈皮叔的头导致摔跤）。",
+      "type": "factual",
+      "key_entities": [
+        "炽霞",
+        "走失案",
+        "陈皮叔",
+        "老张叔",
+        "三花猫"
+      ],
+      "source_chunk_id": 143,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "为什么炽霞说明早“只能起早”去吃攀花饭馆？",
+      "answer": "因为此时已三更天，夜市已收摊，没办法立刻兑现带漂泊者吃宵夜的承诺，只能等次日清晨。",
+      "type": "logical",
+      "key_entities": [
+        "炽霞",
+        "攀花饭馆",
+        "三更天",
+        "夜市"
+      ],
+      "source_chunk_id": 143,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "片段中是否提到今汐令尹今晚曾与炽霞或秧秧通话或见面？",
+      "answer": "没有。片段里只有漂泊者一句玩笑式的“摸黑见今汐”，炽霞随即质疑其真实性，说明今汐并未真正出现或联络。",
+      "type": "negative",
+      "key_entities": [
+        "今汐",
+        "炽霞",
+        "秧秧"
+      ],
+      "source_chunk_id": 143,
+      "source_info": "嘤鸣初相召.md"
+    },
+    {
+      "question": "片段标题中出现的三个称谓依次是什么？",
+      "answer": "圣者，忤逆者，告死者",
+      "type": "factual",
+      "key_entities": [
+        "圣者",
+        "忤逆者",
+        "告死者"
+      ],
+      "source_chunk_id": 144,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "从标题排列顺序推断，作者是否暗示“圣者→忤逆者→告死者”之间存在递进或因果的发展关系？",
+      "answer": "可以合理推断。标题使用顿号分隔并连续呈现，暗示三者可能构成一条递进的叙事链：圣者最初被认定为神圣，随后因某种原因成为忤逆者，最终走向告死者的结局。",
+      "type": "logical",
+      "key_entities": [
+        "圣者",
+        "忤逆者",
+        "告死者"
+      ],
+      "source_chunk_id": 144,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中是否有提到任何具体的时间、地点或人物对话？",
+      "answer": "没有。片段仅给出标题与分隔符，未提供任何具体时间、地点或人物对话信息。",
+      "type": "negative",
+      "key_entities": [
+        "时间",
+        "地点",
+        "人物对话"
+      ],
+      "source_chunk_id": 144,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "阿布提议从哪里起飞去寻找岁主被困的塔？",
+      "answer": "埃格拉小镇的悬崖",
+      "type": "factual",
+      "key_entities": [
+        "阿布",
+        "埃格拉小镇"
+      ],
+      "source_chunk_id": 145,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "漂泊者为何质疑阿布用飞行方式寻找塔的可行性？",
+      "answer": "漂泊者指出塔要么在视线之外、要么被云层遮挡，并且阿布目前状态不佳，难以支撑长距离飞行。",
+      "type": "logical",
+      "key_entities": [
+        "漂泊者",
+        "阿布",
+        "塔"
+      ],
+      "source_chunk_id": 145,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中有没有提到阿布曾经成功飞到塔附近？",
+      "answer": "没有。片段只提到阿布提议去飞，但没有描述他实际起飞或接近塔的经历。",
+      "type": "negative",
+      "key_entities": [
+        "阿布"
+      ],
+      "source_chunk_id": 145,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "在片段中，流浪的吟游诗人叫什么名字？",
+      "answer": "夏空",
+      "type": "factual",
+      "key_entities": [
+        "夏空",
+        "漂泊者"
+      ],
+      "source_chunk_id": 146,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "根据片段，夏空为什么认为听众的回答让曲子“变得更加完整”？",
+      "answer": "因为音律本身没有情绪，是人的感受赋予它们意义；听众把个人情感投射到曲子里，为曲子补全了“人”的意义，所以夏空觉得它更完整了。",
+      "type": "logical",
+      "key_entities": [
+        "夏空",
+        "曲子"
+      ],
+      "source_chunk_id": 146,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段里完全没有提到夏空演奏的是哪种乐器，对吗？",
+      "answer": "对，片段中没有提及夏空使用的任何乐器。",
+      "type": "negative",
+      "key_entities": [
+        "夏空"
+      ],
+      "source_chunk_id": 146,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "珂莱塔提到翡萨烈家主趁她做什么的时候直接找上了漂泊者？",
+      "answer": "与翡萨烈家族成员谈判",
+      "type": "factual",
+      "key_entities": [
+        "珂莱塔",
+        "翡萨烈家主",
+        "漂泊者"
+      ],
+      "source_chunk_id": 147,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "珂莱塔为何说作为莫塔里的自己“不好介入”这次只有漂泊者受邀请的邀约？",
+      "answer": "因为翡萨烈家主只邀请了漂泊者一人，莫塔里身份敏感，若以官方身份介入会打破翡萨烈设下的“只邀一人”规则，引发更大冲突。",
+      "type": "logical",
+      "key_entities": [
+        "珂莱塔",
+        "莫塔里",
+        "翡萨烈家主"
+      ],
+      "source_chunk_id": 147,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中是否提到珂莱塔会陪同漂泊者一起进入波蒂维诺堡？",
+      "answer": "否，片段仅说明她会留在外面继续寻找线索，并未提及她会陪同进入波蒂维诺堡。",
+      "type": "negative",
+      "key_entities": [
+        "珂莱塔",
+        "波蒂维诺堡"
+      ],
+      "source_chunk_id": 147,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中，谁自称是翡萨烈第36任家主？",
+      "answer": "坎特蕾拉·翡萨烈",
+      "type": "factual",
+      "key_entities": [
+        "坎特蕾拉·翡萨烈"
+      ],
+      "source_chunk_id": 148,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "坎特蕾拉为什么说自己没有理由拒绝玩家自称“漂泊者”？",
+      "answer": "因为玩家刚刚被强调为“摘桂之人，新任的狂欢之王”，地位特殊，坎特蕾拉认为应尊重其自称方式。",
+      "type": "logical",
+      "key_entities": [
+        "坎特蕾拉",
+        "漂泊者",
+        "摘桂之人"
+      ],
+      "source_chunk_id": 148,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中有没有提到赛巴斯通知家主后，家主具体从哪个房间或通道现身？",
+      "answer": "没有提及赛巴斯通知后家主具体从哪个房间或通道现身。",
+      "type": "negative",
+      "key_entities": [
+        "赛巴斯"
+      ],
+      "source_chunk_id": 148,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "坎特蕾拉请漂泊者喝的茶产自哪里？",
+      "answer": "瑝珑今州",
+      "type": "factual",
+      "key_entities": [
+        "坎特蕾拉",
+        "漂泊者",
+        "瑝珑今州"
+      ],
+      "source_chunk_id": 149,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "根据对话，坎特蕾拉为何判断吉尔贝的精神状况已经无可挽回？",
+      "answer": "因为漂泊者主动提出想确认“翡萨烈的真实信仰”，坎特蕾拉由此推测吉尔贝的精神状况已恶化到必须探究此核心秘密的程度，故认为无法挽回。",
+      "type": "logical",
+      "key_entities": [
+        "坎特蕾拉",
+        "吉尔贝",
+        "翡萨烈的真实信仰"
+      ],
+      "source_chunk_id": 149,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中是否提到坎特蕾拉要求漂泊者去说服的具体对象是谁？",
+      "answer": "没有提到具体对象",
+      "type": "negative",
+      "key_entities": [
+        "坎特蕾拉",
+        "漂泊者"
+      ],
+      "source_chunk_id": 149,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "在这段对话中，是谁说“我们到了”？",
+      "answer": "坎特蕾拉",
+      "type": "factual",
+      "key_entities": [
+        "坎特蕾拉"
+      ],
+      "source_chunk_id": 150,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "根据片段内容，坎特蕾拉与对话中的“我们”正在做什么？",
+      "answer": "他们结束书房之行后，正前往宅邸最深处，并已抵达目的地。",
+      "type": "logical",
+      "key_entities": [
+        "坎特蕾拉",
+        "宅邸最深处"
+      ],
+      "source_chunk_id": 150,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中是否提到他们离开书房时的具体时间（如上午9点或深夜）？",
+      "answer": "没有提到具体时间。",
+      "type": "negative",
+      "key_entities": [
+        "坎特蕾拉"
+      ],
+      "source_chunk_id": 150,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "在“进入密室”片段中，是谁对漂泊者说“到了这一步，就算你想置身事外，我也不会放你离开了”？",
+      "answer": "坎特蕾拉",
+      "type": "factual",
+      "key_entities": [
+        "坎特蕾拉",
+        "漂泊者"
+      ],
+      "source_chunk_id": 151,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "根据片段，坎特蕾拉为什么说“就算你想置身事外，我也不会放你离开了”？",
+      "answer": "因为已经到了进入密室的关键阶段，她认为漂泊者已无法脱离此事，必须继续参与。",
+      "type": "logical",
+      "key_entities": [
+        "坎特蕾拉",
+        "漂泊者",
+        "进入密室"
+      ],
+      "source_chunk_id": 151,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中是否提及“进入密室”这一事件发生在白天还是夜晚？",
+      "answer": "没有提及",
+      "type": "negative",
+      "key_entities": [
+        "进入密室"
+      ],
+      "source_chunk_id": 151,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "在密室最深处，坎特蕾拉指出圣堂供奉的岁主真实名称为何？",
+      "answer": "「英白拉多」",
+      "type": "factual",
+      "key_entities": [
+        "坎特蕾拉",
+        "英白拉多"
+      ],
+      "source_chunk_id": 152,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "根据坎特蕾拉的说法，为什么她认为漂泊者最有可能说服今州的岁主「角」前来黎那汐塔？",
+      "answer": "因为漂泊者对今州、对「角」曾有救命之恩，拥有这样的恩情，使漂泊者成为最有可能说服「角」的人。",
+      "type": "logical",
+      "key_entities": [
+        "坎特蕾拉",
+        "漂泊者",
+        "角"
+      ],
+      "source_chunk_id": 152,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中是否提到坎特蕾拉愿意将黎那汐塔的统治权交给漂泊者作为交换条件？",
+      "answer": "否，片段中只提到坎特蕾拉愿意答应漂泊者的“任何条件，任何要求”，但并未具体提及统治权。",
+      "type": "negative",
+      "key_entities": [
+        "坎特蕾拉",
+        "漂泊者"
+      ],
+      "source_chunk_id": 152,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "谁告诉漂泊者翡萨烈地底有一条直通索诺拉入口的缆车？",
+      "answer": "坎特蕾拉",
+      "type": "factual",
+      "key_entities": [
+        "坎特蕾拉",
+        "漂泊者",
+        "索诺拉入口",
+        "翡萨烈地底"
+      ],
+      "source_chunk_id": 153,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "坎特蕾拉说“有些机关可不仅仅是为了方便”，那么根据她的暗示，这些机关还有什么隐藏目的？",
+      "answer": "它们是为了“外来者”设计的，暗示具备防御或筛选“外来者”的功能，而不仅是提供便利。",
+      "type": "logical",
+      "key_entities": [
+        "坎特蕾拉",
+        "机关",
+        "外来者"
+      ],
+      "source_chunk_id": 153,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中有没有提到缆车具体的发车间隔或运行时刻表？",
+      "answer": "没有提到发车间隔或运行时刻表的信息。",
+      "type": "negative",
+      "key_entities": [
+        "缆车"
+      ],
+      "source_chunk_id": 153,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "坎特蕾拉说“剩下的路”他们准备用什么方式继续前进？",
+      "answer": "步行",
+      "type": "factual",
+      "key_entities": [
+        "坎特蕾拉"
+      ],
+      "source_chunk_id": 154,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "从坎特蕾拉的话推断，他们目前所在的地下车站与中央“索诺拉的边界”之间，地形或通道上可能有什么特点？",
+      "answer": "可能需要穿过狭长或不适合车辆通行的区域，因此必须改为步行才能抵达中央边界。",
+      "type": "logical",
+      "key_entities": [
+        "坎特蕾拉",
+        "索诺拉的边界"
+      ],
+      "source_chunk_id": 154,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中有没有提到他们乘坐了地铁列车？",
+      "answer": "没有提到",
+      "type": "negative",
+      "key_entities": [
+        "坎特蕾拉"
+      ],
+      "source_chunk_id": 154,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "在片段中，坎特蕾拉提到“这里”之前并没有出现什么？",
+      "answer": "残象",
+      "type": "factual",
+      "key_entities": [
+        "坎特蕾拉",
+        "残象"
+      ],
+      "source_chunk_id": 155,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "坎特蕾拉推测这些残象可能来自哪里？",
+      "answer": "中央的索诺拉",
+      "type": "logical",
+      "key_entities": [
+        "坎特蕾拉",
+        "残象",
+        "索诺拉"
+      ],
+      "source_chunk_id": 155,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中提到坎特蕾拉听到任何声音了吗？",
+      "answer": "否，片段中并未提及坎特蕾拉听到任何声音。",
+      "type": "negative",
+      "key_entities": [
+        "坎特蕾拉"
+      ],
+      "source_chunk_id": 155,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中，是谁主动提出“留几只”咕咕河豚？",
+      "answer": "坎特蕾拉",
+      "type": "factual",
+      "key_entities": [
+        "坎特蕾拉",
+        "咕咕河豚"
+      ],
+      "source_chunk_id": 156,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "漂泊者为什么在心里说“还是不要问她准备拿去干嘛吧”？",
+      "answer": "漂泊者推断坎特蕾拉可能会对咕咕河豚做一些不愿明说的、不可描述的事情，因此选择回避询问。",
+      "type": "logical",
+      "key_entities": [
+        "漂泊者",
+        "坎特蕾拉",
+        "咕咕河豚"
+      ],
+      "source_chunk_id": 156,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中有没有提到坎特蕾拉打算把咕咕河豚拿去烹饪、研究或放生？",
+      "answer": "没有，片段未提及她后续的具体用途。",
+      "type": "negative",
+      "key_entities": [
+        "坎特蕾拉",
+        "咕咕河豚"
+      ],
+      "source_chunk_id": 156,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "第二次黑潮发生的确切地点是哪里？",
+      "answer": "「阿维纽林」，修会修建过的最大的神学院。",
+      "type": "factual",
+      "key_entities": [
+        "第二次黑潮",
+        "阿维纽林",
+        "神学院"
+      ],
+      "source_chunk_id": 157,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "坎特蕾拉为什么认为阻止第二次黑潮蔓延的可能是「岁主」？",
+      "answer": "她提到“也有可能像第一次一样，是岁主再次力挽狂澜”，暗指第一次黑潮就是岁主出手阻止的，因此推测第二次也可能由岁主出手干预。",
+      "type": "logical",
+      "key_entities": [
+        "坎特蕾拉",
+        "岁主",
+        "第二次黑潮"
+      ],
+      "source_chunk_id": 157,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中提到了「卡提希娅」的哪些具体行动或位置吗？",
+      "answer": "没有，片段中只提到“这个人可能是‘卡提希娅’”，但并未描述她具体做了什么或她现在在哪里。",
+      "type": "negative",
+      "key_entities": [
+        "卡提希娅"
+      ],
+      "source_chunk_id": 157,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "在片段中，坎特蕾拉提到她曾尝试向谁求助以打开索诺拉的边界？",
+      "answer": "其他岁主",
+      "type": "factual",
+      "key_entities": [
+        "坎特蕾拉",
+        "岁主",
+        "索诺拉的边界"
+      ],
+      "source_chunk_id": 158,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "根据片段，为什么坎特蕾拉最终把希望寄托在漂泊者身上？",
+      "answer": "因为原本应拔出提尔芬的圣女已死，其他岁主又拒绝了她，而漂泊者的出现为她带来了转机。",
+      "type": "logical",
+      "key_entities": [
+        "坎特蕾拉",
+        "漂泊者",
+        "圣女",
+        "提尔芬"
+      ],
+      "source_chunk_id": 158,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中有没有提到坎特蕾拉曾尝试用暴力手段强行突破索诺拉的边界？",
+      "answer": "没有，片段未提及坎特蕾拉尝试暴力突破边界。",
+      "type": "negative",
+      "key_entities": [
+        "坎特蕾拉",
+        "索诺拉的边界"
+      ],
+      "source_chunk_id": 158,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中出现的两名对话人物分别是谁？",
+      "answer": "“呼姆”和卡提希娅",
+      "type": "factual",
+      "key_entities": [
+        "呼姆",
+        "卡提希娅"
+      ],
+      "source_chunk_id": 159,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "为什么卡提希娅提议“我们下船找找办法”？",
+      "answer": "因为残留黑潮形成的荆棘阻挡了“呼姆”，继续前进的路被阻断，他们只能离船另寻可行方案。",
+      "type": "logical",
+      "key_entities": [
+        "卡提希娅",
+        "黑潮荆棘",
+        "呼姆"
+      ],
+      "source_chunk_id": 159,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中是否提到黑潮荆棘的颜色具体是什么？",
+      "answer": "片段中并未提及黑潮荆棘的颜色具体是什么。",
+      "type": "negative",
+      "key_entities": [
+        "黑潮荆棘"
+      ],
+      "source_chunk_id": 159,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "卡提希娅把用于在颠倒重力空间内移动的贡多拉取名叫什么？",
+      "answer": "呼姆",
+      "type": "factual",
+      "key_entities": [
+        "卡提希娅",
+        "呼姆"
+      ],
+      "source_chunk_id": 160,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "为什么这片空间的重力方向要与正常相反？",
+      "answer": "根据卡提希娅的说法，是为了让那些残象、黑潮以及遗迹本身“不会落到地面”；坎特蕾拉补充认为这也蕴含“信仰已经颠倒”的警醒意味。",
+      "type": "logical",
+      "key_entities": [
+        "卡提希娅",
+        "坎特蕾拉",
+        "残象",
+        "黑潮",
+        "遗迹"
+      ],
+      "source_chunk_id": 160,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中有没有提到坎特蕾拉曾经在此颠倒重力的空间里摔倒过？",
+      "answer": "没有提到。片段只记录了卡提希娅表示自己花了很长时间才摸索出站稳的方法，并未提及坎特蕾拉是否摔倒过。",
+      "type": "negative",
+      "key_entities": [
+        "坎特蕾拉"
+      ],
+      "source_chunk_id": 160,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中与主角讨论双人座安排的两位女性分别是谁？",
+      "answer": "坎特蕾拉和卡提希娅",
+      "type": "factual",
+      "key_entities": [
+        "坎特蕾拉",
+        "卡提希娅"
+      ],
+      "source_chunk_id": 161,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "根据对话逻辑，为什么坎特蕾拉最终都让“你们先行一步吧”？",
+      "answer": "因为她意识到双人座只能容纳两人，而主角+她+卡提希娅+阿布共四人，必然有人无法同乘；同时卡提希娅指出阿布“不在你声痕里占座位”，暗示阿布可以隐于声痕，于是坎特蕾拉顺势让主角和卡提希娅先走，自己留后。",
+      "type": "logical",
+      "key_entities": [
+        "坎特蕾拉",
+        "卡提希娅",
+        "阿布",
+        "双人座"
+      ],
+      "source_chunk_id": 161,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中有没有提到“呼姆”拒绝了任何人的具体场景？",
+      "answer": "没有，片段只提及“恐怕会被‘呼姆’拒绝”，并未实际出现拒绝场景。",
+      "type": "negative",
+      "key_entities": [
+        "呼姆"
+      ],
+      "source_chunk_id": 161,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "在片段中，卡提希娅提到自己上次通过「倒转瀑布」时发生了什么？",
+      "answer": "她在说明注意事项时突然「诶......呀！」地惊呼了一声，随后说了「失礼了」，暗示当时出现了失态的情况。",
+      "type": "factual",
+      "key_entities": [
+        "卡提希娅",
+        "倒转瀑布"
+      ],
+      "source_chunk_id": 162,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "为什么卡提希娅说“害怕……但不是害怕答案，而是害怕得不到答案”？",
+      "answer": "因为她共鸣能力微弱，在索诺拉中只能探索有限的区域，无法驱散徘徊的残象，因此一遍遍徒劳地猜测自己是谁；她最担忧的是永远得不到确认自身身份的答案。",
+      "type": "logical",
+      "key_entities": [
+        "卡提希娅",
+        "索诺拉",
+        "残象",
+        "共鸣能力"
+      ],
+      "source_chunk_id": 162,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中有没有提到卡提希娅上一次通过「倒转瀑布」时具体失败或受伤的情节？",
+      "answer": "没有。片段仅提到她“上次以这种方式通过时”出现过失态，并未描述任何失败或受伤的详细情节。",
+      "type": "negative",
+      "key_entities": [
+        "卡提希娅",
+        "倒转瀑布"
+      ],
+      "source_chunk_id": 162,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "卡提希娅说水路中的河流实际上是什么？",
+      "answer": "之前的黑潮",
+      "type": "factual",
+      "key_entities": [
+        "卡提希娅",
+        "黑潮",
+        "水路"
+      ],
+      "source_chunk_id": 163,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "为什么一路上只看到少量黑潮残留？",
+      "answer": "因为黑潮已转化为水路中的河流，颠倒的重力和性质使它不再以原本的黑潮形态存在，所以只有少量残留可见。",
+      "type": "logical",
+      "key_entities": [
+        "黑潮",
+        "水路",
+        "重力颠倒"
+      ],
+      "source_chunk_id": 163,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中是否提到卡提希娅在清除黑潮后感到舒服？",
+      "answer": "没有提到她感到舒服，她说自己“既没有感到舒服，也没有感到不适”。",
+      "type": "negative",
+      "key_entities": [
+        "卡提希娅"
+      ],
+      "source_chunk_id": 163,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中对话发生的地点被称作什么？",
+      "answer": "「拯救」之塔",
+      "type": "factual",
+      "key_entities": [
+        "卡提希娅",
+        "漂泊者",
+        "「拯救」之塔"
+      ],
+      "source_chunk_id": 164,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "漂泊者为什么说“我会记住现在这个担心我的‘你’”？",
+      "answer": "因为卡提希娅担心漂泊者会在真相揭晓后受到伤害，而漂泊者以此回应：即使未来出现冲突，他仍会记得此刻关心他的那个卡提希娅，从而暗示不会把真相后的身份与当下之情一笔勾销。",
+      "type": "logical",
+      "key_entities": [
+        "卡提希娅",
+        "漂泊者",
+        "担心",
+        "记住"
+      ],
+      "source_chunk_id": 164,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中是否提到卡提希娅已找到答案？",
+      "answer": "否，片段仅表明她“一定要找到答案”，并未提及已找到。",
+      "type": "negative",
+      "key_entities": [
+        "卡提希娅",
+        "答案"
+      ],
+      "source_chunk_id": 164,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "「拯救」之塔的名称来源于什么？",
+      "answer": "修会的教义之一",
+      "type": "factual",
+      "key_entities": [
+        "卡提希娅",
+        "漂泊者",
+        "拯救之塔"
+      ],
+      "source_chunk_id": 165,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "为什么坎特蕾拉坚持要“收下这个”？",
+      "answer": "因为她担心漂泊者可能隐瞒了战斗中受的伤，希望提供治疗或药品以防万一。",
+      "type": "logical",
+      "key_entities": [
+        "坎特蕾拉",
+        "漂泊者",
+        "战斗痕迹"
+      ],
+      "source_chunk_id": 165,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中有没有提到「呼姆」是什么生物？",
+      "answer": "没有，片段未说明「呼姆」的具体生物类别或形态。",
+      "type": "negative",
+      "key_entities": [
+        "呼姆"
+      ],
+      "source_chunk_id": 165,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "在片段中，芙露德莉斯在加冕仪式中选择了三大教义中的哪一项作为她的信仰所向？",
+      "answer": "拯救——她愿成为吾主的剑锋，于岁月中惩恶扬善，于险境中拯救他人。",
+      "type": "factual",
+      "key_entities": [
+        "芙露德莉斯",
+        "威严的老者",
+        "三大教义"
+      ],
+      "source_chunk_id": 166,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "根据卡提希娅与漂泊者的对话分析，为何漂泊者认为「英白拉多」原本的计划已经失败？",
+      "answer": "因为岁主「英白拉多」原本计划让带着「提尔芬」进入索诺拉的人是岁主的共鸣者——圣女，结果目前却是漂泊者而非圣女带着「提尔芬」来到这里；权能被封存于漂泊者的声痕中，而非共鸣者圣女身上，导致计划无法按预期执行，因而失败。",
+      "type": "logical",
+      "key_entities": [
+        "漂泊者",
+        "卡提希娅",
+        "英白拉多",
+        "提尔芬"
+      ],
+      "source_chunk_id": 166,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中是否提到芙露德莉斯在加冕仪式后曾遭遇或目睹「黑潮」的情形？",
+      "answer": "没有。片段中并未提及芙露德莉斯在加冕仪式后是否遭遇或目睹「黑潮」，只有卡提希娅回忆起了自己加冕当天及「黑潮」降临的情形，并未涉及芙露德莉斯。",
+      "type": "negative",
+      "key_entities": [
+        "芙露德莉斯",
+        "黑潮"
+      ],
+      "source_chunk_id": 166,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "阿布提到自己“被这个青色的玩意儿挤得难受”，这里的“青色的玩意儿”指的是什么？",
+      "answer": "指那段不单纯的频率，因为它让阿布感觉“一点都咬不动”且“占地方”。",
+      "type": "factual",
+      "key_entities": [
+        "阿布",
+        "青色的玩意儿",
+        "频率"
+      ],
+      "source_chunk_id": 167,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "为什么漂泊者让阿布“盯好”之后可能出现的两个石座？",
+      "answer": "因为漂泊者推测那两个石座里也可能出现与当前这段不单纯频率相似的情况，需要阿布继续监控。",
+      "type": "logical",
+      "key_entities": [
+        "漂泊者",
+        "阿布",
+        "两个石座"
+      ],
+      "source_chunk_id": 167,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中有没有提到坎特蕾拉在看到那两个石座时的具体反应或言辞？",
+      "answer": "没有，片段只提及坎特蕾拉提前醒来听到了外面的细微声响，并未描述她看到石座时的反应或言辞。",
+      "type": "negative",
+      "key_entities": [
+        "坎特蕾拉",
+        "两个石座"
+      ],
+      "source_chunk_id": 167,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "「盖希诺姆」在龙族群中的身份是什么？",
+      "answer": "它是它们的王。",
+      "type": "factual",
+      "key_entities": [
+        "盖希诺姆",
+        "龙族群",
+        "卡提希娅"
+      ],
+      "source_chunk_id": 168,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "卡提希娅为何会认为「盖希诺姆」有可能冲破黑潮包围？",
+      "answer": "因为「盖希诺姆」是龙族群的王，且龙族智能高、已结成族群，是当时他们唯一能想到的可以冲破黑潮包围的同伴。",
+      "type": "logical",
+      "key_entities": [
+        "盖希诺姆",
+        "卡提希娅",
+        "黑潮"
+      ],
+      "source_chunk_id": 168,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中是否提到「盖希诺姆」成功带出了真相？",
+      "answer": "否，片段中卡提希娅明确说「看来还是失败了」，表明「盖希诺姆」并未成功带出真相。",
+      "type": "negative",
+      "key_entities": [
+        "盖希诺姆",
+        "卡提希娅"
+      ],
+      "source_chunk_id": 168,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "根据坎特蕾拉的说法，「提尔芬」最初是由谁交给翡萨烈家族的？",
+      "answer": "那不盖勒二世，即初代主座。",
+      "type": "factual",
+      "key_entities": [
+        "坎特蕾拉",
+        "那不盖勒二世",
+        "翡萨烈家族",
+        "提尔芬"
+      ],
+      "source_chunk_id": 169,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "为什么说那不盖勒二世在精神上千疮百孔，却仍能够托付“提尔芬”并揭露朝圣真相？",
+      "answer": "那不盖勒二世虽因闯入鸣式与岁主的战场而精神受损，但岁主的部分光辉仍让他保持短暂清醒，使他得以在密谈中将所有真相与“提尔芬”托付给翡萨烈的先祖，并最终请求解脱。",
+      "type": "logical",
+      "key_entities": [
+        "那不盖勒二世",
+        "岁主",
+        "鸣式",
+        "提尔芬",
+        "翡萨烈的先祖"
+      ],
+      "source_chunk_id": 169,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中完全没有提到坎特蕾拉曾经向任何人公开过“利维亚坦是利用信仰传播精神瘟疫的鸣式”这一情报，是否正确？",
+      "answer": "正确，片段中只显示坎特蕾拉将此情报私下告诉漂泊者，并未提及她曾向其他人公开。",
+      "type": "negative",
+      "key_entities": [
+        "坎特蕾拉",
+        "利维亚坦",
+        "精神瘟疫"
+      ],
+      "source_chunk_id": 169,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中提到的角色“坎特蕾拉”原本计划做什么？",
+      "answer": "原本打算不辞而别，以避免造成麻烦。",
+      "type": "factual",
+      "key_entities": [
+        "坎特蕾拉"
+      ],
+      "source_chunk_id": 170,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "根据坎特蕾拉的话推断，她为何最终没有悄悄离开？",
+      "answer": "因为“你们”的出现让她无法悄悄离开，打断了她的原计划。",
+      "type": "logical",
+      "key_entities": [
+        "坎特蕾拉",
+        "你们"
+      ],
+      "source_chunk_id": 170,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "在片段中，坎特蕾拉有没有说明她打算前往的目的地？",
+      "answer": "没有，片段中并未提及她将要前往的具体地点。",
+      "type": "negative",
+      "key_entities": [
+        "坎特蕾拉"
+      ],
+      "source_chunk_id": 170,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "坎特蕾拉最后带走了什么物品？",
+      "answer": "「提尔芬」",
+      "type": "factual",
+      "key_entities": [
+        "坎特蕾拉",
+        "提尔芬"
+      ],
+      "source_chunk_id": 171,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "为什么坎特蕾拉决定与漂泊者和卡提希娅分开行动？请给出她明确提到的两个理由。",
+      "answer": "1) 她在昨天看到的片段中发现了一些在意的事情，这些事情可能也与岁主有关；2) 贡多拉只能乘坐两人，让她一直无所事事会令她坐立不安。",
+      "type": "logical",
+      "key_entities": [
+        "坎特蕾拉",
+        "贡多拉",
+        "岁主",
+        "片段"
+      ],
+      "source_chunk_id": 171,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中是否提到坎特蕾拉离开的具体方向或目的地？",
+      "answer": "否，片段没有提及坎特蕾拉离开后的具体方向或目的地。",
+      "type": "negative",
+      "key_entities": [
+        "坎特蕾拉"
+      ],
+      "source_chunk_id": 171,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "卡提希娅在片段中提到了哪位角色的名字？",
+      "answer": "坎特蕾拉",
+      "type": "factual",
+      "key_entities": [
+        "卡提希娅",
+        "坎特蕾拉"
+      ],
+      "source_chunk_id": 172,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "从卡提希娅的话语可以推断出她接下来最可能去做什么？",
+      "answer": "她即将登上“呼姆”离开，因此无法亲自向坎特蕾拉道歉，只能请别人代劳。",
+      "type": "logical",
+      "key_entities": [
+        "卡提希娅",
+        "呼姆",
+        "坎特蕾拉"
+      ],
+      "source_chunk_id": 172,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中是否提到坎特蕾拉对卡提希娅的道歉做出了回应？",
+      "answer": "没有提到坎特蕾拉有任何回应。",
+      "type": "negative",
+      "key_entities": [
+        "坎特蕾拉",
+        "卡提希娅"
+      ],
+      "source_chunk_id": 172,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "克里斯托弗为卡提希娅写的剧本名字叫什么？",
+      "answer": "《圣女芙露德莉斯的殉难》",
+      "type": "factual",
+      "key_entities": [
+        "卡提希娅",
+        "克里斯托弗",
+        "圣女芙露德莉斯的殉难"
+      ],
+      "source_chunk_id": 173,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "漂泊者为什么认为《圣女芙露德莉斯的殉难》需要重写？",
+      "answer": "因为他们刚刚看到布偶声骸的表现，觉得现实与剧本描述不符，证明剧本对卡提希娅的刻画与真实表现相差甚远。",
+      "type": "logical",
+      "key_entities": [
+        "漂泊者",
+        "布偶声骸",
+        "圣女芙露德莉斯的殉难"
+      ],
+      "source_chunk_id": 173,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中是否有提到克里斯托弗本人亲自出现在现场？",
+      "answer": "没有提到，克里斯托弗仅在对话中被提及，并未现身。",
+      "type": "negative",
+      "key_entities": [
+        "克里斯托弗"
+      ],
+      "source_chunk_id": 173,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中提到的唯一出逃的龙叫什么名字？",
+      "answer": "盖希诺姆",
+      "type": "factual",
+      "key_entities": [
+        "盖希诺姆"
+      ],
+      "source_chunk_id": 174,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "卡提希娅为何说“就算我是鸣式的共鸣者也没关系”？",
+      "answer": "因为她已回忆起自己未背叛的誓言，并确定自己将站在无辜者一方、向鸣式挥剑，因此共鸣者身份不会改变她的立场。",
+      "type": "logical",
+      "key_entities": [
+        "卡提希娅",
+        "鸣式",
+        "誓言"
+      ],
+      "source_chunk_id": 174,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段里是否提到芙露德莉斯曾经主动背叛同伴？",
+      "answer": "没有提及；片段只表现她在怪物面前坚持誓言、准备挥剑，并未说明她曾主动背叛同伴。",
+      "type": "negative",
+      "key_entities": [
+        "芙露德莉斯"
+      ],
+      "source_chunk_id": 174,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中提到的「英白拉多」掌握的是什么力量？",
+      "answer": "分离的力量",
+      "type": "factual",
+      "key_entities": [
+        "英白拉多"
+      ],
+      "source_chunk_id": 175,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "为什么漂泊者猜测「利维亚坦」的能力可能与两段频率之间存在联系有关？",
+      "answer": "因为「利维亚坦」的能力是“融合同化”，而两段频率之间似乎存在某种融合式的联系，这与「利维亚坦」的能力特征相符，所以漂泊者提出这一推测。",
+      "type": "logical",
+      "key_entities": [
+        "利维亚坦",
+        "漂泊者"
+      ],
+      "source_chunk_id": 175,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中有没有提到阿布已经具体看出两段频率之间的确切联系？",
+      "answer": "没有提到，阿布明确表示“一点也没有”看出具体联系。",
+      "type": "negative",
+      "key_entities": [
+        "阿布"
+      ],
+      "source_chunk_id": 175,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "漂泊者在醒来时听到的哼唱声是谁发出的？",
+      "answer": "卡提希娅",
+      "type": "factual",
+      "key_entities": [
+        "漂泊者",
+        "卡提希娅"
+      ],
+      "source_chunk_id": 176,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "漂泊者为什么会将听到的哼唱声与卡提希娅联系起来？",
+      "answer": "漂泊者对卡提希娅的声音十分熟悉，因此仅凭哼唱就能推测出是卡提希娅",
+      "type": "logical",
+      "key_entities": [
+        "漂泊者",
+        "卡提希娅"
+      ],
+      "source_chunk_id": 176,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中是否提到漂泊者醒来后立刻看到了卡提希娅本人？",
+      "answer": "没有提到",
+      "type": "negative",
+      "key_entities": [
+        "漂泊者",
+        "卡提希娅"
+      ],
+      "source_chunk_id": 176,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "卡提希娅在黎那汐塔为即将离开的朋友所唱的民谣属于什么类型？",
+      "answer": "是一首告别的民谣",
+      "type": "factual",
+      "key_entities": [
+        "卡提希娅",
+        "黎那汐塔",
+        "告别民谣"
+      ],
+      "source_chunk_id": 177,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "坎特蕾拉用“心灵是一锅沸腾的药汤”这一比喻，暗示她对卡提希娅的态度是什么？",
+      "answer": "她承认卡提希娅可能是“灵药”，但仍担心结果无法预料，因此保持警惕，不轻易完全信任。",
+      "type": "logical",
+      "key_entities": [
+        "坎特蕾拉",
+        "卡提希娅",
+        "药汤比喻"
+      ],
+      "source_chunk_id": 177,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中是否提到卡提希娅在黎那汐塔民谣里具体唱出的歌词内容？",
+      "answer": "没有，片段只说明那是一首告别的民谣，但未提供任何歌词。",
+      "type": "negative",
+      "key_entities": [
+        "卡提希娅",
+        "黎那汐塔民谣歌词"
+      ],
+      "source_chunk_id": 177,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "在片段中，是谁提到“今天就是定胜负的时候了”？",
+      "answer": "卡提希娅",
+      "type": "factual",
+      "key_entities": [
+        "卡提希娅"
+      ],
+      "source_chunk_id": 178,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "为什么卡提希娅会说“呼姆”在催他们了？",
+      "answer": "因为“呼姆”发出了“昂~~”的声音，被卡提希娅理解成在催促他们出发。",
+      "type": "logical",
+      "key_entities": [
+        "卡提希娅",
+        "呼姆"
+      ],
+      "source_chunk_id": 178,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中是否出现“早餐”一词或任何与吃早餐有关的描述？",
+      "answer": "没有出现“早餐”一词，也没有任何与吃早餐有关的描述。",
+      "type": "negative",
+      "key_entities": [
+        "早餐"
+      ],
+      "source_chunk_id": 178,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中描述的几道划痕位于哪里？",
+      "answer": "位于树上",
+      "type": "factual",
+      "key_entities": [
+        "划痕",
+        "树"
+      ],
+      "source_chunk_id": 179,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "根据片段，为什么树上的划痕可以被认为是很久以前用来记录身高的痕迹？",
+      "answer": "因为划痕具有“记录身高”这一典型用途的暗示，且“很久以前”这一时间描述与“痕迹”一词共同推断出它们被刻下的年代久远，因此可推测其原本用来记录身高。",
+      "type": "logical",
+      "key_entities": [
+        "划痕",
+        "记录身高",
+        "很久以前"
+      ],
+      "source_chunk_id": 179,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中有没有提到树下的地面散落着任何测量工具或标尺？",
+      "answer": "没有提到树下的地面有任何测量工具或标尺",
+      "type": "negative",
+      "key_entities": [
+        "树下",
+        "测量工具",
+        "标尺"
+      ],
+      "source_chunk_id": 179,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "卡提希娅的佩剑叫什么名字？",
+      "answer": "奥特尔",
+      "type": "factual",
+      "key_entities": [
+        "卡提希娅",
+        "奥特尔"
+      ],
+      "source_chunk_id": 180,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "根据对话，为什么卡迪安特在看到奥特尔剑后仍表现出守护行为？",
+      "answer": "因为奥特尔曾是卡提希娅的佩剑，卡迪安特与这把剑有对练记忆，他被困在过去，仍保有守护这把剑的本能。",
+      "type": "logical",
+      "key_entities": [
+        "卡迪安特",
+        "奥特尔",
+        "卡提希娅"
+      ],
+      "source_chunk_id": 180,
+      "source_info": "圣者，忤逆者，告死者.md"
+    },
+    {
+      "question": "片段中是否提到卡提希娅在修会中的具体职位或称号？",
+      "answer": "片段中没有提到卡提希娅在修会中的具体职位或称号。",
+      "type": "negative",
+      "key_entities": [
+        "卡提希娅"
+      ],
+      "source_chunk_id": 180,
+      "source_info": "圣者，忤逆者，告死者.md"
+    }
+  ],
+  "errors": [
+    {
+      "chunk_id": 7,
+      "error": "Error code: 429 - {'error': {'message': 'The engine is currently overloaded, please try again later', 'type': 'engine_overloaded_error'}}"
+    },
+    {
+      "chunk_id": 7,
+      "error": "Error code: 429 - {'error': {'message': 'The engine is currently overloaded, please try again later', 'type': 'engine_overloaded_error'}}"
+    },
+    {
+      "chunk_id": 13,
+      "error": "Error code: 429 - {'error': {'message': 'The engine is currently overloaded, please try again later', 'type': 'engine_overloaded_error'}}"
+    },
+    {
+      "chunk_id": 15,
+      "error": "Error code: 429 - {'error': {'message': 'The engine is currently overloaded, please try again later', 'type': 'engine_overloaded_error'}}"
+    },
+    {
+      "chunk_id": 32,
+      "error": "Error code: 429 - {'error': {'message': 'The engine is currently overloaded, please try again later', 'type': 'engine_overloaded_error'}}"
+    },
+    {
+      "chunk_id": 32,
+      "error": "Error code: 429 - {'error': {'message': 'The engine is currently overloaded, please try again later', 'type': 'engine_overloaded_error'}}"
+    },
+    {
+      "chunk_id": 36,
+      "error": "Error code: 429 - {'error': {'message': 'The engine is currently overloaded, please try again later', 'type': 'engine_overloaded_error'}}"
+    },
+    {
+      "chunk_id": 36,
+      "error": "Error code: 429 - {'error': {'message': 'The engine is currently overloaded, please try again later', 'type': 'engine_overloaded_error'}}"
+    },
+    {
+      "chunk_id": 46,
+      "error": "Error code: 429 - {'error': {'message': 'The engine is currently overloaded, please try again later', 'type': 'engine_overloaded_error'}}"
+    },
+    {
+      "chunk_id": 53,
+      "error": "Error code: 429 - {'error': {'message': 'The engine is currently overloaded, please try again later', 'type': 'engine_overloaded_error'}}"
+    },
+    {
+      "chunk_id": 54,
+      "error": "Error code: 429 - {'error': {'message': 'The engine is currently overloaded, please try again later', 'type': 'engine_overloaded_error'}}"
+    },
+    {
+      "chunk_id": 54,
+      "error": "Error code: 429 - {'error': {'message': 'The engine is currently overloaded, please try again later', 'type': 'engine_overloaded_error'}}"
+    },
+    {
+      "chunk_id": 54,
+      "error": "Error code: 429 - {'error': {'message': 'The engine is currently overloaded, please try again later', 'type': 'engine_overloaded_error'}}"
+    },
+    {
+      "chunk_id": 98,
+      "error": "Error code: 429 - {'error': {'message': 'The engine is currently overloaded, please try again later', 'type': 'engine_overloaded_error'}}"
+    },
+    {
+      "chunk_id": 100,
+      "error": "Error code: 429 - {'error': {'message': 'The engine is currently overloaded, please try again later', 'type': 'engine_overloaded_error'}}"
+    },
+    {
+      "chunk_id": 112,
+      "error": "Error code: 429 - {'error': {'message': 'The engine is currently overloaded, please try again later', 'type': 'engine_overloaded_error'}}"
+    },
+    {
+      "chunk_id": 152,
+      "error": "Error code: 429 - {'error': {'message': 'The engine is currently overloaded, please try again later', 'type': 'engine_overloaded_error'}}"
+    },
+    {
+      "chunk_id": 164,
+      "error": "Error code: 429 - {'error': {'message': 'The engine is currently overloaded, please try again later', 'type': 'engine_overloaded_error'}}"
+    },
+    {
+      "chunk_id": 169,
+      "error": "Error code: 429 - {'error': {'message': 'The engine is currently overloaded, please try again later', 'type': 'engine_overloaded_error'}}"
+    },
+    {
+      "chunk_id": 171,
+      "error": "Error code: 429 - {'error': {'message': 'The engine is currently overloaded, please try again later', 'type': 'engine_overloaded_error'}}"
+    },
+    {
+      "chunk_id": 172,
+      "error": "Error code: 429 - {'error': {'message': 'The engine is currently overloaded, please try again later', 'type': 'engine_overloaded_error'}}"
+    }
+  ]
+}

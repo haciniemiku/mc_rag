@@ -21,6 +21,7 @@ class RAGSystem:
         self.index_module = None
         self.retrieval_module = None
         self.generation_module = None
+        self.conversation_history = []  # 多轮对话历史
 
         # 检查数据路径和 API 密钥
         if not Path(self.config.data_path).exists():
@@ -86,64 +87,32 @@ class RAGSystem:
         if not self.retrieval_module:
             return "❌ 系统未初始化，请先构建知识库。"
 
-        # 1. 查询重写
-        rewritten_question = self.generation_module.rewrite_query(question)
-
-        # 2. 使用LLM提取结构化实体信息
-        entities = self.generation_module.extract_structured_entities(question)
-        print(f"🔍 提取到的结构化实体: {entities}")
+        # 1. 构建多轮对话上下文
+        context_text = self._build_conversation_context()
         
-        character_name = entities.get('character', '')
-        location = entities.get('location', '')
-        chapter = entities.get('chapter', '')
-        action = entities.get('action', '')
-        time = entities.get('time', '')
+        # 2. 统一查询分析（一次大模型调用完成查询重写、结构化信息提取、意图判断）
+        analysis_result = self.generation_module.analyze_query(question, context_text)
         
-        print(f"🔍 角色名称: {character_name}, 地点: {location}, 章节: {chapter}, 动作: {action}, 时间: {time}")
+        # 从分析结果中提取信息
+        rewritten_question = analysis_result.get('rewritten_query', question)
+        entities = analysis_result.get('entities', {})
+        route_type = analysis_result.get('route_type', 'general')
+        is_character_occurrence = analysis_result.get('is_character_occurrence', False)
+        character_name = analysis_result.get('character_name', '')
+        action = analysis_result.get('action', '')
+        time = analysis_result.get('time', '')
         
-        # 检查是否是角色首次/最后出现的问题
-        is_character_occurrence = (action in ['出现', '登场'] and time in ['首次', '第一次', '最后一次', '最后'])
+        print(f"🔍 分析结果:")
+        print(f"   - 重写查询: {rewritten_question}")
+        print(f"   - 意图类型: {route_type}")
+        print(f"   - 实体信息: {entities}")
+        print(f"   - 角色: {character_name}, 动作: {action}, 时间: {time}")
         
-        if is_character_occurrence and character_name:
-            # 过滤掉常见的非角色词汇
-            common_words = ["游戏", "剧情", "章节", "幕", "首次", "第一次", "最后一次", "最后", "出现", "登场", "哪里", "什么", "在"]
-            if character_name not in common_words:
-                occurrence_type = "first" if time in ["首次", "第一次"] else "last"
-                print(f"🔍 调用角色出现检索: {character_name}, 类型: {occurrence_type}")
-                
-                # 调用角色出现检索
-                occurrence_chunks = self.retrieval_module.character_occurrence_search(character_name, occurrence_type)
-                print(f"🔍 检索结果数量: {len(occurrence_chunks)}")
-                if occurrence_chunks:
-                    # 提取章节和幕信息
-                    chunk = occurrence_chunks[0]
-                    chapter = chunk.metadata.get('chapter', '未知')
-                    act = chunk.metadata.get('act', '未知')
-                    chapter_number = chunk.metadata.get('chapter_number', 0)
-                    act_number = chunk.metadata.get('act_number', 0)
-                    
-                    # 构建详细的回答
-                    occurrence_desc = "首次" if occurrence_type == "first" else "最后一次"
-                    return f"{character_name}在游戏中{occurrence_desc}出现是在第{chapter_number}章《{chapter}》的第{act_number}幕《{act}》。"
-                else:
-                    print(f"❌ 未找到角色 {character_name} 的出现，继续使用常规检索流程")
-            else:
-                print(f"⚠️ 角色名称 {character_name} 在常见词列表中，跳过角色出现检索")
-        else:
-            if not character_name:
-                print(f"⚠️ 未提取到角色名称，继续使用常规检索流程")
-            elif not is_character_occurrence:
-                print(f"⚠️ 不是角色出现类问题，继续使用常规检索流程")
-
-        # 3. 查询路由 (判断意图)
-        route_type = self.generation_module.query_router(rewritten_question)
-        print(f"🔍 意图识别结果：{route_type}")
-
-        # 4. 处理剧情无关性问答
+        # 3. 处理剧情无关性问答
         if route_type == 'general':
             return "我是鸣潮剧情RAG助手，专门回答关于鸣潮游戏剧情的问题。我可以帮你查询角色信息、剧情事件、章节内容等。请问我关于鸣潮剧情的问题！"
-
-        # 5. 检索相关子块
+        
+        # 4. 检索相关子块
         relevant_chunks = self.retrieval_module.hybrid_search(
             rewritten_question,
             top_k=self.config.top_k,
@@ -185,7 +154,30 @@ class RAGSystem:
             stream=stream
         )
 
+        # 保存对话历史
+        self.conversation_history.append({
+            'question': question,
+            'answer': response
+        })
+
         return response
+
+    def _build_conversation_context(self, max_turns: int = 5) -> str:
+        """构建多轮对话上下文"""
+        if not self.conversation_history:
+            return ""
+        
+        # 只保留最近的 max_turns 轮对话
+        recent_history = self.conversation_history[-max_turns:]
+        
+        context_parts = []
+        for i, chat in enumerate(recent_history, 1):
+            context_parts.append(f"第{i}轮:")
+            context_parts.append(f"用户: {chat['question']}")
+            context_parts.append(f"助手: {chat['answer']}")
+            context_parts.append("")
+        
+        return "\n".join(context_parts)
 
     def _format_context(self, chunks: List, mode: str = "general") -> str:
         """将 Document 列表格式化为字符串上下文"""
